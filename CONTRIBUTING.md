@@ -6,7 +6,7 @@ Gracias por tomarte el tiempo. Este proyecto está abierto a la crítica y la co
 
 ### Núcleo — no se modifica por propuesta
 
-El núcleo es la tesis del proyecto. Es de autor y no se vota. Si no lo compartes, este probablemente no es tu plan —y está bien; el repositorio es de licencia abierta y puedes adaptarlo en tu propia versión (ver [LICENSE](LICENSE)).
+El núcleo es la tesis del proyecto. Es de autor y no se vota. Si no lo compartes, este probablemente no es tu plan, y está bien; el repositorio es de licencia abierta y puedes adaptarlo en tu propia versión (ver [LICENSE](LICENSE)).
 
 El núcleo lo forman:
 
@@ -55,4 +55,4 @@ Quien mantiene el repositorio (el autor) revisa cada propuesta y decide si se in
 
 ## Una expectativa realista
 
-Un plan de autor casi nunca atrae multitudes de colaboradores —es el problema del arranque en frío—. Si llegas hasta aquí y propones algo con cuidado, eres exactamente el tipo de aporte de alto valor que este proyecto busca. Gracias.
+Un plan de autor casi nunca atrae multitudes de colaboradores; ese es el problema del arranque en frío. Si llegas hasta aquí y propones algo con cuidado, eres exactamente el tipo de aporte de alto valor que este proyecto busca. Gracias.

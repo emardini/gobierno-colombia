@@ -22,7 +22,7 @@ La frontera exacta entre núcleo y ejecución está en [CONTRIBUTING.md](CONTRIB
 
 ## Trazabilidad
 
-El activo de este modelo es que **todo queda registrado**. El historial de Git muestra qué cambió, cuándo y por qué. Las decisiones relevantes se anotan en [CHANGELOG.md](CHANGELOG.md). Cualquiera puede auditar cómo evolucionó el plan —incluidas las correcciones de fondo, como los ajustes de viabilidad jurídica tras verificar el estado real del derecho colombiano—.
+El activo de este modelo es que **todo queda registrado**. El historial de Git muestra qué cambió, cuándo y por qué. Las decisiones relevantes se anotan en [CHANGELOG.md](CHANGELOG.md). Cualquiera puede auditar cómo evolucionó el plan, incluidas las correcciones de fondo, como los ajustes de viabilidad jurídica tras verificar el estado real del derecho colombiano.
 
 ## Salvaguardas contra la captura
 

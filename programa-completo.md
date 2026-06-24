@@ -17,7 +17,7 @@ Esta es una reorganización integral del programa. Conserva el nivel de detalle 
 6. **Apuesta de capital humano escalonada.** Núcleo sénior pequeño y difícil de conseguir; el resto del trabajo técnico verificable lo hacen convenios universitarios y el Servicio Nacional de Vida bajo supervisión. La rotación anti-captura se aplica al Gerente, no al equipo técnico que acumula conocimiento local.
 7. **Orden y limpieza.** Numeración consistente (un solo conjunto de Frentes I–XIV), módulos integrados en su lugar lógico, y **Colombia Viva movida a un anexo** por no encajar con el principio rector de "activar lo que ya se pagó".
 
-Adicionalmente, esta versión incorpora una capa de **fundamentos en la investigación reciente** (sección propia más siete ajustes puntuales en los Frentes V, VIII, X, XIII y en el blindaje de nodos), que traduce hallazgos de frontera en economía del desarrollo, teoría de juegos y diseño de mecanismos —posteriores al Nobel 2007 que el programa ya usaba— a mejoras concretas del diseño.
+Adicionalmente, esta versión incorpora una capa de **fundamentos en la investigación reciente** (sección propia más siete ajustes puntuales en los Frentes V, VIII, X, XIII y en el blindaje de nodos), que traduce hallazgos de frontera en economía del desarrollo, teoría de juegos y diseño de mecanismos, posteriores al Nobel 2007 que el programa ya usaba, a mejoras concretas del diseño.
 
 *Documento de trabajo. Cifras de fuentes oficiales 2025–2026 (DANE, ANT, MinHacienda, CARF, FIP, UNODC). Sujeto a revisión. Los puntos de viabilidad jurídica se presentan como análisis de política y deben confirmarse con asesoría constitucional.*
 
@@ -25,7 +25,7 @@ Adicionalmente, esta versión incorpora una capa de **fundamentos en la investig
 
 # Visión Colombia 2042 — El Norte de Generación
 
-Este programa gobierna 4 años. Pero las decisiones que toma tienen consecuencias para 16 años. La Visión Colombia 2042 no es una promesa de este gobierno — es el norte que le da coherencia intertemporal a cada decisión de inversión, reforma y secuencia. Si una política acerca a Colombia a este horizonte, va en la dirección correcta. Si la aleja, requiere justificación extraordinaria.
+Este programa gobierna 4 años. Pero las decisiones que toma tienen consecuencias para 16 años. La Visión Colombia 2042 no es una promesa de este gobierno, es el norte que le da coherencia intertemporal a cada decisión de inversión, reforma y secuencia. Si una política acerca a Colombia a este horizonte, va en la dirección correcta. Si la aleja, requiere justificación extraordinaria.
 
 > El Colombia de 2042 no es inevitable. Es una posibilidad que se construye o se destruye con las decisiones de los próximos cuatro gobiernos. Este es el primero.
 
@@ -34,14 +34,14 @@ Este programa gobierna 4 años. Pero las decisiones que toma tienen consecuencia
 | Dimensión | Colombia 2026 (hoy) | Colombia 2042 (meta de generación) | Lo que cambia en este gobierno |
 |---|---|---|---|
 | Prosperidad | PIB per cápita ~$6.500. Pobreza ~35%. Pobreza extrema ~12%. Clase media ~30%. | PIB per cápita ≥$17.000. Pobreza <10%. Pobreza extrema <3%. Clase media ≥60%. | Los nodos de empleo y la formalización inician la curva. Sin este gobierno, la trayectoria no arranca. |
-| Desigualdad | Gini 0.54 — uno de los más altos del mundo. 1% posee ~65% de la tierra fértil. | Gini ≤0.42. Distribución de tierra transformada por la reforma agraria acumulada de 4 gobiernos. | El catastro, la titulación y el impuesto a tierras improductivas cambian la estructura, no solo el nivel. |
-| Instituciones | Puesto 99 en IPC 2025 — 7 posiciones abajo en un año. Confianza institucional ~20%. | Top 30 mundial en percepción de corrupción. Confianza institucional ≥70%. | El sistema de macrocriminalidad y los mecanismos de diseño rompen el equilibrio de impunidad. |
+| Desigualdad | Gini 0.54, uno de los más altos del mundo. 1% posee ~65% de la tierra fértil. | Gini ≤0.42. Distribución de tierra transformada por la reforma agraria acumulada de 4 gobiernos. | El catastro, la titulación y el impuesto a tierras improductivas cambian la estructura, no solo el nivel. |
+| Instituciones | Puesto 99 en IPC 2025, 7 posiciones abajo en un año. Confianza institucional ~20%. | Top 30 mundial en percepción de corrupción. Confianza institucional ≥70%. | El sistema de macrocriminalidad y los mecanismos de diseño rompen el equilibrio de impunidad. |
 | Capacidad productiva | Exportaciones primarias dominantes. Informalidad ~54%. 0.3% PIB en I+D. | Exportaciones agroindustriales premium $15.000M/año. Industria de defensa exporta $2.000M+/año. 10.000+ patentes/año. | COTECMAR, CIAC, APIs farmacéuticos y el sistema de nodos sientan las bases industriales. |
 | Seguridad | ~27.000 combatientes activos. Homicidios ~26/100.000. Coca ~200.000 ha. | Grupos armados desmantelados o marginales. Control del 98% del territorio. Coca residual. | Los 3 nodos de la Ola 1 demuestran el modelo. Las olas 2, 3 y 4 son obra de gobiernos siguientes. |
 | Demografía del talento | Fuga de cerebros. Juventud que quiere emigrar. | 3 universidades en top 200 mundial. 100.000 ingenieros graduados/año. Juventud que quiere quedarse. | El SENA dual, la conectividad escolar y los currículos pertinentes inician el ciclo. |
-| Identidad | Del "país de narcos" — narrativa que Colombia exporta involuntariamente. | Del "país de narcos" al "Jaguar Andino Democrático" — país que exporta instituciones, cacao, biotecnología y patrulleras. | La narrativa cambia cuando los resultados verificables superan los estereotipos. Empieza en los nodos. |
+| Identidad | Del "país de narcos": narrativa que Colombia exporta involuntariamente. | Del "país de narcos" al "Jaguar Andino Democrático", un país que exporta instituciones, cacao, biotecnología y patrulleras. | La narrativa cambia cuando los resultados verificables superan los estereotipos. Empieza en los nodos. |
 
-*Una advertencia honesta: ningún gobierno llega a 2042 solo. Esta visión requiere cuatro gobiernos de distinto signo que mantengan la dirección estratégica aunque cambien las tácticas. No es ingenuidad — es el único modelo que ha funcionado (Corea del Sur, Estonia, Chile, Singapur): décadas de continuidad en las apuestas fundamentales. El programa diseña las instituciones que hacen posible esa continuidad incluso cuando cambia quien gobierna — y, en esta versión, sin atar de manos al sucesor que tenga evidencia para corregir.*
+*Una advertencia honesta: ningún gobierno llega a 2042 solo. Esta visión requiere cuatro gobiernos de distinto signo que mantengan la dirección estratégica aunque cambien las tácticas. No es ingenuidad; es el único modelo que ha funcionado (Corea del Sur, Estonia, Chile, Singapur): décadas de continuidad en las apuestas fundamentales. El programa diseña las instituciones que hacen posible esa continuidad incluso cuando cambia quien gobierna, y, en esta versión, sin atar de manos al sucesor que tenga evidencia para corregir.*
 
 ---
 
@@ -73,19 +73,19 @@ Casi todas las crisis grandes de Colombia cuelgan de dos raíces. Atacar síntom
 # 2. Principios Rectores
 
 - **Honestidad fiscal:** cada promesa con su fuente; sin magia. En esta versión, cada compromiso duro se sostiene en el escenario fiscal base, sin depender de ingresos que requieren Congreso.
-- **Raíces, no síntomas:** el éxito no es el espectáculo — es el cambio estructural.
+- **Raíces, no síntomas:** el éxito no es el espectáculo, es el cambio estructural.
 - **Secuencia y prioridad:** el orden es parte del plan.
 - **Medición desde el diseño,** calculada por quien no ejecuta.
 - **Construir sobre lo construido:** preservar lo que sirve, corregir lo podrido.
 - **Contrapesos antes que confianza:** no depender de la buena fe de ningún actor.
 - **Reversibilidad por evidencia, irreversibilidad por capricho:** lo construido se protege del abandono clientelista, pero conserva una rampa de salida legítima si los datos públicos muestran que falló.
-- **La carga** —en seguridad, impuestos y ajuste— nunca recae sobre los más pobres.
+- **La carga** en seguridad, impuestos y ajuste nunca recae sobre los más pobres.
 
 ---
 
 # 3. La Columna Vertebral: Estado en el Territorio
 
-En cada nodo prioritario se despliegan simultáneamente seguridad + economía + servicios + instituciones + tierra. El problema de empleo y el de seguridad son el mismo problema —ausencia de Estado— y se resuelven juntos.
+En cada nodo prioritario se despliegan simultáneamente seguridad + economía + servicios + instituciones + tierra. El problema de empleo y el de seguridad son el mismo problema, ausencia de Estado, y se resuelven juntos.
 
 ## 3.1 Fases de despliegue por nodo
 
@@ -106,7 +106,7 @@ Tres nodos seleccionados por seguridad ya en tendencia descendente, potencial pr
 | Florencia + norte de Caquetá | Caquetá — Amazonía | Cacao premium + ganadería sostenible | −46% homicidios 2025. Zona históricamente cocalera: si funciona aquí, el argumento de replicabilidad es imbatible. |
 | Valledupar + sur del Cesar | Cesar — Caribe | Café + cacao premium + energía solar | −14% homicidios 2025. Parque solar La Loma operativo. Catastro más avanzado. |
 
-> **Regla de oro:** la expansión la dispara el resultado, no el calendario. Los nodos descartados para Ola 1 (Catatumbo, Tumaco, Guaviare) tienen Ola programada — no lista de espera indefinida (ver 3.7).
+> **Regla de oro:** la expansión la dispara el resultado, no el calendario. Los nodos descartados para Ola 1 (Catatumbo, Tumaco, Guaviare) tienen Ola programada, no lista de espera indefinida (ver 3.7).
 
 ## 3.3 Protocolo de selección de nodos — criterios permanentes, datos frescos
 
@@ -118,10 +118,10 @@ El IPN lo calcula el DANE con fuentes independientes del ejecutivo. Se publica 9
 
 | Criterio | Peso | Fuente | Qué mide realmente |
 |---|---|---|---|
-| Tendencia de seguridad (homicidios — tendencia a 18 meses) | 25% | Medicina Legal + Min. Defensa (verificación cruzada) | No el nivel — la tendencia. Caída sostenida 18 meses = probabilidad alta de consolidación. La ventana distingue tendencia de ruido. |
-| Necesidad multidimensional (IPM municipal) | 25% | DANE — Encuesta de Calidad de Vida | El nodo debe resolver necesidades reales, no ser rentable políticamente. Alto IPM = alta urgencia. |
+| Tendencia de seguridad (homicidios, tendencia a 18 meses) | 25% | Medicina Legal + Min. Defensa (verificación cruzada) | No el nivel, la tendencia. Caída sostenida 18 meses = probabilidad alta de consolidación. La ventana distingue tendencia de ruido. |
+| Necesidad multidimensional (IPM municipal) | 25% | DANE, Encuesta de Calidad de Vida | El nodo debe resolver necesidades reales, no ser rentable políticamente. Alto IPM = alta urgencia. |
 | Potencial productivo verificable | 25% | UPRA + ProColombia + DANE exportaciones | Cadenas con precio de mercado documentado (cacao, café premium, ganadería sostenible, turismo, energía). Exportaciones reales o contratos firmados, no proyecciones. |
-| Capacidad institucional mínima | 15% | IGAC + DAFP + Procuraduría + Min. Interior | No capacidad alta — mínima. Descarta municipios donde el equipo territorial llegaría a un vacío total. |
+| Capacidad institucional mínima | 15% | IGAC + DAFP + Procuraduría + Min. Interior | No capacidad alta, mínima. Descarta municipios donde el equipo territorial llegaría a un vacío total. |
 | Representación geográfica estratégica | 10% | IGAC + SINCHI + IAvH | Evita que todas las olas vayan al mismo corredor. Máximo 2 nodos por región por ola. |
 
 **Regla de exclusión automática:** un municipio bajo intervención judicial activa (alcalde suspendido, responsabilidad fiscal con embargo, o alerta naranja del Frente XIII sin resolución) no puede ser nodo, sea cual sea su puntaje. Es pública e inmodificable por decreto.
@@ -158,13 +158,13 @@ Alerta roja en los hitos de los primeros 14 días activa revisión del Equipo de
 | Deterioro de seguridad en Fase 0 (antes del primer desembolso de obras) | Pausa técnica hasta 90 días. Si la tendencia no se recupera, el municipio alternativo de mayor IPN lo reemplaza. Los recursos en la fiducia esperan. | La selección fue correcta con los datos disponibles. El deterioro activa la sustitución prevista en la Ley Marco. |
 | Deterioro en Fase 1 (obras iniciadas) | Plan de contingencia de seguridad del Frente III. No se abandona la inversión; se refuerza el equipo. Se pausa la expansión, no se revierte la Fase 0. | Una obra en construcción no se "desinvierte". Protegerla cuesta menos que abandonarla. |
 | El gobierno elige fuera del quintil superior | Posible con justificación técnica escrita, aprobada por DNP, publicada 30 días antes, auditada por el DANE. El nombre del director de DNP firmante va en el expediente. | El costo reputacional de firmar una excepción pública supera el beneficio político de un municipio amigo. Compatibilidad de incentivos. |
-| Cambio de gobierno que quiere mover nodos | Puede seleccionar nuevos nodos con el mismo IPN. No puede cancelar nodos en Fase 1 o 2 sin costos contractuales — salvo por la vía de *sunset por fracaso* (3.4.2). | Moverse es más barato que quedarse solo para nodos no empezados; una vez empezado, el costo de salida supera el beneficio político de cancelar — excepto cuando la evidencia justifica la salida. |
+| Cambio de gobierno que quiere mover nodos | Puede seleccionar nuevos nodos con el mismo IPN. No puede cancelar nodos en Fase 1 o 2 sin costos contractuales; salvo por la vía de *sunset por fracaso* (3.4.2). | Moverse es más barato que quedarse solo para nodos no empezados; una vez empezado, el costo de salida supera el beneficio político de cancelar, excepto cuando la evidencia justifica la salida. |
 
 ## 3.4 Blindaje de los nodos — difíciles de deshacer por capricho, no de corregir por evidencia
 
-El riesgo central del modelo no es técnico — es político. Un sucesor puede dejar de mandar equipos, reasignar el presupuesto fiduciario o dejar de priorizar sin derogar ley alguna. Este apartado construye capas de irreversibilidad **y** la rampa de salida legítima que las equilibra.
+El riesgo central del modelo no es técnico, es político. Un sucesor puede dejar de mandar equipos, reasignar el presupuesto fiduciario o dejar de priorizar sin derogar ley alguna. Este apartado construye capas de irreversibilidad **y** la rampa de salida legítima que las equilibra.
 
-> **Principio:** la irreversibilidad no se decreta — se construye interés por interés. Pero cada capa incluye una salida transparente para el caso en que el nodo, medido contra sus propias métricas pre-registradas, haya fracasado.
+> **Principio:** la irreversibilidad no se decreta, se construye interés por interés. Pero cada capa incluye una salida transparente para el caso en que el nodo, medido contra sus propias métricas pre-registradas, haya fracasado.
 
 ### 3.4.1 Las seis capas de irreversibilidad
 
@@ -177,7 +177,7 @@ El riesgo central del modelo no es técnico — es político. Un sucesor puede d
 | Contratos O&M de EOC (agua) | 10 años | CRA + proceso judicial | Cancelar sin causa indemniza y deja a la comunidad sin servicio. |
 | Patrimonios autónomos fiduciarios de nodo | Comprometidos 3 años | Solo Congreso (primeros 24 meses) | Recursos separados del presupuesto ordinario; reasignarlos requiere ley. |
 | Contratos de Habilitación de Nodo (Estado-privado) | Vigencia del nodo | Mutuo acuerdo o incumplimiento probado | Penalidad exigible por arbitraje y garantía pre-fondeada (ver Frente XIII, Mec. 3). |
-| Concesiones de infraestructura (vías, energía) | 15–25 años (APP) | Liquidación con indemnización | Liquidar una APP cuesta más que mantenerla. *Solo se activan sobre nodos que pasaron la verificación de Fase 1* — no se blinda lo no probado. |
+| Concesiones de infraestructura (vías, energía) | 15–25 años (APP) | Liquidación con indemnización | Liquidar una APP cuesta más que mantenerla. *Solo se activan sobre nodos que pasaron la verificación de Fase 1*, no se blinda lo no probado. |
 | Contrato de desempeño del alcalde | Período del alcalde | DNP + Min. Interior | El alcalde tiene más que perder (recursos del nodo) que ganar abandonando. |
 
 **Capa 3 — Coaliciones con interés económico directo.** Empresas ancla (su retorno depende del Contrato de Habilitación), trabajadores formales en PILA (≥200 en Fase 1; ≥1.000 en Fase 2), exportadores con acceso a infraestructura del nodo, bancos con cartera (Bancóldex, Banco Agrario, banca regional), alcaldes y sus sucesores, y medios/veedores con acceso a la plataforma de trazabilidad. Cada uno con razón propia para defender lo construido.
@@ -193,17 +193,17 @@ El riesgo central del modelo no es técnico — es político. Un sucesor puede d
 
 **Capa 5 — Datos abiertos como seguro de doble vía.** La plataforma hace que el abandono sea visible y costoso en tiempo real. Cualquier ciudadano ve si los contratos se ejecutan; el sucesor que pause un nodo debe explicar públicamente por qué cayó el empleo y salió la inversión. *Y la misma plataforma sirve a la salida legítima:* el sucesor con evidencia de fracaso puede invocar el sunset (3.4.2) apoyándose en esos datos. La transparencia eleva el precio del abandono arbitrario y, a la vez, legitima la corrección fundamentada.
 
-**Capa 6 — Graduación como incentivo (no abandono).** Cuando un nodo completa la Fase 2 con indicadores sostenidos 24 meses, los recursos del equipo territorial se reciclan al siguiente nodo. La infraestructura, los contratos, las EOC y las cooperativas quedan. El nodo no se abandona — se hace autosuficiente.
+**Capa 6 — Graduación como incentivo (no abandono).** Cuando un nodo completa la Fase 2 con indicadores sostenidos 24 meses, los recursos del equipo territorial se reciclan al siguiente nodo. La infraestructura, los contratos, las EOC y las cooperativas quedan. El nodo no se abandona, se hace autosuficiente.
 
 ### 3.4.3 El umbral de irreversibilidad — por qué la escala importa
 
-La investigación sobre instituciones (Nobel de Economía 2024 a Acemoglu, Johnson y Robinson) precisa el riesgo de fondo que las seis capas atacan: un nodo es un *enclave de instituciones inclusivas* (mérito, datos abiertos, propiedad comunitaria, reglas) inserto en un entorno de instituciones extractivas (clientelismo, captura, economías ilegales). Mientras el enclave sea pequeño, el equilibrio extractivo que lo rodea puede **reabsorberlo** — no derogando ninguna ley, sino erosionándolo de a poco. Por eso el blindaje no es solo legal: es de masa crítica.
+La investigación sobre instituciones (Nobel de Economía 2024 a Acemoglu, Johnson y Robinson) precisa el riesgo de fondo que las seis capas atacan: un nodo es un *enclave de instituciones inclusivas* (mérito, datos abiertos, propiedad comunitaria, reglas) inserto en un entorno de instituciones extractivas (clientelismo, captura, economías ilegales). Mientras el enclave sea pequeño, el equilibrio extractivo que lo rodea puede **reabsorberlo**, no derogando ninguna ley, sino erosionándolo de a poco. Por eso el blindaje no es solo legal: es de masa crítica.
 
 | Elemento | Regla |
 |---|---|
 | Umbral de coalición | El nodo no es irreversible por capricho hasta que acumula una coalición de beneficiarios con interés propio suficiente (empresas ancla operando, ≥1.000 empleos formales en PILA, EOC propietarias, alcalde con contrato de desempeño) **más** institucionalización en ley (CONPES + Ley Marco). Por debajo de ese umbral, el nodo sigue siendo reversible por captura, no solo por falta de presupuesto. |
 | Implicación de secuencia | La velocidad del protocolo de 100 días (3.3.3) y la concentración de fuerza de Fase 0 existen precisamente para cruzar el umbral rápido: cuanto más tiempo pasa un nodo por debajo de su masa crítica, más expuesto está a la reabsorción. La velocidad es blindaje. |
-| Lo que se hace explícito | El programa reconoce que un nodo a medio construir es frágil de un modo cualitativamente distinto a uno graduado. La prioridad no es abrir muchos nodos — es llevar pocos por encima del umbral antes de abrir los siguientes (coherente con el activador por resultado). |
+| Lo que se hace explícito | El programa reconoce que un nodo a medio construir es frágil de un modo cualitativamente distinto a uno graduado. La prioridad no es abrir muchos nodos, es llevar pocos por encima del umbral antes de abrir los siguientes (coherente con el activador por resultado). |
 
 ### 3.4.2 Sunset por fracaso — la rampa de salida legítima (nuevo)
 
@@ -216,7 +216,7 @@ La irreversibilidad debe proteger contra la reversión clientelista o de revanch
 | Efecto sobre contratos | La salida justificada por sunset **reduce o exime la penalidad contractual** que aplicaría a una cancelación arbitraria. Las concesiones de largo plazo solo existen sobre nodos que pasaron Fase 1, de modo que el caso de sunset recae sobre compromisos aún reversibles. |
 | Lo que se preserva | Los activos comunitarios ya entregados (EOC, títulos, cooperativas) no se expropian. Lo que termina es el flujo de inversión nueva, no la propiedad de la comunidad. |
 
-> Un nodo en Fase 3 (graduado) tiene EOC propietaria, empresas con inversión activa, empleo verificable y datos abiertos. Desmantelarlo por capricho exige desmantelar todo eso — costo que ningún gobierno racional paga. Desmontarlo por fracaso probado, en cambio, tiene una vía limpia. Esa simetría es lo que hace al blindaje compatible con la democracia.
+> Un nodo en Fase 3 (graduado) tiene EOC propietaria, empresas con inversión activa, empleo verificable y datos abiertos. Desmantelarlo por capricho exige desmantelar todo eso, costo que ningún gobierno racional paga. Desmontarlo por fracaso probado, en cambio, tiene una vía limpia. Esa simetría es lo que hace al blindaje compatible con la democracia.
 
 ## 3.5 El Piso Universal — lo que el programa entrega a todos (nuevo, al frente)
 
@@ -235,7 +235,7 @@ El piso universal es la respuesta concreta a la crítica de concentración: los 
 
 ## 3.6 Nodo de aprendizaje difícil — un piloto de Fase 0 en zona dura (nuevo)
 
-Para responder a la crítica de que el modelo solo escoge casos ganables (nodos donde los homicidios ya bajan), la Ola 1 incluye **un nodo de aprendizaje** en una zona de conflicto activo —candidatos: Catatumbo, Tumaco o Guaviare— limitado a **Fase 0 únicamente**: seguridad, presencia institucional y catastro, sin la inversión productiva completa.
+Para responder a la crítica de que el modelo solo escoge casos ganables (nodos donde los homicidios ya bajan), la Ola 1 incluye **un nodo de aprendizaje** en una zona de conflicto activo, candidatos: Catatumbo, Tumaco o Guaviare, limitado a **Fase 0 únicamente**: seguridad, presencia institucional y catastro, sin la inversión productiva completa.
 
 | Elemento | Diseño |
 |---|---|
@@ -246,10 +246,10 @@ Para responder a la crítica de que el modelo solo escoge casos ganables (nodos 
 
 ## 3.7 Plazo de revisión — que una Ola 1 estancada no congele a todos (nuevo)
 
-El activador por resultado tiene un riesgo: si la Ola 1 se atasca, las olas siguientes —y los municipios que esperan— quedan congelados indefinidamente. La regla de revisión lo evita sin romper la disciplina del activador.
+El activador por resultado tiene un riesgo: si la Ola 1 se atasca, las olas siguientes y los municipios que esperan quedan congelados indefinidamente. La regla de revisión lo evita sin romper la disciplina del activador.
 
 - A los **36 meses** sin que el primer nodo de Ola 1 alcance Fase 1, se dispara un **diagnóstico estructurado** del tercero independiente.
-- El diagnóstico distingue dos causas: **atraso de ejecución** (corregible — se activan los protocolos de destrabe del Frente VIII) o **falla de modelo** (repensar el diseño antes de insistir).
+- El diagnóstico distingue dos causas: **atraso de ejecución** (corregible; se activan los protocolos de destrabe del Frente VIII) o **falla de modelo** (repensar el diseño antes de insistir).
 - No es expansión automática (no se premia el atraso) ni congelamiento indefinido (no se castiga a quienes esperan por un atraso que es de ejecución, no de concepto).
 
 ---
@@ -266,9 +266,9 @@ El activador por resultado tiene un riesgo: si la Ola 1 se atasca, las olas sigu
 | Bienes públicos rurales | Paquete completo por nodo: vías terciarias + riego + electrificación + conectividad + asistencia técnica + crédito + acopio | INVIAS + Min. Agricultura + UPRA | Por ola |
 | Catastro multipropósito | 100% del territorio en 8 años; iniciar en nodos Ola 1 en Año 1; cobro predial desde Año 2 en municipios listos | IGAC + SNR + Alcaldías | Años 1–8 |
 
-**Portafolio de vectores:** servicios digitales (formal por naturaleza), turismo (alto multiplicador, bajo capital), agroindustria (requiere vías + energía + agua), bioeconomía (largo plazo, Amazonía/Pacífico), renovables (empleo construcción y operación), formalización de minería informal, y MRO aeronáutico y naval (exportación de alto valor — ver Frente X).
+**Portafolio de vectores:** servicios digitales (formal por naturaleza), turismo (alto multiplicador, bajo capital), agroindustria (requiere vías + energía + agua), bioeconomía (largo plazo, Amazonía/Pacífico), renovables (empleo construcción y operación), formalización de minería informal, y MRO aeronáutico y naval (exportación de alto valor, ver Frente X).
 
-**Puente al empleo asalariado y a la movilidad laboral (ajuste basado en evidencia).** El nodo no apuesta solo al autoempleo y las cooperativas. El seguimiento a diez años de programas de "big push" muestra que el canal principal por el que los efectos *persisten* no es solo el negocio propio — es que los hogares se diversifican hacia empleo asalariado más productivo, con frecuencia vía movilidad geográfica hacia polos de mayor demanda. Implicación de diseño: cada nodo construye explícitamente el puente al empleo asalariado formal (intermediación laboral, certificación SENA portable entre regiones, vínculo con las empresas ancla y con los polos urbanos del Frente XII) y *no penaliza* la migración del trabajador formado. Un joven del Caquetá que se forma en el nodo y consigue empleo formal en Medellín es un éxito del programa, no una fuga — su PILA sigue contando y su remesa fortalece el nodo de origen.
+**Puente al empleo asalariado y a la movilidad laboral (ajuste basado en evidencia).** El nodo no apuesta solo al autoempleo y las cooperativas. El seguimiento a diez años de programas de "big push" muestra que el canal principal por el que los efectos *persisten* no es solo el negocio propio, sino que los hogares se diversifican hacia empleo asalariado más productivo, con frecuencia vía movilidad geográfica hacia polos de mayor demanda. Implicación de diseño: cada nodo construye explícitamente el puente al empleo asalariado formal (intermediación laboral, certificación SENA portable entre regiones, vínculo con las empresas ancla y con los polos urbanos del Frente XII) y *no penaliza* la migración del trabajador formado. Un joven del Caquetá que se forma en el nodo y consigue empleo formal en Medellín es un éxito del programa, no una fuga; su PILA sigue contando y su remesa fortalece el nodo de origen.
 
 # Frente II — Reforma Agraria Integral
 
@@ -284,7 +284,7 @@ El activador por resultado tiene un riesgo: si la Ola 1 se atasca, las olas sigu
 
 ## Jurisdicción Agraria y Rural — ya creada, falta implementarla
 
-La titulación masiva genera conflictos (traslapes, ocupaciones superpuestas, disputas de linderos). Sin un mecanismo judicial ágil y territorialmente presente, esos conflictos bloquean la titulación o producen títulos impugnables. La buena noticia es que la jurisdicción especializada **ya existe**: el Acto Legislativo 03 de 2023 la incorporó a la Constitución y la Ley Estatutaria 2570 de 2026 definió su estructura. El trabajo del programa no es crearla — es **implementarla, financiarla y conectarla a los nodos**, además de empujar la ley ordinaria de competencias y procedimiento que aún está en trámite.
+La titulación masiva genera conflictos (traslapes, ocupaciones superpuestas, disputas de linderos). Sin un mecanismo judicial ágil y territorialmente presente, esos conflictos bloquean la titulación o producen títulos impugnables. La buena noticia es que la jurisdicción especializada **ya existe**: el Acto Legislativo 03 de 2023 la incorporó a la Constitución y la Ley Estatutaria 2570 de 2026 definió su estructura. El trabajo del programa no es crearla; es **implementarla, financiarla y conectarla a los nodos**, además de empujar la ley ordinaria de competencias y procedimiento que aún está en trámite.
 
 | Componente | Qué hace | Responsable | Plazo |
 |---|---|---|---|
@@ -293,11 +293,11 @@ La titulación masiva genera conflictos (traslapes, ocupaciones superpuestas, di
 | Articulación con ANT y catastro | El juez accede en tiempo real a la base catastral y a títulos de la ANT; los fallos se registran en IGAC | ANT + IGAC + Rama Judicial | Año 2 |
 | Prioridad étnica | Procedimientos diferenciados que respetan la consulta previa y las formas propias de resolución | Min. Interior + Rama Judicial | Año 1 |
 
-**Vía jurídica (verificado):** la jurisdicción ya está constitucionalmente creada (AL 03/2023) y tiene su ley estatutaria de estructura (Ley 2570/2026). Lo pendiente es la ley ordinaria de procedimiento y, sobre todo, la implementación operativa y presupuestal — que depende del Consejo Superior de la Judicatura y del Gobierno, no de un nuevo trámite estatutario. Es, por tanto, mucho más factible de lo que parecía: el plan acelera y financia algo que el ordenamiento ya decidió.
+**Vía jurídica (verificado):** la jurisdicción ya está constitucionalmente creada (AL 03/2023) y tiene su ley estatutaria de estructura (Ley 2570/2026). Lo pendiente es la ley ordinaria de procedimiento y, sobre todo, la implementación operativa y presupuestal, que depende del Consejo Superior de la Judicatura y del Gobierno, no de un nuevo trámite estatutario. Es, por tanto, mucho más factible de lo que parecía: el plan acelera y financia algo que el ordenamiento ya decidió.
 
 ## Tecnología de punta para el catastro — el multiplicador de velocidad
 
-La meta de 750.000 ha/año exige duplicar la velocidad histórica del IGAC. Con detección automática de linderos por IA, drones y registro digital integrado, la productividad por técnico se multiplica de 3 a 5 veces. La tecnología no es adorno — es la condición de posibilidad de la meta.
+La meta de 750.000 ha/año exige duplicar la velocidad histórica del IGAC. Con detección automática de linderos por IA, drones y registro digital integrado, la productividad por técnico se multiplica de 3 a 5 veces. La tecnología no es adorno; es la condición de posibilidad de la meta.
 
 **Base ya existente en Colombia:** el IGAC tiene contrato activo con Planet Labs (monitoreo satelital diario con IA). En enero de 2026, investigadores colombianos validaron extracción automática de linderos por fusión SAR + óptica con el modelo Segment Anything (SAM), desarrollada para la Reforma Rural Integral. **Referente:** Ruanda registró 10,3 millones de parcelas en menos de cinco años, con costo por título de ~$7 USD, escalando de 15.000 a 376.686 archivos/año (×25) con levantamiento comunitario + verificación tecnológica.
 
@@ -308,7 +308,7 @@ La meta de 750.000 ha/año exige duplicar la velocidad histórica del IGAC. Con 
 | Registro digital integrado (modelo Estonia) | El lindero verificado entra una vez y fluye a IGAC, ANT y SNR; sin reentrada manual | Requiere integración IGAC–ANT–SNR; articulado con la plataforma de trazabilidad | Elimina el principal cuello de botella administrativo |
 | Inteligencia ambiental en tiempo real | Detección de deforestación, minería ilegal y cambio de uso post-catastro | IGAC ya usa Planet Labs para detección de cambios | Protege la inversión del catastro; alerta antes del daño irreversible |
 
-> El cuello de botella del catastro no es la tecnología — es la integración. Hacer que IA-satelital, drones y registro operen como un sistema único articulado con ANT y SNR, con un solo ingreso de dato, es una decisión de arquitectura institucional, no una inversión tecnológica nueva.
+> El cuello de botella del catastro no es la tecnología; es la integración. Hacer que IA-satelital, drones y registro operen como un sistema único articulado con ANT y SNR, con un solo ingreso de dato, es una decisión de arquitectura institucional, no una inversión tecnológica nueva.
 
 # Frente III — Seguridad, Soberanía e Inteligencia
 
@@ -329,11 +329,11 @@ Reencuadre: no "línea dura vs. negociación". La restricción que ata es **cont
 
 ## 3.2 Seguridad concentrada con DIH en nodos Ola 1
 
-En los 3 nodos se aplica concentración de fuerza hasta "dominio del área": el grupo armado no opera abiertamente, ni recluta, ni extorsiona. Tropa + juez + médico + maestro entran juntos, en semanas. El éxito se mide en presencia estatal civil establecida y reclutamiento seco — no en bajas, lo que elimina el incentivo que generó los falsos positivos. Solo se aplica donde la tasa de homicidios ya desciende (salvo el nodo de aprendizaje de 3.6, que se mantiene en Fase 0).
+En los 3 nodos se aplica concentración de fuerza hasta "dominio del área": el grupo armado no opera abiertamente, ni recluta, ni extorsiona. Tropa + juez + médico + maestro entran juntos, en semanas. El éxito se mide en presencia estatal civil establecida y reclutamiento seco, no en bajas, lo que elimina el incentivo que generó los falsos positivos. Solo se aplica donde la tasa de homicidios ya desciende (salvo el nodo de aprendizaje de 3.6, que se mantiene en Fase 0).
 
 ## 3.3 Capacidades de inteligencia — la brecha más urgente
 
-En 2025 la Fuerza Pública aumentó sus acciones 34% sin mejora de seguridad: el problema no es déficit de operaciones — es déficit de inteligencia y de justicia que consuma los resultados.
+En 2025 la Fuerza Pública aumentó sus acciones 34% sin mejora de seguridad: el problema no es déficit de operaciones; es déficit de inteligencia y de justicia que consuma los resultados.
 
 | Capacidad | Qué se construye | Responsable | Plazo |
 |---|---|---|---|
@@ -346,7 +346,7 @@ En 2025 la Fuerza Pública aumentó sus acciones 34% sin mejora de seguridad: el
 
 ## 3.4 Jóvenes en Paz — cortar el reclutamiento desde la raíz
 
-El reclutamiento no se detiene con operaciones — con empleo y futuro. El programa Jóvenes en Paz tiene resultados verificados: Quibdó 1.857 beneficiarios → homicidios −25.9%; Tumaco 1.127 jóvenes → −34%.
+El reclutamiento no se detiene con operaciones, sino con empleo y futuro. El programa Jóvenes en Paz tiene resultados verificados: Quibdó 1.857 beneficiarios → homicidios −25.9%; Tumaco 1.127 jóvenes → −34%.
 
 | Componente | Concreción | Responsable | Plazo |
 |---|---|---|---|
@@ -369,7 +369,7 @@ Entre arrancar la coca y que el cultivo alternativo produzca ingreso pasan 8–2
 
 Regla: ningún proveedor >40% del portafolio. Diversificar hacia Corea del Sur, Francia, Alemania, Turquía, Brasil y Colombia misma. Toda compra importada incluye cláusula obligatoria de transferencia tecnológica a COTECMAR/CIAC/Indumil, producción nacional progresiva (offset mínimo 20% en el primer contrato, escalando) y formación de ingenieros colombianos.
 
-> La verdadera soberanía es llenar el territorio de Estado — lo que además le quita a actores externos el pretexto barato para intervenir.
+> La verdadera soberanía es llenar el territorio de Estado, lo que además le quita a actores externos el pretexto barato para intervenir.
 
 # Frente IV — Anticorrupción
 
@@ -452,7 +452,7 @@ Este frente es la condición de posibilidad de todos los demás. Sin capacidad e
 
 ## C. Coordinación nación–territorio — autoridad real, dentro de la ley (reformulado)
 
-El problema: el programa nombra un Gerente de Nodo pero las entidades con personería jurídica independiente (IGAC, ANT, INVIAS, Banco Agrario) no tienen obligación de responderle. La versión anterior pretendía resolverlo con mando directo —jurídicamente frágil—. Esta versión usa los dos instrumentos que **sí** son legales y los separa por vía.
+El problema: el programa nombra un Gerente de Nodo pero las entidades con personería jurídica independiente (IGAC, ANT, INVIAS, Banco Agrario) no tienen obligación de responderle. La versión anterior pretendía resolverlo con mando directo, jurídicamente frágil. Esta versión usa los dos instrumentos que **sí** son legales y los separa por vía.
 
 | Mecanismo | Concreción | Vía jurídica |
 |---|---|---|
@@ -460,7 +460,7 @@ El problema: el programa nombra un Gerente de Nodo pero las entidades con person
 | **Condicionalidad presupuestal** | Cada entidad con acción en el nodo tiene una línea etiquetada "Nodo X" que **solo se ejecuta si el Gerente firma el concepto de coherencia**. Convierte la coordinación de voluntaria a estructural sin tocar la ley orgánica de presupuesto. Aplica también a entidades autónomas y sociedades de economía mixta, donde el mando no procede pero el convenio interadministrativo sí | **Circular presupuestal + convenio** |
 | **Autoridad estatutaria del Gerente** | La facultad de fijar planes operativos vinculantes y las causales de suspensión de recursos se elevan a la **Ley Marco de Nodos** (Año 1). Hasta su aprobación, el Gerente opera con coordinación delegada + condicionalidad | **Ley Marco (Año 1)** |
 | Gerente de nodo por concurso | Nombrado por concurso técnico con panel independiente (CNSC), no por designación directa. Único interlocutor oficial del gobierno nacional ante alcaldía, privados y comunidades. Rota cada 18 meses (anti-captura); el primer Gerente proviene de otra región | CNSC + Presidencia |
-| **Asignación por desempeño (el "posting" como incentivo)** | La rotación deja de ser solo candado defensivo y se vuelve motor de mérito: el *destino* de la siguiente asignación del Gerente —y su lugar en la vía rápida a la Alta Dirección Pública— se determina por su desempeño *relativo* medido contra los demás Gerentes (ver yardstick competition, Mecanismo 6 en 13.8). La evidencia de campo muestra que asignar a los mejores funcionarios a los mejores puestos según desempeño medido motiva tanto como un bono y es más fácil de aplicar en el sector público. El Gerente que saca su nodo adelante asciende; el que no, recibe un destino menos deseable | CNSC + DNP |
+| **Asignación por desempeño (el "posting" como incentivo)** | La rotación deja de ser solo candado defensivo y se vuelve motor de mérito: el *destino* de la siguiente asignación del Gerente, y su lugar en la vía rápida a la Alta Dirección Pública, se determina por su desempeño *relativo* medido contra los demás Gerentes (ver yardstick competition, Mecanismo 6 en 13.8). La evidencia de campo muestra que asignar a los mejores funcionarios a los mejores puestos según desempeño medido motiva tanto como un bono y es más fácil de aplicar en el sector público. El Gerente que saca su nodo adelante asciende; el que no, recibe un destino menos deseable | CNSC + DNP |
 | **Equipo técnico con permanencia** (ajuste de capital humano) | A diferencia del Gerente, el **equipo técnico residente no rota a los 18 meses**: acumula conocimiento local, con traspaso documentado. La rotación anti-captura se aplica a quien tiene poder de ordenación del gasto, no a quien aporta memoria territorial | DNP |
 | Comité de Nodo con quórum | Reunión semanal de representantes de cada entidad; quórum 6 de 8; decisiones por mayoría; actas públicas en 24h; inasistencia injustificada reportada al director y al DNP | Gerente + entidades |
 | Comisionado de Destrabe (Bogotá) | Directivo en Presidencia con acceso al Presidente; única función: desbloquear cuellos de botella interinstitucionales en <72h. Cuando el Gerente eleva un bloqueo, convoca ministros y resuelve | Presidencia (libre nombramiento) |
@@ -471,7 +471,7 @@ El problema: el programa nombra un Gerente de Nodo pero las entidades con person
 | Medida | Concreción | Responsable | Plazo |
 |---|---|---|---|
 | Reforma al Estatuto (Ley 80) | El objetivo pasa de "proteger el patrimonio mediante procedimiento" a "el mejor resultado al mejor precio" | Congreso + DNP | Años 1–2 |
-| Pliegos tipo + banco de estructuración | Colombia Compra desarrolla en transición pliegos tipo para las 12 obras más comunes de nodo; el Equipo Territorial los adapta en 5 días — no los diseña en 60 | Colombia Compra | Transición |
+| Pliegos tipo + banco de estructuración | Colombia Compra desarrolla en transición pliegos tipo para las 12 obras más comunes de nodo; el Equipo Territorial los adapta en 5 días, no los diseña en 60 | Colombia Compra | Transición |
 | Interventoría precalificada | Lista de firmas precalificadas, actualizada semestralmente; el proceso corre en paralelo con la licitación, no después | Colombia Compra + Gerente | Año 1 |
 | Compra centralizada obligatoria | Medicamentos, papelería, combustible, tecnología: acuerdos marco; ahorro 20–30% | Colombia Compra | Año 1 |
 | Arbitraje acelerado de impugnaciones | Las impugnaciones de detalle de pliego (no del marco del Contrato de Habilitación) se resuelven por arbitraje en 30 días, no por contencioso de 2–3 años | DNP + MinJusticia + Colombia Compra | Año 1 |
@@ -493,11 +493,11 @@ La Alta Dirección Pública tarda años en madurar; el Equipo Territorial necesi
 | Programa Regresa (diáspora) | Colombianos con experiencia multilateral (BID, BM, ONU-Hábitat) o subnacional exitosa (Medellín, Bogotá); incentivo reputacional ("Constructor del País") | Cancillería + DNP + redes en el exterior |
 | Servicio Nacional de Vida (modalidad ambiental) | Los jóvenes del Servicio hacen el catastro y operan los primeros meses de los sistemas de agua, bajo supervisión del núcleo sénior | SENA + Servicio Nacional de Vida |
 
-> El listón crítico baja: no se necesita encontrar 60 personas perfectas, sino un núcleo sénior pequeño. La masa de trabajo técnico la cubren convenios universitarios y el Servicio, bajo supervisión — y la retención del talento clave se ata a la vía rápida hacia la Alta Dirección Pública (misma lógica de la Credencial de Ciudadanía Activa).
+> El listón crítico baja: no se necesita encontrar 60 personas perfectas, sino un núcleo sénior pequeño. La masa de trabajo técnico la cubren convenios universitarios y el Servicio, bajo supervisión, y la retención del talento clave se ata a la vía rápida hacia la Alta Dirección Pública (misma lógica de la Credencial de Ciudadanía Activa).
 
 # Frente IX — Infraestructura Estratégica
 
-**Principio:** Colombia no tiene déficit de proyectos anunciados — tiene déficit de proyectos terminados y activados. El mayor retorno está en activar lo que el país ya pagó, no en anunciar obras nuevas.
+**Principio:** Colombia no tiene déficit de proyectos anunciados; tiene déficit de proyectos terminados y activados. El mayor retorno está en activar lo que el país ya pagó, no en anunciar obras nuevas.
 
 ## 9.1 Prioridades por impacto/costo
 
@@ -515,12 +515,12 @@ La Alta Dirección Pública tarda años en madurar; el Equipo Territorial necesi
 |---|---|---|
 | Buenaventura | Dragado canal + vía de acceso Buga–Buenaventura | Mayor ROI del portafolio. Inversión sobre activo ya construido. |
 | Barranquilla | Dragado Bocas de Cenizas + hub multimodal del Tren del Caribe | Convergen río + ferrocarril + tren costero. Inversión en ejecución ($116B 2026). |
-| Urabá (Puerto Antioquia + 4) | Acompañar con vías y seguridad — no construir | El privado ya invirtió. El Estado provee bienes complementarios, no duplica. |
+| Urabá (Puerto Antioquia + 4) | Acompañar con vías y seguridad, no construir | El privado ya invirtió. El Estado provee bienes complementarios, no duplica. |
 | Tribugá | Estudios de factibilidad + consulta previa + seguridad. No anunciar como meta del gobierno | Sin vía, sin seguridad, sin consulta: el anuncio perfecto para no ejecutar. Proyecto del horizonte de 15–20 años. |
 
 # Frente X — Industria Avanzada y Capacidad Tecnológica
 
-No es paralelo a los demás — es la capa de valor agregado que el programa ya construye. La tecnología avanzada es el siguiente eslabón de cadenas que los frentes anteriores activan.
+No es paralelo a los demás; es la capa de valor agregado que el programa ya construye. La tecnología avanzada es el siguiente eslabón de cadenas que los frentes anteriores activan.
 
 ## 10.1 Lo que Colombia ya tiene y no escala
 
@@ -557,21 +557,21 @@ No es paralelo a los demás — es la capa de valor agregado que el programa ya 
 | Programa nacional antidron | $1B Fase 1 aprobado: 40% a CIAC + privados colombianos certificados; 60% compra externa con transferencia obligatoria | Min. Defensa + CIAC | Año 1 |
 | Mercado regional | Patentar soluciones; ProColombia abre mercado con Ecuador, Perú, México, Brasil | Min. Defensa + ProColombia | Años 2–4 |
 
-**D. Procesamiento de níquel.** Colombia exporta el mineral crudo (Cerro Matoso). El valor está en cátodos para baterías de VE — la cadena que Corea y Japón diversifican fuera de China.
+**D. Procesamiento de níquel.** Colombia exporta el mineral crudo (Cerro Matoso). El valor está en cátodos para baterías de VE, la cadena que Corea y Japón diversifican fuera de China.
 
 | Medida | Concreción | Responsable | Plazo |
 |---|---|---|---|
 | "No exportar recurso crudo" | Renegociar Cerro Matoso con cláusula de procesamiento nacional progresivo | Min. Minas + Min. Comercio | Años 1–3 |
 | Transferencia tecnológica | Acercamiento con POSCO (Corea) y Sumitomo (Japón) para plantas con empleo local en Córdoba | Min. Comercio + Cancillería | Años 1–2 |
 
-**E. Bioeconomía — con expectativas correctas.** La biodiversidad es información, pero transformarla requiere capacidad de innovación. Lo factible en un período: concentrar los recursos de Minciencias en dos o tres clústeres con masa crítica real (medicina regenerativa: U. Andes + IDCBIS + DreamBio + CellRep) y conectarlos al Estado como primer cliente.
+**E. Bioeconomía, con expectativas correctas.** La biodiversidad es información, pero transformarla requiere capacidad de innovación. Lo factible en un período: concentrar los recursos de Minciencias en dos o tres clústeres con masa crítica real (medicina regenerativa: U. Andes + IDCBIS + DreamBio + CellRep) y conectarlos al Estado como primer cliente.
 
 ## 10.3 El mecanismo que convierte la intención en sistema
 
-- **Compras públicas estratégicas como primer cliente:** salud compra APIs nacionales, Defensa compra antidrones colombianos, la FAC usa MRO nacional. Sin gasto adicional — redirige compras existentes.
+- **Compras públicas estratégicas como primer cliente:** salud compra APIs nacionales, Defensa compra antidrones colombianos, la FAC usa MRO nacional. Sin gasto adicional; redirige compras existentes.
 - **Transferencia tecnológica obligatoria** en todo contrato de importación de tecnología estratégica.
 - **Concentración de recursos escasos:** dos o tres clústeres con ventaja real, no financiar todo un poco. Esa valentía distingue una política industrial de un catálogo.
-- **Disciplina por desempeño externo (el principio que separa a Corea de la sustitución de importaciones fallida).** La nueva economía de la política industrial (Juhász, Lane y Rodrik, 2024) muestra que la política industrial funciona cuando el apoyo es *condicional, temporal y atado a una métrica externa difícil de falsificar* — y fracasa cuando es permanente, multiplica objetivos y se captura. El empuje coreano de industria pesada funcionó porque ató el apoyo a **exportaciones**: una métrica que un comprador extranjero debe pagar. Por eso, el escalamiento del apoyo a COTECMAR, los APIs y los antidrones se condiciona a **ingreso por exportación verificado por terceros** (o, en su defecto, a productividad medida por un evaluador independiente), no a producción ni a empleo, que son falsificables. El apoyo tiene cláusula de reversión y vencimiento: quien no alcanza el umbral de exportación pierde el beneficio. La compra pública doméstica es la rampa de entrada; la exportación es la prueba de que la apuesta funciona.
+- **Disciplina por desempeño externo (el principio que separa a Corea de la sustitución de importaciones fallida).** La nueva economía de la política industrial (Juhász, Lane y Rodrik, 2024) muestra que la política industrial funciona cuando el apoyo es *condicional, temporal y atado a una métrica externa difícil de falsificar*, y fracasa cuando es permanente, multiplica objetivos y se captura. El empuje coreano de industria pesada funcionó porque ató el apoyo a **exportaciones**: una métrica que un comprador extranjero debe pagar. Por eso, el escalamiento del apoyo a COTECMAR, los APIs y los antidrones se condiciona a **ingreso por exportación verificado por terceros** (o, en su defecto, a productividad medida por un evaluador independiente), no a producción ni a empleo, que son falsificables. El apoyo tiene cláusula de reversión y vencimiento: quien no alcanza el umbral de exportación pierde el beneficio. La compra pública doméstica es la rampa de entrada; la exportación es la prueba de que la apuesta funciona.
 
 ## Sistema Nervioso — Plataforma de Trazabilidad del Gasto Público
 
@@ -587,13 +587,13 @@ Una infraestructura transversal que sigue cada peso desde que entra hasta que se
 
 # Frente XI — Piso Universal de Servicios Básicos
 
-**QUÉ:** que todo colombiano tenga acceso real —no nominal— a agua potable, saneamiento y conectividad. En los nodos, en 4 años.
+**QUÉ:** que todo colombiano tenga acceso real, no nominal, a agua potable, saneamiento y conectividad. En los nodos, en 4 años.
 
-> Colombia no tiene principalmente un problema de cobertura nominal — tiene un problema de cobertura real. El agua potable existe en el papel para el 88.9%, pero el 39% de las plantas no funciona y 12.5 millones no tienen alcantarillado. Nadie opera lo que se construye.
+> Colombia no tiene principalmente un problema de cobertura nominal; tiene un problema de cobertura real. El agua potable existe en el papel para el 88.9%, pero el 39% de las plantas no funciona y 12.5 millones no tienen alcantarillado. Nadie opera lo que se construye.
 
 ## 11.1 Diagnóstico — la trampa del abandono
 
-De 684 plantas evaluadas por la Contraloría, solo el 39% funciona. El problema no es fiscal ni técnico — es de diseño contractual: el contrato de obra no incluía el de operación. El MinVivienda ejecutó históricamente apenas el 7.2% de los recursos de agua y en 2025 recortó el presupuesto 53%.
+De 684 plantas evaluadas por la Contraloría, solo el 39% funciona. El problema no es fiscal ni técnico; es de diseño contractual: el contrato de obra no incluía el de operación. El MinVivienda ejecutó históricamente apenas el 7.2% de los recursos de agua y en 2025 recortó el presupuesto 53%.
 
 ## 11.2 El modelo que funciona — Empresa Operadora Comunitaria certificada
 

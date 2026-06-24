@@ -1,10 +1,10 @@
 # Estado en el Territorio
 
-**Un plan de gobierno para Colombia — abierto, versionado y de autor.**
+**Un plan de gobierno para Colombia, abierto, versionado y de autor.**
 
 > Empleo de calidad, instituciones honestas y carga justa.
 
-Este repositorio contiene un plan de gobierno completo para Colombia. No es el manifiesto colaborativo de un partido ni una ley redactada por multitud: es **el ejercicio de un autor** —un experimento mental disciplinado sobre cómo se resolverían los problemas estructurales del país— publicado en abierto para que cualquiera lo lea, lo critique, lo corrija en su ejecución, lo cite o lo adapte.
+Este repositorio contiene un plan de gobierno completo para Colombia. No es el manifiesto colaborativo de un partido ni una ley redactada por multitud: es **el ejercicio de un autor**, un experimento mental disciplinado sobre cómo se resolverían los problemas estructurales del país, publicado en abierto para que cualquiera lo lea, lo critique, lo corrija en su ejecución, lo cite o lo adapte.
 
 Se publica en abierto por una razón simple: como no hay nada electoral que proteger, lo único en juego es si las ideas son buenas. Eso permite exponer el plan entero al escrutinio y dejar que la realidad lo corrija a la vista de todos.
 
@@ -14,9 +14,9 @@ Se publica en abierto por una razón simple: como no hay nada electoral que prot
 
 Casi todas las crisis grandes de Colombia cuelgan de **dos raíces**: (1) el Estado no controla ni sirve buena parte de su territorio, y (2) sus instituciones son débiles o capturadas y su fisco es frágil. Atacar síntomas sin tocar esas raíces es gastar sin resultado.
 
-La respuesta es un **modelo de nodos**: concentrar y secuenciar el Estado en pocos municipios a la vez —seguridad + economía + servicios + instituciones + tierra desplegados juntos—, expandiendo por **olas que dispara el resultado, no el calendario**. Todo el plan se sostiene en cuatro compromisos: honestidad fiscal, atacar raíces y no síntomas, contrapesos antes que confianza, y que la carga (en seguridad, impuestos y ajuste) nunca recaiga sobre los más pobres. Y usa **diseño de mecanismos** para que el plan funcione aun cuando algunos actores intenten capturarlo.
+La respuesta es un **modelo de nodos**: concentrar y secuenciar el Estado en pocos municipios a la vez, con seguridad + economía + servicios + instituciones + tierra desplegados juntos, expandiendo por **olas que dispara el resultado, no el calendario**. Todo el plan se sostiene en cuatro compromisos: honestidad fiscal, atacar raíces y no síntomas, contrapesos antes que confianza, y que la carga, en seguridad, impuestos y ajuste, nunca recaiga sobre los más pobres. Y usa **diseño de mecanismos** para que el plan funcione aun cuando algunos actores intenten capturarlo.
 
-Esa tesis es el **núcleo** del proyecto y no se cambia por propuesta. Todo lo demás —cifras, vías jurídicas, secuencia, detalles— es **ejecución**, y está abierto a corrección con evidencia. La distinción se explica en [CONTRIBUTING.md](CONTRIBUTING.md) y [GOVERNANCE.md](GOVERNANCE.md).
+Esa tesis es el **núcleo** del proyecto y no se cambia por propuesta. Todo lo demás, como cifras, vías jurídicas, secuencia y detalles, es **ejecución**, y está abierto a corrección con evidencia. La distinción se explica en [CONTRIBUTING.md](CONTRIBUTING.md) y [GOVERNANCE.md](GOVERNANCE.md).
 
 ---
 
@@ -78,10 +78,10 @@ Lee [CONTRIBUTING.md](CONTRIBUTING.md) antes de proponer, y [GOVERNANCE.md](GOVE
 
 ## Una nota honesta sobre qué es esto y qué no
 
-Esto es un ejercicio intelectual, no una campaña. Su valor no depende de que alguien lo adopte ni de que reciba muchos colaboradores. La constitución crowdsourced de Islandia nunca se ratificó y aun así cambió la conversación global sobre cómo se escriben las constituciones. Un plan como este puede importar como referencia, como provocación o como material para pensar problemas de país —aunque nadie gobierne jamás con él—.
+Esto es un ejercicio intelectual, no una campaña. Su valor no depende de que alguien lo adopte ni de que reciba muchos colaboradores. La constitución crowdsourced de Islandia nunca se ratificó y aun así cambió la conversación global sobre cómo se escriben las constituciones. Un plan como este puede importar como referencia, como provocación o como material para pensar problemas de país, aunque nadie gobierne jamás con él.
 
 Los análisis jurídicos y fiscales son **análisis de política, no conceptos vinculantes**, y deben confirmarse con asesoría especializada. Las cifras provienen de fuentes oficiales 2025–2026 y están sujetas a revisión.
 
 ## Licencia
 
-Este trabajo se publica bajo **Creative Commons Atribución–CompartirIgual 4.0 Internacional (CC BY-SA 4.0)**. Puedes usarlo, citarlo y adaptarlo —incluso para una campaña real— siempre que des crédito y compartas bajo la misma licencia. Ver [LICENSE](LICENSE).
+Este trabajo se publica bajo **Creative Commons Atribución–CompartirIgual 4.0 Internacional (CC BY-SA 4.0)**. Puedes usarlo, citarlo y adaptarlo, incluso para una campaña real, siempre que des crédito y compartas bajo la misma licencia. Ver [LICENSE](LICENSE).
