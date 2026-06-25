@@ -33,3 +33,16 @@ A medida que el documento crecía y se partía en piezas, apareció un riesgo nu
 ## v1.8: La evolución visible
 
 Si la gracia de tener esto en Git es ver cómo evoluciona, valía la pena cuidarlo. Se dejaron de versionar los archivos generados, para que el historial muestre con claridad qué cambió en cada sección sin el ruido del archivo grande regenerándose entero. Y nació esta bitácora, para que la historia del plan no viva solo en los diffs técnicos, sino también en el relato de por qué fue cambiando. Porque al final, eso es lo que un ejercicio así tiene de valioso: no la certeza de tener razón, sino el registro honesto de un plan que se deja corregir.
+
+## v1.9: Decir qué es un nodo
+
+El plan giraba entero alrededor del nodo, pero en ninguna parte lo explicaba en palabras simples: se metía de una vez en fases, índices y blindajes. Un concepto que no se puede explicar en una frase no se puede defender en una plaza. Así que llegó una explicación al frente de la Columna Vertebral, sin tecnicismos: el nodo es el Estado completo, concentrado en un lugar a la vez, que se queda hasta que el lugar cambie y solo entonces avanza. La idea de fondo, que las cinco piezas (seguridad, economía, servicios, instituciones y tierra) entran juntas porque cada una hace funcionar a las demás, es lo que separa este modelo de cincuenta años de Estado que llega tarde, incompleto y en pedazos.
+
+## v1.10: Contar el nodo y reconocer su filo
+
+Dos adiciones que apuntan a lo mismo: que el concepto central se entienda y se defienda. La primera es la historia de Wílmer, un cultivador de cacao de Tierralta, contada en detalle, con sus primos que rondan el grupo armado y la cooperativa que cambia el pueblo. No es un dato, es una cara, porque a veces una persona comunica más que diez tablas, y porque la historia deja ver cómo una pieza sostiene a la otra: el título que se vuelve crédito, el crédito que financia la cosecha que la vía nueva puede sacar. La segunda es lo contrario de un argumento de venta: una sección donde el plan se mira al espejo y admite que el nodo es ejecución de relojería, que su concentración es a la vez su fuerza y su punto de quiebre, y que la pregunta que de verdad decide su destino no es ideológica sino de capacidad. Reconocer el propio talón de Aquiles, y mostrar que medio plan está construido para protegerlo, es más honesto y más convincente que fingir que no existe.
+
+## v1.11: Que entre por los ojos
+
+El texto ya explicaba el nodo y lo contaba con la historia de Wílmer, pero faltaba lo que comunica de un vistazo. Llegaron dos diagramas. El primero muestra las cinco piezas cayendo juntas sobre el nodo y luego el avance por fases hasta la graduación, para que la idea de 'el Estado completo, en un lugar a la vez' se vea y no solo se lea. El segundo convierte la historia de Wílmer en una línea de tiempo, del cacao húmedo vendido al intermediario hasta el productor formalizado con título, crédito y cooperativa. Se hicieron como archivos reales, editables, y el build los mete tanto en el sitio como en el Word. A veces una imagen ahorra tres párrafos.
+

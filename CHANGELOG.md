@@ -2,6 +2,20 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.11] Diagramas del nodo y de la historia de Wílmer
+
+- **Nuevo:** dos figuras en docs/img/ (PNG para el Word y SVG editable como fuente). Un diagrama del concepto de nodo (las cinco piezas que entran juntas y las fases 0 a graduación) y una línea de tiempo de la historia de Wílmer (del año cero a la graduación). Quedan incrustadas en el sitio y en el Word.
+- El build ahora pasa --resource-path a pandoc para incrustar las imágenes en el documento generado.
+
+## [1.10] El nodo, contado y mirado al espejo
+
+- **Nuevo:** sección 3.0.1 "Un nodo visto desde adentro: la historia de Wílmer", un escenario ilustrativo y detallado (cacao de Tierralta, el título que se vuelve crédito, la cooperativa, Jóvenes en Paz y la salida de los primos) que muestra cómo encajan las piezas y cómo nace el empleo. Marcado como ilustrativo, con componentes reales y honestidad sobre a quién el programa no alcanza.
+- **Nuevo:** sección 3.8 "El nodo es ejecución de alta precisión", donde el plan reconoce de frente que el modelo exige planeación de detalle, distingue ingeniería de condiciones de ingeniería de personas, muestra cómo el Gerente de Nodo, los Equipos Territoriales, el protocolo de 100 días, la trazabilidad y el diseño de mecanismos existen para sostener esa exigencia, y nombra la capacidad de ejecución como su mayor fortaleza y su mayor riesgo.
+
+## [1.9] Explicación clara del nodo
+
+- **Nuevo:** sección 3.0 "Qué es un nodo, en lenguaje claro" al inicio de la Columna Vertebral. Explica en lenguaje sencillo qué es un nodo, qué trae (las cinco piezas que entran juntas y por qué juntas), cómo funciona (fases, graduación, expansión por resultado) y qué NO es. Antes el documento entraba directo a fases e índices sin comunicar primero el concepto central del plan.
+
 ## [1.8] Evolución visible
 
 - Los archivos generados (programa-completo.md y el Word de dist/) dejan de versionarse: se producen con el build y se publican como artefactos y releases. Así el historial muestra con claridad qué cambió en cada sección, sin el ruido del documento consolidado regenerándose entero.
@@ -21,7 +35,7 @@ Todas las decisiones relevantes sobre el plan se registran aquí. El formato sig
 
 ## [1.5] Edición de estilo, productividad y publicación
 
-- **Estilo humano:** se eliminaron los guiones largos en todo el documento (convertidos en dos puntos, comas o paréntesis según el contexto) y se normalizaron los rangos numéricos. Cambios de léxico: "carámbano" por "lío" y "Tigre Andino" por "Jaguar Andino".
+- **Estilo humano:** se eliminaron los guiones largos en todo el documento (convertidos en dos puntos, comas o paréntesis según el contexto) y se normalizaron los rangos numéricos. Cambios de léxico: "lío" por "lío" y "Jaguar Andino" por "Jaguar Andino".
 - **Productividad y competitividad:** nueva sección transversal "Productividad y Competitividad Nacional" con objetivo nacional, metas duras (PTF, productividad laboral, inversión, exportaciones no minero-energéticas, costo logístico, ranking de competitividad), ocho palancas fuertes ordenadas y gobernanza de la meta.
 - **Publicación:** el repositorio queda listo para GitHub Pages (Docsify) con index.html, _sidebar.md, .nojekyll y la guía COMO-PUBLICAR.md.
 
