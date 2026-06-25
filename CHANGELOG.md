@@ -2,6 +2,11 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.17] La plataforma fuera de la ruta crítica del arranque
+
+- **Nuevo, lado positivo:** se explicita que desarrollar y operar la plataforma genera empleo de alta calificación, capacidad estatal instalable y conocimiento anticorrupción exportable, no solo gasto.
+- **Nuevo, riesgo y mitigación:** se reconoce que, al habilitar cinco frentes, la plataforma entra en la ruta crítica y es un riesgo de cronograma y de "elefante blanco tecnológico". La solución es desacoplarla del arranque: los primeros nodos operan con control tradicional reforzado (viable para tres nodos), la plataforma se construye en paralelo y habilita el escalamiento, no el inicio, y se diseña por módulos desde la experiencia de campo. Se deja explícito el costo del período manual.
+
 ## [1.16] La plataforma de trazabilidad pasa a sección transversal
 
 - **Movido:** la descripción de la plataforma de trazabilidad del gasto sale del Frente X (Industria Avanzada), donde encajaba forzada, y pasa a una sección transversal propia. La plataforma no es política industrial, es infraestructura del Estado entero (habilita los frentes IV, VI, XIII, III y los nodos), así que ahora tiene una sola casa coherente con su naturaleza.

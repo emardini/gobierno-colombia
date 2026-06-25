@@ -1438,7 +1438,23 @@ El reparto es deliberado: aquí vive la infraestructura, en el Frente IV se expl
 
 **Un buen ejemplo de "primer cliente".** Aunque no pertenece al Frente X, la plataforma sí ilustra su principio de compra pública como jalonador: el Estado se compra a sí mismo una capacidad tecnológica nacional, en vez de importarla. Es un caso de "cómprate lo que predicas", y por eso el Frente X la menciona como ejemplo.
 
-> Un Estado que ve cada peso en tiempo real, con los datos abiertos para que cualquiera mire, cambia el cálculo del que roba: la corrupción deja de esconderse en la dispersión. Esa es la función de la plataforma, y la razón de que sea cimiento y no apéndice.
+## Lo que cuesta y lo que genera
+
+Desarrollar y operar la plataforma exige inversión, pero esa inversión no es solo gasto: es empleo formal de alta calificación (ingeniería de datos, análisis, auditoría), es capacidad estatal que hoy no existe y que queda instalada, y es la clase de activo que, maduro, se puede ofrecer como conocimiento anticorrupción a otros países de la región. Construirla es, en sí mismo, una de las apuestas productivas y de soberanía tecnológica del plan, no un costo administrativo.
+
+## El riesgo de la ruta crítica, y cómo se evita
+
+Aquí hay que ser honestos, porque es el reverso de lo anterior. Si la plataforma habilita cinco frentes a la vez, entonces todo cuelga de ella, y eso la mete en la ruta crítica: si se atrasa, se cae o sale mal hecha, no falla una cosa, fallan todas las que dependían de ella. Y el software estatal de gran escala es, en Colombia y en casi todo el mundo, el tipo de proyecto que llega tarde, cuesta más de lo previsto y a veces no funciona. Poner un megaproyecto de integración de datos como precondición de todo lo demás sería una receta para paralizar el plan.
+
+La salida no es renunciar a la plataforma, es **desacoplarla del arranque**. El plan no espera a que el software esté listo:
+
+- **El arranque opera con control tradicional reforzado.** Antes de cualquier plataforma, el Estado ya controla con interventoría, auditoría de la Contraloría y supervisión de contratos. Para los pocos nodos del inicio (tres, no trescientos), una interventoría intensiva y una auditoría reforzada hechas a mano son perfectamente viables. La plataforma no inventa el control, lo vuelve masivo y barato.
+- **La plataforma se construye en paralelo y habilita el escalamiento, no el arranque.** Su función es permitir hacer en cien municipios, de forma automática y difícil de capturar, lo que al principio se hace a mano en tres. Por eso su criticidad vive en el escalamiento, no en el inicio, y ese es un lugar mucho más seguro: el escalamiento sí puede esperar a que la herramienta madure; el arranque no.
+- **Se construye por módulos y desde la experiencia, no en abstracto.** Operar manualmente los primeros nodos enseña qué señales importan, dónde está el fraude real y qué datos sirven. La plataforma se diseña a partir de eso, módulo por módulo y por madurez del dato, en vez de diseñarse a ciegas en una oficina. Es la misma lógica del nodo de aprendizaje: probar en pequeño, entender, y solo entonces automatizar.
+
+El costo honesto de este camino: durante el período manual, el control es más caro por peso vigilado, más lento y más vulnerable a la captura local, que es justo lo que la plataforma viene a resolver. Es un sobrecosto temporal de control a cambio de no detener el arranque esperando un software. Es un trueque sensato: mejor pagar control manual en tres nodos por un tiempo que congelar el plan entero hasta que un sistema esté perfecto.
+
+> Un Estado que ve cada peso en tiempo real, con los datos abiertos para que cualquiera mire, cambia el cálculo del que roba: la corrupción deja de esconderse en la dispersión. Esa es la función de la plataforma, y la razón de que sea cimiento y no apéndice. Pero el cimiento no detiene la obra: el arranque se controla a mano, y la plataforma llega para que el control crezca a escala de país.
 
 # Secuencia de Gobierno
 
