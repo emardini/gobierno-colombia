@@ -2,7 +2,38 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
-## [1.3] — Verificación jurídica
+## [1.8] Evolución visible
+
+- Los archivos generados (programa-completo.md y el Word de dist/) dejan de versionarse: se producen con el build y se publican como artefactos y releases. Así el historial muestra con claridad qué cambió en cada sección, sin el ruido del documento consolidado regenerándose entero.
+- **Nuevo:** BITACORA.md, el relato en lenguaje natural de por qué el plan fue cambiando versión a versión (el CHANGELOG dice qué cambió; la bitácora, por qué).
+
+## [1.7] Proceso de build
+
+- **Nuevo:** sistema de build que define los archivos de docs/ como única fuente de verdad y genera el documento completo (programa-completo.md) y el Word a partir de ellos. Incluye build/manifest.txt (orden canónico), build/build.py (con validación: avisa si un archivo de docs/ queda fuera del manifiesto), y build.sh para construir en local.
+- **Nuevo:** flujo de GitHub Actions que construye en cada push, publica los entregables como artefactos descargables y, en etiquetas de versión, crea un Release con el markdown y el Word adjuntos.
+- Esto elimina el riesgo de desincronización entre los archivos partidos y el documento consolidado que causó errores en versiones anteriores.
+
+## [1.6] Productividad rural y simetría campo-ciudad
+
+- **Nuevo:** Módulo de Productividad Rural en el Frente II, gemelo del urbano: el título como activo productivo (crédito contra título), extensión agropecuaria por resultados, sanidad e inocuidad para exportar, agregación de valor y procesamiento local, riego y bienes públicos, con métricas propias (rendimiento por hectárea, valor agregado retenido en el territorio, exportación agro, uso del título como colateral).
+- **Reforzado:** la sección de Productividad y Competitividad Nacional trata campo y ciudad de forma simétrica y subraya que el agro es la base de la canasta exportadora no minero-energética.
+- **Corregido:** el script de partición del repositorio reconocía mal los títulos de los frentes tras el cambio de estilo; ahora todos los archivos de frentes se regeneran limpios desde el documento maestro.
+
+## [1.5] Edición de estilo, productividad y publicación
+
+- **Estilo humano:** se eliminaron los guiones largos en todo el documento (convertidos en dos puntos, comas o paréntesis según el contexto) y se normalizaron los rangos numéricos. Cambios de léxico: "carámbano" por "lío" y "Tigre Andino" por "Jaguar Andino".
+- **Productividad y competitividad:** nueva sección transversal "Productividad y Competitividad Nacional" con objetivo nacional, metas duras (PTF, productividad laboral, inversión, exportaciones no minero-energéticas, costo logístico, ranking de competitividad), ocho palancas fuertes ordenadas y gobernanza de la meta.
+- **Publicación:** el repositorio queda listo para GitHub Pages (Docsify) con index.html, _sidebar.md, .nojekyll y la guía COMO-PUBLICAR.md.
+
+## [1.4]: Módulo de Productividad Urbana
+
+Incorporación de una agenda explícita de productividad y competitividad sobre la economía que ya existe, tras constatar que el país crea empleo formal mientras la productividad por trabajador cae (diagnóstico 2025-2026).
+
+- **Nuevo:** sección 12.3 "Módulo de Productividad Urbana" en el Frente XII, con seis componentes: recualificación del trabajador en activo, extensionismo tecnológico para pymes (difusión, no invención), fin del castigo al crecimiento (el "enano fiscal"), competencia con dientes y costos de insumos, profundización de los clústeres urbanos existentes, y la ciudad que funciona. Aplica el principio "activar lo que ya se pagó" al tejido productivo, no solo a la infraestructura.
+- **Nuevo:** métricas de productividad (valor agregado por trabajador, tasa de graduación de firmas) en el módulo y en la sección global de Medición, para corregir la trampa de "más empleo, menos productividad".
+- Renumeración de las secciones de turismo del Frente XII (12.3→12.4, 12.4→12.5).
+
+## [1.3]: Verificación jurídica
 
 Contraste de las clasificaciones jurídicas con el estado real del derecho colombiano (a 2026).
 
@@ -13,7 +44,7 @@ Contraste de las clasificaciones jurídicas con el estado real del derecho colom
 - **Confirmado:** el catastro multipropósito ya es servicio público (Ley 1955/2019, Decreto 148/2020): ejecutable por vía administrativa.
 - **Precisado:** "Ley Marco de Nodos" es, técnicamente, una ley ordinaria; la Unidad de Macrocorrupción cabe en ley ordinaria en su versión sin autonomía.
 
-## [1.2] — Fundamentos en investigación reciente
+## [1.2]: Fundamentos en investigación reciente
 
 Incorporación de hallazgos de frontera (posteriores al Nobel 2007 de diseño de mecanismos) como ajustes concretos.
 
@@ -24,13 +55,13 @@ Incorporación de hallazgos de frontera (posteriores al Nobel 2007 de diseño de
 - Umbral de irreversibilidad del enclave (Nobel 2024 sobre instituciones).
 - Nueva sección transversal "Fundamentos en la investigación reciente".
 
-## [1.1] — Reorganización e integración de soluciones
+## [1.1]: Reorganización e integración de soluciones
 
 - Integración de siete soluciones a las debilidades de la versión original (viabilidad jurídica explícita, cuadro fiscal de dos escenarios, irreversibilidad simétrica con *sunset*, enforcement atado a palancas ejecutivas, piso universal y nodo de aprendizaje, capital humano escalonado, orden y limpieza).
-- Numeración consistente (un solo conjunto de Frentes I–XIV).
+- Numeración consistente (un solo conjunto de Frentes I-XIV).
 - Colombia Viva movida al Anexo A.
 - Nuevas secciones: Viabilidad Jurídica y Cuadro Fiscal de Dos Escenarios.
 
-## [1.0] — Versión base
+## [1.0]: Versión base
 
 - Plan de gobierno original: tesis de las dos raíces, modelo de nodos, 14 frentes, Visión 2042 y transición.

@@ -1,10 +1,10 @@
-> **EJECUCIÓN — abierto a corrección con evidencia.** Cifras, vías jurídicas, plazos y detalles de diseño se discuten vía *issues* y *pull requests*; ver [CONTRIBUTING](../../CONTRIBUTING.md).
+> **EJECUCIÓN, abierto a corrección con evidencia.** Cifras, vías jurídicas, plazos y detalles de diseño se discuten vía *issues* y *pull requests*; ver [CONTRIBUTING](../../CONTRIBUTING.md).
 
 # Hitos de Credibilidad Política
 
-Las victorias tempranas no tienen que ser las más grandes — tienen que ser las más irreversibles (y, ahora, las más legítimas).
+Las victorias tempranas no tienen que ser las más grandes, tienen que ser las más irreversibles (y, ahora, las más legítimas).
 
-## Transición (Mayo–Julio 2026)
+## Transición (Mayo-Julio 2026)
 
 | Hito | Acción | Coalición que genera |
 |---|---|---|
@@ -14,7 +14,7 @@ Las victorias tempranas no tienen que ser las más grandes — tienen que ser la
 | Adjudicación $2.3B La Guajira en 90 días | Estructuración lista jul-2026; meta 500.000 beneficiarios | El hito más simbólico del período |
 | APP Río Magdalena desbloqueada | El contrato ya existe; solo destrabar | Exportadores e industria de toda la cuenca |
 
-## Año 1 — Ordenar la casa y activar lo heredado
+## Año 1: Ordenar la casa y activar lo heredado
 
 | Hito | Acción |
 |---|---|
@@ -26,11 +26,11 @@ Las victorias tempranas no tienen que ser las más grandes — tienen que ser la
 | Tren del Caribe: licitación lanzada | $7B; lanzarlo en Año 1 permite adjudicación en Año 2 |
 | **Ley Marco de Nodos radicada** | Da piso estatutario a la autoridad del Gerente y consagra el sunset por fracaso |
 
-## Años 2–4 — Resultados que blindan la continuidad
+## Años 2-4: Resultados que blindan la continuidad
 
 | Año | Hito | Meta verificable |
 |---|---|---|
-| Año 2 | Dragado Buenaventura terminado | Canal a 14–15m; activa el 63% de capacidad sin usar |
+| Año 2 | Dragado Buenaventura terminado | Canal a 14-15m; activa el 63% de capacidad sin usar |
 | Año 2 | Tren del Caribe adjudicado, construcción iniciada | 4.5M habitantes con obra en marcha |
 | Año 2 | EOC operativas en Buenaventura y Quibdó | Contratos O&M de 10 años; comunidad parcialmente dueña |
 | Año 2 | Ola 2 lanzada (3 nodos en Fase 0) | Selección por subasta de puntaje del DANE |
