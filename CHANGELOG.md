@@ -2,6 +2,10 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.9] Explicación clara del nodo
+
+- **Nuevo:** sección 3.0 "Qué es un nodo, en lenguaje claro" al inicio de la Columna Vertebral. Explica en lenguaje sencillo qué es un nodo, qué trae (las cinco piezas que entran juntas y por qué juntas), cómo funciona (fases, graduación, expansión por resultado) y qué NO es. Antes el documento entraba directo a fases e índices sin comunicar primero el concepto central del plan.
+
 ## [1.8] Evolución visible
 
 - Los archivos generados (programa-completo.md y el Word de dist/) dejan de versionarse: se producen con el build y se publican como artefactos y releases. Así el historial muestra con claridad qué cambió en cada sección, sin el ruido del documento consolidado regenerándose entero.

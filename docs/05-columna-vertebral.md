@@ -2,7 +2,37 @@
 
 # 3. La Columna Vertebral: Estado en el Territorio
 
-En cada nodo prioritario se despliegan simultáneamente seguridad + economía + servicios + instituciones + tierra. El problema de empleo y el de seguridad son el mismo problema, ausencia de Estado, y se resuelven juntos.
+## 3.0 Qué es un nodo, en lenguaje claro
+
+Un nodo es un municipio donde el Estado llega completo y al mismo tiempo, en vez de llegar a pedazos y en años distintos.
+
+Hoy el Estado colombiano llega a la periferia en fragmentos que nunca se encuentran. La vía se construye un año, la escuela otro, el puesto de salud se inaugura sin médico, la seguridad no llega nunca o llega sola, sin nada detrás. Cada pieza, suelta, no alcanza para cambiar la vida de nadie: la carretera no sirve si no hay qué transportar, el título de tierra no sirve sin crédito ni asistencia técnica, la seguridad no se sostiene si el joven no tiene un empleo al cual irse. El resultado es un Estado caro que se siente ausente, porque ninguna de sus partes llega a masa crítica.
+
+El nodo invierte esa lógica. En lugar de repartir un poco de todo por todas partes, concentra todo lo que un territorio necesita en un mismo lugar y al mismo tiempo, hasta que ese lugar cambie de verdad. Después pasa al siguiente. Es la diferencia entre echarle una gota de agua a cien plantas y regar bien unas pocas hasta que den fruto.
+
+### Qué trae un nodo
+
+Cinco cosas que entran juntas, no por separado:
+
+- **Seguridad**, para que el grupo armado deje de mandar, extorsionar y reclutar.
+- **Economía**, con vías, energía, riego, conectividad, crédito y compras del Estado que crean demanda real.
+- **Servicios**, con agua, salud y educación que funcionan, no que existen solo en el papel.
+- **Instituciones**, con un Estado que responde, contrata sin robar y resuelve conflictos.
+- **Tierra**, con catastro y titulación que vuelven al campesino dueño y sujeto de crédito.
+
+La razón de que entren juntas es el corazón del modelo: cada una hace funcionar a las demás. La seguridad permite que llegue la inversión. La inversión crea empleo formal. El empleo formal le quita reclutas al grupo armado. El título de tierra se vuelve garantía para un crédito. El crédito financia la producción que la vía nueva puede sacar al mercado. Por separado, cada pieza fracasa, como ha fracasado durante décadas. Juntas, se sostienen unas a otras.
+
+### Cómo funciona
+
+Un nodo no es permanente. Avanza por fases y se gradúa. Primero entra la seguridad y la presencia básica del Estado (tropa, juez, médico y maestro llegan en semanas, no en años). Luego se activan la economía y los servicios. Cuando el empleo formal se sostiene y el municipio empieza a sostenerse solo, el nodo se gradúa: la inversión y la infraestructura quedan, el equipo del Estado se recicla hacia el siguiente municipio. No se abandona el lugar, se vuelve autosuficiente.
+
+Y aquí está la regla que protege al modelo de la politiquería: **la expansión la dispara el resultado, no el calendario ni el favor político**. No se abre un nodo nuevo porque toca o porque conviene a alguien, sino cuando el anterior demuestra, con datos públicos y verificables, que funcionó. El gobierno que no saca adelante los primeros nodos no puede abrir los siguientes.
+
+### Qué NO es un nodo
+
+No es una zona especial con reglas distintas ni un enclave privilegiado para siempre. No es repartir parejo un presupuesto entre todos los municipios, que es justo lo que no funciona. Y no es abandonar al resto del país: mientras los nodos concentran la inversión productiva nueva, hay un piso de derechos y servicios que llega a todos por igual (ver el Piso Universal, 3.5). El nodo es donde el Estado invierte para producir; el piso universal es donde el Estado cumple para todos.
+
+> En una frase: un nodo es el Estado completo, concentrado en un lugar a la vez, que se queda hasta que el lugar cambie y solo entonces avanza al siguiente. Es la apuesta a que el Estado deje de llegar tarde, incompleto y en pedazos.
 
 ## 3.1 Fases de despliegue por nodo
 

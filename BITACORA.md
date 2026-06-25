@@ -33,3 +33,8 @@ A medida que el documento crecía y se partía en piezas, apareció un riesgo nu
 ## v1.8: La evolución visible
 
 Si la gracia de tener esto en Git es ver cómo evoluciona, valía la pena cuidarlo. Se dejaron de versionar los archivos generados, para que el historial muestre con claridad qué cambió en cada sección sin el ruido del archivo grande regenerándose entero. Y nació esta bitácora, para que la historia del plan no viva solo en los diffs técnicos, sino también en el relato de por qué fue cambiando. Porque al final, eso es lo que un ejercicio así tiene de valioso: no la certeza de tener razón, sino el registro honesto de un plan que se deja corregir.
+
+## v1.9: Decir qué es un nodo
+
+El plan giraba entero alrededor del nodo, pero en ninguna parte lo explicaba en palabras simples: se metía de una vez en fases, índices y blindajes. Un concepto que no se puede explicar en una frase no se puede defender en una plaza. Así que llegó una explicación al frente de la Columna Vertebral, sin tecnicismos: el nodo es el Estado completo, concentrado en un lugar a la vez, que se queda hasta que el lugar cambie y solo entonces avanza. La idea de fondo, que las cinco piezas (seguridad, economía, servicios, instituciones y tierra) entran juntas porque cada una hace funcionar a las demás, es lo que separa este modelo de cincuenta años de Estado que llega tarde, incompleto y en pedazos.
+
