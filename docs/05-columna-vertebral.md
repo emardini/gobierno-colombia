@@ -34,6 +34,8 @@ No es una zona especial con reglas distintas ni un enclave privilegiado para sie
 
 > En una frase: un nodo es el Estado completo, concentrado en un lugar a la vez, que se queda hasta que el lugar cambie y solo entonces avanza al siguiente. Es la apuesta a que el Estado deje de llegar tarde, incompleto y en pedazos.
 
+![Diagrama: qué es un nodo. Las cinco piezas (seguridad, economía, servicios, instituciones y tierra) entran juntas al nodo, que avanza por fases de la 0 a la graduación.](img/nodo-concepto.png)
+
 ## 3.0.1 Un nodo visto desde adentro: la historia de Wílmer
 
 *Escenario ilustrativo. Wílmer y sus primos son inventados; sirven para mostrar cómo encajan las piezas, no para prometer que a cada quien le irá así. Pero los componentes de la historia son reales: el cacao fino de Córdoba, el título que se vuelve crédito, las empresas operadoras comunitarias de agua y el programa Jóvenes en Paz existen y ya operan. El nodo es la apuesta a juntar, en una misma persona y un mismo pueblo, todas esas piezas que hoy llegan sueltas.*
@@ -73,6 +75,8 @@ La cooperativa, que empezó con cuarenta, ya pasa de cien asociados y emplea de 
 Cuando el empleo formal se sostiene y el pueblo camina solo, el equipo del Estado recoge y se va al siguiente municipio. No se lleva nada de lo que dejó. La vía queda. El catastro queda. La cooperativa, la marca, el banco que ya conoce a Wílmer, el acueducto que opera Éiner, la planta de chocolate, todo eso queda y sigue creciendo sin que nadie lo empuje desde afuera. Eso es graduarse.
 
 El empleo en un nodo no apareció porque alguien lo decretó. Apareció porque, por primera vez, todas las condiciones para que existiera estuvieron presentes al mismo tiempo y en el mismo lugar: había con qué producir, cómo sacarlo, a quién venderlo, con qué financiarlo, y la seguridad para que valiera la pena intentarlo. El empleo fue la consecuencia natural de que el Estado, por una vez, llegara completo.
+
+![Línea de tiempo de la historia de Wílmer, del año cero a la graduación del nodo, con los hitos de cada etapa.](img/wilmer-linea-tiempo.png)
 
 ## 3.1 Fases de despliegue por nodo
 

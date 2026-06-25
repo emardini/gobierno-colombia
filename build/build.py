@@ -107,6 +107,7 @@ def main():
         cmd = [
             "pandoc", OUT_MD, "-o", OUT_DOCX,
             "--toc", "--toc-depth=2",
+            "--resource-path", ROOT + os.pathsep + os.path.join(ROOT, "docs"),
             "--metadata", f"title={TITLE}",
         ]
         try:
