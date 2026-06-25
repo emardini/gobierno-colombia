@@ -2,6 +2,21 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.14] Diagrama de la plataforma de integridad
+
+- **Nuevo:** diagrama en docs/img/ (PNG y SVG) que muestra la plataforma de integridad del gasto: los módulos por dominio alimentan un motor común y este produce alertas con dos salidas (territorial: congela el desembolso; nacional: alimenta la Unidad de Macrocorrupción), con la banda de gobernanza. Incrustado en el Frente IV, en el sitio y en el Word.
+
+## [1.13] La herramienta como plataforma de integridad con módulos por dominio
+
+- **Reencuadrado:** la herramienta anticorrupción se presenta como lo que es, una plataforma de integridad del gasto público con un motor común y módulos por sector (contratación, salud, subsidios, nómina, PAE), no como una herramienta exclusiva de contratos. Regla clave: el mismo motor con reglas distintas por dominio, diseñadas por quien conoce cada sector.
+- **Nuevo:** orden de despliegue por madurez del dato (no por dónde duele más el robo) y salvaguarda reforzada de privacidad para el dominio de salud (datos agregados y de facturación, no diagnósticos; anonimización; habeas data).
+- **Conectado:** el Frente VI (Salud) enlaza su "castigo inescapable" con el módulo de salud de la plataforma, con su salvaguarda de privacidad explícita.
+
+## [1.12] Herramienta tecnológica anticorrupción
+
+- **Nuevo:** el Frente IV abre con un mapa de la estrategia anticorrupción en dos escalas (nacional y sistémica en el IV, territorial y municipal en el XIII) más la herramienta compartida (plataforma del Frente X), con remisiones, para que se lea como un solo cuerpo sin mover las piezas de donde su método las necesita.
+- **Nuevo:** sección detallada de la herramienta tecnológica de detección por dato: qué es y qué no es, las fuentes que cruza, el motor de alertas (señales concretas), cómo cose la escala territorial con la nacional, su gobernanza para que no sea un arma política, y los límites honestos de lo que NO puede hacer.
+
 ## [1.11] Diagramas del nodo y de la historia de Wílmer
 
 - **Nuevo:** dos figuras en docs/img/ (PNG para el Word y SVG editable como fuente). Un diagrama del concepto de nodo (las cinco piezas que entran juntas y las fases 0 a graduación) y una línea de tiempo de la historia de Wílmer (del año cero a la graduación). Quedan incrustadas en el sitio y en el Word.
