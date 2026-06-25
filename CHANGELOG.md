@@ -2,6 +2,11 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.12] Herramienta tecnológica anticorrupción
+
+- **Nuevo:** el Frente IV abre con un mapa de la estrategia anticorrupción en dos escalas (nacional y sistémica en el IV, territorial y municipal en el XIII) más la herramienta compartida (plataforma del Frente X), con remisiones, para que se lea como un solo cuerpo sin mover las piezas de donde su método las necesita.
+- **Nuevo:** sección detallada de la herramienta tecnológica de detección por dato: qué es y qué no es, las fuentes que cruza, el motor de alertas (señales concretas), cómo cose la escala territorial con la nacional, su gobernanza para que no sea un arma política, y los límites honestos de lo que NO puede hacer.
+
 ## [1.11] Diagramas del nodo y de la historia de Wílmer
 
 - **Nuevo:** dos figuras en docs/img/ (PNG para el Word y SVG editable como fuente). Un diagrama del concepto de nodo (las cinco piezas que entran juntas y las fases 0 a graduación) y una línea de tiempo de la historia de Wílmer (del año cero a la graduación). Quedan incrustadas en el sitio y en el Word.
