@@ -46,4 +46,5 @@
   - [Cómo contribuir](CONTRIBUTING.md)
   - [Gobernanza](GOVERNANCE.md)
   - [Cómo publicar el sitio](COMO-PUBLICAR.md)
-  - [Cambios](CHANGELOG.md)
+  - [Bitácora: cómo evolucionó](BITACORA.md)
+  - [Cambios (técnico)](CHANGELOG.md)

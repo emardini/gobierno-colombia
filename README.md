@@ -22,7 +22,7 @@ Esa tesis es el **núcleo** del proyecto y no se cambia por propuesta. Todo lo d
 
 ## Cómo leerlo
 
-El documento completo está partido en archivos por sección. También está disponible como un solo archivo en [`programa-completo.md`](programa-completo.md) y como Word en la carpeta [`dist/`](dist/).
+El documento completo está partido en archivos por sección (la fuente de verdad). El documento consolidado en un solo archivo y el Word no se versionan: se *generan* con el build (ver más abajo) y se publican como artefactos y releases en GitHub. Para tenerlos en tu máquina, corre `./build.sh`.
 
 ### Fundamentos (núcleo)
 1. [Visión Colombia 2042](docs/01-vision-2042.md), el horizonte de generación
@@ -73,7 +73,7 @@ Cualquiera puede proponer. El modelo de gobernanza es el de un proyecto de códi
 - **Se reciben:** correcciones con evidencia, objeciones jurídicas o fiscales, datos territoriales, mejoras de redacción y claridad.
 - **No se reciben:** reescrituras de la tesis (las dos raíces, el modelo de nodos, los principios). Esas se cierran con respeto.
 
-Lee [CONTRIBUTING.md](CONTRIBUTING.md) antes de proponer, y [GOVERNANCE.md](GOVERNANCE.md) para entender cómo se decide. El historial de cambios está en [CHANGELOG.md](CHANGELOG.md).
+Lee [CONTRIBUTING.md](CONTRIBUTING.md) antes de proponer, y [GOVERNANCE.md](GOVERNANCE.md) para entender cómo se decide. El historial técnico de cambios está en [CHANGELOG.md](CHANGELOG.md), y el relato de por qué el plan fue cambiando, en la [bitácora](BITACORA.md).
 
 ---
 

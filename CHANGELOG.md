@@ -2,6 +2,11 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.8] Evolución visible
+
+- Los archivos generados (programa-completo.md y el Word de dist/) dejan de versionarse: se producen con el build y se publican como artefactos y releases. Así el historial muestra con claridad qué cambió en cada sección, sin el ruido del documento consolidado regenerándose entero.
+- **Nuevo:** BITACORA.md, el relato en lenguaje natural de por qué el plan fue cambiando versión a versión (el CHANGELOG dice qué cambió; la bitácora, por qué).
+
 ## [1.7] Proceso de build
 
 - **Nuevo:** sistema de build que define los archivos de docs/ como única fuente de verdad y genera el documento completo (programa-completo.md) y el Word a partir de ellos. Incluye build/manifest.txt (orden canónico), build/build.py (con validación: avisa si un archivo de docs/ queda fuera del manifiesto), y build.sh para construir en local.

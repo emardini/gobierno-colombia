@@ -3,5 +3,8 @@
 *.bak
 .DS_Store
 ~$*
-# Salidas de construcción que no se versionan (se publican como release)
-/build/
+
+# Archivos GENERADOS por el build (no se versionan; se producen con ./build.sh
+# o se descargan de los artefactos/releases de GitHub Actions).
+/programa-completo.md
+/dist/
