@@ -2,6 +2,14 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.4] — Módulo de Productividad Urbana
+
+Incorporación de una agenda explícita de productividad y competitividad sobre la economía que ya existe, tras constatar que el país crea empleo formal mientras la productividad por trabajador cae (diagnóstico 2025–2026).
+
+- **Nuevo:** sección 12.3 "Módulo de Productividad Urbana" en el Frente XII, con seis componentes: recualificación del trabajador en activo, extensionismo tecnológico para pymes (difusión, no invención), fin del castigo al crecimiento (el "enano fiscal"), competencia con dientes y costos de insumos, profundización de los clústeres urbanos existentes, y la ciudad que funciona. Aplica el principio "activar lo que ya se pagó" al tejido productivo, no solo a la infraestructura.
+- **Nuevo:** métricas de productividad (valor agregado por trabajador, tasa de graduación de firmas) en el módulo y en la sección global de Medición, para corregir la trampa de "más empleo, menos productividad".
+- Renumeración de las secciones de turismo del Frente XII (12.3→12.4, 12.4→12.5).
+
 ## [1.3] — Verificación jurídica
 
 Contraste de las clasificaciones jurídicas con el estado real del derecho colombiano (a 2026).
