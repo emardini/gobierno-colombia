@@ -1,9 +1,10 @@
 ---
 title: "PROGRAMA DE GOBIERNO: ESTADO EN EL TERRITORIO"
 subtitle: "Empleo de calidad, instituciones honestas y carga justa"
-date: "Versión reorganizada e integrada, Junio 2026"
+date: "Version reorganizada e integrada"
 lang: es
 ---
+<!-- ARCHIVO GENERADO POR build/build.py. NO LO EDITES A MANO. Edita los archivos de docs/ y vuelve a correr el build. -->
 
 # Nota de esta versión
 

@@ -2,6 +2,12 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.7] Proceso de build
+
+- **Nuevo:** sistema de build que define los archivos de docs/ como única fuente de verdad y genera el documento completo (programa-completo.md) y el Word a partir de ellos. Incluye build/manifest.txt (orden canónico), build/build.py (con validación: avisa si un archivo de docs/ queda fuera del manifiesto), y build.sh para construir en local.
+- **Nuevo:** flujo de GitHub Actions que construye en cada push, publica los entregables como artefactos descargables y, en etiquetas de versión, crea un Release con el markdown y el Word adjuntos.
+- Esto elimina el riesgo de desincronización entre los archivos partidos y el documento consolidado que causó errores en versiones anteriores.
+
 ## [1.6] Productividad rural y simetría campo-ciudad
 
 - **Nuevo:** Módulo de Productividad Rural en el Frente II, gemelo del urbano: el título como activo productivo (crédito contra título), extensión agropecuaria por resultados, sanidad e inocuidad para exportar, agregación de valor y procesamiento local, riego y bienes públicos, con métricas propias (rendimiento por hectárea, valor agregado retenido en el territorio, exportación agro, uso del título como colateral).

@@ -83,6 +83,20 @@ Esto es un ejercicio intelectual, no una campaña. Su valor no depende de que al
 
 Los análisis jurídicos y fiscales son **análisis de política, no conceptos vinculantes**, y deben confirmarse con asesoría especializada. Las cifras provienen de fuentes oficiales 2025-2026 y están sujetas a revisión.
 
+## Cómo se construye (build)
+
+La fuente de verdad son los archivos de `docs/`. El documento completo (`programa-completo.md`) y el Word (`dist/estado-en-el-territorio.docx`) se *generan* a partir de ellos; no se editan a mano. El orden de las secciones está en [`build/manifest.txt`](build/manifest.txt).
+
+Para construir en tu máquina (requiere `python3` y, para el Word, `pandoc`):
+
+```bash
+./build.sh
+```
+
+Esto une los archivos de `docs/` en el orden del manifiesto, quita los banners de capa, arma `programa-completo.md` y produce el Word. Si añades una sección nueva en `docs/`, agrégala también al manifiesto; el build avisa si un archivo de `docs/` quedó fuera.
+
+En GitHub, el flujo de Actions ([`.github/workflows/build.yml`](.github/workflows/build.yml)) corre el build en cada push y deja el markdown y el Word como *artefactos* descargables. Al publicar una etiqueta de versión (por ejemplo `v1.7`), además crea un *Release* con ambos archivos adjuntos.
+
 ## Ver el plan como sitio web
 
 El repositorio ya viene listo para publicarse como un sitio navegable (con barra lateral y buscador) usando GitHub Pages. Los archivos necesarios ya están incluidos. Los pasos están en [COMO-PUBLICAR.md](COMO-PUBLICAR.md): en resumen, Settings, Pages, Source "Deploy from a branch", rama `main`, carpeta `/ (root)`, y el sitio queda en `https://TU-USUARIO.github.io/TU-REPO/`.
