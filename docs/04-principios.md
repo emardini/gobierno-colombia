@@ -1,4 +1,4 @@
-> **NÚCLEO — no se modifica por propuesta.** Esta sección expresa la tesis del proyecto. Las propuestas que la contradigan se cierran con respeto; ver [CONTRIBUTING](../CONTRIBUTING.md).
+> **NÚCLEO, no se modifica por propuesta.** Esta sección expresa la tesis del proyecto. Las propuestas que la contradigan se cierran con respeto; ver [CONTRIBUTING](../CONTRIBUTING.md).
 
 # 2. Principios Rectores
 
@@ -9,6 +9,6 @@
 - **Construir sobre lo construido:** preservar lo que sirve, corregir lo podrido.
 - **Contrapesos antes que confianza:** no depender de la buena fe de ningún actor.
 - **Reversibilidad por evidencia, irreversibilidad por capricho:** lo construido se protege del abandono clientelista, pero conserva una rampa de salida legítima si los datos públicos muestran que falló.
-- **La carga** en seguridad, impuestos y ajuste nunca recae sobre los más pobres.
+- **La carga**, en seguridad, impuestos y ajuste, nunca recae sobre los más pobres.
 
 ---

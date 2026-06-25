@@ -1,6 +1,6 @@
-> **NÚCLEO — no se modifica por propuesta.** Esta sección expresa la tesis del proyecto. Las propuestas que la contradigan se cierran con respeto; ver [CONTRIBUTING](../CONTRIBUTING.md).
+> **NÚCLEO, no se modifica por propuesta.** Esta sección expresa la tesis del proyecto. Las propuestas que la contradigan se cierran con respeto; ver [CONTRIBUTING](../CONTRIBUTING.md).
 
-# 0. El Modelo de País — La Brújula
+# 0. El Modelo de País: La Brújula
 
 Tres anclajes derivados de examinar decisiones, no de etiquetas ideológicas:
 
