@@ -2,6 +2,12 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.13] La herramienta como plataforma de integridad con módulos por dominio
+
+- **Reencuadrado:** la herramienta anticorrupción se presenta como lo que es, una plataforma de integridad del gasto público con un motor común y módulos por sector (contratación, salud, subsidios, nómina, PAE), no como una herramienta exclusiva de contratos. Regla clave: el mismo motor con reglas distintas por dominio, diseñadas por quien conoce cada sector.
+- **Nuevo:** orden de despliegue por madurez del dato (no por dónde duele más el robo) y salvaguarda reforzada de privacidad para el dominio de salud (datos agregados y de facturación, no diagnósticos; anonimización; habeas data).
+- **Conectado:** el Frente VI (Salud) enlaza su "castigo inescapable" con el módulo de salud de la plataforma, con su salvaguarda de privacidad explícita.
+
 ## [1.12] Herramienta tecnológica anticorrupción
 
 - **Nuevo:** el Frente IV abre con un mapa de la estrategia anticorrupción en dos escalas (nacional y sistémica en el IV, territorial y municipal en el XIII) más la herramienta compartida (plataforma del Frente X), con remisiones, para que se lea como un solo cuerpo sin mover las piezas de donde su método las necesita.

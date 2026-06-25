@@ -67,6 +67,24 @@ El motor compara, cruza y marca patrones. Cada alerta es una bandera para que un
 
 Aquí está lo que hace a la herramienta el hilo de toda la estrategia. La misma alerta sirve en dos direcciones. Hacia abajo, en lo territorial: una alerta roja sin respuesta congela el siguiente desembolso del nodo y dispara la interventoría del Frente XIII, sin necesidad de esperar a un juez. Hacia arriba, en lo sistémico: si la misma empresa, o los mismos socios, o el mismo patrón aparecen en nueve departamentos, eso ya no es un caso, es una red, y ahí entra la Unidad de Macrocorrupción a reconstruir el sistema completo. La herramienta detecta el caso pequeño y, al mismo tiempo, revela el patrón grande del que ese caso era apenas un nodo.
 
+### El mismo motor, otros dominios del gasto
+
+Conviene ver la herramienta por lo que de verdad es. No es "anticorrupción de contratos", es detección de anomalías sobre los flujos de dinero y datos del Estado. La contratación de obra es solo el primer dominio donde se aplica, porque ahí el patrón es más claro. Pero el mismo motor sirve en cualquier parte donde el Estado mueve plata o presta un servicio dejando datos. Es, en rigor, una **plataforma de integridad del gasto público** con un motor común y módulos por sector.
+
+| Dominio | La señal análoga que detecta | Dónde vive |
+|---|---|---|
+| Contratación de obra | Empresa fantasma, sobreprecio, fraccionamiento, obra desembolsada y no construida | Módulo 1 (este frente) |
+| Salud | Facturación de procedimientos no realizados, recobros por encima del precio de referencia, pacientes fantasma o fallecidos que siguen "atendidos" | Frente VI |
+| Subsidios y transferencias | Beneficiarios duplicados, fallecidos que cobran, ingresos que no cuadran con el subsidio recibido | Frente XI y programas sociales |
+| Nómina pública | Muertos de nómina, una misma persona en dos cargos incompatibles | Frente VIII |
+| PAE y compras de bienes | Proveedores y precios anómalos, entregas reales por debajo de lo facturado | Frentes VII y XIII |
+
+La regla que evita el desastre: **no es la misma herramienta repetida, es el mismo motor con reglas distintas por dominio.** La infraestructura (integrar datos, comparar contra un patrón normal, marcar lo anómalo, publicarlo) se reutiliza, y ahí está el ahorro: construir el motor una vez y aplicarlo a cinco sectores rinde mucho más que cinco sistemas sueltos. Pero las reglas de detección las diseña quien conoce cada sector, porque lo anómalo en una obra no es lo anómalo en una factura médica, y un cruce mal calibrado produce miles de falsos positivos.
+
+Y el orden de despliegue lo manda el dato, no el dolor: se empieza por los dominios donde la información ya existe y tiene calidad, no por donde más duele el robo. Salud, por ejemplo, exige que la facturación electrónica del sector esté ordenada antes de que el módulo sirva de algo.
+
+Salud merece una salvedad de fondo, porque sus datos son clínicos y personales, los más sensibles que existen. En contratación, cruzar quién le ganó qué a quién es información que debería ser pública. En salud, cruzar la facturación de un paciente roza su historia clínica, donde el habeas data y la reserva médica no son un trámite sino un derecho. La diferencia entre cazar al cartel de los recobros y vigilar al enfermo está en el diseño: trabajar sobre datos agregados y de facturación, no sobre diagnósticos individuales; anonimizar donde se pueda; y mantener al operador independiente y auditable. El mismo cuidado de los límites de abajo, subido de nivel porque el dato es más íntimo.
+
 ### Quién la maneja, para que no se vuelva un arma política
 
 Una plataforma que cruza los datos de todos es poderosa y, por eso mismo, peligrosa. El blindaje es parte del diseño, no un añadido: la opera un ente independiente del que ejecuta el gasto (Contraloría y veeduría, como define el Frente X), sus datos son abiertos y descargables para que cualquier periodista o ciudadano corra sus propias consultas, las alertas son públicas, y las reglas de detección son auditables, para que nadie las afloje a conveniencia ni las afile contra un opositor. Se construye sobre lo que ya existe (SECOP, UIAF y Cuentas Claras ya son estatales o públicos), así que es sobre todo un trabajo de interoperabilidad (Frente VIII) por decreto y reglamento, no una ley nueva. El uso de datos personales se sujeta al habeas data (Ley 1581 de 2012).
