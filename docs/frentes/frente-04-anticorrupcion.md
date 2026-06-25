@@ -12,7 +12,7 @@ La lucha anticorrupción del plan no está toda en este frente, y conviene leerl
 
 - **Escala nacional y sistémica (este Frente IV).** La gran corrupción tratada como red, no como caso suelto: la Unidad de Macrocorrupción en la Fiscalía, la financiación de campañas, la extinción de dominio, el fondo de reparación.
 - **Escala territorial y municipal (Frente XIII, secciones 13.9 y 13.10).** La corrupción en alcaldías y gobernaciones, atacada con diseño de mecanismos: interventoría nacional obligatoria, pago directo nación-proveedor, techos de concentración por empresa, rendición en vivo y un protocolo de alertas por niveles. Vive en el XIII porque su método es el diseño de mecanismos, que es el corazón de ese frente.
-- **La herramienta que conecta ambas (la plataforma de trazabilidad, "Sistema Nervioso", Frente X).** La infraestructura de datos que sigue cada peso del gasto público. Aquí abajo se detalla el motor anticorrupción que corre sobre ella, porque es el hilo que cose la escala territorial con la nacional: la misma alerta que congela un contrato municipal puede revelar la red que opera en nueve departamentos.
+- **La herramienta que conecta ambas (la plataforma de trazabilidad, el "Sistema Nervioso" del Estado).** La infraestructura de datos que sigue cada peso del gasto público, descrita en su sección transversal propia, [Plataforma de Trazabilidad del Gasto](../transversal/plataforma-trazabilidad.md). Aquí abajo se detalla el motor anticorrupción que corre sobre ella, porque es el hilo que cose la escala territorial con la nacional: la misma alerta que congela un contrato municipal puede revelar la red que opera en nueve departamentos.
 
 | Capa | Medida | Responsable | Plazo | Vía jurídica |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ Toda la estrategia descansa en una promesa que hay que volver concreta: detectar
 
 ### Qué es (y qué no es)
 
-No es una inteligencia artificial que "descubre corruptos". Es un sistema de integración de datos y detección de anomalías que corre sobre la plataforma de trazabilidad del gasto (Frente X). Su premisa es simple: casi toda corrupción que toca el gasto público deja huella en los datos. Una empresa que gana un contrato grande pero no tiene un solo empleado en planilla. Un precio unitario muy por encima del de la región. Un "concurso" con un solo proponente, o con tres que comparten dirección y dueño. La huella existe; el problema es que hoy vive dispersa en bases que no se hablan entre sí. La herramienta no inventa información nueva, hace visible y comparable la que ya existe.
+No es una inteligencia artificial que "descubre corruptos". Es un sistema de integración de datos y detección de anomalías que corre sobre la plataforma de trazabilidad del gasto (su sección transversal propia). Su premisa es simple: casi toda corrupción que toca el gasto público deja huella en los datos. Una empresa que gana un contrato grande pero no tiene un solo empleado en planilla. Un precio unitario muy por encima del de la región. Un "concurso" con un solo proponente, o con tres que comparten dirección y dueño. La huella existe; el problema es que hoy vive dispersa en bases que no se hablan entre sí. La herramienta no inventa información nueva, hace visible y comparable la que ya existe.
 
 ### De dónde saca los datos
 
@@ -89,7 +89,7 @@ Salud merece una salvedad de fondo, porque sus datos son clínicos y personales,
 
 ### Quién la maneja, para que no se vuelva un arma política
 
-Una plataforma que cruza los datos de todos es poderosa y, por eso mismo, peligrosa. El blindaje es parte del diseño, no un añadido: la opera un ente independiente del que ejecuta el gasto (Contraloría y veeduría, como define el Frente X), sus datos son abiertos y descargables para que cualquier periodista o ciudadano corra sus propias consultas, las alertas son públicas, y las reglas de detección son auditables, para que nadie las afloje a conveniencia ni las afile contra un opositor. Se construye sobre lo que ya existe (SECOP, UIAF y Cuentas Claras ya son estatales o públicos), así que es sobre todo un trabajo de interoperabilidad (Frente VIII) por decreto y reglamento, no una ley nueva. El uso de datos personales se sujeta al habeas data (Ley 1581 de 2012).
+Una plataforma que cruza los datos de todos es poderosa y, por eso mismo, peligrosa. El blindaje es parte del diseño, no un añadido: la opera un ente independiente del que ejecuta el gasto (Contraloría y veeduría, como define la sección de la Plataforma de Trazabilidad), sus datos son abiertos y descargables para que cualquier periodista o ciudadano corra sus propias consultas, las alertas son públicas, y las reglas de detección son auditables, para que nadie las afloje a conveniencia ni las afile contra un opositor. Se construye sobre lo que ya existe (SECOP, UIAF y Cuentas Claras ya son estatales o públicos), así que es sobre todo un trabajo de interoperabilidad (Frente VIII) por decreto y reglamento, no una ley nueva. El uso de datos personales se sujeta al habeas data (Ley 1581 de 2012).
 
 ### Límites y qué NO puede hacer
 
