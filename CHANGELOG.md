@@ -2,6 +2,11 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.15] Sistema Nervioso conectado con la plataforma de integridad
+
+- **Conectado:** la sección "Sistema Nervioso" del Frente X deja de describir el motor de alertas por su cuenta y se presenta como la infraestructura (la cañería de datos) sobre la que corre la plataforma de integridad detallada en el Frente IV, con remisión explícita. Se evita la duplicación que causaba el riesgo de desincronización entre las dos secciones.
+- Se aligera la fila del motor (las señales y módulos viven en el IV), se conserva la inteligencia financiera (flujos de grupos armados) como uso propio de seguridad distinto de la detección de corrupción, y se subraya el rol transversal y de primer cliente del Frente X.
+
 ## [1.14] Diagrama de la plataforma de integridad
 
 - **Nuevo:** diagrama en docs/img/ (PNG y SVG) que muestra la plataforma de integridad del gasto: los módulos por dominio alimentan un motor común y este produce alertas con dos salidas (territorial: congela el desembolso; nacional: alimenta la Unidad de Macrocorrupción), con la banda de gobernanza. Incrustado en el Frente IV, en el sitio y en el Word.

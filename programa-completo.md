@@ -831,15 +831,18 @@ No es paralelo a los demás, es la capa de valor agregado que el programa ya con
 
 ## Sistema Nervioso: Plataforma de Trazabilidad del Gasto Público
 
-Una infraestructura transversal que sigue cada peso desde que entra hasta que se gasta en algo real. Habilitante común de todos los frentes y primer cliente de las capacidades del Frente X.
+Una infraestructura transversal que sigue cada peso público desde que entra hasta que se gasta en algo real. Es el habilitante común de todos los frentes: la cañería de datos sobre la que corren muchas cosas, entre ellas la plataforma de integridad del gasto que se detalla en el Frente IV. Aquí vive la infraestructura; allá, su aplicación anticorrupción (el motor, los módulos por dominio, las dos escalas y los límites). Y es, además, el primer cliente de las capacidades tecnológicas nacionales del propio Frente X: el Estado se compra a sí mismo lo que predica.
 
 | Componente | Medida | Responsable | Plazo |
 |---|---|---|---|
-| Integración de bases | Interoperar SECOP, Cuentas Claras, PILA, DIAN, catastro, UIAF; API pública | DNP + DIAN + IGAC + UIAF | Año 1 |
-| Motor de alertas | Sobreprecio, oferente único, contrato fraccionado, beneficiario fantasma, flujos de grupos armados | Ente independiente (Contraloría + Veeduría) | Años 1-2 |
+| Integración de bases | Interoperar SECOP, Cuentas Claras, PILA, DIAN, catastro, UIAF y demás fuentes; API pública. Es la base común que alimenta tanto la gestión del gasto como la detección de anomalías | DNP + DIAN + IGAC + UIAF | Año 1 |
+| Motor de detección | Corre sobre esta infraestructura. Las señales concretas y los módulos por dominio (contratación, salud, subsidios, nómina) se detallan en el Frente IV, para no duplicarlos aquí | Ente independiente (Contraloría + Veeduría) | Años 1-2 |
+| Inteligencia financiera | Uso propio de seguridad, distinto de la detección de corrupción en el gasto: rastreo de flujos financieros de grupos armados, en coordinación con la UIAF | UIAF + Min. Defensa | Años 1-2 |
 | Datos abiertos | Toda la plataforma descargable; actualización diaria; API para periodistas y veedores | DNP + Min. TIC | Año 2 |
 | Independencia | Administrada por ente independiente del que ejecuta; director por méritos; presupuesto protegido | Contraloría + Veeduría | Año 1 |
 | Acople a Fiscalía | Las alertas disparan investigación con respuesta máx. 30 días; se publica la tasa de conversión alerta-imputación | Fiscalía + Contraloría | Año 2 |
+
+> El reparto con el Frente IV es deliberado: el Frente X construye y opera la infraestructura (la cañería), el Frente IV explica qué corre por ella (la plataforma de integridad). Así, cambiar una señal de detección se hace en un solo lugar y no hay que sincronizar dos secciones.
 
 # Frente XI: Piso Universal de Servicios Básicos
 
