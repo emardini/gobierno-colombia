@@ -2,6 +2,10 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.14] Diagrama de la plataforma de integridad
+
+- **Nuevo:** diagrama en docs/img/ (PNG y SVG) que muestra la plataforma de integridad del gasto: los módulos por dominio alimentan un motor común y este produce alertas con dos salidas (territorial: congela el desembolso; nacional: alimenta la Unidad de Macrocorrupción), con la banda de gobernanza. Incrustado en el Frente IV, en el sitio y en el Word.
+
 ## [1.13] La herramienta como plataforma de integridad con módulos por dominio
 
 - **Reencuadrado:** la herramienta anticorrupción se presenta como lo que es, una plataforma de integridad del gasto público con un motor común y módulos por sector (contratación, salud, subsidios, nómina, PAE), no como una herramienta exclusiva de contratos. Regla clave: el mismo motor con reglas distintas por dominio, diseñadas por quien conoce cada sector.
