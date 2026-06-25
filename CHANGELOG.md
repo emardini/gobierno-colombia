@@ -2,6 +2,12 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.16] La plataforma de trazabilidad pasa a sección transversal
+
+- **Movido:** la descripción de la plataforma de trazabilidad del gasto sale del Frente X (Industria Avanzada), donde encajaba forzada, y pasa a una sección transversal propia. La plataforma no es política industrial, es infraestructura del Estado entero (habilita los frentes IV, VI, XIII, III y los nodos), así que ahora tiene una sola casa coherente con su naturaleza.
+- En el Frente X queda solo una mención breve, como ejemplo del principio de "primer cliente" (el Estado se compra una capacidad tecnológica nacional), con remisión a la sección transversal.
+- Actualizadas las referencias cruzadas (Frentes IV, VI y Columna Vertebral) para apuntar a la sección transversal en vez de al Frente X.
+
 ## [1.15] Sistema Nervioso conectado con la plataforma de integridad
 
 - **Conectado:** la sección "Sistema Nervioso" del Frente X deja de describir el motor de alertas por su cuenta y se presenta como la infraestructura (la cañería de datos) sobre la que corre la plataforma de integridad detallada en el Frente IV, con remisión explícita. Se evita la duplicación que causaba el riesgo de desincronización entre las dos secciones.

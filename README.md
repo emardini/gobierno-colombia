@@ -53,6 +53,7 @@ El documento completo está partido en archivos por sección (la fuente de verda
 - [Cuadro fiscal de dos escenarios](docs/transversal/cuadro-fiscal.md)
 - [Fundamentos en la investigación reciente](docs/transversal/fundamentos-investigacion.md)
 - [Productividad y competitividad nacional](docs/transversal/productividad-competitividad.md)
+- [Plataforma de trazabilidad del gasto](docs/transversal/plataforma-trazabilidad.md)
 
 ### Cierre
 - [Secuencia de gobierno y transición](docs/cierre/secuencia-gobierno.md)

@@ -31,6 +31,7 @@
   - [Cuadro fiscal](docs/transversal/cuadro-fiscal.md)
   - [Fundamentos de investigación](docs/transversal/fundamentos-investigacion.md)
   - [Productividad y competitividad](docs/transversal/productividad-competitividad.md)
+  - [Plataforma de trazabilidad del gasto](docs/transversal/plataforma-trazabilidad.md)
 
 - **Cierre**
   - [Secuencia de gobierno](docs/cierre/secuencia-gobierno.md)

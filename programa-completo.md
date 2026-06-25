@@ -344,7 +344,7 @@ Lo que a primera vista parecen "otros frentes" sueltos son, en el fondo, el anda
 - El **Gerente de Nodo** (Frente VIII) es el director de orquesta, el responsable único de que la vía, el catastro, el crédito y la seguridad lleguen sincronizados y no cada uno por su lado, como llegan hoy.
 - Los **Equipos Territoriales** (Frente VIII) son la gente con las botas puestas haciendo que eso pase en el terreno.
 - El **protocolo de los 100 días** (3.3.3) es la partitura: qué tiene que estar listo el día 7, el día 30, el día 100.
-- La **plataforma de trazabilidad** (Frente X) es el tablero que muestra en tiempo real si la coreografía va a ritmo o se está descuadrando.
+- La **plataforma de trazabilidad** (su sección transversal) es el tablero que muestra en tiempo real si la coreografía va a ritmo o se está descuadrando.
 - El **diseño de mecanismos** (Frente XIII) reconoce que no se puede confiar en que cada actor coopere por buena voluntad, y diseña las reglas para que le convenga cooperar aunque no quiera.
 
 ### Por qué es fortaleza y riesgo a la vez
@@ -549,7 +549,7 @@ La lucha anticorrupción del plan no está toda en este frente, y conviene leerl
 
 - **Escala nacional y sistémica (este Frente IV).** La gran corrupción tratada como red, no como caso suelto: la Unidad de Macrocorrupción en la Fiscalía, la financiación de campañas, la extinción de dominio, el fondo de reparación.
 - **Escala territorial y municipal (Frente XIII, secciones 13.9 y 13.10).** La corrupción en alcaldías y gobernaciones, atacada con diseño de mecanismos: interventoría nacional obligatoria, pago directo nación-proveedor, techos de concentración por empresa, rendición en vivo y un protocolo de alertas por niveles. Vive en el XIII porque su método es el diseño de mecanismos, que es el corazón de ese frente.
-- **La herramienta que conecta ambas (la plataforma de trazabilidad, "Sistema Nervioso", Frente X).** La infraestructura de datos que sigue cada peso del gasto público. Aquí abajo se detalla el motor anticorrupción que corre sobre ella, porque es el hilo que cose la escala territorial con la nacional: la misma alerta que congela un contrato municipal puede revelar la red que opera en nueve departamentos.
+- **La herramienta que conecta ambas (la plataforma de trazabilidad, el "Sistema Nervioso" del Estado).** La infraestructura de datos que sigue cada peso del gasto público, descrita en su sección transversal propia, [Plataforma de Trazabilidad del Gasto](../transversal/plataforma-trazabilidad.md). Aquí abajo se detalla el motor anticorrupción que corre sobre ella, porque es el hilo que cose la escala territorial con la nacional: la misma alerta que congela un contrato municipal puede revelar la red que opera en nueve departamentos.
 
 | Capa | Medida | Responsable | Plazo | Vía jurídica |
 |---|---|---|---|---|
@@ -567,7 +567,7 @@ Toda la estrategia descansa en una promesa que hay que volver concreta: detectar
 
 ### Qué es (y qué no es)
 
-No es una inteligencia artificial que "descubre corruptos". Es un sistema de integración de datos y detección de anomalías que corre sobre la plataforma de trazabilidad del gasto (Frente X). Su premisa es simple: casi toda corrupción que toca el gasto público deja huella en los datos. Una empresa que gana un contrato grande pero no tiene un solo empleado en planilla. Un precio unitario muy por encima del de la región. Un "concurso" con un solo proponente, o con tres que comparten dirección y dueño. La huella existe; el problema es que hoy vive dispersa en bases que no se hablan entre sí. La herramienta no inventa información nueva, hace visible y comparable la que ya existe.
+No es una inteligencia artificial que "descubre corruptos". Es un sistema de integración de datos y detección de anomalías que corre sobre la plataforma de trazabilidad del gasto (su sección transversal propia). Su premisa es simple: casi toda corrupción que toca el gasto público deja huella en los datos. Una empresa que gana un contrato grande pero no tiene un solo empleado en planilla. Un precio unitario muy por encima del de la región. Un "concurso" con un solo proponente, o con tres que comparten dirección y dueño. La huella existe; el problema es que hoy vive dispersa en bases que no se hablan entre sí. La herramienta no inventa información nueva, hace visible y comparable la que ya existe.
 
 ### De dónde saca los datos
 
@@ -626,7 +626,7 @@ Salud merece una salvedad de fondo, porque sus datos son clínicos y personales,
 
 ### Quién la maneja, para que no se vuelva un arma política
 
-Una plataforma que cruza los datos de todos es poderosa y, por eso mismo, peligrosa. El blindaje es parte del diseño, no un añadido: la opera un ente independiente del que ejecuta el gasto (Contraloría y veeduría, como define el Frente X), sus datos son abiertos y descargables para que cualquier periodista o ciudadano corra sus propias consultas, las alertas son públicas, y las reglas de detección son auditables, para que nadie las afloje a conveniencia ni las afile contra un opositor. Se construye sobre lo que ya existe (SECOP, UIAF y Cuentas Claras ya son estatales o públicos), así que es sobre todo un trabajo de interoperabilidad (Frente VIII) por decreto y reglamento, no una ley nueva. El uso de datos personales se sujeta al habeas data (Ley 1581 de 2012).
+Una plataforma que cruza los datos de todos es poderosa y, por eso mismo, peligrosa. El blindaje es parte del diseño, no un añadido: la opera un ente independiente del que ejecuta el gasto (Contraloría y veeduría, como define la sección de la Plataforma de Trazabilidad), sus datos son abiertos y descargables para que cualquier periodista o ciudadano corra sus propias consultas, las alertas son públicas, y las reglas de detección son auditables, para que nadie las afloje a conveniencia ni las afile contra un opositor. Se construye sobre lo que ya existe (SECOP, UIAF y Cuentas Claras ya son estatales o públicos), así que es sobre todo un trabajo de interoperabilidad (Frente VIII) por decreto y reglamento, no una ley nueva. El uso de datos personales se sujeta al habeas data (Ley 1581 de 2012).
 
 ### Límites y qué NO puede hacer
 
@@ -829,20 +829,9 @@ No es paralelo a los demás, es la capa de valor agregado que el programa ya con
 - **Concentración de recursos escasos:** dos o tres clústeres con ventaja real, no financiar todo un poco. Esa valentía distingue una política industrial de un catálogo.
 - **Disciplina por desempeño externo (el principio que separa a Corea de la sustitución de importaciones fallida).** La nueva economía de la política industrial (Juhász, Lane y Rodrik, 2024) muestra que la política industrial funciona cuando el apoyo es *condicional, temporal y atado a una métrica externa difícil de falsificar*, y fracasa cuando es permanente, multiplica objetivos y se captura. El empuje coreano de industria pesada funcionó porque ató el apoyo a **exportaciones**: una métrica que un comprador extranjero debe pagar. Por eso, el escalamiento del apoyo a COTECMAR, los APIs y los antidrones se condiciona a **ingreso por exportación verificado por terceros** (o, en su defecto, a productividad medida por un evaluador independiente), no a producción ni a empleo, que son falsificables. El apoyo tiene cláusula de reversión y vencimiento: quien no alcanza el umbral de exportación pierde el beneficio. La compra pública doméstica es la rampa de entrada; la exportación es la prueba de que la apuesta funciona.
 
-## Sistema Nervioso: Plataforma de Trazabilidad del Gasto Público
+## La plataforma de trazabilidad: un ejemplo de "primer cliente"
 
-Una infraestructura transversal que sigue cada peso público desde que entra hasta que se gasta en algo real. Es el habilitante común de todos los frentes: la cañería de datos sobre la que corren muchas cosas, entre ellas la plataforma de integridad del gasto que se detalla en el Frente IV. Aquí vive la infraestructura; allá, su aplicación anticorrupción (el motor, los módulos por dominio, las dos escalas y los límites). Y es, además, el primer cliente de las capacidades tecnológicas nacionales del propio Frente X: el Estado se compra a sí mismo lo que predica.
-
-| Componente | Medida | Responsable | Plazo |
-|---|---|---|---|
-| Integración de bases | Interoperar SECOP, Cuentas Claras, PILA, DIAN, catastro, UIAF y demás fuentes; API pública. Es la base común que alimenta tanto la gestión del gasto como la detección de anomalías | DNP + DIAN + IGAC + UIAF | Año 1 |
-| Motor de detección | Corre sobre esta infraestructura. Las señales concretas y los módulos por dominio (contratación, salud, subsidios, nómina) se detallan en el Frente IV, para no duplicarlos aquí | Ente independiente (Contraloría + Veeduría) | Años 1-2 |
-| Inteligencia financiera | Uso propio de seguridad, distinto de la detección de corrupción en el gasto: rastreo de flujos financieros de grupos armados, en coordinación con la UIAF | UIAF + Min. Defensa | Años 1-2 |
-| Datos abiertos | Toda la plataforma descargable; actualización diaria; API para periodistas y veedores | DNP + Min. TIC | Año 2 |
-| Independencia | Administrada por ente independiente del que ejecuta; director por méritos; presupuesto protegido | Contraloría + Veeduría | Año 1 |
-| Acople a Fiscalía | Las alertas disparan investigación con respuesta máx. 30 días; se publica la tasa de conversión alerta-imputación | Fiscalía + Contraloría | Año 2 |
-
-> El reparto con el Frente IV es deliberado: el Frente X construye y opera la infraestructura (la cañería), el Frente IV explica qué corre por ella (la plataforma de integridad). Así, cambiar una señal de detección se hace en un solo lugar y no hay que sincronizar dos secciones.
+La plataforma de trazabilidad del gasto (el "Sistema Nervioso" del Estado) es una capacidad tecnológica nacional que el Frente X impulsa, y de la que el propio Estado es el primer cliente: un caso de "cómprate lo que predicas". Pero su descripción no vive aquí, porque no es política industrial sino infraestructura del Estado entero, transversal a la anticorrupción, la salud, la seguridad y los nodos. Se detalla en su sección propia, [Plataforma de Trazabilidad del Gasto Público](../transversal/plataforma-trazabilidad.md), y su aplicación anticorrupción, en el Frente IV.
 
 # Frente XI: Piso Universal de Servicios Básicos
 
@@ -1429,6 +1418,27 @@ No todas las palancas pesan igual. Estas son las que más mueven la productivida
 El principio rector "activar lo que ya se pagó" se aplicaba solo a la infraestructura. Esta sección lo extiende al tejido productivo: subir la productividad de las firmas y los trabajadores que ya existen rinde más que crear otros nuevos. Los nodos siguen sirviendo a la justicia territorial y la seguridad; esta agenda sirve a la competitividad nacional, y corre en paralelo. La tensión entre ambos objetivos es real y el plan la asume de frente: prioriza la pyme y al trabajador sobre el incumbente, y ata todo apoyo a competencia y desempeño verificable.
 
 ---
+
+# Plataforma de Trazabilidad del Gasto Público (el Sistema Nervioso del Estado)
+
+Esta es una sección transversal, no parte de un frente, porque la plataforma no pertenece a ninguno: sirve a todos. Es la infraestructura que sigue cada peso público desde que entra hasta que se gasta en algo real. La cañería de datos sobre la que corren muchas cosas del plan, entre ellas la plataforma de integridad del gasto que se detalla en el Frente IV (su aplicación anticorrupción, con el motor, los módulos por dominio, las dos escalas y los límites).
+
+El reparto es deliberado: aquí vive la infraestructura, en el Frente IV se explica qué corre por ella. Así, cambiar una señal de detección se hace en un solo lugar y no hay que sincronizar dos secciones.
+
+| Componente | Medida | Responsable | Plazo |
+|---|---|---|---|
+| Integración de bases | Interoperar SECOP, Cuentas Claras, PILA, DIAN, catastro, UIAF y demás fuentes; API pública. Es la base común que alimenta tanto la gestión del gasto como la detección de anomalías | DNP + DIAN + IGAC + UIAF | Año 1 |
+| Motor de detección | Corre sobre esta infraestructura. Las señales concretas y los módulos por dominio (contratación, salud, subsidios, nómina) se detallan en el Frente IV, para no duplicarlos aquí | Ente independiente (Contraloría + Veeduría) | Años 1-2 |
+| Inteligencia financiera | Uso propio de seguridad, distinto de la detección de corrupción en el gasto: rastreo de flujos financieros de grupos armados, en coordinación con la UIAF | UIAF + Min. Defensa | Años 1-2 |
+| Datos abiertos | Toda la plataforma descargable; actualización diaria; API para periodistas y veedores | DNP + Min. TIC | Año 2 |
+| Independencia | Administrada por ente independiente del que ejecuta; director por méritos; presupuesto protegido | Contraloría + Veeduría | Año 1 |
+| Acople a Fiscalía | Las alertas disparan investigación con respuesta máx. 30 días; se publica la tasa de conversión alerta-imputación | Fiscalía + Contraloría | Año 2 |
+
+**Por qué es transversal y no de un frente.** La plataforma habilita al menos cinco frentes a la vez: es la base de la anticorrupción (Frente IV), el control del gasto en salud (Frente VI), la integridad territorial (Frente XIII), la inteligencia financiera de seguridad (Frente III) y la trazabilidad de la titulación y las obras de los nodos (Frentes II y la Columna Vertebral). No es política industrial, es infraestructura del Estado entero.
+
+**Un buen ejemplo de "primer cliente".** Aunque no pertenece al Frente X, la plataforma sí ilustra su principio de compra pública como jalonador: el Estado se compra a sí mismo una capacidad tecnológica nacional, en vez de importarla. Es un caso de "cómprate lo que predicas", y por eso el Frente X la menciona como ejemplo.
+
+> Un Estado que ve cada peso en tiempo real, con los datos abiertos para que cualquiera mire, cambia el cálculo del que roba: la corrupción deja de esconderse en la dispersión. Esa es la función de la plataforma, y la razón de que sea cimiento y no apéndice.
 
 # Secuencia de Gobierno
 

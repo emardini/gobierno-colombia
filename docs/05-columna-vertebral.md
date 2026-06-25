@@ -260,7 +260,7 @@ Lo que a primera vista parecen "otros frentes" sueltos son, en el fondo, el anda
 - El **Gerente de Nodo** (Frente VIII) es el director de orquesta, el responsable único de que la vía, el catastro, el crédito y la seguridad lleguen sincronizados y no cada uno por su lado, como llegan hoy.
 - Los **Equipos Territoriales** (Frente VIII) son la gente con las botas puestas haciendo que eso pase en el terreno.
 - El **protocolo de los 100 días** (3.3.3) es la partitura: qué tiene que estar listo el día 7, el día 30, el día 100.
-- La **plataforma de trazabilidad** (Frente X) es el tablero que muestra en tiempo real si la coreografía va a ritmo o se está descuadrando.
+- La **plataforma de trazabilidad** (su sección transversal) es el tablero que muestra en tiempo real si la coreografía va a ritmo o se está descuadrando.
 - El **diseño de mecanismos** (Frente XIII) reconoce que no se puede confiar en que cada actor coopere por buena voluntad, y diseña las reglas para que le convenga cooperar aunque no quiera.
 
 ### Por qué es fortaleza y riesgo a la vez
