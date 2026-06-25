@@ -310,6 +310,63 @@ La meta de 750.000 ha/año exige duplicar la velocidad histórica del IGAC. Con 
 
 > El cuello de botella del catastro no es la tecnología, es la integración. Hacer que IA-satelital, drones y registro operen como un sistema único articulado con ANT y SNR, con un solo ingreso de dato, es una decisión de arquitectura institucional, no una inversión tecnológica nueva.
 
+## Módulo de Productividad Rural: activar el campo que ya existe
+
+El campo concentra la peor productividad del país y, a la vez, la mejor palanca para subirla. La informalidad rural ronda el 83% y la productividad por trabajador agrícola está muy por debajo del promedio nacional, pero la tierra titulada, el riego y la asistencia técnica producen saltos de productividad que ninguna otra inversión iguala. Este módulo es el gemelo rural del Módulo de Productividad Urbana (12.3): aplica al campo el principio de "activar lo que ya existe" en vez de solo repartir, y persigue competitividad, no solo subsistencia.
+
+> **Por qué importa para la competitividad nacional.** Las exportaciones no minero-energéticas que el país necesita para no depender del petróleo salen en buena parte del agro: cacao, café especial, frutas, ganadería sostenible. Subir la productividad rural no es solo justicia con el campesino, es la base de la canasta exportadora que diversifica al país. El campo improductivo es un techo a la competitividad de Colombia.
+
+### A. El título como activo productivo, no solo como derecho
+
+La titulación masiva del Frente II ya entrega seguridad jurídica; este módulo la convierte en productividad. El título muerto en un cajón no sube la producción; el título usado como colateral, sí.
+
+| Medida | Concreción | Vía jurídica | Plazo |
+|---|---|---|---|
+| Crédito contra título | Que el título recién entregado sirva de inmediato como garantía ante Banco Agrario y Finagro, con producto financiero diseñado para el pequeño productor | Decreto + Finagro + Banco Agrario | Año 1 |
+| Catastro como base de extensión | Los datos del catastro multipropósito identifican qué produce cada predio y dónde falta asistencia, riego o vía, para dirigir la inversión con precisión | Vía administrativa (IGAC + ADR) | Años 1-2 |
+
+### B. Extensión agropecuaria moderna: difusión, no solo insumos
+
+La brecha entre el campesino promedio y el productivo es de conocimiento y técnica disponible, no de esfuerzo. Colombia desmanteló su sistema de extensión rural; reconstruirlo es de las inversiones de mayor retorno.
+
+| Medida | Concreción | Vía jurídica | Plazo |
+|---|---|---|---|
+| Extensionismo rural por resultados | Asesores técnicos en territorio (vía ADR y el Servicio Nacional de Vida ambiental) con metas de rendimiento por hectárea verificadas, no por número de visitas | Decreto + ADR + AGROSAVIA | Año 1 (piloto en nodos), 2-4 (escala) |
+| Paquete tecnológico apropiado | Semilla mejorada, riego eficiente, manejo de suelos y poscosecha, adaptados a cada cadena; transferencia de AGROSAVIA al productor | Vía administrativa | Por ola |
+| Sanidad e inocuidad para exportar | Fortalecer al ICA y al Invima para que la producción cumpla los estándares fitosanitarios que abren mercados externos (el cuello de botella real de la exportación agro) | Decreto + presupuesto | Años 1-3 |
+
+### C. Agregar valor y conectar al mercado
+
+El campesino que vende materia prima al intermediario captura una fracción del valor. La productividad sube cuando el territorio procesa, asocia y vende mejor.
+
+| Medida | Concreción | Vía jurídica | Plazo |
+|---|---|---|---|
+| Procesamiento local | Apoyar centros de acopio, frío y primera transformación de propiedad cooperativa en los nodos (cacao seco y fermentado, café trillado, fruta procesada) | Decreto + ADR + cooperativas | Años 1-4 |
+| Compra pública como demanda ancla | El PAE, las guarniciones militares y los hospitales compran a las cooperativas de los nodos con contratos previsibles, dando escala para invertir | Reglamento de contratación | Año 1 |
+| Asociatividad que baja costos | Cooperativas para comprar insumos en volumen, compartir maquinaria y negociar precio, con el costo de formación reducido (Frente I) | Ley + decreto | Años 1-2 |
+| Acceso directo a mercado y exportación | Vincular las marcas territoriales y las denominaciones de origen (cacao del Caquetá, café del Cesar) con ProColombia y los canales de exportación | Decreto + ProColombia | Años 2-4 |
+
+### D. Riego y bienes públicos que multiplican el rendimiento
+
+| Medida | Concreción | Vía jurídica | Plazo |
+|---|---|---|---|
+| Distritos de riego pequeños y medianos | Riego tecnificado donde la cadena lo justifica; el riego puede duplicar el rendimiento por hectárea | Decreto + ADR + presupuesto | Años 1-4 |
+| Vías terciarias y conectividad | El mismo paquete de bienes públicos del nodo (Frente I); sin vía, la cosecha se pierde o el flete se come el margen | INVIAS + Min. TIC | Por ola |
+
+### Métricas de productividad rural (no solo hectáreas tituladas)
+
+| Indicador | Qué mide | Meta |
+|---|---|---|
+| Rendimiento por hectárea en cadenas priorizadas | Productividad agrícola real | Subir de forma sostenida frente a la línea base del nodo |
+| Ingreso neto del productor formalizado | Que la productividad llega al campesino, no solo al intermediario | Crecimiento verificable en PILA y registros de cooperativa |
+| Valor agregado retenido en el territorio | Que el nodo procesa, no solo extrae | % de producción con primera transformación local |
+| Exportaciones agro no tradicionales de los nodos | Aporte a la competitividad nacional | Crecimiento real en el período |
+| Tasa de uso del título como colateral | Que el título es activo productivo, no papel | % de títulos nuevos con crédito asociado a 24 meses |
+
+### La advertencia honesta
+
+Titular sin paquete habilitador produce papeles, no productividad: es el error histórico que el Frente II ya busca evitar con su regla de "ninguna tierra sin crédito, asistencia técnica, vía y mercado". Este módulo es esa regla vuelta sistema. Y, como en el caso urbano, el riesgo es capturar el beneficio en los grandes; por eso prioriza al pequeño y mediano productor y la propiedad cooperativa, no la agroindustria ya consolidada.
+
 # Frente III: Seguridad, Soberanía e Inteligencia
 
 **Metas:** homicidios de ~26 a ≤18/100.000 en 4 años; coca −30% en 4 años; cero falsos positivos.
@@ -1156,10 +1213,10 @@ La productividad deja de ser un subproducto esperado y se vuelve un objetivo med
 
 No todas las palancas pesan igual. Estas son las que más mueven la productividad, ordenadas por impacto y por qué tan al alcance del Ejecutivo están. Casi todas ya viven en el plan; lo que faltaba era nombrarlas como una sola apuesta.
 
-1. **Catastro y titulación (Frente II).** La palanca de fondo y la más subestimada. El título convierte tierra muerta en colateral, el colateral en crédito, el crédito en la inversión que hoy falta, y el registro permite que la tierra fluya hacia quien la usa mejor. Ataca de raíz la mala asignación de recursos, que es el corazón del problema de productividad. Y ya tiene piso legal (servicio público desde 2019): es ejecución y financiación, no un pedido al Congreso.
+1. **Catastro y titulación (Frente II).** La palanca de fondo y la más subestimada. El título convierte tierra muerta en colateral, el colateral en crédito, el crédito en la inversión que hoy falta, y el registro permite que la tierra fluya hacia quien la usa mejor. Ataca de raíz la mala asignación de recursos, que es el corazón del problema de productividad. Ya tiene piso legal (servicio público desde 2019): es ejecución y financiación, no un pedido al Congreso. El Módulo de Productividad Rural del Frente II convierte esa titulación en productividad medida (rendimiento por hectárea, valor agregado local, exportación agro).
 2. **Logística multimodal (Frente IX).** Río Magdalena, ferrocarril, dragado de Buenaventura. Los costos logísticos son un impuesto directo a la competitividad de toda firma que mueva algo. Bajarlos sube la productividad sin que las empresas hagan nada distinto.
 3. **Profundización de capital e inversión (Frentes V, VIII, X).** El ancla fiscal baja la prima de riesgo y el costo del crédito; el Contrato de Habilitación atrae inversión privada; la atracción de inversión extranjera completa. Dado que hoy la contribución del capital por trabajador es negativa, esta palanca es urgente.
-4. **Difusión tecnológica y de gestión (Módulo de Productividad Urbana, 12.3).** La mayor ganancia no está en inventar sino en que la firma promedio adopte lo que ya existe. El extensionismo para pymes mueve la media de todo el parque empresarial. Barato y enteramente ejecutivo.
+4. **Difusión tecnológica y de gestión (Módulos de Productividad Urbana 12.3 y Rural del Frente II).** La mayor ganancia no está en inventar sino en que el productor promedio adopte lo que ya existe. El extensionismo para pymes urbanas y la extensión agropecuaria moderna mueven la media de todo el aparato productivo, en la ciudad y en el campo. Barato y enteramente ejecutivo.
 5. **Fin del castigo al crecimiento (12.3).** Quitar los umbrales que hacen que las firmas se queden pequeñas a propósito libera la "mitad faltante" donde está la productividad. Ganancia de reasignación casi sin gasto.
 6. **Competencia con dientes (12.3 y Frente XIII).** Una autoridad de competencia fuerte sube la productividad de los rivales del incumbente. La protección a sectores es siempre temporal y condicionada a exportar, nunca permanente.
 7. **Facilitación de comercio.** Digitalizar la aduana y la ventanilla única de comercio exterior baja un impuesto invisible a toda exportación. Bajo costo, sin Congreso.

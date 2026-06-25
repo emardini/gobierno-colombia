@@ -2,6 +2,12 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.6] Productividad rural y simetría campo-ciudad
+
+- **Nuevo:** Módulo de Productividad Rural en el Frente II, gemelo del urbano: el título como activo productivo (crédito contra título), extensión agropecuaria por resultados, sanidad e inocuidad para exportar, agregación de valor y procesamiento local, riego y bienes públicos, con métricas propias (rendimiento por hectárea, valor agregado retenido en el territorio, exportación agro, uso del título como colateral).
+- **Reforzado:** la sección de Productividad y Competitividad Nacional trata campo y ciudad de forma simétrica y subraya que el agro es la base de la canasta exportadora no minero-energética.
+- **Corregido:** el script de partición del repositorio reconocía mal los títulos de los frentes tras el cambio de estilo; ahora todos los archivos de frentes se regeneran limpios desde el documento maestro.
+
 ## [1.5] Edición de estilo, productividad y publicación
 
 - **Estilo humano:** se eliminaron los guiones largos en todo el documento (convertidos en dos puntos, comas o paréntesis según el contexto) y se normalizaron los rangos numéricos. Cambios de léxico: "carámbano" por "lío" y "Tigre Andino" por "Jaguar Andino".
