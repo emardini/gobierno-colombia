@@ -4,9 +4,9 @@ Gracias por tomarte el tiempo. Este proyecto está abierto a la crítica y la co
 
 ## El proyecto tiene dos capas
 
-### Núcleo — no se modifica por propuesta
+### Núcleo: no se modifica por propuesta
 
-El núcleo es la tesis del proyecto. Es de autor y no se vota. Si no lo compartes, este probablemente no es tu plan —y está bien; el repositorio es de licencia abierta y puedes adaptarlo en tu propia versión (ver [LICENSE](LICENSE)).
+El núcleo es la tesis del proyecto. Es de autor y no se vota. Si no lo compartes, este probablemente no es tu plan, y está bien; el repositorio es de licencia abierta y puedes adaptarlo en tu propia versión (ver [LICENSE](LICENSE)).
 
 El núcleo lo forman:
 
@@ -17,7 +17,7 @@ El núcleo lo forman:
 
 Las secciones de núcleo están marcadas con un banner **NÚCLEO** al inicio del archivo. Las propuestas que busquen reemplazar la tesis se cierran con respeto y una explicación.
 
-### Ejecución — abierto a corrección con evidencia
+### Ejecución: abierto a corrección con evidencia
 
 Todo lo demás es ejecución: las cifras, las vías jurídicas, los plazos, la secuencia, los criterios de selección, los umbrales, los indicadores, el detalle de cada mecanismo y cada frente. **Aquí es donde tu aporte vale más.** Las secciones de ejecución están marcadas con un banner **EJECUCIÓN**; las marcadas **MIXTO** tienen un principio de núcleo pero parámetros de ejecución (puedes discutir los parámetros, no el principio).
 
@@ -55,4 +55,4 @@ Quien mantiene el repositorio (el autor) revisa cada propuesta y decide si se in
 
 ## Una expectativa realista
 
-Un plan de autor casi nunca atrae multitudes de colaboradores —es el problema del arranque en frío—. Si llegas hasta aquí y propones algo con cuidado, eres exactamente el tipo de aporte de alto valor que este proyecto busca. Gracias.
+Un plan de autor casi nunca atrae multitudes de colaboradores, es el problema del arranque en frío, . Si llegas hasta aquí y propones algo con cuidado, eres exactamente el tipo de aporte de alto valor que este proyecto busca. Gracias.
