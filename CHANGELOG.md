@@ -2,6 +2,25 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.24] El propósito declarado de la arquitectura de medios
+
+- **Nuevo:** encuadre al inicio de la sección de comunicación que declara su propósito de fondo: una arquitectura de medios para proteger la democracia, no para servir a un gobierno. Cuatro metas que parecen opuestas (dificultar el monopolio, dificultar la desinformación a escala, sin coerción, sin limitar libertades) se reconcilian con una sola regla: la intervención actúa sobre la estructura y la transparencia del sistema, nunca sobre el contenido ni la verdad del mensaje. La distinción entre el demócrata (que quiere el abuso imposible venga de donde venga) y el partidario (que quiere el control en manos amigas).
+
+## [1.23] El pluralismo como función de gobierno
+
+- **Nuevo:** subsección en comunicación pública sobre el pluralismo informativo. La resistencia de una democracia no está en un medio que dé la cara del gobierno de turno (frágil, lo captura el que gana), sino en muchas voces distribuidas que ningún poder apaga de un golpe. El Estado fomenta esa pluralidad sin controlarla, con reglas ciegas al contenido (espectro comunitario por criterios técnicos, apoyos regionales por fórmulas auditables, pauta reformada), porque financiar al "independiente" que aplaude es captura con otro nombre.
+- Principio que lo ordena: la independencia de los medios se defiende igual cuando favorece al propio lado que cuando favorece al contrario. Un medio público inclinado al lado de uno no es un triunfo, es una captura que aún no cambia de dueño.
+
+## [1.22] Comunicación de gobierno: aterrizaje en RTVC y bloque propositivo
+
+- **Ampliado:** la subsección de medios públicos se aterriza sobre lo que ya existe, RTVC (Señal Colombia, Canal Institucional, Radio Nacional, Radiónica), reconociendo que su dependencia del Ministerio de las TIC lo vuelve capturable, vicio que cambia de bando pero no de naturaleza. El plan no crea un canal nuevo, blinda el que existe con el modelo de radiodifusor de servicio público (tipo BBC): independencia editorial, financiación estable, gobernanza plural.
+- **Nuevo:** bloque propositivo "cómo se comunica bien", con principios de uso en vez de propaganda: comunicar para servicio, rendición de cuentas, contexto y emergencia; mostrar la prueba y no pedir que crean; mostrar el proceso y no solo el resultado; hablar claro sin frivolizar el cargo; accesibilidad; y comunicación atada al cargo y no a la persona.
+
+## [1.21] Comunicación pública y derecho a la información
+
+- **Nuevo:** sección transversal sobre la comunicación como función de gobierno, escrita con el equilibrio entre el derecho del Estado a informar y el peligro de que ese derecho se vuelva propaganda o censura. Distingue medios públicos (del Estado, leales al ciudadano) de medios gubernamentales (voz del presidente de turno), y propone blindaje por estructura: financiación estable por ley, junta plural y escalonada, directores con periodo desfasado del ciclo presidencial.
+- Alocuciones regladas, comunicación por verificabilidad (datos abiertos) en vez de propaganda, y un tratamiento explícito del equilibrio entre combatir la desinformación y la libertad de expresión, con el principio tajante de que el Estado no debe ser árbitro de la verdad y la lista de lo que NO debe hacer (nada de oficina de la verdad ni tipos penales vagos contra la crítica).
+
 ## [1.20] La denuncia ciudadana como sensor de los puntos ciegos
 
 - **Nuevo:** subsección en el Frente IV sobre el papel de la denuncia ciudadana. Reconoce los canales que ya existen (línea 122 y Denuncia Fácil de la Fiscalía, PACO, personerías, veedurías), dispersos y desconectados, y plantea que el plan los unifica y los conecta a la plataforma como flujo de entrada.
