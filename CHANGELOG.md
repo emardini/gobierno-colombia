@@ -2,6 +2,20 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.20] La denuncia ciudadana como sensor de los puntos ciegos
+
+- **Nuevo:** subsección en el Frente IV sobre el papel de la denuncia ciudadana. Reconoce los canales que ya existen (línea 122 y Denuncia Fácil de la Fiscalía, PACO, personerías, veedurías), dispersos y desconectados, y plantea que el plan los unifica y los conecta a la plataforma como flujo de entrada.
+- **Diseño de triaje corregido:** la denuncia se cruza con los datos para priorizar, nunca para descartar. La denuncia que cae en un vacío de datos no se descarta, se trata como doble alerta (sobre el hecho y sobre el punto ciego) con investigación humana, porque el silencio del dato no es prueba de inocencia. Compuerta humana para lo que la máquina no sabe clasificar, enrutamiento de las quejas de servicio fuera del embudo anticorrupción, y protección al denunciante de buena fe.
+- Toque breve en la sección transversal de la plataforma: la denuncia ciudadana queda listada como uno de sus flujos de entrada.
+
+## [1.19] Mecanismos concretos para la confianza pública
+
+- **Nuevo:** la sección de percepción de corrupción aterriza en dos compromisos verificables. Uno, el reporte público del criterio (no del resultado): el operador independiente publica que la regla de detección fue ciega al partido y se aplicó sin excepción, vigilando sobre todo que el oficialismo no aparezca subrepresentado, en vez de prometer un conteo parejo. Dos, el compromiso de primer caso propio: la vara más dura hacia adentro, verificable con hechos. Cada uno con su responsable, su forma de medición y su límite honesto (la asimetría de un criterio ciego es hecho y no sesgo; la paridad forzada sería tan injusta como el sesgo).
+
+## [1.18] La percepción de corrupción y la confianza pública
+
+- **Nuevo:** sección al cierre del Frente IV que distingue combatir la corrupción de combatir su percepción, y trata la segunda como un problema de confianza y no de información. Reconoce el límite de la polarización (parte de la percepción es tribal y no se recupera) y propone cuatro palancas: verificabilidad, simetría demostrada (que la sanción caiga por hechos y no por bando, empezando por los propios), gestos visibles y comunicación honesta que admite errores.
+
 ## [1.17] La plataforma fuera de la ruta crítica del arranque
 
 - **Nuevo, lado positivo:** se explicita que desarrollar y operar la plataforma genera empleo de alta calificación, capacidad estatal instalable y conocimiento anticorrupción exportable, no solo gasto.
