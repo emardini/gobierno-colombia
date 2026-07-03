@@ -2,6 +2,19 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.26] Frente XV: conservación como empleo, minerales estratégicos y no al fracking
+
+- **Nuevo:** sección "cuidar el bosque como empleo", que convierte la conservación en economía legal para las comunidades del bosque (pagos por servicios ambientales, acuerdos de conservación con pago, guardabosques comunitarios), atada al nodo y al Servicio Nacional de Vida del Frente XIV. Si conservar da hambre y deforestar da plata, gana la deforestación.
+- **Nuevo:** sección sobre minerales estratégicos (oro, coltán, cobre) con cuatro condiciones no negociables: agua y áreas protegidas por delante, consulta previa que puede negar, renta que se queda en parte en el territorio, y trazabilidad del mineral que de paso cierra el mercado al ilegal. Explotar sí, sin repetir la maldición de los recursos.
+- **Nuevo:** exclusión categórica del fracking, la única del frente, fundada en el principio del agua primero (riesgo irreversible sobre el recurso más estratégico), con criterio técnico y no de consigna.
+
+## [1.25] Frente XV: Medio Ambiente, Agua y Uso de los Recursos Naturales
+
+- **Nuevo frente** (el documento pasa de 14 a 15 frentes). Llena un vacío real: el plan no tenía política ambiental consolidada.
+- **Tesis:** la naturaleza se pierde donde el Estado está ausente. La deforestación se concentra donde no hay título, catastro ni economía legal, así que el nodo y la reforma agraria son el instrumento ambiental más potente del plan. Conservar no es solo declarar un parque, es estar.
+- El agua primero (páramos y ecosistemas estratégicos, hacer cumplir la prohibición de minería en páramos). Deforestación: atacar al que lucra a escala, no al colono que sobrevive, con detección satelital del IDEAM conectada a la plataforma. Minería: separar la legal de la ilegal, atacando el dinero del oro ilegal que financia a los armados. Transición energética con honestidad fiscal: ni extractivismo sin límite ni ambientalismo de decreto, sino hoja de ruta fiscal y transición justa para las regiones que viven del carbón y el petróleo. Protección a líderes ambientales. Límites y riesgos honestos.
+- Datos verificados por web (junio-julio 2026): concentración de la deforestación en Meta, Caquetá, Guaviare y Putumayo; participación mínima de Colombia en emisiones y reservas globales frente a su alta dependencia fiscal de los fósiles; déficit de gas proyectado.
+
 ## [1.24] El propósito declarado de la arquitectura de medios
 
 - **Nuevo:** encuadre al inicio de la sección de comunicación que declara su propósito de fondo: una arquitectura de medios para proteger la democracia, no para servir a un gobierno. Cuatro metas que parecen opuestas (dificultar el monopolio, dificultar la desinformación a escala, sin coerción, sin limitar libertades) se reconcilian con una sola regla: la intervención actúa sobre la estructura y la transparencia del sistema, nunca sobre el contenido ni la verdad del mensaje. La distinción entre el demócrata (que quiere el abuso imposible venga de donde venga) y el partidario (que quiere el control en manos amigas).
