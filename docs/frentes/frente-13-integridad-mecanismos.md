@@ -108,6 +108,10 @@ Los datos 2025-2026: Colombia cayó al puesto 99 del IPC; la Contraloría tiene 
 
 ## 13.9 Mecanismos para la corrupción en alcaldías y gobernaciones
 
+El clientelismo local se financia capturando dos cosas: las transferencias que llegan de la nación (el SGP y las regalías) y la contratación que las ejecuta. Y aquí hay un límite constitucional que el plan respeta y que conviene decir de frente: el SGP y las regalías son transferencias de base constitucional (artículos 356 y 357 y el Sistema General de Regalías), y no se pueden condicionar por decreto ni por circular. El municipio tiene derecho a recibirlas, punto. Por eso la estrategia no toca el derecho a recibir, que sería inconstitucional, sino la forma de gastar, que sí se puede intervenir por otras vías. No se le dice al municipio "no te giro hasta que te portes bien", se le dice "recibes completo, pero cada peso se ejecuta con reglas que hacen difícil capturarlo".
+
+Ese es el principio que amarra todos los mecanismos de abajo: no condicionar la transferencia, blindar la ejecución. El interventor que no elige el alcalde, el pago directo de la nación al proveedor, la rendición en vivo, el techo de concentración por empresa, todos atacan el momento del gasto y del contrato, que es donde el clientelismo mete la mano, y no el giro del recurso, que es donde la Constitución lo protege. Es la distinción que vuelve esta estrategia a la vez efectiva y legalmente blindada: se cierra la captura sin pisar el derecho del territorio a sus recursos.
+
 | Mecanismo | Diseño | Por qué funciona | Responsable + Plazo |
 |---|---|---|---|
 | Interventoría nacional obligatoria para contratos >$500M en categorías 4 y 5 | La nación contrata al interventor, no la alcaldía; reporta a Contraloría, plataforma y Gerente | Rompe el círculo "alcalde elige a quien lo supervisa"; corromper exige coordinar dos actores independientes | DNP + Contraloría. Decreto Año 1 |

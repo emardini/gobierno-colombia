@@ -2,6 +2,10 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.27] La doctrina anti captura local: no condicionar la transferencia, blindar la ejecución
+
+- **Nuevo:** encuadre al inicio de la sección 13.9 que consolida los mecanismos contra la captura clientelista local bajo un principio explícito y respetuoso del límite constitucional. El SGP y las regalías son transferencias de base constitucional (arts. 356-357 y SGR) y no se pueden condicionar por decreto; por eso la estrategia no toca el derecho del municipio a recibir, sino la forma de gastar. Interventor que no elige el alcalde, pago directo nación-proveedor, rendición en vivo y techo de concentración atacan el momento del gasto y del contrato, no el giro del recurso. Se cierra la captura sin pisar el derecho del territorio a sus recursos.
+
 ## [1.26] Frente XV: conservación como empleo, minerales estratégicos y no al fracking
 
 - **Nuevo:** sección "cuidar el bosque como empleo", que convierte la conservación en economía legal para las comunidades del bosque (pagos por servicios ambientales, acuerdos de conservación con pago, guardabosques comunitarios), atada al nodo y al Servicio Nacional de Vida del Frente XIV. Si conservar da hambre y deforestar da plata, gana la deforestación.
