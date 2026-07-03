@@ -23,6 +23,7 @@ docs/frentes/frente-11-servicios-basicos.md
 docs/frentes/frente-12-ciudades-turismo.md
 docs/frentes/frente-13-integridad-mecanismos.md
 docs/frentes/frente-14-servicio-nacional.md
+docs/frentes/frente-15-medio-ambiente.md
 
 docs/06-rendimiento-compuesto.md
 
@@ -31,6 +32,7 @@ docs/transversal/cuadro-fiscal.md
 docs/transversal/fundamentos-investigacion.md
 docs/transversal/productividad-competitividad.md
 docs/transversal/plataforma-trazabilidad.md
+docs/transversal/comunicacion-publica.md
 
 docs/cierre/secuencia-gobierno.md
 docs/cierre/medicion-blindaje.md

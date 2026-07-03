@@ -1,0 +1,72 @@
+> **MIXTO.** El principio de esta sección (la comunicación pública al servicio del ciudadano y no del gobernante, y la libertad de expresión) es núcleo y no se negocia; sus parámetros (el diseño de las juntas, los límites de las alocuciones, las fuentes de financiación) son ejecución y se discuten con evidencia. Ver [CONTRIBUTING](../../CONTRIBUTING.md).
+
+# Comunicación Pública y Derecho a la Información
+
+Un gobierno honesto puede gobernar bien y aun así ser derrotado por el relato. Con los medios tradicionales en contra, desinformación circulando y potencias extranjeras interviniendo, un Estado que no puede comunicarle directamente a su gente lo que hace queda a merced de quien controle los canales. Ese es un problema democrático real, no una excusa. Pero el mismo derecho a informar sin intermediarios hostiles es la herramienta favorita del autoritarismo, y por eso esta es la sección más delicada del plan: la buena intención no protege del mal resultado. Se diseña, como todo lo demás, blindando con estructura y no con confianza, y pensando siempre en que la herramienta la va a heredar el peor adversario, no uno mismo.
+
+El propósito de esta sección se dice de una vez, porque ordena todo lo que sigue: es una arquitectura de medios pensada para proteger la democracia, no para servir a un gobierno. Busca crear un ecosistema donde sea más difícil monopolizar las comunicaciones, desinformar y manipular a escala, y lo busca sin coerción y sin limitar libertades. Esas cuatro metas parecen tirar en direcciones opuestas, porque la forma perezosa de frenar la manipulación es censurar y la de romper un monopolio es que el Estado meta mano en quién publica. Se reconcilian con una sola regla, que es la columna de todo lo demás: la intervención actúa siempre sobre la estructura y la transparencia del sistema, nunca sobre el contenido ni la verdad del mensaje. La transparencia de quién paga un anuncio no se puede voltear para censurar; el poder de declarar algo falso, sí. Por eso lo primero es legítimo y lo segundo nunca. Es la diferencia entre un demócrata, que quiere que el abuso sea imposible venga de donde venga, y un partidario, que solo quiere el control en manos amigas.
+
+## El problema es real, y la tentación también
+
+Las dos cosas son ciertas a la vez. Un gobierno legítimo tiene derecho a informar, y una sociedad necesita saber qué hace su Estado sin depender solo de intermediarios interesados. Pero "comunicar lo que pasa, y no lo que otros dicen que pasa" esconde una trampa mortal: asume que el gobierno sabe lo que pasa y los demás mienten, cuando el gobierno también tiene su versión interesada, también calla lo que le incomoda y también llama desinformación a la crítica. Todo gobierno del mundo cree que él dice la verdad y que los medios lo calumnian. Con ese mismo argumento, comunicar la verdad del pueblo frente a los medios oligarcas, se construyeron las hegemonías comunicacionales de la región, que son censura con otro nombre. La regla de diseño es implacable: si la herramienta solo es segura cuando la usa un gobierno bueno, es una mala herramienta, porque el siguiente gobierno puede no serlo.
+
+## Medios públicos, no gubernamentales
+
+La distinción lo decide todo. Un medio gubernamental es la voz del presidente de turno, cambia de dueño con cada elección y sirve al que manda. Un medio público es del Estado pero no del gobierno: su lealtad es al ciudadano, no al mandatario, y su independencia editorial está blindada. El plan apuesta por lo segundo, y eso se logra con estructura concreta, no con promesas:
+
+- **Financiación estable por ley,** no sujeta al presupuesto anual que el gobierno aprieta o afloja para premiar o castigar la línea editorial.
+- **Junta directiva plural y escalonada,** con asientos para la oposición y la sociedad civil garantizados por norma, y renovación por tramos, para que ningún gobierno pueda coparla de una vez.
+- **Directores con periodo fijo desfasado del ciclo presidencial,** que no entren ni salgan con el mandatario.
+- **Rendición de cuentas del propio medio,** con defensor de la audiencia y publicación de su línea y sus finanzas.
+
+El propósito de todo eso es simple: que el que pague (el Estado) no sea el que mande (el gobierno de turno). Un medio público capturado por el gobierno no es información, es propaganda con recursos de todos.
+
+Esto no se construye de cero. Colombia ya tiene su sistema de medios públicos, RTVC (Señal Colombia, Canal Institucional, Radio Nacional, Radiónica), creado en 2004 y financiado con recursos de todos. El problema es que depende del Ministerio de las TIC, o sea del gobierno de turno, y por eso es capturable, como lo han denunciado críticos en administraciones de distinto signo cuando la programación se inclina a resaltar al presidente y sus ministros. La captura de los medios públicos es un vicio que cambia de bando pero no de naturaleza: la misma crítica que un lado hace hoy, la hará el otro cuando le toque la oposición. Por eso el plan no crea un canal nuevo, blinda el que existe con las salvaguardas de arriba, y le devuelve el mandato que su propia misión legal ya declara pero que la dependencia política le impide cumplir: información veraz, oportuna y plural, al servicio del ciudadano y no del gobernante.
+
+El modelo de referencia, del que la BBC es el ejemplo más conocido, no es un misterio ni una importación caprichosa: es un radiodifusor de servicio público con mandato de servir al ciudadano, independencia editorial garantizada, financiación estable que no depende del favor anual del gobierno, y una gobernanza plural que impide que un mandato se apropie de la línea. No se trata de copiar una institución extranjera al pie de la letra, sino de adoptar sus amarres, los que hacen que un medio pagado por todos no termine sirviendo a uno solo. Ninguno de esos amarres es perfecto ni inmune, pero la diferencia entre un medio público blindado y uno capturado es, justamente, si esos amarres existen o no.
+
+## Las alocuciones, regladas
+
+El derecho del gobierno a dirigirse a la nación es legítimo, pero sin reglas se vuelve cadena propagandística. Los límites sanos son concretos: que las alocuciones sean para asuntos de interés nacional real y no para atacar opositores, con topes de frecuencia y duración, sin uso en periodo electoral, y con derecho de réplica. Un gobierno que encadena la señal cada semana para hablar de sí mismo no informa, hace campaña con dinero público.
+
+## Comunicar con verificabilidad, no con propaganda
+
+Aquí está la defensa más poderosa y la que no se presta para el abuso, porque ya vive en el plan. La mejor respuesta a "otros dicen que pasa X" no es que el Estado responda "no, pasa Y", que es su palabra contra la de ellos, sino que cualquiera pueda ir a comprobar qué pasó. Los datos abiertos, la plataforma de trazabilidad, la rendición de cuentas verificable comunican lo que pasa sin necesidad de un aparato mediático, y son mucho más creíbles, porque no piden que le crean al gobierno, dejan que la gente vea. Un dato abierto derrota a un video falso mejor que cualquier canal estatal, porque el canal estatal también puede mentir y la gente lo sabe. El gobierno que quiere que le crean debería obsesionarse con hacer verificable lo que hace, antes que con tener un canal para contarlo.
+
+## Desinformación y libertad de expresión: el equilibrio delicado
+
+Combatir la desinformación es legítimo, pero "desinformación" es la palabra que los gobiernos usan para nombrar lo que no les gusta. Un Estado que se arroga el poder de decidir qué es verdad y qué es mentira, y de actuar sobre eso, es un Estado con poder de censura, aunque se llame lucha contra las noticias falsas. Por eso el principio es tajante: **el Estado no debe ser árbitro de la verdad.**
+
+La salida democrática no es la información oficial, es más y mejor información libre, y ciudadanos capaces de juzgarla. El Estado ayuda creando las condiciones, no ocupando el lugar del árbitro:
+
+- **Fortalecer los árbitros independientes:** un periodismo robusto y plural, verificadores autónomos (no oficiales), y medios regionales que no dependan del pauta oficial para sobrevivir.
+- **Alfabetización mediática** en la escuela y en la ciudadanía, para que la gente sepa distinguir una fuente de un rumor. Un ciudadano que sabe leer información es mejor defensa que cualquier ministerio.
+- **Transparencia sobre la injerencia extranjera** cuando se pruebe con evidencia, no como acusación de cajón contra el crítico incómodo.
+
+Y lo que el Estado NO debe hacer, dicho de frente para que no quede a interpretación: no crear una oficina que dictamine qué es verdad, no criminalizar la "noticia falsa" con tipos penales vagos que se presten para perseguir la crítica, y no usar la lucha contra la desinformación como excusa para silenciar opositores. La libertad de expresión incluye el derecho a equivocarse y hasta a decir tonterías; el remedio contra el mal discurso es más discurso, no el silencio impuesto por el poder. Un gobierno que se declara defensor de la verdad y enemigo de la mentira ya dio el primer paso hacia decidir él cuál es cuál.
+
+## El pluralismo: muchas voces que ningún gobierno pueda apagar
+
+Un solo medio, por bueno que sea, es frágil: lo captura quien gana la siguiente elección. La salud informativa de una democracia no está en tener un canal que dé la cara del gobierno de turno, está en tener muchas voces distribuidas que ningún poder pueda apagar de un golpe. Un canal público lo controla el que manda; a cientos de medios independientes, regionales y comunitarios no los controla nadie de una vez. Por eso la meta del plan no es un medio fuerte, es un ecosistema plural y resistente, y esa es la mejor garantía de que el ciudadano que no comulga con el poder de turno siga teniendo dónde informarse.
+
+El papel del Estado aquí es fomentar esa pluralidad sin controlarla, y la distinción es delicada, porque el mismo dinero que fortalece un ecosistema puede comprarlo. Un gobierno que financia a los medios "independientes" que le aplauden hizo captura con otro nombre. Por eso el fomento tiene que ser a distancia y por reglas ciegas al contenido: acceso al espectro para radios comunitarias por criterios técnicos y no políticos, apoyos a medios regionales por fórmulas objetivas y auditables y nunca a discreción del gobernante, y la reforma de la pauta oficial ya mencionada, para que la publicidad estatal no premie al amigo ni asfixie al crítico. El Estado pone las condiciones para que existan muchas voces, no elige cuáles.
+
+Y un principio que ordena todo lo anterior, incómodo pero necesario: la independencia de los medios se defiende igual cuando favorece al que uno quiere y cuando favorece al que uno rechaza. Un medio público inclinado hacia el propio lado no es un triunfo, es una captura que todavía no ha cambiado de dueño. Quien solo defiende el pluralismo cuando refleja su cara defiende, sin darse cuenta, el mismo vicio que critica en el adversario. El blindaje vale la pena precisamente porque protege la voz del que hoy no está en el poder, sea quien sea mañana.
+
+## Cómo se comunica bien: principios de uso, no de propaganda
+
+Blindar los medios y reglar las alocuciones evita el abuso, pero no dice cómo comunicar bien. Y comunicar bien es una función de gobierno, no un adorno: un Estado que hace cosas buenas y no sabe contarlas queda a merced de quien controle el relato. La línea entre comunicar y hacer propaganda con plata pública es delgada, y la marca una sola pregunta, que debería hacerse ante cada pieza: ¿esto le sirve a la gente para saber o decidir algo, o solo hace ver bien al que manda? Fiel a lo primero, es comunicación pública; si deriva a lo segundo, es campaña permanente pagada por todos.
+
+Con esa brújula, el plan comunica según unos principios:
+
+- **Comunicar para cuatro cosas, en ese orden de importancia.** Servicio (cómo acceder a un trámite, un subsidio, un derecho, una fecha), que es lo más útil y lo más descuidado porque no da titulares pero cambia el día de la gente. Rendición de cuentas (qué se hizo con la plata, qué se cumplió y qué no). Contexto (por qué se tomó una decisión difícil). Y emergencia (avisar rápido y claro en una crisis). Que la vanidad, la foto inaugurando, no se coma el presupuesto ni la atención de las otras tres.
+- **Mostrar la prueba, no pedir que crean.** La mejor comunicación de gobierno no afirma "lo hicimos bien", da la forma de comprobarlo: un enlace a los datos abiertos, el tablero público de metas donde se ve lo cumplido y lo incumplido. La plataforma de trazabilidad y los datos abiertos son, además de herramientas anticorrupción, el mejor contenido posible, porque comunicar mostrando la evidencia es más creíble que comunicar afirmando, y es lo que blinda la comunicación contra la acusación de propaganda.
+- **Mostrar el trabajo, no solo el resultado.** La gente confía en lo que ve hacerse, no en el desfile de logros que nadie cree. Comunicar el proceso (aquí está el problema, esto intentamos, esto salió mal y así lo corregimos) genera más confianza que anunciar solo triunfos. Es la lógica de la bitácora de este plan, aplicada a gobernar: la honestidad sobre lo que cuesta vuelve creíble lo que se logra.
+- **Hablar el idioma de la gente sin frivolizar el cargo.** Traducir la jerga técnica a lenguaje humano, sí; convertir al gobernante en un influencer que busca likes, no. Adaptar el formato de cada plataforma sin rebajar el fondo.
+- **Accesibilidad como principio.** Comunicar donde de verdad está la gente y no solo la élite, en lenguaje claro, con subtítulos, audio y lenguas donde toque, pensando en el de mala conexión y en el de la vereda. La comunicación pública que no llega al más apartado no cumplió su función.
+- **Atada al cargo, no a la persona.** Desde cuentas institucionales y con reglas de gasto claras, el Estado informando y no el gobernante construyendo su marca. Es la línea que casi todos cruzan, y la que mantiene la comunicación como servicio y no como culto.
+
+Visto en conjunto, un buen plan de comunicación de gobierno es casi indistinguible de un buen plan de transparencia: mostrar la prueba, mostrar el proceso, hablarle claro a todos, atarse al cargo. No son dos cosas, son la misma vista desde dos ángulos.
+
+
+> Un gobierno se vuelve creíble no controlando el relato, sino volviendo verificable lo que hace. El Estado que quiere ser dueño de la verdad ya dejó de servirla. Informar sí, con voz propia y reglada; arbitrar la verdad, nunca.

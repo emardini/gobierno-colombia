@@ -2,6 +2,56 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.27] La doctrina anti captura local: no condicionar la transferencia, blindar la ejecución
+
+- **Nuevo:** encuadre al inicio de la sección 13.9 que consolida los mecanismos contra la captura clientelista local bajo un principio explícito y respetuoso del límite constitucional. El SGP y las regalías son transferencias de base constitucional (arts. 356-357 y SGR) y no se pueden condicionar por decreto; por eso la estrategia no toca el derecho del municipio a recibir, sino la forma de gastar. Interventor que no elige el alcalde, pago directo nación-proveedor, rendición en vivo y techo de concentración atacan el momento del gasto y del contrato, no el giro del recurso. Se cierra la captura sin pisar el derecho del territorio a sus recursos.
+
+## [1.26] Frente XV: conservación como empleo, minerales estratégicos y no al fracking
+
+- **Nuevo:** sección "cuidar el bosque como empleo", que convierte la conservación en economía legal para las comunidades del bosque (pagos por servicios ambientales, acuerdos de conservación con pago, guardabosques comunitarios), atada al nodo y al Servicio Nacional de Vida del Frente XIV. Si conservar da hambre y deforestar da plata, gana la deforestación.
+- **Nuevo:** sección sobre minerales estratégicos (oro, coltán, cobre) con cuatro condiciones no negociables: agua y áreas protegidas por delante, consulta previa que puede negar, renta que se queda en parte en el territorio, y trazabilidad del mineral que de paso cierra el mercado al ilegal. Explotar sí, sin repetir la maldición de los recursos.
+- **Nuevo:** exclusión categórica del fracking, la única del frente, fundada en el principio del agua primero (riesgo irreversible sobre el recurso más estratégico), con criterio técnico y no de consigna.
+
+## [1.25] Frente XV: Medio Ambiente, Agua y Uso de los Recursos Naturales
+
+- **Nuevo frente** (el documento pasa de 14 a 15 frentes). Llena un vacío real: el plan no tenía política ambiental consolidada.
+- **Tesis:** la naturaleza se pierde donde el Estado está ausente. La deforestación se concentra donde no hay título, catastro ni economía legal, así que el nodo y la reforma agraria son el instrumento ambiental más potente del plan. Conservar no es solo declarar un parque, es estar.
+- El agua primero (páramos y ecosistemas estratégicos, hacer cumplir la prohibición de minería en páramos). Deforestación: atacar al que lucra a escala, no al colono que sobrevive, con detección satelital del IDEAM conectada a la plataforma. Minería: separar la legal de la ilegal, atacando el dinero del oro ilegal que financia a los armados. Transición energética con honestidad fiscal: ni extractivismo sin límite ni ambientalismo de decreto, sino hoja de ruta fiscal y transición justa para las regiones que viven del carbón y el petróleo. Protección a líderes ambientales. Límites y riesgos honestos.
+- Datos verificados por web (junio-julio 2026): concentración de la deforestación en Meta, Caquetá, Guaviare y Putumayo; participación mínima de Colombia en emisiones y reservas globales frente a su alta dependencia fiscal de los fósiles; déficit de gas proyectado.
+
+## [1.24] El propósito declarado de la arquitectura de medios
+
+- **Nuevo:** encuadre al inicio de la sección de comunicación que declara su propósito de fondo: una arquitectura de medios para proteger la democracia, no para servir a un gobierno. Cuatro metas que parecen opuestas (dificultar el monopolio, dificultar la desinformación a escala, sin coerción, sin limitar libertades) se reconcilian con una sola regla: la intervención actúa sobre la estructura y la transparencia del sistema, nunca sobre el contenido ni la verdad del mensaje. La distinción entre el demócrata (que quiere el abuso imposible venga de donde venga) y el partidario (que quiere el control en manos amigas).
+
+## [1.23] El pluralismo como función de gobierno
+
+- **Nuevo:** subsección en comunicación pública sobre el pluralismo informativo. La resistencia de una democracia no está en un medio que dé la cara del gobierno de turno (frágil, lo captura el que gana), sino en muchas voces distribuidas que ningún poder apaga de un golpe. El Estado fomenta esa pluralidad sin controlarla, con reglas ciegas al contenido (espectro comunitario por criterios técnicos, apoyos regionales por fórmulas auditables, pauta reformada), porque financiar al "independiente" que aplaude es captura con otro nombre.
+- Principio que lo ordena: la independencia de los medios se defiende igual cuando favorece al propio lado que cuando favorece al contrario. Un medio público inclinado al lado de uno no es un triunfo, es una captura que aún no cambia de dueño.
+
+## [1.22] Comunicación de gobierno: aterrizaje en RTVC y bloque propositivo
+
+- **Ampliado:** la subsección de medios públicos se aterriza sobre lo que ya existe, RTVC (Señal Colombia, Canal Institucional, Radio Nacional, Radiónica), reconociendo que su dependencia del Ministerio de las TIC lo vuelve capturable, vicio que cambia de bando pero no de naturaleza. El plan no crea un canal nuevo, blinda el que existe con el modelo de radiodifusor de servicio público (tipo BBC): independencia editorial, financiación estable, gobernanza plural.
+- **Nuevo:** bloque propositivo "cómo se comunica bien", con principios de uso en vez de propaganda: comunicar para servicio, rendición de cuentas, contexto y emergencia; mostrar la prueba y no pedir que crean; mostrar el proceso y no solo el resultado; hablar claro sin frivolizar el cargo; accesibilidad; y comunicación atada al cargo y no a la persona.
+
+## [1.21] Comunicación pública y derecho a la información
+
+- **Nuevo:** sección transversal sobre la comunicación como función de gobierno, escrita con el equilibrio entre el derecho del Estado a informar y el peligro de que ese derecho se vuelva propaganda o censura. Distingue medios públicos (del Estado, leales al ciudadano) de medios gubernamentales (voz del presidente de turno), y propone blindaje por estructura: financiación estable por ley, junta plural y escalonada, directores con periodo desfasado del ciclo presidencial.
+- Alocuciones regladas, comunicación por verificabilidad (datos abiertos) en vez de propaganda, y un tratamiento explícito del equilibrio entre combatir la desinformación y la libertad de expresión, con el principio tajante de que el Estado no debe ser árbitro de la verdad y la lista de lo que NO debe hacer (nada de oficina de la verdad ni tipos penales vagos contra la crítica).
+
+## [1.20] La denuncia ciudadana como sensor de los puntos ciegos
+
+- **Nuevo:** subsección en el Frente IV sobre el papel de la denuncia ciudadana. Reconoce los canales que ya existen (línea 122 y Denuncia Fácil de la Fiscalía, PACO, personerías, veedurías), dispersos y desconectados, y plantea que el plan los unifica y los conecta a la plataforma como flujo de entrada.
+- **Diseño de triaje corregido:** la denuncia se cruza con los datos para priorizar, nunca para descartar. La denuncia que cae en un vacío de datos no se descarta, se trata como doble alerta (sobre el hecho y sobre el punto ciego) con investigación humana, porque el silencio del dato no es prueba de inocencia. Compuerta humana para lo que la máquina no sabe clasificar, enrutamiento de las quejas de servicio fuera del embudo anticorrupción, y protección al denunciante de buena fe.
+- Toque breve en la sección transversal de la plataforma: la denuncia ciudadana queda listada como uno de sus flujos de entrada.
+
+## [1.19] Mecanismos concretos para la confianza pública
+
+- **Nuevo:** la sección de percepción de corrupción aterriza en dos compromisos verificables. Uno, el reporte público del criterio (no del resultado): el operador independiente publica que la regla de detección fue ciega al partido y se aplicó sin excepción, vigilando sobre todo que el oficialismo no aparezca subrepresentado, en vez de prometer un conteo parejo. Dos, el compromiso de primer caso propio: la vara más dura hacia adentro, verificable con hechos. Cada uno con su responsable, su forma de medición y su límite honesto (la asimetría de un criterio ciego es hecho y no sesgo; la paridad forzada sería tan injusta como el sesgo).
+
+## [1.18] La percepción de corrupción y la confianza pública
+
+- **Nuevo:** sección al cierre del Frente IV que distingue combatir la corrupción de combatir su percepción, y trata la segunda como un problema de confianza y no de información. Reconoce el límite de la polarización (parte de la percepción es tribal y no se recupera) y propone cuatro palancas: verificabilidad, simetría demostrada (que la sanción caiga por hechos y no por bando, empezando por los propios), gestos visibles y comunicación honesta que admite errores.
+
 ## [1.17] La plataforma fuera de la ruta crítica del arranque
 
 - **Nuevo, lado positivo:** se explicita que desarrollar y operar la plataforma genera empleo de alta calificación, capacidad estatal instalable y conocimiento anticorrupción exportable, no solo gasto.

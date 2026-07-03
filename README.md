@@ -31,7 +31,7 @@ El documento completo está partido en archivos por sección (la fuente de verda
 4. [Principios rectores](docs/04-principios.md)
 5. [La Columna Vertebral: Estado en el territorio](docs/05-columna-vertebral.md), el modelo de nodos
 
-### Los catorce frentes (ejecución)
+### Los quince frentes (ejecución)
 - [I, Empleo de calidad](docs/frentes/frente-01-empleo.md)
 - [II, Reforma agraria integral](docs/frentes/frente-02-reforma-agraria.md)
 - [III, Seguridad, soberanía e inteligencia](docs/frentes/frente-03-seguridad.md)
@@ -46,6 +46,7 @@ El documento completo está partido en archivos por sección (la fuente de verda
 - [XII, Ciudades, turismo y productividad urbana](docs/frentes/frente-12-ciudades-turismo.md)
 - [XIII, Integridad estructural y diseño de mecanismos](docs/frentes/frente-13-integridad-mecanismos.md)
 - [XIV, Servicio Nacional de Vida](docs/frentes/frente-14-servicio-nacional.md)
+- [XV, Medio ambiente, agua y recursos naturales](docs/frentes/frente-15-medio-ambiente.md)
 
 ### Secciones transversales
 - [El rendimiento compuesto del modelo](docs/06-rendimiento-compuesto.md)
@@ -54,6 +55,7 @@ El documento completo está partido en archivos por sección (la fuente de verda
 - [Fundamentos en la investigación reciente](docs/transversal/fundamentos-investigacion.md)
 - [Productividad y competitividad nacional](docs/transversal/productividad-competitividad.md)
 - [Plataforma de trazabilidad del gasto](docs/transversal/plataforma-trazabilidad.md)
+- [Comunicación pública y derecho a la información](docs/transversal/comunicacion-publica.md)
 
 ### Cierre
 - [Secuencia de gobierno y transición](docs/cierre/secuencia-gobierno.md)

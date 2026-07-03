@@ -9,7 +9,7 @@
   - [Principios rectores](docs/04-principios.md)
   - [Columna vertebral: nodos](docs/05-columna-vertebral.md)
 
-- **Los catorce frentes**
+- **Los quince frentes**
   - [I. Empleo](docs/frentes/frente-01-empleo.md)
   - [II. Reforma agraria](docs/frentes/frente-02-reforma-agraria.md)
   - [III. Seguridad](docs/frentes/frente-03-seguridad.md)
@@ -24,6 +24,7 @@
   - [XII. Ciudades, turismo y productividad urbana](docs/frentes/frente-12-ciudades-turismo.md)
   - [XIII. Integridad y mecanismos](docs/frentes/frente-13-integridad-mecanismos.md)
   - [XIV. Servicio Nacional de Vida](docs/frentes/frente-14-servicio-nacional.md)
+  - [XV. Medio ambiente, agua y recursos naturales](docs/frentes/frente-15-medio-ambiente.md)
 
 - **Transversal**
   - [Rendimiento compuesto](docs/06-rendimiento-compuesto.md)
@@ -32,6 +33,7 @@
   - [Fundamentos de investigación](docs/transversal/fundamentos-investigacion.md)
   - [Productividad y competitividad](docs/transversal/productividad-competitividad.md)
   - [Plataforma de trazabilidad del gasto](docs/transversal/plataforma-trazabilidad.md)
+  - [Comunicación pública y derecho a la información](docs/transversal/comunicacion-publica.md)
 
 - **Cierre**
   - [Secuencia de gobierno](docs/cierre/secuencia-gobierno.md)

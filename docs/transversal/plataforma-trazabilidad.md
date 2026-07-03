@@ -11,6 +11,7 @@ El reparto es deliberado: aquí vive la infraestructura, en el Frente IV se expl
 | Integración de bases | Interoperar SECOP, Cuentas Claras, PILA, DIAN, catastro, UIAF y demás fuentes; API pública. Es la base común que alimenta tanto la gestión del gasto como la detección de anomalías | DNP + DIAN + IGAC + UIAF | Año 1 |
 | Motor de detección | Corre sobre esta infraestructura. Las señales concretas y los módulos por dominio (contratación, salud, subsidios, nómina) se detallan en el Frente IV, para no duplicarlos aquí | Ente independiente (Contraloría + Veeduría) | Años 1-2 |
 | Inteligencia financiera | Uso propio de seguridad, distinto de la detección de corrupción en el gasto: rastreo de flujos financieros de grupos armados, en coordinación con la UIAF | UIAF + Min. Defensa | Años 1-2 |
+| Denuncia ciudadana | Canal unificado (integra los que ya existen) como flujo de entrada; es el sensor humano que cubre los puntos ciegos del dato. Su triaje (cruzar para priorizar, nunca para descartar) y sus salvaguardas se detallan en el Frente IV | Secretaría de Transparencia + entes de control | Años 1-2 |
 | Datos abiertos | Toda la plataforma descargable; actualización diaria; API para periodistas y veedores | DNP + Min. TIC | Año 2 |
 | Independencia | Administrada por ente independiente del que ejecuta; director por méritos; presupuesto protegido | Contraloría + Veeduría | Año 1 |
 | Acople a Fiscalía | Las alertas disparan investigación con respuesta máx. 30 días; se publica la tasa de conversión alerta-imputación | Fiscalía + Contraloría | Año 2 |
