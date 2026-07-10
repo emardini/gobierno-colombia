@@ -2,6 +2,12 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.28] Sección transversal: Política Exterior
+
+- **Nuevo:** doctrina de política exterior de principios durables, sin catálogo de países ni agenda de bando. Un tercer camino frente a los dos vicios históricos (subordinarse a la potencia de turno o alinearse con un bloque por ideología): una política de interés nacional y autonomía.
+- Eje: la soberanía completa. El plan ya la trabaja hacia adentro (llenar el territorio de Estado); esta sección añade la mitad externa, con el principio tajante de que un Estado resuelve sus asuntos internos con sus instituciones y no convoca a poderes extranjeros contra sus propios ciudadanos.
+- Principios: interés nacional sobre afinidad ideológica; autonomía por diversificación; las reglas por encima de la fuerza; responsabilidad compartida en lo transnacional; comercio al servicio del desarrollo; la riqueza ambiental como posición negociadora; protección del nacional en el exterior; y política exterior de Estado y no de gobierno, con servicio diplomático meritocrático, diseñada para que no sea el instrumento personal del gobernante.
+
 ## [1.27] La doctrina anti captura local: no condicionar la transferencia, blindar la ejecución
 
 - **Nuevo:** encuadre al inicio de la sección 13.9 que consolida los mecanismos contra la captura clientelista local bajo un principio explícito y respetuoso del límite constitucional. El SGP y las regalías son transferencias de base constitucional (arts. 356-357 y SGR) y no se pueden condicionar por decreto; por eso la estrategia no toca el derecho del municipio a recibir, sino la forma de gastar. Interventor que no elige el alcalde, pago directo nación-proveedor, rendición en vivo y techo de concentración atacan el momento del gasto y del contrato, no el giro del recurso. Se cierra la captura sin pisar el derecho del territorio a sus recursos.
