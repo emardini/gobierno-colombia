@@ -22,6 +22,7 @@ La ESEPGUA en La Guajira: de 1% a 30% de cobertura rural en Uribia en un año; m
 | Cofinanciación pública años 1-3 | El Estado cubre 70% del costo de operación mientras la tarifa madura | Antes: la EOC quiebra en el Año 1. Ahora: tiempo para madurar |
 | Tarifa regulada accesible años 4-10 | La CRA regula una tarifa que cubre costos sin ser prohibitiva; subsidio cruzado | Antes: tarifa inviable o subsidio insostenible. Ahora: equilibrio regulado |
 | Veeduría ciudadana obligatoria | Acceso en tiempo real al estado de la planta y la gestión financiera | Antes: opacidad. Ahora: comunidad como primer auditor |
+| Sanción graduada y resolución local (Ostrom) | Para el no pago de tarifa: aviso, recargo, restricción de caudal y corte, en ese orden, con resolución de conflictos vecinales dentro de la EOC antes de escalar a la Superservicios | Antes: corte tajante o impunidad. Ahora: escalera justa y disuasiva que sostiene el recaudo sin castigar al que de verdad no puede |
 
 ## 11.3 Municipios prioritarios: lo que el próximo gobierno hereda
 

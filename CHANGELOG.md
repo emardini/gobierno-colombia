@@ -2,6 +2,13 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.30] Integración desde una versión paralela: candados de ejecución y política exterior durable
+
+- **Cinco candados de ejecución (nueva sección 3.9 en la columna vertebral).** Complementan, sin repetir, el diagnóstico y las secciones G, H, I del Frente VIII. Derivados de teoría de frontera: auditoría de puntos de autorización (Pressman y Wildavsky: N firmas en serie multiplican el fallo), matching de talento al eslabón frágil (O-ring de Kremer: catastro y titulación primero), índice de confianza territorial (Holmström y Milgrom: no medir solo lo medible), registro de casi fallos (Weick, alta confiabilidad) y mapeo de conocimiento práctico local (Scott, mētis). Ninguno crea entidad ni ley.
+- **Nueve hallazgos nuevos (8-16) en Fundamentos en la Investigación Reciente:** Pressman y Wildavsky, Kremer, Evans (autonomía enraizada), Acemoglu y Robinson (corredor angosto), Holmström y Milgrom, Weick y Sutcliffe, Ostrom, James Scott y Tendler. Forman la capa de capacidad de ejecución.
+- **Dos aterrizajes concretos:** sanción graduada de Ostrom en la Empresa Operadora Comunitaria (Frente XI) y reconocimiento público nombrado de Tendler para el Cuerpo de Ejecutores y el Servicio Nacional de Vida (Frente VIII-F).
+- **Política exterior, solo la capa durable** (se descartó la coyuntural para no caducar): aclaración sobre extradición (cumplir un tratado por delito de jurisdicción compartida no es lo mismo que alquilar el poder ajeno), doctrina de vecindario en cuatro reglas fijas para cualquier vecino y cualquier gobierno, y la carrera diplomática apoyada en el Decreto Ley 274 de 2000 (ya existe, cúmplase).
+
 ## [1.29] Blindar la ejecución: diagnóstico y cuatro refuerzos teóricos al Frente VIII
 
 - **Diagnóstico nuevo (cimiento del frente):** por qué el Estado colombiano no ejecuta, con nombre propio. Mímica isomórfica (adoptar la forma de las instituciones que funcionan sin su función: leyes de primer mundo, ejecución de siempre) y sobrecarga prematura (Andrews, Pritchett, Woolcock). El modelo de nodos se reencuadra como iteración adaptativa dirigida por problemas (PDIA): construir capacidad haciendo, no decretando, y expandir por resultado para no caer en la sobrecarga.

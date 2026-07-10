@@ -73,6 +73,7 @@ La Alta Dirección Pública tarda años en madurar; el Equipo Territorial necesi
 | Convenio universidad-nodo | Las 5 universidades públicas regionales más cercanas aportan pasantes de último año con beca; el Equipo supervisa tesis aplicadas. 15-20 técnicos/año por nodo | MEN + universidades + Gerente |
 | Programa Regresa (diáspora) | Colombianos con experiencia multilateral (BID, BM, ONU-Hábitat) o subnacional exitosa (Medellín, Bogotá); incentivo reputacional ("Constructor del País") | Cancillería + DNP + redes en el exterior |
 | Servicio Nacional de Vida (modalidad ambiental) | Los jóvenes del Servicio hacen el catastro y operan los primeros meses de los sistemas de agua, bajo supervisión del núcleo sénior | SENA + Servicio Nacional de Vida |
+| Reconocimiento público nombrado (Tendler) | Ceremonia pública de graduación de cada nodo y crédito individual visible en la plataforma por las obras que cada equipo entregó, mismo espíritu que "Constructor del País" del Programa Regresa. El reconocimiento y la misión motivan y retienen tanto como el salario | Presidencia + DNP |
 
 > El listón crítico baja: no se necesita encontrar 60 personas perfectas, sino un núcleo sénior pequeño. La masa de trabajo técnico la cubren convenios universitarios y el Servicio, bajo supervisión, y la retención del talento clave se ata a la vía rápida hacia la Alta Dirección Pública (misma lógica de la Credencial de Ciudadanía Activa).
 
