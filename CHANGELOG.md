@@ -2,6 +2,13 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.29] Blindar la ejecución: diagnóstico y cuatro refuerzos teóricos al Frente VIII
+
+- **Diagnóstico nuevo (cimiento del frente):** por qué el Estado colombiano no ejecuta, con nombre propio. Mímica isomórfica (adoptar la forma de las instituciones que funcionan sin su función: leyes de primer mundo, ejecución de siempre) y sobrecarga prematura (Andrews, Pritchett, Woolcock). El modelo de nodos se reencuadra como iteración adaptativa dirigida por problemas (PDIA): construir capacidad haciendo, no decretando, y expandir por resultado para no caer en la sobrecarga.
+- **G. Que la isla no se reabsorba:** convierte en cinco criterios de diseño las lecciones de la literatura de bolsones de efectividad (Roll, Leonard) sobre por qué unas islas de efectividad perduran y otras se disuelven.
+- **H. La política de la ejecución:** economía política de las reformas (Fernández y Rodrik, Acemoglu). Las reformas no mueren solo por falta de capacidad, mueren por resistencia; producir ganadores visibles temprano, secuenciar para que cada victoria financie la siguiente, y escoger la pelea con cada perdedor.
+- **I. La rutina de cumplimiento:** la disciplina de las unidades de cumplimiento (Barber), que es el standup o revisión de sprint de la ingeniería aplicado al gobierno. Pocas prioridades, trayectorias mes a mes, y el encuentro periódico mirando el tablero de frente, combinado con la regla anti Goodhart para que la presión no corrompa el dato.
+
 ## [1.28] Sección transversal: Política Exterior
 
 - **Nuevo:** doctrina de política exterior de principios durables, sin catálogo de países ni agenda de bando. Un tercer camino frente a los dos vicios históricos (subordinarse a la potencia de turno o alinearse con un bloque por ideología): una política de interés nacional y autonomía.
