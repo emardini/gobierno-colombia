@@ -2,6 +2,12 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.31] Sección transversal: La Dimensión Deliberativa
+
+- **Nuevo:** respuesta a una crítica justa, que el plan es muy técnico y frío y subestima los procesos humanos de diálogo, participación y reconciliación. La sección lo reconoce de frente y lo corrige como parte de la teoría del cambio, no como decoración.
+- Dos fuentes de legitimidad (de resultado y de origen), y por qué entregar sin escuchar produce beneficiarios y no ciudadanos. El nodo llega completo pero no llega hecho: lo que no se negocia es que el Estado llegue, lo que se co construye es cómo (prioridades, orden, adaptación), con el mapeo de los primeros 15 días como inicio de un codiseño. El conflicto como parte de la democracia y no como ruido a filtrar (la consulta que de verdad puede negar). La reconciliación y la memoria como el trabajo lento que ningún mecanismo captura y que el Estado acompaña sin dirigir.
+- Por qué es teoría del cambio: la participación sostiene el nodo contra la reabsorción, completa la legitimidad de resultado, y forma ciudadanía, que es un fin y no un medio. Con su límite honesto: la participación también se captura y no se arregla con otro mecanismo frío.
+
 ## [1.30] Integración desde una versión paralela: candados de ejecución y política exterior durable
 
 - **Cinco candados de ejecución (nueva sección 3.9 en la columna vertebral).** Complementan, sin repetir, el diagnóstico y las secciones G, H, I del Frente VIII. Derivados de teoría de frontera: auditoría de puntos de autorización (Pressman y Wildavsky: N firmas en serie multiplican el fallo), matching de talento al eslabón frágil (O-ring de Kremer: catastro y titulación primero), índice de confianza territorial (Holmström y Milgrom: no medir solo lo medible), registro de casi fallos (Weick, alta confiabilidad) y mapeo de conocimiento práctico local (Scott, mētis). Ninguno crea entidad ni ley.

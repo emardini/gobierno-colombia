@@ -57,6 +57,7 @@ El documento completo está partido en archivos por sección (la fuente de verda
 - [Plataforma de trazabilidad del gasto](docs/transversal/plataforma-trazabilidad.md)
 - [Comunicación pública y derecho a la información](docs/transversal/comunicacion-publica.md)
 - [Política exterior: interés nacional, autonomía y principios](docs/transversal/politica-exterior.md)
+- [La dimensión deliberativa: legitimidad, participación y reconciliación](docs/transversal/dimension-deliberativa.md)
 
 ### Cierre
 - [Secuencia de gobierno y transición](docs/cierre/secuencia-gobierno.md)

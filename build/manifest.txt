@@ -34,6 +34,7 @@ docs/transversal/productividad-competitividad.md
 docs/transversal/plataforma-trazabilidad.md
 docs/transversal/comunicacion-publica.md
 docs/transversal/politica-exterior.md
+docs/transversal/dimension-deliberativa.md
 
 docs/cierre/secuencia-gobierno.md
 docs/cierre/medicion-blindaje.md
