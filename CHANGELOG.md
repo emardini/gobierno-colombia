@@ -2,6 +2,11 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.33] La grieta de la subexplotación y la estrategia para cerrarla
+
+- **Nuevo bloque en el Frente II** con los cuatro límites honestos de la redistribución (los topes nacionales que capan el motor municipal, la extinción de efecto definitivo pero trámite lento, el carril municipal que asume una colaboración escasa donde más se necesita, y la grieta: la subexplotación en municipio capturado, que ni la extinción ni el motor municipal alcanzan, y que es el rostro más común de la concentración colombiana).
+- **Estrategia de cierre, no solo diagnóstico:** cinco frentes que no dependen de la alcaldía ni del artículo 317. Condicionar la inversión nacional (Finagro, riego, vías) al uso productivo por incentivo; recuperar los baldíos indebidamente acumulados por encima de la UAF; publicar la brecha uso contra vocación predio a predio para nombrar al subexplotador y fracturar al gremio; la renta presuntiva nacional (impuesto de renta, no de propiedad, escapa al 317) como destino construido por evidencia; y descapturar el municipio con la maquinaria del Frente XIII para desbloquear el carril municipal.
+
 ## [1.32] Reforma agraria: redistribución de dos carriles (a la luz del documento de redistribución de activos)
 
 - **Nueva sección en el Frente II, "Redistribuir de verdad: dos carriles según quién controla el territorio".** Integra un documento de trabajo especializado sobre redistribución democrática de tierra, cuyo hallazgo central (la redistribución de stock exige antes el monopolio estatal de la fuerza en el territorio) coincide con la tesis del nodo.
