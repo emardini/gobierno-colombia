@@ -2,6 +2,15 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.32] Reforma agraria: redistribución de dos carriles (a la luz del documento de redistribución de activos)
+
+- **Nueva sección en el Frente II, "Redistribuir de verdad: dos carriles según quién controla el territorio".** Integra un documento de trabajo especializado sobre redistribución democrática de tierra, cuyo hallazgo central (la redistribución de stock exige antes el monopolio estatal de la fuerza en el territorio) coincide con la tesis del nodo.
+- **Carril de la frontera:** el nodo, que trae el Estado completo con seguridad antes de tocar la tierra; la seguridad es el criterio de dónde entra, no un acompañamiento.
+- **Carril de lo controlado:** el motor georgista municipal (impuesto progresivo al valor del suelo por concentración e improductividad), municipal por el artículo 317, mismo patrón que el SGP y las regalías.
+- **La zanahoria que divide a la élite** (incentivo tributario de salida a quien vende al Fondo) en vez de la compra negociada, que solo monetiza el veto (corrige la antigua línea de "compra subsidiada"). Activación de la extinción por inexplotación que ya es ley (Ley 160/1994, art. 58). Freno anti reconcentración (no enajenación más derecho de preferencia). Fondo blindado por interés (cooperativas en la junta, banca multilateral, veeduría), no solo por autonomía formal, con la lección del INCORA y Chicoral.
+- **Dos hallazgos nuevos en Fundamentos (17-18):** Albertus sobre la redistribución de stock y el veto de la élite, y los fracasos (Sudáfrica, COFOPRI, Kerala) leídos como especificaciones de diseño.
+- Se dejó fuera del plan, a propósito, la estrategia legislativa y de comunicación coyuntural del documento (su equivalente a la difusión del proyecto): es táctica, no programa.
+
 ## [1.31] Sección transversal: La Dimensión Deliberativa
 
 - **Nuevo:** respuesta a una crítica justa, que el plan es muy técnico y frío y subestima los procesos humanos de diálogo, participación y reconciliación. La sección lo reconoce de frente y lo corrige como parte de la teoría del cambio, no como decoración.
