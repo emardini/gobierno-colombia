@@ -10,6 +10,30 @@ La incapacidad de ejecución de Colombia no es un misterio ni una fatalidad cult
 
 Reconocer esto cambia el método, y es el cimiento de todo este frente. La respuesta no es una reforma más ambiciosa sobre el papel, que sería más mímica, sino construir capacidad haciendo. El modelo de nodos es, en el fondo, la aplicación de lo que esa literatura llama iteración adaptativa dirigida por problemas: se parte del problema concreto del territorio y no de la solución importada, se avanza en ciclos cortos con medición y corrección, y la capacidad se construye resolviendo, no decretando. Por eso el plan concentra el Estado en pocos lugares y se expande por resultado y no por calendario, porque es la forma de no caer en la sobrecarga prematura, de no exigirle a la vez a todo el país lo que primero hay que aprender a hacer bien en unos pocos. El gradualismo del nodo no es timidez, es la única cura conocida para la enfermedad que nos tiene atrapados.
 
+## Los cuatro ancestros muertos: por qué el nodo no es lo mismo otra vez
+
+El modelo de nodos no es una idea nueva, y hay que decirlo antes de que lo diga un crítico. Ya se intentó, con la misma familia conceptual, al menos cuatro veces, y las cuatro fracasaron. Ignorarlas sería la peor forma de mímica isomórfica: repetir la forma de una idea sin haber entendido por qué murió la vez anterior.
+
+**Millennium Villages (Sachs, años 2000).** El gemelo intelectual exacto del nodo: paquete integral, simultáneo, multisectorial, concentrado en un lugar hasta que cambia. Fue el proyecto insignia de la economía del desarrollo de su década, y la evaluación rigurosa que vino después (Clemens y Demombynes; luego la evaluación de Ghana en *Lancet Global Health*) lo desarmó, no porque no pasara nada bueno en las aldeas, sino porque no había contrafactual: buena parte de lo atribuido al programa era tendencia regional que habría ocurrido igual, con o sin el programa.
+
+**Consolidación Territorial (2004-2015).** El ancestro colombiano directo y el que más duele nombrar. El CCAI, el Plan de Consolidación Integral de La Macarena, la UACT: la doctrina era, en el papel, la misma de este plan, acción integral y coordinada del Estado, seguridad primero, luego institucionalidad y desarrollo, en territorios priorizados. Se liquidó sin haber consolidado casi nada.
+
+**PDET (2017-).** 170 municipios, 16 subregiones, planeación participativa a quince años. Diagnóstico correcto, financiación fragmentada, ejecución dispersa entre decenas de entidades sin gerencia ni presupuesto propio. Es, en esencia, el nodo sin concentración de mando ni de plata.
+
+**ZOMAC (2016-).** El incentivo tributario territorial. Las evaluaciones disponibles muestran efecto débil o nulo sobre el empleo formal frente a su costo fiscal, y el propio Frente I de este documento ya propone rediseñarlo, lo cual es, en sí mismo, una admisión de que no funcionó como se esperaba.
+
+Cuatro intentos, cuatro fracasos, la misma familia de ideas. Y el pecado que los une, sobre todo el de Millennium Villages y Consolidación, es el mismo: nadie pudo demostrar, con rigor, cuánto del cambio era el programa y cuánto habría pasado de todos modos.
+
+**La vacuna ya está en el diseño, solo que perdida en una tabla.** La tabla de Medición y Blindaje ya incluye una fila que pocos notan: adicionalidad contra municipios control, el efecto causal medido contra el número crudo del nodo. Esa fila, no una afirmación de fe, es la respuesta al ancestro más peligroso. El nodo se compromete de antemano a medirse contra municipios comparables que no reciben el programa, y a publicar el resultado aunque sea cero. Eso es exactamente lo que le faltó a Millennium Villages.
+
+Y frente a Consolidación Territorial, que es el fracaso que más se parece en la forma, hay tres diferencias concretas y verificables, no una promesa de que "esta vez sí":
+
+1. Consolidación tenía coordinación interinstitucional, pero no tenía plata separada ni gerente con autoridad sobre el gasto; dependía de que cada entidad quisiera cooperar. El nodo tiene fiducia dedicada y Gerente con condicionalidad presupuestal sobre la inversión nacional (ver sección C).
+2. Consolidación se expandía por decisión política, no por resultado, y se siguió expandiendo mientras fracasaba, porque nada obligaba a parar. El nodo tiene el activador por resultado: no se abre Ola 2 hasta que Ola 1 demuestra el umbral con datos.
+3. Consolidación no tenía sunset ni métricas pre-registradas, así que nadie podía declararla oficialmente fracasada porque nunca se dijo qué contaría como fracaso. El nodo tiene el sunset por fracaso (3.4.3) con métricas fijadas antes de empezar.
+
+Estas tres diferencias son defendibles porque son de diseño, verificables en el documento, no de intención. Mostrar que el nodo funciona no es afirmarlo: es demostrar que las causas conocidas de muerte de sus cuatro ancestros están, una por una, atacadas por diseño.
+
 ## A. Talento humano: romper la carrera clientelista
 
 | Medida | Concreción | Responsable | Plazo |
@@ -33,7 +57,9 @@ Reconocer esto cambia el método, y es el cimiento de todo este frente. La respu
 
 ## C. Coordinación nación-territorio: autoridad real, dentro de la ley (reformulado)
 
-El problema: el programa nombra un Gerente de Nodo pero las entidades con personería jurídica independiente (IGAC, ANT, INVIAS, Banco Agrario) no tienen obligación de responderle. La versión anterior pretendía resolverlo con mando directo, jurídicamente frágil, . Esta versión usa los dos instrumentos que **sí** son legales y los separa por vía.
+El problema: el programa nombra un Gerente de Nodo pero las entidades con personería jurídica independiente (IGAC, ANT, INVIAS, Banco Agrario) no tienen obligación de responderle. La versión anterior pretendía resolverlo con mando directo, jurídicamente frágil. Esta versión usa los dos instrumentos que **sí** son legales y los separa por vía.
+
+**La pregunta que hay que responder de frente, porque el propio diagnóstico de mímica isomórfica obliga a aplicárselo a esta figura: ¿qué tiene el Gerente de Nodo que no tuvieron las gerencias y altas consejerías que ya fracasaron en Colombia?** La respuesta honesta es que no es la jerarquía, que sigue sin tener sobre entidades autónomas, sino tres cosas puntuales y verificables: la fiducia, que le da control real sobre un flujo de plata que las consejerías anteriores nunca tuvieron; la condicionalidad presupuestal, que convierte la coordinación de un ruego a un candado (la entidad no ejecuta su línea del nodo sin el concepto del Gerente, así no pueda ordenarle nada más); y el activador por resultado, que hace que su fracaso o éxito sea públicamente medible y tenga consecuencia (rotación, ascenso o salida) en vez de diluirse en el anonimato institucional donde murieron sus predecesores. Es una autoridad menor que la de un ministro y mayor que la de un asesor presidencial sin presupuesto, y su apuesta no es la jerarquía, es que el dinero y la medición hagan el trabajo que el mando no puede hacer legalmente. Puede no bastar; lo que no puede es quedar implícito, porque si no basta, es mejor saberlo ahora que descubrirlo en el año 3 de un nodo estancado.
 
 | Mecanismo | Concreción | Vía jurídica |
 |---|---|---|

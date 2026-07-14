@@ -16,7 +16,7 @@
 | La industria avanzada queda como catálogo sin mercado | Alta | Min. Comercio + Colombia Compra | Compras públicas no dirigidas al primer cliente en Año 2 | Sin contrato ancla de compra pública al cierre del Año 2 | Compras públicas como primer cliente; transferencia obligatoria |
 | Las plantas de agua se construyen pero no se operan | Alta (61% histórico) | Superservicios + EOC | Planta entregada sin operador certificado | Planta sin O&M contratado al momento de la entrega | O&M obligatorio simultáneo; cofinanciación 3 años; veeduría como auditor primario |
 | Las EOC quiebran por tarifa insuficiente | Media | CRA + Min. Vivienda | Recaudo bajo el punto de equilibrio 2 trimestres seguidos | Cofinanciación agotada sin tarifa ajustada al año 3 | Cofinanciación 70% Años 1-3; tarifa de la CRA antes de la entrega |
-| Un sucesor con mejor evidencia no puede corregir | n/a | Panel técnico independiente | Métricas pre-registradas incumplidas y sin rampa activada | Trayectoria plana o descendente sostenida más allá del hito de 60 meses | **Sunset por fracaso (3.4.2): rampa de salida legítima que distingue corrección de abandono** |
+| Un sucesor con mejor evidencia no puede corregir | n/a | Panel técnico independiente | Métricas pre-registradas incumplidas y sin rampa activada | Trayectoria plana o descendente sostenida más allá del hito de 60 meses | **Sunset por fracaso (3.4.3): rampa de salida legítima que distingue corrección de abandono** |
 
 > **Lo que ningún gobierno honesto puede prometer:** Colombia sin coca mientras haya demanda global; cero muertos en seguridad; resultados culturales o educativos en un período. Lo serio es prometer que robar empezó a costar, el reclutamiento empezó a secarse, y la curva se volteó.
 

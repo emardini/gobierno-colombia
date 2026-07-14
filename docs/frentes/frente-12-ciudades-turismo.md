@@ -44,7 +44,7 @@ Este módulo responde a una incoherencia del propio plan: el principio rector "a
 
 ### A. Recualificación del trabajador en activo
 
-El plan vuelca su capital humano en jóvenes y en el Servicio, y deja desatendido al trabajador adulto urbano ya empleado, cuya productividad es la que cuenta hoy, .
+El plan vuelca su capital humano en jóvenes y en el Servicio, y deja desatendido al trabajador adulto urbano ya empleado, cuya productividad es la que cuenta hoy.
 
 | Medida | Concreción | Vía jurídica | Plazo |
 |---|---|---|---|
@@ -84,7 +84,7 @@ La productividad sube cuando las firmas compiten y cuando sus insumos cuestan me
 
 ### E. Doblar la apuesta sobre los clústeres urbanos que ya existen
 
-Bogotá y Medellín ya tienen clústeres de alta productividad y exportables, software, BPO, salud, industrias creativas, servicios profesionales, . Fortalecer lo que ya funciona rinde más que fundar lo nuevo. Es "activar lo que ya se pagó" aplicado al talento urbano.
+Bogotá y Medellín ya tienen clústeres de alta productividad y exportables, software, BPO, salud, industrias creativas, servicios profesionales. Fortalecer lo que ya funciona rinde más que fundar lo nuevo. Es "activar lo que ya se pagó" aplicado al talento urbano.
 
 | Medida | Concreción | Vía jurídica | Plazo |
 |---|---|---|---|
@@ -109,7 +109,7 @@ Para que el módulo no caiga en la trampa nacional de "más empleo, menos produc
 
 ### Una advertencia honesta
 
-Concentrar esfuerzo en las firmas urbanas que ya existen puede afianzar a los incumbentes y ensanchar la desigualdad, justo lo que el sesgo hacia la periferia busca corregir, . Por eso el módulo prioriza la *pyme* y al *trabajador en activo* (no a las grandes), ata todo apoyo a competencia y desempeño, y corre en paralelo a los nodos, no en su lugar. La tensión entre competitividad nacional y justicia territorial es real; el plan la asume con los ojos abiertos en vez de fingir que no existe.
+Concentrar esfuerzo en las firmas urbanas que ya existen puede afianzar a los incumbentes y ensanchar la desigualdad, justo lo que el sesgo hacia la periferia busca corregir. Por eso el módulo prioriza la *pyme* y al *trabajador en activo* (no a las grandes), ata todo apoyo a competencia y desempeño, y corre en paralelo a los nodos, no en su lugar. La tensión entre competitividad nacional y justicia territorial es real; el plan la asume con los ojos abiertos en vez de fingir que no existe.
 
 ## 12.4 El turismo: estrategia de alto impacto dentro del presupuesto
 

@@ -2,6 +2,19 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.38] Respuesta a la auditoría más rigurosa: costeo, ancestros, y corrección de un error real
+
+Motivado por una tercera auditoría externa, la más profunda recibida hasta ahora. Se verificó cada señalamiento contra el texto antes de actuar; casi todos resultaron correctos.
+
+- **Nuevo: costeo de un nodo y punto de equilibrio fiscal** (Cuadro Fiscal), con Montería-Tierralta como caso base, cada supuesto visible y su fuente. Cierra la grieta señalada ("hay fuentes, no hay usos"): el costo de los 3 nodos de Ola 1 es una fracción marginal (~0,1-0,3%) del espacio fiscal del escenario base; el punto de equilibrio del recaudo se estima entre el año 6 y el 10, no antes, dicho con honestidad en vez de prometer que "se paga solo".
+- **Corregido un error real de conflación** en el stress test: la fila de "ahorros de eficiencia" usaba la cifra del dividendo ético (medido en empleos) para estresar la línea de "eficiencia del gasto" (medida en billones), que son conceptos distintos. Ahora cada línea se estresa contra su propia cifra.
+- **Reconciliada la aritmética de la senda de déficit** con el PIB nominal: el escenario base no cierra por sí solo los ~$45B que exige el ajuste de 2,5 puntos; se explicita que el resto viene del crecimiento nominal y la composición del gasto, no de una cuarta palanca fantasma.
+- **Nueva sección "Los cuatro ancestros muertos"** en el Frente VIII: Millennium Villages, Consolidación Territorial, PDET y ZOMAC, nombrados antes de que los nombre un crítico, con las tres diferencias de diseño verificables frente a Consolidación (fiducia + condicionalidad, activador por resultado, sunset con métricas pre-registradas) y la adicionalidad contra municipios control elevada de fila de tabla a argumento central.
+- **Respuesta explícita a si el Gerente de Nodo es función o mímica**, aplicándose el propio test de mímica isomórfica: la fiducia, la condicionalidad presupuestal y el activador por resultado son la respuesta, dicha de frente y no dejada implícita.
+- **Honestidad de escala en tres metas** (informalidad 54%→44%, Gini de tierras 0,89→0,82, 100.000 empleos): se explicita a qué nivel se demuestra cada una (nodo con adicionalidad) y a qué nivel es trayectoria de varios gobiernos (nacional), evitando la dilución que el propio Hallazgo 19 identifica como causa de muerte de reformas anteriores.
+- Advertencia de validez externa agregada a la referencia de Ruanda (catastro), con el mismo estándar que el documento exige a otras analogías.
+- Corregido el orden de numeración 3.4.2/3.4.3 (antes invertido) y todas sus referencias cruzadas en 6 archivos. Limpiadas 5 comas huérfanas residuales del build.
+
 ## [1.37] Servicio Nacional de Vida: cómo se cultiva el prestigio, sin fabricarlo
 
 - **Nueva subsección 14.10** en el Frente XIV. El objetivo de largo plazo es que servir gane, con el tiempo, un valor social reconocido por sí solo, sin que el Estado fabrique la sombra social por decreto, exclusión de beneficios o campañas de estigma, que sería coerción heredable por el peor gobierno.

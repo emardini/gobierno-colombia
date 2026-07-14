@@ -4,6 +4,8 @@
 
 **Metas:** titular 3 millones de ha en 4 años; Gini de tierras de ~0.89 a ≤0.82; cero entregas sin paquete habilitador.
 
+> **Honestidad de escala, en diálogo con el propio Hallazgo 17 de este documento.** Este frente cita a Albertus para explicar por qué la redistribución de tierra casi no ocurre bajo democracia: el gran propietario tiene con qué vetar. Sería incoherente, entonces, prometer en el mismo horizonte de cuatro años una caída del Gini que sería, si se cumpliera entera, de las mayores redistribuciones democráticas de tierra en América Latina en tiempos de paz. Lo que es demostrable y medible en cuatro años es el Gini de tierras dentro de los nodos y municipios donde el motor georgista y la extinción operan, con adicionalidad verificada, más las hectáreas efectivamente tituladas con paquete habilitador. El Gini nacional de ≤0.82 es la meta de la trayectoria de dieciséis años (Visión 2042) que varios gobiernos deben sostener, no la promesa de este; tratarla como logro de un solo período sería contradecir la propia evidencia que este documento cita para justificar el diseño gradual de dos carriles.
+
 | Paso | Medida concreta | Responsable | Plazo |
 |---|---|---|---|
 | 1. Catastro | Mapear para titular, cobrar predial y planear. Misma inversión que Frente I. | IGAC + SNR | Años 1-8 |
@@ -29,7 +31,7 @@ La titulación masiva genera conflictos (traslapes, ocupaciones superpuestas, di
 
 La meta de 750.000 ha/año exige duplicar la velocidad histórica del IGAC. Con detección automática de linderos por IA, drones y registro digital integrado, la productividad por técnico se multiplica de 3 a 5 veces. La tecnología no es adorno, es la condición de posibilidad de la meta.
 
-**Base ya existente en Colombia:** el IGAC tiene contrato activo con Planet Labs (monitoreo satelital diario con IA). En enero de 2026, investigadores colombianos validaron extracción automática de linderos por fusión SAR + óptica con el modelo Segment Anything (SAM), desarrollada para la Reforma Rural Integral. **Referente:** Ruanda registró 10,3 millones de parcelas en menos de cinco años, con costo por título de ~$7 USD, escalando de 15.000 a 376.686 archivos/año (×25) con levantamiento comunitario + verificación tecnológica.
+**Base ya existente en Colombia:** el IGAC tiene contrato activo con Planet Labs (monitoreo satelital diario con IA). En enero de 2026, investigadores colombianos validaron extracción automática de linderos por fusión SAR + óptica con el modelo Segment Anything (SAM), desarrollada para la Reforma Rural Integral. **Referente:** Ruanda registró 10,3 millones de parcelas en menos de cinco años, con costo por título de ~$7 USD, escalando de 15.000 a 376.686 archivos/año (×25) con levantamiento comunitario + verificación tecnológica. *Advertencia de validez externa, con el mismo estándar que este documento exige a cualquier otra analogía: Ruanda opera en terreno plano, sin conflicto armado activo, sin despojo paramilitar que oculte linderos, y con un Estado que puede obligar a la población a participar. El costo por predio en Colombia, en zonas como Tierralta, será varias veces mayor, y el plazo de escalamiento probablemente más largo. Lo que se toma de Ruanda es la posibilidad técnica (levantamiento comunitario + IA + satélite escala rápido cuando el diseño es correcto), no la cifra de costo ni el plazo, que no son transferibles sin ajuste.*
 
 | Capa tecnológica | Cómo se usa | Estado en Colombia | Impacto |
 |---|---|---|---|

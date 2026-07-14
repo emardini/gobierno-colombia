@@ -36,7 +36,7 @@ Las victorias tempranas no tienen que ser las más grandes, tienen que ser las m
 | Año 2 | Ola 2 lanzada (3 nodos en Fase 0) | Selección por subasta de puntaje del DANE |
 | Año 3 | 500.000 personas con agua real en La Guajira | Verificado por DANE y Superservicios |
 | Año 3 | Nodos Ola 1 en Fase 2 | Empleo formal sostenido 12 meses en PILA |
-| Año 4 | ≥100.000 empleos formales netos | Netos, persistentes, con adicionalidad |
+| Año 4 | ≥100.000 empleos formales netos | Netos, persistentes, con adicionalidad. *Nota de honestidad: esta cifra no sale solo de los 3 nodos de Ola 1; supone Ola 2 activa (3 nodos adicionales, lanzada en Año 2 si el activador se cumple) más las palancas nacionales de formalización del Frente I y XII (rediseño ZOMAC/ZESE, formalización urbana) que no dependen del modelo de nodos. Si Ola 2 no se activa a tiempo, esta meta se revisa a la baja junto con el activador, no se sostiene por decreto* |
 | Año 4 | 5 millones con agua potable real | Plantas operando, medido por Contraloría |
 | Año 4 | Sistema multimodal completo | Río + tren + puertos integrados |
 | Año 4 | Informalidad 54% → ≤44% | El número más difícil de falsificar y de revertir |

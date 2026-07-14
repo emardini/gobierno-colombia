@@ -2,7 +2,7 @@
 
 # Medición y Blindaje
 
-**Regla anti-Goodhart:** métricas pre-registradas públicamente antes de la ejecución; datos abiertos; el tercero que evalúa no depende del que gasta. *(Estas mismas métricas pre-registradas son las que disparan el sunset por fracaso de 3.4.2, la medición sirve a la rendición de cuentas en ambas direcciones.)*
+**Regla anti-Goodhart:** métricas pre-registradas públicamente antes de la ejecución; datos abiertos; el tercero que evalúa no depende del que gasta. *(Estas mismas métricas pre-registradas son las que disparan el sunset por fracaso de 3.4.3, la medición sirve a la rendición de cuentas en ambas direcciones.)*
 
 | Indicador | Qué mide | Qué NO es | Quién certifica | Frecuencia |
 |---|---|---|---|---|

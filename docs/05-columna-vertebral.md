@@ -149,7 +149,7 @@ Alerta roja en los hitos de los primeros 14 días activa revisión del Equipo de
 | Deterioro de seguridad en Fase 0 (antes del primer desembolso de obras) | Pausa técnica hasta 90 días. Si la tendencia no se recupera, el municipio alternativo de mayor IPN lo reemplaza. Los recursos en la fiducia esperan. | La selección fue correcta con los datos disponibles. El deterioro activa la sustitución prevista en la Ley de Régimen de Nodos. |
 | Deterioro en Fase 1 (obras iniciadas) | Plan de contingencia de seguridad del Frente III. No se abandona la inversión; se refuerza el equipo. Se pausa la expansión, no se revierte la Fase 0. | Una obra en construcción no se "desinvierte". Protegerla cuesta menos que abandonarla. |
 | El gobierno elige fuera del quintil superior | Posible con justificación técnica escrita, aprobada por DNP, publicada 30 días antes, auditada por el DANE. El nombre del director de DNP firmante va en el expediente. | El costo reputacional de firmar una excepción pública supera el beneficio político de un municipio amigo. Compatibilidad de incentivos. |
-| Cambio de gobierno que quiere mover nodos | Puede seleccionar nuevos nodos con el mismo IPN. No puede cancelar nodos en Fase 1 o 2 sin costos contractuales, salvo por la vía de *sunset por fracaso* (3.4.2). | Moverse es más barato que quedarse solo para nodos no empezados; una vez empezado, el costo de salida supera el beneficio político de cancelar, excepto cuando la evidencia justifica la salida. |
+| Cambio de gobierno que quiere mover nodos | Puede seleccionar nuevos nodos con el mismo IPN. No puede cancelar nodos en Fase 1 o 2 sin costos contractuales, salvo por la vía de *sunset por fracaso* (3.4.3). | Moverse es más barato que quedarse solo para nodos no empezados; una vez empezado, el costo de salida supera el beneficio político de cancelar, excepto cuando la evidencia justifica la salida. |
 
 ## 3.4 Blindaje de los nodos: difíciles de deshacer por capricho, no de corregir por evidencia
 
@@ -182,11 +182,11 @@ El riesgo central del modelo no es técnico, es político. Un sucesor puede deja
 | Jurisdicción Especial Agraria autónoma | Títulos inmodificables por decreto; mandato y presupuesto fijos. | Años 1-2 | Eliminarla requiere ley orgánica o reforma. |
 | Plataforma de trazabilidad operada por el DANE | Datos públicos publicados por entidad independiente. | Año 1 | Intervenir publicaciones del DANE genera escándalo institucional. |
 
-**Capa 5: Datos abiertos como seguro de doble vía.** La plataforma hace que el abandono sea visible y costoso en tiempo real. Cualquier ciudadano ve si los contratos se ejecutan; el sucesor que pause un nodo debe explicar públicamente por qué cayó el empleo y salió la inversión. *Y la misma plataforma sirve a la salida legítima:* el sucesor con evidencia de fracaso puede invocar el sunset (3.4.2) apoyándose en esos datos. La transparencia eleva el precio del abandono arbitrario y, a la vez, legitima la corrección fundamentada.
+**Capa 5: Datos abiertos como seguro de doble vía.** La plataforma hace que el abandono sea visible y costoso en tiempo real. Cualquier ciudadano ve si los contratos se ejecutan; el sucesor que pause un nodo debe explicar públicamente por qué cayó el empleo y salió la inversión. *Y la misma plataforma sirve a la salida legítima:* el sucesor con evidencia de fracaso puede invocar el sunset (3.4.3) apoyándose en esos datos. La transparencia eleva el precio del abandono arbitrario y, a la vez, legitima la corrección fundamentada.
 
 **Capa 6: Graduación como incentivo (no abandono).** Cuando un nodo completa la Fase 2 con indicadores sostenidos 24 meses, los recursos del equipo territorial se reciclan al siguiente nodo. La infraestructura, los contratos, las EOC y las cooperativas quedan. El nodo no se abandona, se hace autosuficiente.
 
-### 3.4.3 El umbral de irreversibilidad: por qué la escala importa
+### 3.4.2 El umbral de irreversibilidad: por qué la escala importa
 
 La investigación sobre instituciones (Nobel de Economía 2024 a Acemoglu, Johnson y Robinson) precisa el riesgo de fondo que las seis capas atacan: un nodo es un *enclave de instituciones inclusivas* (mérito, datos abiertos, propiedad comunitaria, reglas) inserto en un entorno de instituciones extractivas (clientelismo, captura, economías ilegales). Mientras el enclave sea pequeño, el equilibrio extractivo que lo rodea puede **reabsorberlo**, no derogando ninguna ley, sino erosionándolo de a poco. Por eso el blindaje no es solo legal: es de masa crítica.
 
@@ -196,7 +196,7 @@ La investigación sobre instituciones (Nobel de Economía 2024 a Acemoglu, Johns
 | Implicación de secuencia | La velocidad del protocolo de 100 días (3.3.3) y la concentración de fuerza de Fase 0 existen precisamente para cruzar el umbral rápido: cuanto más tiempo pasa un nodo por debajo de su masa crítica, más expuesto está a la reabsorción. La velocidad es blindaje. |
 | Lo que se hace explícito | El programa reconoce que un nodo a medio construir es frágil de un modo cualitativamente distinto a uno graduado. La prioridad no es abrir muchos nodos, es llevar pocos por encima del umbral antes de abrir los siguientes (coherente con el activador por resultado). |
 
-### 3.4.2 Sunset por fracaso: la rampa de salida legítima (nuevo)
+### 3.4.3 Sunset por fracaso: la rampa de salida legítima (nuevo)
 
 La irreversibilidad debe proteger contra la reversión clientelista o de revancha, no contra la corrección basada en evidencia. Por eso cada capa tiene una salida transparente.
 

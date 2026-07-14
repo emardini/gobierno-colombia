@@ -4,6 +4,8 @@
 
 **Metas:** ≥30% empleo nuevo en empresas pequeñas; ≥40% en la periferia; informalidad de ~54% a ≤44%.
 
+> **Honestidad de escala:** Colombia ha movido la informalidad nacional apenas 2-3 puntos por década en el pasado reciente; diez puntos en cuatro años, si se lee como meta nacional de un solo período, es la promesa más frágil de este frente. Lo que este gobierno puede demostrar y medir con rigor en cuatro años es la caída de informalidad dentro de los municipios-nodo, con adicionalidad contra municipios control (ver Medición y Blindaje), que es una prueba de mecanismo, no de escala país. La meta nacional de ≤44% es la trayectoria de la Visión 2042 sostenida por varios gobiernos, no un compromiso de este cuatrienio; prometerla como logro de un solo período sería exactamente la dilución que el Hallazgo 19 identifica como causa de muerte de reformas anteriores.
+
 | Palanca | Medida concreta | Responsable | Plazo |
 |---|---|---|---|
 | Tributaria | Rediseño ZOMAC/ZESE: incentivos solo por empleo formal neto verificado en PILA; cláusula de reversión; vencimiento 8 años | MinHacienda + DIAN | Año 1 |
