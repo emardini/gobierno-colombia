@@ -40,6 +40,7 @@
 - **Cierre**
   - [Secuencia de gobierno](docs/cierre/secuencia-gobierno.md)
   - [Medición y blindaje](docs/cierre/medicion-blindaje.md)
+  - [Anexo fiscal maestro](docs/cierre/anexo-fiscal-maestro.md)
   - [Riesgos y límites](docs/cierre/riesgos-limites.md)
   - [El patriotismo](docs/cierre/patriotismo.md)
   - [Hitos de credibilidad](docs/cierre/hitos-credibilidad.md)

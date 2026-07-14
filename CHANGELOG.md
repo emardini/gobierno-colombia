@@ -2,6 +2,26 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.37] Servicio Nacional de Vida: cómo se cultiva el prestigio, sin fabricarlo
+
+- **Nueva subsección 14.10** en el Frente XIV. El objetivo de largo plazo es que servir gane, con el tiempo, un valor social reconocido por sí solo, sin que el Estado fabrique la sombra social por decreto, exclusión de beneficios o campañas de estigma, que sería coerción heredable por el peor gobierno.
+- **Cinco mecanismos legítimos de promoción**, que fomentan el ingrediente sin tocar el estigma: red de egresados con vida propia después del Servicio; altavoz financiado a la historia sin escribirla (el Estado no narra el testimonio); insignias y credenciales verificables que duran para toda la vida civil; preferencia de mercado ganada por datos reales de desempeño, no impuesta por decreto; y aniversarios recurrentes de cohorte.
+- **La regla que distingue promoción de estigma:** si el mecanismo hace más visible lo bueno que ya existe, se promueve; si depende de nombrar, excluir o presionar a quien no participó, es la línea que no se cruza. Se acepta explícitamente que el prestigio así construido tarda una generación, no un cuatrienio.
+
+## [1.36] Tres correcciones de una segunda auditoría externa: nombre legal, matriz de riesgos y anexo fiscal
+
+- **Corrección de nomenclatura legal en todo el documento:** "Ley Marco de Nodos" renombrada a "Ley de Régimen de Nodos" en las 13 ocurrencias del texto (6 archivos). "Ley Marco" (art. 150-19) es una categoría constitucional reservada a otras materias; el nombre técnico correcto es ley ordinaria. Antes la precisión existía solo en una nota al pie de viabilidad jurídica; ahora es consistente en todo el documento, cerrando un flanco de ataque legal gratuito.
+- **Matriz de riesgos ampliada** (Riesgos y Límites Honestos): de tres columnas (riesgo, probabilidad, mitigación) a seis, con dueño del riesgo, señal temprana y umbral de pausa explícitos para cada uno de los 13 riesgos ya identificados. Convierte el diagnóstico de riesgos en algo operable y no solo enunciado.
+- **Nuevo: Anexo Fiscal Maestro** (docs/cierre/anexo-fiscal-maestro.md), consolidado por los 15 frentes con costo aproximado, fuente de financiación, si requiere ley y riesgo de realización. No inventa cifras nuevas: reúne las que ya estaban dispersas en cada frente, y es honesto donde el costeo fino todavía no existe (sobre todo Frente X y XV), en vez de aparentar un rigor que el plan no tiene.
+- Motivado por una segunda auditoría externa detallada; se verificó cada señalamiento contra el texto actual antes de actuar (dos de sus siete recomendaciones ya estaban cubiertas y no se tocaron).
+
+## [1.35] Cerrando vacíos de una crítica externa: discapacidad, no discriminación, vetting global y riesgo fiscal climático
+
+- **Nueva sección 13.3b en el Frente XIII, Discapacidad y derechos civiles.** Un solo principio universal (misma protección ante la ley sin importar etnia, raza, género, orientación sexual, identidad de género o discapacidad, sin programas segmentados por categoría) más dos piezas de diseño concretas: la no discriminación auditable con los mismos datos abiertos del resto del plan, y un índice de brecha de accesibilidad y empleo para discapacidad, con la misma lógica de medición que el IBET ya aplica a la brecha étnica.
+- **Vetting de proveedores con historial de corrupción global**, nueva pieza en la plataforma de trazabilidad: cruce automático de todo oferente en SECOP contra las listas de inhabilitación del Banco Mundial, el BID, la CAF y agencias anticorrupción de otros países, antes de adjudicar.
+- **Integración fiscal explícita del riesgo climático** en el Cuadro Fiscal: dos filas nuevas en el stress test (caída de la renta fósil tratada como certeza de calendario incierto y no como cisne negro, y desastre climático mayor con fondo de contingencia dimensionado como compromiso duro).
+- Motivado por una crítica externa recibida sobre el plan; se contrastó cada punto contra el documento actual antes de actuar, y se descartaron los señalamientos ya cubiertos (sunset por fracaso, riesgo político del cambio de gobierno, puntos ciegos de digitalización) para no engordar sin necesidad.
+
 ## [1.34] Redistribución afinada con la versión final del documento de activos
 
 - **El motor protege al pequeño en la norma, no en el discurso:** la lección de la muerte por dilución del intento 2022-2026 (se fusionó con la actualización catastral general, se personalizó en un gobierno, se defendió reactivamente) convertida en tres respuestas de diseño: umbral y exención escritos en la norma misma, linaje bipartidista (Ley 200 de 1936 y aval de Friedman), y pilotos que producen evidencia antes de la batalla nacional.

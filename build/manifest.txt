@@ -38,6 +38,7 @@ docs/transversal/dimension-deliberativa.md
 
 docs/cierre/secuencia-gobierno.md
 docs/cierre/medicion-blindaje.md
+docs/cierre/anexo-fiscal-maestro.md
 docs/cierre/riesgos-limites.md
 docs/cierre/patriotismo.md
 docs/cierre/hitos-credibilidad.md

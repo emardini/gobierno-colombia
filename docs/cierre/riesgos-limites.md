@@ -2,21 +2,21 @@
 
 # Riesgos y Límites Honestos
 
-| Riesgo | Probabilidad | Mitigación incorporada en el diseño |
-|---|---|---|
-| La Ola 1 no entrega empleo real en 3-4 años | Alta sin disciplina | Indicador pre-registrado; activador por resultado; Equipos de Ejecución desde el Día 1; **plazo de revisión a 36 meses (3.7)** |
-| Una Ola 1 estancada congela a todos | Media | **Plazo de revisión que distingue atraso de ejecución de falla de modelo** |
-| El gobierno se exime a sí mismo de la reforma del Estado | Alta | Concursos en transición = hechos consumados; datos abiertos |
-| Reformas clave no pasan el Congreso | Alta | **Escenario fiscal base no depende de la tributaria; el programa avanza con palancas no legislativas mientras construye coalición** |
-| Captura de cuerpos "independientes" | Media | Datos abiertos como seguro; directores por méritos con proceso público |
-| El modelo no transfiere a zonas de conflicto activo | Media-Alta | **Nodo de aprendizaje en Fase 0 (3.6) que prueba la transferencia antes de apostar las olas siguientes** |
-| Recrudecimiento del conflicto en un nodo | Media | Selección por tendencia ya descendente; plan de contingencia que pausa sin perder la inversión |
-| La penalidad del Contrato de Habilitación no es creíble | Media | **Arbitraje + garantía pre-fondeada, no contencioso de años (Mec. 3)** |
-| Las alertas anticorrupción se ignoran | Media | **Congelamiento automático del desembolso por alerta roja, sin depender de la Fiscalía (Mec. 4)** |
-| La industria avanzada queda como catálogo sin mercado | Alta | Compras públicas como primer cliente; transferencia obligatoria |
-| Las plantas de agua se construyen pero no se operan | Alta (61% histórico) | O&M obligatorio simultáneo; cofinanciación 3 años; veeduría como auditor primario |
-| Las EOC quiebran por tarifa insuficiente | Media | Cofinanciación 70% Años 1-3; tarifa de la CRA antes de la entrega |
-| Un sucesor con mejor evidencia no puede corregir | n/a | **Sunset por fracaso (3.4.2): rampa de salida legítima que distingue corrección de abandono** |
+| Riesgo | Probabilidad | Dueño | Señal temprana | Umbral de pausa | Mitigación incorporada en el diseño |
+|---|---|---|---|---|---|
+| La Ola 1 no entrega empleo real en 3-4 años | Alta sin disciplina | Gerente de Nodo + DNP | PILA plano o negativo a los 12 meses | <100 empleos formales netos al mes 18 (mitad del activador) | Indicador pre-registrado; activador por resultado; Equipos de Ejecución desde el Día 1; **plazo de revisión a 36 meses (3.7)** |
+| Una Ola 1 estancada congela a todos | Media | Presidencia + panel técnico | Ola 1 no alcanza el activador de Fase 1 a los 24 meses | Ningún nodo de Ola 1 en Fase 2 al mes 30 | **Plazo de revisión que distingue atraso de ejecución de falla de modelo** |
+| El gobierno se exime a sí mismo de la reforma del Estado | Alta | DAFP + veeduría | Concursos de transición sin fecha fija a los 6 meses de gobierno | 0 de los 40 cargos críticos concursados al año 1 | Concursos en transición = hechos consumados; datos abiertos |
+| Reformas clave no pasan el Congreso | Alta | Ministerio del Interior | Proyecto sin ponente o sin debate en la primera legislatura | Ley de Régimen de Nodos sin radicar al cierre del Año 1 | **Escenario fiscal base no depende de la tributaria; el programa avanza con palancas no legislativas mientras construye coalición** |
+| Captura de cuerpos "independientes" | Media | Veeduría ciudadana + academia | Director nombrado sin proceso público o removido sin causa | Rotación de director fuera del período estatutario | Datos abiertos como seguro; directores por méritos con proceso público |
+| El modelo no transfiere a zonas de conflicto activo | Media-Alta | Panel técnico + Min. Defensa | El nodo de aprendizaje no reduce reclutamiento seco en 12 meses | Sin mejora verificable en el nodo de aprendizaje al mes 18 | **Nodo de aprendizaje en Fase 0 (3.6) que prueba la transferencia antes de apostar las olas siguientes** |
+| Recrudecimiento del conflicto en un nodo | Media | Min. Defensa + Gerente de Nodo | Homicidios u hostigamientos en ascenso 2 meses seguidos | Reversión de la tendencia descendente por 90 días | Selección por tendencia ya descendente; plan de contingencia que pausa sin perder la inversión |
+| La penalidad del Contrato de Habilitación no es creíble | Media | Fiducia + arbitraje designado | Primer incumplimiento no penalizado en el plazo pactado | Arbitraje no resuelto en el plazo contractual | **Arbitraje + garantía pre-fondeada, no contencioso de años (Mec. 3)** |
+| Las alertas anticorrupción se ignoran | Media | Contraloría + plataforma | Alerta roja sin desembolso congelado en 72 horas | Más de una alerta roja no accionada en un trimestre | **Congelamiento automático del desembolso por alerta roja, sin depender de la Fiscalía (Mec. 4)** |
+| La industria avanzada queda como catálogo sin mercado | Alta | Min. Comercio + Colombia Compra | Compras públicas no dirigidas al primer cliente en Año 2 | Sin contrato ancla de compra pública al cierre del Año 2 | Compras públicas como primer cliente; transferencia obligatoria |
+| Las plantas de agua se construyen pero no se operan | Alta (61% histórico) | Superservicios + EOC | Planta entregada sin operador certificado | Planta sin O&M contratado al momento de la entrega | O&M obligatorio simultáneo; cofinanciación 3 años; veeduría como auditor primario |
+| Las EOC quiebran por tarifa insuficiente | Media | CRA + Min. Vivienda | Recaudo bajo el punto de equilibrio 2 trimestres seguidos | Cofinanciación agotada sin tarifa ajustada al año 3 | Cofinanciación 70% Años 1-3; tarifa de la CRA antes de la entrega |
+| Un sucesor con mejor evidencia no puede corregir | n/a | Panel técnico independiente | Métricas pre-registradas incumplidas y sin rampa activada | Trayectoria plana o descendente sostenida más allá del hito de 60 meses | **Sunset por fracaso (3.4.2): rampa de salida legítima que distingue corrección de abandono** |
 
 > **Lo que ningún gobierno honesto puede prometer:** Colombia sin coca mientras haya demanda global; cero muertos en seguridad; resultados culturales o educativos en un período. Lo serio es prometer que robar empezó a costar, el reclutamiento empezó a secarse, y la curva se volteó.
 

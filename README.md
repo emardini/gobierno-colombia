@@ -62,6 +62,7 @@ El documento completo está partido en archivos por sección (la fuente de verda
 ### Cierre
 - [Secuencia de gobierno y transición](docs/cierre/secuencia-gobierno.md)
 - [Medición y blindaje](docs/cierre/medicion-blindaje.md)
+- [Anexo fiscal maestro: consolidado por frente](docs/cierre/anexo-fiscal-maestro.md)
 - [Riesgos y límites honestos](docs/cierre/riesgos-limites.md)
 - [El patriotismo como resultado](docs/cierre/patriotismo.md)
 - [Hitos de credibilidad](docs/cierre/hitos-credibilidad.md)

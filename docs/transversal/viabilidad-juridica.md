@@ -20,11 +20,11 @@ Esta sección es nueva. Responde a la objeción de que el programa pretende hace
 
 | Mecanismo | Vía | Plazo | Nota de ajuste |
 |---|---|---|---|
-| Autoridad del Gerente de Nodo | Decreto (coordinación delegada) + Ley Marco (autoridad estatutaria) | Día 1 / Año 1 | Reformulado: coordinación + condicionalidad presupuestal, no mando sobre entidades autónomas |
+| Autoridad del Gerente de Nodo | Decreto (coordinación delegada) + Ley de Régimen de Nodos (autoridad estatutaria) | Día 1 / Año 1 | Reformulado: coordinación + condicionalidad presupuestal, no mando sobre entidades autónomas |
 | Patrimonios autónomos fiduciarios | Decreto + contrato | Transición / 7-ago | Sin cambios, ya no requería ley |
 | Equipos de Ejecución / Comisionado de Destrabe | Decreto (libre nombramiento) | Día 1 | Sin cambios |
 | Condicionalidad presupuestal por nodo | Circular presupuestal | Año 1 | **Acotado**: aplica a las líneas de *inversión nacional* ejecutadas en el territorio; **no** al SGP ni a las regalías (transferencias de base constitucional, arts. 356-357 y SGR), que no se condicionan al concepto del Gerente por acto administrativo |
-| Ley Marco de Nodos (criterios, fases, graduación, sunset) | Ley ordinaria | **Año 1 (adelantada)** | Antes Año 2; se mueve a Año 1. *Precisión: "Ley Marco" (art. 150-19) es una categoría reservada a otras materias; el nombre técnico correcto es ley ordinaria que crea el régimen de nodos* |
+| Ley de Régimen de Nodos (criterios, fases, graduación, sunset) | Ley ordinaria | **Año 1 (adelantada)** | Antes Año 2; se mueve a Año 1. *Precisión: "Ley Marco" (art. 150-19) es una categoría reservada a otras materias; el nombre técnico correcto es ley ordinaria que crea el régimen de nodos* |
 | Interventoría nacional obligatoria | **Ley** (no decreto) | Año 1 | **Corregido**: imponerla sobre contratos de entidades territoriales autónomas (art. 287) y sobre el Estatuto de Contratación requiere ley, no decreto |
 | Penalidad del Contrato de Habilitación | Arbitraje + garantía pre-fondeada | Año 1 | Reformulado: ya no depende del contencioso administrativo |
 | Congelamiento automático por alerta roja | Cláusula contractual de la fiducia | Año 1 | Reformulado: consecuencia ejecutiva, no judicial |
@@ -38,6 +38,6 @@ Esta sección es nueva. Responde a la objeción de que el programa pretende hace
 
 ## La estrategia de secuencia legislativa
 
-El programa **no depende** de que el Congreso apruebe todo. La regla es: avanzar con lo ejecutivo en los Años 1-2 mientras se construye coalición para lo legislativo. La Ley Marco de Nodos se tramita **con coalición amplia**, no por imposición, porque una ley aprobada con respaldo plural es a la vez más duradera y más legítima democráticamente que el lock-in ejecutivo: responde a la objeción de irreversibilidad-vs-democracia en lugar de agravarla.
+El programa **no depende** de que el Congreso apruebe todo. La regla es: avanzar con lo ejecutivo en los Años 1-2 mientras se construye coalición para lo legislativo. La Ley de Régimen de Nodos se tramita **con coalición amplia**, no por imposición, porque una ley aprobada con respaldo plural es a la vez más duradera y más legítima democráticamente que el lock-in ejecutivo: responde a la objeción de irreversibilidad-vs-democracia en lugar de agravarla.
 
 ---

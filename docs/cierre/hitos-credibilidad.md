@@ -24,7 +24,7 @@ Las victorias tempranas no tienen que ser las más grandes, tienen que ser las m
 | 4G + 5G: todos activos | Contratos ya firmados; solo supervisión |
 | Tumaco: acueducto terminado | El 38% restante + entrega con O&M; conectado con seguridad del nodo |
 | Tren del Caribe: licitación lanzada | $7B; lanzarlo en Año 1 permite adjudicación en Año 2 |
-| **Ley Marco de Nodos radicada** | Da piso estatutario a la autoridad del Gerente y consagra el sunset por fracaso |
+| **Ley de Régimen de Nodos radicada** | Da piso estatutario a la autoridad del Gerente y consagra el sunset por fracaso |
 
 ## Años 2-4: Resultados que blindan la continuidad
 
