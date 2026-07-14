@@ -1,5 +1,6 @@
 - **Inicio**
-  - [Presentación](README.md)
+  - [Presentación del Plan (una página)](presentacion.html)
+  - [Introducción completa](README.md)
   - [Mapa: núcleo y ejecución](MAPA-NUCLEO-EJECUCION.md)
 
 - **Fundamentos (núcleo)**

@@ -2,6 +2,30 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.45] Corrige la causalidad del diagrama del nodo en la Presentación
+
+- La leyenda decía "el empleo la sostiene", lo cual invertía la causalidad real que el propio documento describe (seguridad permite inversión, inversión crea empleo, no al revés). Corregida: el empleo formal ahora se presenta como la prueba verificable de que el ciclo se sostiene solo, no como el motor.
+- La etiqueta de la cuarta caja cambió de "Desde el día uno" (impreciso: el empleo formal de la economía general es un activador de Fase 1, no del primer día) a "Se verifica con datos", consistente con la nueva leyenda.
+
+## [1.44] Ilustración real para el recuadro de Wílmer en la Presentación
+
+- El recuadro de la sección de Wílmer en `presentacion.html` era un rectángulo de color plano con solo el texto flotando, sin gráfico ni imagen. Se reemplazó por una ilustración de línea propia (colinas en capas, una trocha de tierra descendiendo, árboles de cacao en trazo simple, sol bajo), coherente con la paleta de la página, en vez de una foto de stock o un espacio vacío.
+- Verificado con captura de pantalla en escritorio y en móvil antes de confirmar.
+
+## [1.43] Presentación del Plan: página visual de una sola página
+
+- **Nuevo: `presentacion.html`**, una página independiente (no forma parte del documento consolidado ni cuenta como sección) pensada como puerta de entrada no intimidante al plan. Diseño propio: fondo verde profundo con acento dorado y ladrillo, tipografía serifa (Fraunces) para títulos y humanista (Work Sans) para cuerpo, motivo visual de anillos concéntricos que representa las olas de expansión por resultado.
+- Contenido: el diagnóstico de las dos raíces, el concepto del nodo en cuatro capas visuales, la historia de Wílmer en versión breve, la lógica de expansión por olas, los cuatro rasgos del método, y un cierre que invita a corregir el plan en vez de aplaudirlo.
+- Enlazada desde el README y como primer ítem del menú del sitio ("Presentación del Plan").
+- **Corregido en el proceso:** un bug real de accesibilidad y robustez. La primera versión usaba una animación de aparición al hacer scroll que dejaba secciones enteras invisibles si el navegador no disparaba el observer a tiempo (confirmado con captura de pantalla y revisión del DOM). Se eliminó por completo esa dependencia: todo el contenido es visible de inmediato, sin animación condicionada a JavaScript ni a scroll.
+- Verificada visualmente con capturas de escritorio y móvil antes de entregar.
+
+## [1.42] Consistencia de numeración: tres referencias cruzadas corregidas
+
+- Auditoría completa de numeración en todo el documento (Columna Vertebral 3.x, Frente III con su nueva numeración III.1-III.6, letras A-I del Frente VIII, subsecciones 13.1-13.10 del Frente XIII, y el resto de frentes con numeración propia sin colisión).
+- Corregidas tres referencias cruzadas rotas en la tabla de Fundamentos en la Investigación Reciente (hallazgos 8, 9 y 13), que citaban secciones del Frente VIII (D, F, B) que no contienen el mecanismo referido; los tres mecanismos viven únicamente en la Columna Vertebral, 3.9. Se dejaron solo las referencias correctas.
+- Confirmada la secuencia de hallazgos 1-19 sin huecos ni duplicados, y ausencia de referencias ambiguas a 13.3 tras la inserción de 13.3b.
+
 ## [1.41] Matriz eléctrica diversificada y honestidad legal sobre el fracking
 
 - **Nueva sección en el Frente XV, "La matriz eléctrica: diversificar, no apostar a una sola fuente"**, con el mismo principio de autonomía por diversificación que ya aplica el plan a política exterior. Hidroeléctrica como columna vulnerable a sequías (no reemplazable, sí complementada); solar y eólica con el cuello de botella real (licenciamiento y transmisión); geotérmica como fuente firme complementaria a los embalses, aterrizada sobre el proyecto Nereidas (viabilidad ambiental de su etapa exploratoria, cooperación con Islandia); hidrógeno con sus dos caras distinguidas (insumo industrial y de exportación, ya real, con hoja de ruta nacional y planta de Ecopetrol operando, versus batería de red, tecnológicamente posible pero inmaduro, tratado como apuesta de mediano plazo y no como solución disponible).

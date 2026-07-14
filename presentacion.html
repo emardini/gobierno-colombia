@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Estado en el Territorio: Presentación del Plan</title>
+<meta name="description" content="Un plan para que el Estado colombiano llegue completo donde hoy no llega. Presentación en una página.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,500;9..144,600;9..144,700&family=Work+Sans:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#F4F1E6;
+    --ink-dim:#CFCBB8;
+    --bg-deep:#122019;
+    --bg-panel:#17281f;
+    --line:#2c4235;
+    --green:#3E8567;
+    --green-soft:#274a3a;
+    --gold:#D6A544;
+    --brick:#B2543A;
+    --paper:#F4F1E6;
+    --paper-dim:#EDE8D8;
+    --ink-on-paper:#17281f;
+  }
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    background:var(--bg-deep);
+    color:var(--ink);
+    font-family:'Work Sans', sans-serif;
+    font-weight:400;
+    line-height:1.55;
+    -webkit-font-smoothing:antialiased;
+  }
+  h1,h2,h3{
+    font-family:'Fraunces', serif;
+    font-weight:600;
+    letter-spacing:-0.01em;
+    margin:0;
+  }
+  .eyebrow{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.72rem;
+    letter-spacing:0.16em;
+    text-transform:uppercase;
+    color:var(--gold);
+  }
+  a{color:inherit;}
+  .wrap{max-width:920px;margin:0 auto;padding:0 28px;}
+
+  /* ---------- HERO ---------- */
+  .hero{
+    position:relative;
+    padding:120px 0 100px;
+    overflow:hidden;
+    border-bottom:1px solid var(--line);
+  }
+  .hero-rings{
+    position:absolute;
+    inset:0;
+    z-index:0;
+    opacity:0.55;
+    pointer-events:none;
+  }
+  .hero-inner{position:relative;z-index:1;}
+  .hero h1{
+    font-size:clamp(2.4rem, 6vw, 4.6rem);
+    line-height:0.98;
+    color:var(--ink);
+    max-width:11ch;
+  }
+  .hero h1 em{
+    font-style:italic;
+    color:var(--gold);
+  }
+  .hero-sub{
+    margin-top:28px;
+    max-width:52ch;
+    font-size:1.18rem;
+    color:var(--ink-dim);
+    font-weight:300;
+  }
+  .hero-epigraph{
+    margin-top:44px;
+    font-family:'Fraunces', serif;
+    font-style:italic;
+    font-weight:500;
+    font-size:1.15rem;
+    color:var(--gold);
+    max-width:38ch;
+    border-left:2px solid var(--gold);
+    padding-left:20px;
+  }
+
+  /* ---------- SECTION SCAFFOLD ---------- */
+  section{padding:88px 0;}
+  section.alt{background:var(--bg-panel);}
+  .section-head{max-width:46ch;margin-bottom:52px;}
+  .section-head h2{
+    font-size:clamp(1.7rem, 3.4vw, 2.5rem);
+    margin-top:12px;
+    color:var(--ink);
+  }
+  .section-head p{color:var(--ink-dim);font-weight:300;margin-top:14px;font-size:1.05rem;}
+
+  /* ---------- DOS RAICES ---------- */
+  .raices{display:grid;grid-template-columns:1fr 1fr;gap:28px;}
+  .raiz-card{
+    background:var(--bg-panel);
+    border:1px solid var(--line);
+    border-radius:2px;
+    padding:32px 28px;
+  }
+  .raiz-card .num{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.75rem;
+    color:var(--brick);
+    letter-spacing:0.1em;
+  }
+  .raiz-card h3{
+    font-size:1.35rem;
+    margin-top:10px;
+    color:var(--ink);
+  }
+  .raiz-card p{color:var(--ink-dim);font-size:0.98rem;margin-top:12px;font-weight:300;}
+
+  /* ---------- NODO DIAGRAM ---------- */
+  .nodo-diagram{
+    display:flex;
+    flex-wrap:wrap;
+    gap:14px;
+    margin-top:40px;
+  }
+  .capa{
+    flex:1 1 150px;
+    background:var(--paper);
+    color:var(--ink-on-paper);
+    border-radius:2px;
+    padding:20px 18px;
+    position:relative;
+  }
+  .capa .tag{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.68rem;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+    color:var(--brick);
+  }
+  .capa h4{
+    font-family:'Fraunces', serif;
+    font-weight:600;
+    font-size:1.1rem;
+    margin:8px 0 0;
+  }
+  .nodo-caption{
+    margin-top:24px;
+    color:var(--ink-dim);
+    font-size:0.98rem;
+    font-weight:300;
+    max-width:60ch;
+  }
+
+  /* ---------- WILMER ---------- */
+  .wilmer{
+    display:grid;
+    grid-template-columns:1fr 1.4fr;
+    gap:44px;
+    align-items:center;
+  }
+  .wilmer-frame{
+    aspect-ratio:4/5;
+    background:var(--bg-panel);
+    border:1px solid var(--line);
+    border-radius:2px;
+    position:relative;
+    overflow:hidden;
+  }
+  .wilmer-frame svg{display:block;width:100%;height:100%;}
+  .wilmer-frame span{
+    position:absolute;
+    left:22px;
+    bottom:20px;
+    font-family:'Fraunces', serif;
+    font-style:italic;
+    color:var(--gold);
+    font-size:0.95rem;
+    text-shadow:0 1px 6px rgba(0,0,0,0.5);
+  }
+  .wilmer-quote{
+    font-family:'Fraunces', serif;
+    font-size:1.5rem;
+    line-height:1.35;
+    font-weight:500;
+    color:var(--ink);
+  }
+  .wilmer-text p{color:var(--ink-dim);font-weight:300;margin-top:18px;font-size:1.02rem;}
+  .wilmer-cred{
+    margin-top:18px;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.75rem;
+    color:var(--gold);
+    letter-spacing:0.04em;
+  }
+
+  /* ---------- OLAS ---------- */
+  .olas-visual{
+    position:relative;
+    height:280px;
+    margin-top:20px;
+  }
+  .ola-label{
+    position:absolute;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.72rem;
+    color:var(--ink-dim);
+    letter-spacing:0.06em;
+  }
+  .principio-line{
+    margin-top:36px;
+    padding:24px 28px;
+    background:var(--bg-panel);
+    border-left:3px solid var(--green);
+    font-family:'Fraunces', serif;
+    font-size:1.15rem;
+    font-style:italic;
+    color:var(--ink);
+  }
+
+  /* ---------- METODO GRID ---------- */
+  .metodo-grid{
+    display:grid;
+    grid-template-columns:repeat(2, 1fr);
+    gap:1px;
+    background:var(--line);
+    border:1px solid var(--line);
+    margin-top:44px;
+  }
+  .metodo-item{
+    background:var(--bg-deep);
+    padding:30px 26px;
+  }
+  .metodo-item .eyebrow{color:var(--green);}
+  .metodo-item h4{
+    font-family:'Fraunces', serif;
+    font-size:1.2rem;
+    margin-top:10px;
+    color:var(--ink);
+  }
+  .metodo-item p{
+    color:var(--ink-dim);
+    font-weight:300;
+    font-size:0.95rem;
+    margin-top:10px;
+  }
+
+  /* ---------- CTA ---------- */
+  .cta{
+    text-align:center;
+    padding:110px 0 100px;
+  }
+  .cta h2{
+    font-size:clamp(1.9rem, 4vw, 2.8rem);
+    max-width:16ch;
+    margin:0 auto;
+    color:var(--ink);
+  }
+  .cta p{
+    max-width:48ch;
+    margin:22px auto 0;
+    color:var(--ink-dim);
+    font-weight:300;
+    font-size:1.05rem;
+  }
+  .cta-buttons{
+    margin-top:36px;
+    display:flex;
+    gap:16px;
+    justify-content:center;
+    flex-wrap:wrap;
+  }
+  .btn{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.82rem;
+    letter-spacing:0.04em;
+    padding:15px 26px;
+    border-radius:2px;
+    text-decoration:none;
+    display:inline-block;
+    transition:transform 0.15s ease, opacity 0.15s ease;
+  }
+  .btn:hover{transform:translateY(-1px);}
+  .btn-primary{background:var(--gold);color:var(--bg-deep);font-weight:500;}
+  .btn-secondary{background:transparent;color:var(--ink);border:1px solid var(--line);}
+
+  footer{
+    border-top:1px solid var(--line);
+    padding:36px 0;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.75rem;
+    color:var(--ink-dim);
+    display:flex;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap:10px;
+  }
+  footer a{color:var(--gold);text-decoration:none;}
+
+  /* El contenido es siempre visible; no depende de scroll ni de JavaScript. */
+  .reveal{opacity:1;}
+
+  @media (prefers-reduced-motion: reduce){
+    .reveal{opacity:1;transform:none;transition:none;}
+    html{scroll-behavior:auto;}
+  }
+
+  @media (max-width:760px){
+    .raices{grid-template-columns:1fr;}
+    .wilmer{grid-template-columns:1fr;}
+    .metodo-grid{grid-template-columns:1fr;}
+    .hero{padding:90px 0 70px;}
+    section{padding:64px 0;}
+    footer{flex-direction:column;}
+  }
+</style>
+</head>
+<body>
+
+<section class="hero">
+  <svg class="hero-rings" viewBox="0 0 900 500" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">
+    <g fill="none" stroke="#3E8567" stroke-width="1">
+      <circle cx="180" cy="380" r="30" opacity="0.9"/>
+      <circle cx="180" cy="380" r="65" opacity="0.6"/>
+      <circle cx="180" cy="380" r="105" opacity="0.35"/>
+      <circle cx="180" cy="380" r="150" opacity="0.18"/>
+      <circle cx="620" cy="120" r="22" opacity="0.9" stroke="#D6A544"/>
+      <circle cx="620" cy="120" r="52" opacity="0.5" stroke="#D6A544"/>
+      <circle cx="620" cy="120" r="88" opacity="0.25" stroke="#D6A544"/>
+      <circle cx="740" cy="420" r="18" opacity="0.8"/>
+      <circle cx="740" cy="420" r="46" opacity="0.4"/>
+    </g>
+  </svg>
+  <div class="wrap hero-inner">
+    <p class="eyebrow">Presentación del plan: un vistazo, no un tratado</p>
+    <h1>El Estado que llega <em>completo</em>, no a pedazos.</h1>
+    <p class="hero-sub">Estado en el Territorio es un plan de gobierno para Colombia construido alrededor de una idea simple: los problemas del país no son veinte, son dos. Y a los dos se les puede responder.</p>
+    <p class="hero-epigraph">"Las buenas ideas no tienen bando. Los malos resultados tampoco se arreglan con uno."</p>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="section-head reveal">
+      <p class="eyebrow">El diagnóstico</p>
+      <h2>Dos raíces, no veinte síntomas</h2>
+      <p>Inseguridad, tierra sin dueño, corrupción, servicios que fallan: son la misma enfermedad vista desde ángulos distintos.</p>
+    </div>
+    <div class="raices">
+      <div class="raiz-card reveal">
+        <span class="num">RAÍZ 01</span>
+        <h3>El Estado no está</h3>
+        <p>En buena parte del territorio, el Estado nunca llegó completo. Llegó una vía un año, una escuela otro, seguridad sin desarrollo. Ahí crecen la economía ilegal, la pobreza rural y el abandono.</p>
+      </div>
+      <div class="raiz-card reveal">
+        <span class="num">RAÍZ 02</span>
+        <h3>Donde está, es frágil</h3>
+        <p>Instituciones débiles o capturadas y un fisco que no aguanta. Sin eso resuelto, ninguna promesa se puede financiar de verdad ni sostener más de un gobierno.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="alt">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <p class="eyebrow">La idea central</p>
+      <h2>El nodo: todo junto, en pocos lugares</h2>
+      <p>En vez de repartir un poco de Estado a todo el país a la vez (que es como no darle nada a nadie), el plan concentra el Estado completo en unos pocos municipios primero.</p>
+    </div>
+    <div class="nodo-diagram reveal">
+      <div class="capa"><span class="tag">Llega primero</span><h4>Seguridad</h4></div>
+      <div class="capa"><span class="tag">Al mismo tiempo</span><h4>Tierra y crédito</h4></div>
+      <div class="capa"><span class="tag">Sin esperar</span><h4>Servicios básicos</h4></div>
+      <div class="capa"><span class="tag">Se verifica con datos</span><h4>Empleo formal</h4></div>
+    </div>
+    <p class="nodo-caption reveal">Cuando las cuatro llegan juntas se empujan entre sí. La seguridad protege la inversión, la tierra da la garantía que hace posible el crédito, el crédito financia lo que la vía saca al mercado, y el empleo formal es la prueba de que el ciclo ya se sostiene solo. Por separado, cada una se muere sola.</p>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="section-head reveal">
+      <p class="eyebrow">Una historia, no una estadística</p>
+      <h2>Lo que esto significa para alguien real</h2>
+    </div>
+    <div class="wilmer reveal">
+      <div class="wilmer-frame">
+        <svg viewBox="0 0 300 375" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ilustración de colinas, un camino de trocha y cultivos de cacao en Tierralta, Córdoba">
+          <defs>
+            <linearGradient id="skyfade" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0%" stop-color="#1c3226"/>
+              <stop offset="100%" stop-color="#0f1c15"/>
+            </linearGradient>
+          </defs>
+          <rect x="0" y="0" width="300" height="375" fill="url(#skyfade)"/>
+          <!-- colinas en capas -->
+          <path d="M0,190 C60,160 100,175 150,160 C200,145 250,168 300,150 L300,375 L0,375 Z" fill="#1f3a2c" opacity="0.9"/>
+          <path d="M0,230 C50,205 110,222 160,205 C210,188 260,215 300,195 L300,375 L0,375 Z" fill="#274a3a"/>
+          <path d="M0,270 C60,250 120,265 170,250 C220,235 260,255 300,240 L300,375 L0,375 Z" fill="#2f5a44"/>
+          <!-- trocha -->
+          <path d="M40,375 C70,320 60,290 90,260 C115,235 100,210 130,195" fill="none" stroke="#8a7245" stroke-width="7" stroke-linecap="round" opacity="0.55"/>
+          <path d="M40,375 C70,320 60,290 90,260 C115,235 100,210 130,195" fill="none" stroke="#D6A544" stroke-width="1.4" stroke-linecap="round" opacity="0.7" stroke-dasharray="2 7"/>
+          <!-- arboles de cacao, trazo simple -->
+          <g stroke="#3E8567" stroke-width="2" fill="none" opacity="0.85">
+            <path d="M190,300 v-34"/>
+            <circle cx="190" cy="258" r="17"/>
+            <path d="M225,320 v-26"/>
+            <circle cx="225" cy="288" r="13"/>
+            <path d="M245,290 v-22"/>
+            <circle cx="245" cy="262" r="11"/>
+          </g>
+          <!-- sol/luz baja -->
+          <circle cx="235" cy="70" r="30" fill="none" stroke="#D6A544" stroke-width="1" opacity="0.5"/>
+          <circle cx="235" cy="70" r="14" fill="#D6A544" opacity="0.25"/>
+        </svg>
+        <span>Tierralta, Córdoba</span>
+      </div>
+      <div class="wilmer-text">
+        <p class="wilmer-quote">Wílmer tiene veintidós años y dos hectáreas de cacao que un intermediario le compra húmedo, al precio que él quiera, porque no hay cómo bajarlo del pueblo por cuenta propia.</p>
+        <p>Cuando el nodo llega a su municipio, no llega una cosa: llega la vía, el catastro que por fin pone su finca a su nombre, el crédito para injertar la mata vieja, y una cooperativa que negocia el precio en vez de aceptarlo. Cada peso que entra empieza a dar vueltas adentro del pueblo.</p>
+        <p class="wilmer-cred">(basado en el caso de estudio del Frente II, Reforma Agraria)</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="alt">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <p class="eyebrow">Cómo se expande</p>
+      <h2>Por resultado, no por calendario</h2>
+      <p>No se abre un nodo nuevo porque "toca" ni porque se acerca una elección. Se abre cuando el anterior demuestra, con datos verificados por un tercero independiente, que funciona.</p>
+    </div>
+    <div class="olas-visual reveal">
+      <svg viewBox="0 0 900 280" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+        <g fill="none" stroke="#3E8567" stroke-width="1.3">
+          <circle cx="150" cy="150" r="18"/>
+          <circle cx="150" cy="150" r="42" opacity="0.7"/>
+          <circle cx="150" cy="150" r="70" opacity="0.4"/>
+        </g>
+        <circle cx="150" cy="150" r="6" fill="#3E8567"/>
+        <text x="150" y="230" text-anchor="middle" fill="#F4F1E6" font-family="IBM Plex Mono" font-size="12">OLA 1: activa</text>
+
+        <g fill="none" stroke="#D6A544" stroke-width="1.3" opacity="0.55">
+          <circle cx="480" cy="120" r="16"/>
+          <circle cx="480" cy="120" r="36" opacity="0.6"/>
+        </g>
+        <circle cx="480" cy="120" r="5" fill="#D6A544" opacity="0.7"/>
+        <text x="480" y="185" text-anchor="middle" fill="#CFCBB8" font-family="IBM Plex Mono" font-size="12">OLA 2: espera el resultado</text>
+
+        <g fill="none" stroke="#CFCBB8" stroke-width="1" opacity="0.3">
+          <circle cx="760" cy="180" r="14"/>
+        </g>
+        <circle cx="760" cy="180" r="4" fill="#CFCBB8" opacity="0.4"/>
+        <text x="760" y="215" text-anchor="middle" fill="#CFCBB8" font-family="IBM Plex Mono" font-size="12" opacity="0.6">OLA 3: aún no</text>
+      </svg>
+    </div>
+    <p class="principio-line reveal">Un gobierno que no ejecuta la Ola 1 no puede lanzar la Ola 2. El activador es el resultado, no el discurso.</p>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="section-head reveal">
+      <p class="eyebrow">Lo que lo distingue</p>
+      <h2>No es una lista de promesas, es un método</h2>
+      <p>Cualquiera puede prometer. Lo raro es diseñar para que la promesa se cumpla aunque cambie el gobierno, aunque falte voluntad, aunque alguien quiera capturarla.</p>
+    </div>
+    <div class="metodo-grid reveal">
+      <div class="metodo-item">
+        <p class="eyebrow">01</p>
+        <h4>Honesto con sus límites</h4>
+        <p>Dice dónde funciona y dónde no, qué puede fallar y qué pasa si falla. Ningún plan que se dice a sí mismo perfecto merece confianza.</p>
+      </div>
+      <div class="metodo-item">
+        <p class="eyebrow">02</p>
+        <h4>Abierto y corregible</h4>
+        <p>Está escrito en público, versionado como un repositorio de software, con una bitácora que registra sus propios errores.</p>
+      </div>
+      <div class="metodo-item">
+        <p class="eyebrow">03</p>
+        <h4>Diseñado contra el capricho</h4>
+        <p>No depende de que el próximo gobernante sea bueno. Los mecanismos funcionan incluso si no lo es.</p>
+      </div>
+      <div class="metodo-item">
+        <p class="eyebrow">04</p>
+        <h4>El método sobre el bando</h4>
+        <p>Toma las ideas buenas vengan de donde vengan, y no se casa con ninguna tribu para sostenerlas.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta">
+  <div class="wrap">
+    <p class="eyebrow reveal">La invitación</p>
+    <h2 class="reveal">No te pedimos que aplaudas. Te pedimos que le encuentres el error.</h2>
+    <p class="reveal">El documento completo tiene treinta y siete secciones, quince frentes y una bitácora de todo lo que se corrigió por el camino. Esta página es la puerta; el resto está adentro, abierto para quien quiera revisarlo con desconfianza.</p>
+    <div class="cta-buttons reveal">
+      <a class="btn btn-primary" href="index.html">Leer el plan completo</a>
+      <a class="btn btn-secondary" href="https://github.com" target="_blank" rel="noopener">Ver el repositorio</a>
+    </div>
+  </div>
+</section>
+
+<footer class="wrap">
+  <span>Estado en el Territorio, plan de gobierno abierto, versionado y corregible.</span>
+  <span>Licencia <a href="LICENSE" target="_blank" rel="noopener">CC BY-SA 4.0</a></span>
+</footer>
+
+
+
+</body>
+</html>

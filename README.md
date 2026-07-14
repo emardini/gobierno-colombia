@@ -8,6 +8,8 @@ Este repositorio contiene un plan de gobierno completo para Colombia. No es el m
 
 Se publica en abierto por una razón simple: como no hay nada electoral que proteger, lo único en juego es si las ideas son buenas. Eso permite exponer el plan entero al escrutinio y dejar que la realidad lo corrija a la vista de todos.
 
+> **¿Prefieres verlo antes de leerlo?** [Presentación del Plan](presentacion.html): un resumen visual de una página, pensado para quien nunca ha oído hablar de esto.
+
 ---
 
 ## La tesis en una página
