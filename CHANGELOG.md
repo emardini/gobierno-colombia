@@ -2,6 +2,15 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.34] Redistribución afinada con la versión final del documento de activos
+
+- **El motor protege al pequeño en la norma, no en el discurso:** la lección de la muerte por dilución del intento 2022-2026 (se fusionó con la actualización catastral general, se personalizó en un gobierno, se defendió reactivamente) convertida en tres respuestas de diseño: umbral y exención escritos en la norma misma, linaje bipartidista (Ley 200 de 1936 y aval de Friedman), y pilotos que producen evidencia antes de la batalla nacional.
+- **El catastro como pieza irreversible y la más vulnerable,** con datos verificados a febrero de 2026 (67% del territorio con valores actualizados, 44+ millones de hectáreas con catastro multipropósito frente al 9,4% de 2022, recaudo potencial multiplicado por más de cinco) y su defensa por diseño: banca multilateral, veeduría, y los municipios como aliados fiscales. El avalúo actualizado no se des-actualiza: es información que ningún gobierno puede des-saber.
+- **El cruce cartográfico como primer paso operativo:** el mapa de municipios con catastro + seguridad + brecha uso/vocación decide dónde se enciende el motor, con información que ya existe.
+- **Dos límites honestos nuevos:** la captura del avalúo (con su mitigación: avalúo masivo automatizado satelital auditado centralmente) y la incógnita de secuencia (Kerala tenía el movimiento antes de la ley; este diseño apuesta al orden inverso, sin precedente claro).
+- **Evidencia de reversibilidad en tiempo real** (julio 2026: propuesta de reducir a la mitad las hectáreas entregadas) reforzando el freno anti reconcentración. Cifra de Sudáfrica actualizada (menos del 14% frente a la meta del 30%). Hallazgo 19 en Fundamentos.
+- Fuera del plan, como siempre: el blindaje comunicacional y la estrategia legislativa del documento (tácticas de coyuntura, Congreso 2026-2030), que viven en el documento de trabajo aparte.
+
 ## [1.33] La grieta de la subexplotación y la estrategia para cerrarla
 
 - **Nuevo bloque en el Frente II** con los cuatro límites honestos de la redistribución (los topes nacionales que capan el motor municipal, la extinción de efecto definitivo pero trámite lento, el carril municipal que asume una colaboración escasa donde más se necesita, y la grieta: la subexplotación en municipio capturado, que ni la extinción ni el motor municipal alcanzan, y que es el rostro más común de la concentración colombiana).
