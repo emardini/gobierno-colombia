@@ -2,7 +2,7 @@
 
 # Fundamentos en la Investigación Reciente
 
-Esta sección es nueva. El programa ya usaba diseño de mecanismos clásico (Hurwicz, Maskin, Myerson, Nobel 2007). Aquí se incorpora lo que la frontera de la economía del desarrollo, la teoría de juegos y el diseño de mecanismos ha producido *después* de eso, traducido a ajustes concretos. Cada idea indica dónde se aplicó. Son analogías informadas por evidencia, no garantías: la validez externa, que lo que funcionó en otro país funcione en Colombia, es ella misma una pregunta abierta, y el instrumento del programa contra eso es el nodo de aprendizaje de Fase 0 (3.6).
+Esta sección es nueva. El programa ya usaba diseño de mecanismos clásico (Hurwicz, Maskin, Myerson, Nobel 2007). Aquí se incorpora lo que la frontera de la economía del desarrollo, la teoría de juegos y el diseño de mecanismos ha producido *después* de eso, traducido a ajustes concretos. Cada idea indica dónde se aplicó. Son analogías informadas por evidencia, no garantías: la validez externa, que lo que funcionó en otro país funcione en Colombia, es ella misma una pregunta abierta, y el instrumento del programa contra eso es el nodo de aprendizaje de Fase 0 (Columna Vertebral, 3.6).
 
 | # | Hallazgo de la frontera | Ajuste en el programa | Dónde |
 |---|---|---|---|

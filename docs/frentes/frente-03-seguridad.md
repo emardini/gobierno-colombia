@@ -4,7 +4,7 @@
 
 **Metas:** homicidios de ~26 a ≤18/100.000 en 4 años; coca −30% en 4 años; cero falsos positivos.
 
-## 3.1 Estrategia de control territorial
+## III.1 Estrategia de control territorial
 
 Reencuadre: no "línea dura vs. negociación". La restricción que ata es **control territorial + desmonte de economías ilegales**. Fuerza, negociación y sometimiento son herramientas subordinadas a ese fin.
 
@@ -17,11 +17,11 @@ Reencuadre: no "línea dura vs. negociación". La restricción que ata es **cont
 | Drogas | Meta de daño, no erradicación. Golpear tráfico, finanzas y lavado, no al campesino. Sustitución = desarrollo rural | Datos trimestrales | UNODC + Policía + Min. Agr. |
 | Equidad en la carga | Rendición de cuentas por toda muerte civil; candados DD.HH.; no repetir falsos positivos | Verificación independiente | Defensoría + Min. Defensa |
 
-## 3.2 Seguridad concentrada con DIH en nodos Ola 1
+## III.2 Seguridad concentrada con DIH en nodos Ola 1
 
-En los 3 nodos se aplica concentración de fuerza hasta "dominio del área": el grupo armado no opera abiertamente, ni recluta, ni extorsiona. Tropa + juez + médico + maestro entran juntos, en semanas. El éxito se mide en presencia estatal civil establecida y reclutamiento seco, no en bajas, lo que elimina el incentivo que generó los falsos positivos. Solo se aplica donde la tasa de homicidios ya desciende (salvo el nodo de aprendizaje de 3.6, que se mantiene en Fase 0).
+En los 3 nodos se aplica concentración de fuerza hasta "dominio del área": el grupo armado no opera abiertamente, ni recluta, ni extorsiona. Tropa + juez + médico + maestro entran juntos, en semanas. El éxito se mide en presencia estatal civil establecida y reclutamiento seco, no en bajas, lo que elimina el incentivo que generó los falsos positivos. Solo se aplica donde la tasa de homicidios ya desciende (salvo el nodo de aprendizaje (Columna Vertebral, 3.6), que se mantiene en Fase 0).
 
-## 3.3 Capacidades de inteligencia: la brecha más urgente
+## III.3 Capacidades de inteligencia: la brecha más urgente
 
 En 2025 la Fuerza Pública aumentó sus acciones 34% sin mejora de seguridad: el problema no es déficit de operaciones, es déficit de inteligencia y de justicia que consuma los resultados.
 
@@ -34,7 +34,7 @@ En 2025 la Fuerza Pública aumentó sus acciones 34% sin mejora de seguridad: el
 | Ciberinteligencia | Monitoreo de redes usadas para reclutamiento, con garantías constitucionales | DNI + Fiscalía | Años 1-2 |
 | Justicia con capacidad | Ampliar Fiscalía y jueces especializados para procesar capturas; sin esto la acción militar no disuade | Fiscalía + Consejo Superior | Años 1-3 |
 
-## 3.4 Jóvenes en Paz: cortar el reclutamiento desde la raíz
+## III.4 Jóvenes en Paz: cortar el reclutamiento desde la raíz
 
 El reclutamiento no se detiene con operaciones, con empleo y futuro. El programa Jóvenes en Paz tiene resultados verificados: Quibdó 1.857 beneficiarios → homicidios −25.9%; Tumaco 1.127 jóvenes → −34%.
 
@@ -44,7 +44,7 @@ El reclutamiento no se detiene con operaciones, con empleo y futuro. El programa
 | Incentivo tributario | Deducción del 150% para empresas que contraten jóvenes certificados en municipios de nodos | DIAN + Min. Trabajo | Año 1 |
 | Articulación SENA dual | Certificado de competencias como llave de salida del ciclo de reclutamiento; módulos de empleabilidad | SENA + Min. Trabajo | Fase 1 |
 
-## 3.5 Puente de ingreso para sustitución de coca: el eslabón que rompe el ciclo
+## III.5 Puente de ingreso para sustitución de coca: el eslabón que rompe el ciclo
 
 Entre arrancar la coca y que el cultivo alternativo produzca ingreso pasan 8-24 meses. Sin ingreso en ese vacío, la familia regresa a la coca por necesidad. Cerrarlo es la condición de posibilidad de la sustitución voluntaria.
 
@@ -55,7 +55,7 @@ Entre arrancar la coca y que el cultivo alternativo produzca ingreso pasan 8-24 
 | Compra garantizada (2 años) | El Estado compra 100% de la producción alternativa a ≥80% del precio internacional (Idema reformado) | Elimina la incertidumbre de mercado, segundo factor de regreso a la coca | Min. Agricultura + IDEMA reformado |
 | Articulación con reforma agraria | El arranque activa la titulación y el paquete habilitador. El título es el activo que vuelve permanente la decisión | La tierra propia es el mayor desincentivo al regreso | ANT + Min. Agricultura |
 
-## 3.6 Soberanía y diversificación de proveedores de defensa
+## III.6 Soberanía y diversificación de proveedores de defensa
 
 Regla: ningún proveedor >40% del portafolio. Diversificar hacia Corea del Sur, Francia, Alemania, Turquía, Brasil y Colombia misma. Toda compra importada incluye cláusula obligatoria de transferencia tecnológica a COTECMAR/CIAC/Indumil, producción nacional progresiva (offset mínimo 20% en el primer contrato, escalando) y formación de ingenieros colombianos.
 

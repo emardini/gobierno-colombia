@@ -34,6 +34,19 @@ Y frente a Consolidación Territorial, que es el fracaso que más se parece en l
 
 Estas tres diferencias son defendibles porque son de diseño, verificables en el documento, no de intención. Mostrar que el nodo funciona no es afirmarlo: es demostrar que las causas conocidas de muerte de sus cuatro ancestros están, una por una, atacadas por diseño.
 
+## Prepararse para el éxito, no solo para el fracaso
+
+El plan está construido para no fracasar: sunset, activadores, umbral de irreversibilidad. Le falta la mitad opuesta, y es una omisión real: qué pasa si funciona más rápido de lo previsto. El activador por resultado (Columna Vertebral, 3.6-3.7) no pone techo al número de olas, solo exige que cada una demuestre la anterior; así que un éxito temprano puede exigir Ola 2 y hasta Ola 3 dentro del mismo período, y el cuello de botella entonces no es la plata, que el costeo ya muestra que es marginal, es el talento, la capacidad de coordinación central y el número de municipios que ya cumplen el umbral mínimo. Prepararse significa construir esa capacidad de antemano, en paralelo, sin acelerar el activador mismo: estar listo para correr cuando suene el disparo, no salir antes de que suene.
+
+Cuatro piezas, ninguna nueva, todas colgadas de mecanismos que el plan ya tiene:
+
+- **Banco de talento por adelantado.** El concurso de la Alta Dirección Pública se corre con más candidatos evaluados de los que exige Ola 1, y se mantiene una lista de reserva calificada, para que Ola 2 no espere el reclutamiento desde cero cuando su activador se cumpla.
+- **Candidatos de nodo siempre vivos.** El Índice de Priorización de Nodos se corre de forma continua sobre todo el país, no solo cuando toca escoger la siguiente ola, para que al cumplirse el activador ya existan tres o cuatro municipios evaluados y listos.
+- **Coordinación central escalable desde el principio.** El Comisionado de Destrabe y el panel técnico de evaluación no esperan a que un tercer nodo los desborde; su capacidad de apoyo crece en paralelo al éxito, para no sacrificar el rigor de la evaluación de adicionalidad por la prisa de mostrar más nodos.
+- **La experiencia se documenta sin crear estructura nueva.** No hace falta un cargo de "documentador" ni grabar el proceso completo, que además sería invasivo en zonas de riesgo de seguridad. Basta con tres adiciones a lo que ya existe: una bitácora del nodo, con el mismo espíritu que la de este documento, escrita por el equipo técnico permanente (que no rota) como parte de su trabajo, no como tarea aparte; un segmento de transferencia dentro de la rutina de cumplimiento (sección I) donde, cada cierto tiempo, el equipo de un nodo más avanzado le cuenta a uno más nuevo qué aprendió, apoyándose en esa bitácora; y aprendices del Servicio Nacional de Vida haciendo sombra al equipo técnico durante su año de servicio, lo que transfiere conocimiento tácito y de paso siembra el banco de talento de la próxima ola.
+
+El principio que amarra las cuatro: preparar el éxito es acumular capacidad por adelantado, nunca es una excusa para adelantar el activador. Todo lo anterior se hace precisamente para que, cuando el resultado llegue, la expansión sea inmediata sin necesitar violar la regla de que el activador manda, no el calendario ni el entusiasmo político.
+
 ## A. Talento humano: romper la carrera clientelista
 
 | Medida | Concreción | Responsable | Plazo |

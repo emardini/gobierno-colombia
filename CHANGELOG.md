@@ -2,6 +2,27 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.41] Matriz eléctrica diversificada y honestidad legal sobre el fracking
+
+- **Nueva sección en el Frente XV, "La matriz eléctrica: diversificar, no apostar a una sola fuente"**, con el mismo principio de autonomía por diversificación que ya aplica el plan a política exterior. Hidroeléctrica como columna vulnerable a sequías (no reemplazable, sí complementada); solar y eólica con el cuello de botella real (licenciamiento y transmisión); geotérmica como fuente firme complementaria a los embalses, aterrizada sobre el proyecto Nereidas (viabilidad ambiental de su etapa exploratoria, cooperación con Islandia); hidrógeno con sus dos caras distinguidas (insumo industrial y de exportación, ya real, con hoja de ruta nacional y planta de Ecopetrol operando, versus batería de red, tecnológicamente posible pero inmaduro, tratado como apuesta de mediano plazo y no como solución disponible).
+- **Honestidad legal agregada a la exclusión del fracking:** hoy no está prohibido por ley, solo suspendido por medida cautelar judicial revisable, tras el fracaso de seis proyectos de ley de prohibición en el Congreso. El plan no asume la exclusión como ganada; la blinda con litigio estratégico (principio de precaución, derecho al agua) y licenciamiento exigente (consulta previa rigurosa) mientras construye la coalición para la ley definitiva.
+- Datos verificados por web en julio de 2026 antes de escribir (estado judicial del fracking, proyecto Nereidas, hoja de ruta del hidrógeno, planta de Ecopetrol en Cartagena).
+
+## [1.40] Prepararse para el éxito: escalera de dificultad progresiva y capacidad por adelantado
+
+- **Nuevo en la Columna Vertebral (3.6):** la escalera de dificultad progresiva. El nodo de aprendizaje deja de ser un experimento aislado; cada ola sucesiva incluye, junto a sus nodos más viables, un territorio un escalón más difícil que el anterior, para no dejar indefinidamente sin Estado a los territorios más complejos ni saltar a ellos sin base de aprendizaje.
+- **Nueva sección en el Frente VIII, "Prepararse para el éxito, no solo para el fracaso".** El activador por resultado no pone techo al número de olas; si el éxito llega antes de lo previsto, el cuello de botella no es la plata (marginal, según el costeo) sino el talento, la coordinación central y el número de municipios que cumplen el umbral. Cuatro piezas de preparación, ninguna nueva: banco de talento por adelantado, candidatos de nodo siempre vivos (IPN corrido de forma continua), coordinación central escalable, y documentación de la experiencia sin crear estructura (bitácora del nodo por el equipo técnico permanente, segmento de transferencia en la rutina de cumplimiento ya existente, aprendices del Servicio Nacional de Vida haciendo sombra al equipo técnico).
+- Principio explícito: preparar el éxito es acumular capacidad por adelantado, nunca una excusa para adelantar el activador.
+
+## [1.39] Segundo pase de estrés: colisión de numeración real y validez externa de la evasión
+
+Se sometió el documento entero a la misma auditoría sistemática que las críticas externas, buscando los mismos patrones de falla ya encontrados (analogías sin advertencia de validez externa, referencias cruzadas ambiguas) en todo el texto, no solo donde ya se había mirado.
+
+- **Corregida una colisión de numeración real, no solo estética.** El Frente III usaba "3.1" a "3.6" para sus propias subsecciones, coincidiendo con la numeración "3.1" a "3.9" de la Columna Vertebral. La colisión no era solo confusa para el lector: el propio Frente III se citaba mal a sí mismo, mencionando "el nodo de aprendizaje de 3.6" como si fuera su propia sección 3.6 ("Soberanía y diversificación de proveedores de defensa"), cuando el nodo de aprendizaje vive en la Columna Vertebral. Se renombraron las subsecciones del Frente III a III.1-III.6 y se corrigieron las tres referencias cruzadas ambiguas (en el propio frente, en Fundamentos y en Riesgos y Límites) para que digan explícitamente "Columna Vertebral, 3.6".
+- **Advertencia de validez externa agregada a la cifra de evasión** (Frente V), con el mismo estándar aplicado a Ruanda: la extrapolación de un esquema de recaudo de una provincia de Pakistán (Punjab) a la totalidad de la DIAN nacional se marca como la más incierta de las tres palancas del escenario base; se distingue el mecanismo (transferible) de la magnitud del 46% (no transferible sin más evidencia).
+- Revisadas y descartadas otras analogías del documento (Chile-SADP, Embraer, Ceará, Kerala, Sudáfrica, COFOPRI): ya tienen contexto adecuado o ya llevan su propia honestidad de incertidumbre.
+- Verificada la consistencia del total de municipios (1.103) y la ausencia de referencias residuales a "14 frentes".
+
 ## [1.38] Respuesta a la auditoría más rigurosa: costeo, ancestros, y corrección de un error real
 
 Motivado por una tercera auditoría externa, la más profunda recibida hasta ahora. Se verificó cada señalamiento contra el texto antes de actuar; casi todos resultaron correctos.
