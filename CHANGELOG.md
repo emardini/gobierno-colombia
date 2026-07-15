@@ -2,6 +2,26 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.48] Narcofinanciación y coacción armada: la captura que no se compra, se impone
+
+- **Nueva subsección en el Frente XIII, "Cuando la captura no se compra, se impone".** Distingue el clientelismo tradicional (se compra con contratos y favores rastreables) de la captura por coacción armada o financiación ilegal de campañas (se impone con amenaza, y compromete la legitimidad de origen del gobierno electo, no solo su ejecución).
+- **Instrumento ya existente incorporado, sin crear nada nuevo:** los mapas de riesgo electoral de la Misión de Observación Electoral (municipio por municipio, cruzando presencia de grupos armados con libertad de voto), cruzados con el Índice de Priorización de Nodos como capa de información adicional, verificados por web con datos de 2026 (376 municipios en riesgo, aumento del 17,9% frente a 2022).
+- **Respuesta distinta a la escalera de alertas de contratación:** protección de candidatos y líderes (Frente III), seguimiento de la Fiscalía a la financiación cuando el riesgo fue alto, y el límite honesto explícito: el nodo blinda la ejecución de un gobierno capturado por coacción, pero no puede deshacer una elección ya ocurrida, solo mejorar las condiciones de la siguiente.
+- Cierra el tercer y último hueco identificado en la crítica de captura clientelista y corrupción (los otros dos: financiación de campañas verificable sin ley nueva, v1.46; judicialización como táctica de bloqueo, v1.47).
+
+## [1.47] La judicialización como táctica de bloqueo: doctrina general y cierre del hueco de la interventoría
+
+- **Nueva subsección en el Frente XIII, "La judicialización como último recurso de captura, y por qué no se le da tiempo".** Nombra un patrón que el plan ya usaba en tres lugares sin decirlo como principio: donde la disputa es entre el Estado y un actor con interés en demorar la rendición de cuentas (Contrato de Habilitación, impugnaciones de contratación), se reemplaza el litigio ordinario por arbitraje rápido y garantía pre-fondeada; donde protege un derecho fundamental del débil (consulta previa, extinción de dominio), no se acelera nada, porque la lentitud cuidadosa ahí es protección.
+- **Cierra el hueco real que quedaba:** la interventoría nacional obligatoria no tenía protección frente a una demanda de nulidad o tutela por autonomía territorial que la dejaría suspendida de facto durante años. Se agrega un trámite de nulidad de vía preferente con turno prioritario y plazo perentorio de fallo: la interventoría opera desde que se designa y solo se levanta si el juez falla en contra dentro del plazo corto.
+- Motivado por continuar la crítica de captura clientelista y corrupción; verificado que el patrón ya existía disperso en tres mecanismos antes de escribir la doctrina unificadora.
+
+## [1.46] Financiación de campañas: verificar lo que ya es ley, no pedir ley nueva
+
+- **Nueva pieza en la plataforma de trazabilidad:** cruce de Cuentas Claras (ya integrada como fuente) contra SECOP y RUES, para detectar cuando el financiador de una campaña termina como contratista del gobierno que esa campaña ayudó a elegir. No crea delito nuevo: el de financiación con fuentes prohibidas ya existe en el Código Penal desde 2017; el plan le da al delito la evidencia que hoy nadie produce.
+- **Nueva sección explicativa** en la plataforma: Colombia ya tiene un régimen razonable de financiación de campañas (Ley 1475/2011, topes del CNE, Cuentas Claras, delitos penales desde 2017); el problema no es vacío legal sino verificación, porque Cuentas Claras es autodeclarado y nadie lo cruza contra la contratación real.
+- **Corregida la fila del Frente IV** sobre financiación de campañas, que antes pedía "ley estatutaria/reforma" para todo el paquete. Se separa lo que es ejecutable desde el Día 1 sin ley (la detección vía plataforma) de lo que sí requiere reforma (inhabilidad automática sin proceso judicial, CNE con más dientes), avanzando lo primero sin esperar lo segundo.
+- Motivado por la objeción correcta de que un proyecto de ley de financiación de campañas nunca sería aprobado por un Congreso hostil; verificado por web que el régimen legal ya existe y el hueco real es de verificación, no de norma.
+
 ## [1.45] Corrige la causalidad del diagrama del nodo en la Presentación
 
 - La leyenda decía "el empleo la sostiene", lo cual invertía la causalidad real que el propio documento describe (seguridad permite inversión, inversión crea empleo, no al revés). Corregida: el empleo formal ahora se presenta como la prueba verificable de que el ciclo se sostiene solo, no como el motor.
