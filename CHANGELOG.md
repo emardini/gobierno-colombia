@@ -2,6 +2,14 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.52] Qué sobrevive si la Ley de Régimen de Nodos no se aprueba
+
+- **Nueva sección en Viabilidad Jurídica**, "Qué sobrevive si la Ley de Régimen de Nodos no se aprueba", que responde a la pregunta de qué pasa con la interventoría nacional obligatoria (marcada como "solo por ley") si el Congreso nunca la aprueba. Verificado por web: existen tres piezas del ordenamiento colombiano, ninguna creada por este plan, que cubren buena parte del efecto práctico sin ley nueva: el control fiscal excepcional y prevalente de la Contraloría General (Acto Legislativo 04/2019, Decreto 403/2020), activable de forma casi automática porque la financiación del nodo supera el umbral del 50% de origen nacional o a solicitud del propio alcalde; la doctrina de la Corte Constitucional sobre el artículo 287, que da margen amplio de condicionamiento sobre recursos de origen nacional (a diferencia de SGP y regalías); y el precedente ya vigente de la Ley 715 de 2001 de asunción de competencias por incumplimiento.
+- **Corregida la fila de "Interventoría nacional obligatoria"** en la tabla de clasificación: sigue exigiendo ley en su versión universal e incondicional, pero se precisa que existe una vía de Día 1 no legislativa para la versión atada al nodo.
+- **Reconciliada la fila del Frente XIII (13.9)**, que decía "Decreto Año 1" para esta misma interventoría sin explicar la base legal: se agregó la nota que conecta con la vía de la Contraloría y el convenio con el alcalde, y se nombra el límite honesto (no fuerza a un alcalde que se niega desde el principio; ahí responde la sustitución del protocolo de selección, no la ley).
+- **Nombrado el límite de la otra apuesta** (que un sucesor hostil mantenga las reglas por decreto): un decreto se deshace tan fácil como se hizo, así que la protección real no es que el decreto siga vigente, es haber convertido esa autoridad en hechos consumados (títulos, contratos, fiducias) antes de que un sucesor hostil llegue.
+- Motivado por una pregunta directa sobre qué hacer si el Congreso nunca aprueba lo que requiere ley; verificado por web (Decreto 403 de 2020, sentencias C-937/2010, C-380/2019, C-389/2021) antes de escribirlo, con la reserva explícita de que falta confirmación de asesoría constitucional.
+
 ## [1.51] Pasada de estilo: menos repetición, prosa más humana
 
 - **Revisión de prosa en los 37 archivos de `docs/`**, sin tocar cifras, plazos, responsables, contenido de tablas, encabezados ni numeración. El objetivo era puramente de estilo: el documento había acumulado, a lo largo de 50 versiones, un tic sintáctico repetido cientos de veces ("no es X, es Y" / "no X sino Y"), además de alguna muletilla de honestidad reciclada demasiadas veces seguidas en un mismo frente.
