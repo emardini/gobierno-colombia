@@ -4,11 +4,11 @@
 
 **QUÉ:** que todo colombiano tenga acceso real, no nominal, a agua potable, saneamiento y conectividad. En los nodos, en 4 años.
 
-> Colombia no tiene principalmente un problema de cobertura nominal, tiene un problema de cobertura real. El agua potable existe en el papel para el 88.9%, pero el 39% de las plantas no funciona y 12.5 millones no tienen alcantarillado. Nadie opera lo que se construye.
+> El problema de Colombia no es tanto la cobertura nominal como la cobertura real. El agua potable existe en el papel para el 88.9%, pero el 39% de las plantas no funciona y 12.5 millones no tienen alcantarillado. Nadie opera lo que se construye.
 
 ## 11.1 Diagnóstico: la trampa del abandono
 
-De 684 plantas evaluadas por la Contraloría, solo el 39% funciona. El problema no es fiscal ni técnico, es de diseño contractual: el contrato de obra no incluía el de operación. El MinVivienda ejecutó históricamente apenas el 7.2% de los recursos de agua y en 2025 recortó el presupuesto 53%.
+De 684 plantas evaluadas por la Contraloría, solo el 39% funciona. El problema tiene raíz en el diseño contractual, no en lo fiscal ni lo técnico: el contrato de obra no incluía el de operación. El MinVivienda ejecutó históricamente apenas el 7.2% de los recursos de agua y en 2025 recortó el presupuesto 53%.
 
 ## 11.2 El modelo que funciona: Empresa Operadora Comunitaria certificada
 

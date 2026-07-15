@@ -153,7 +153,7 @@ Alerta roja en los hitos de los primeros 14 días activa revisión del Equipo de
 
 ## 3.4 Blindaje de los nodos: difíciles de deshacer por capricho, no de corregir por evidencia
 
-El riesgo central del modelo no es técnico, es político. Un sucesor puede dejar de mandar equipos, reasignar el presupuesto fiduciario o dejar de priorizar sin derogar ley alguna. Este apartado construye capas de irreversibilidad **y** la rampa de salida legítima que las equilibra.
+El riesgo central del modelo es político, más que técnico. Un sucesor puede dejar de mandar equipos, reasignar el presupuesto fiduciario o dejar de priorizar sin derogar ley alguna. Este apartado construye capas de irreversibilidad **y** la rampa de salida legítima que las equilibra.
 
 > **Principio:** la irreversibilidad no se decreta, se construye interés por interés. Pero cada capa incluye una salida transparente para el caso en que el nodo, medido contra sus propias métricas pre-registradas, haya fracasado.
 
@@ -269,7 +269,7 @@ Lo que a primera vista parecen "otros frentes" sueltos son, en el fondo, el anda
 
 La concentración es lo que hace que las piezas se encuentren, pero esa misma concentración significa que la ejecución tiene que ser casi perfecta, porque no hay margen. En un territorio normal, si una entidad falla, falla esa entidad y ya. En un nodo, las piezas que se sostienen unas a otras también se arrastran unas a otras cuando una cede: si el catastro se atrasa, se atrasa el crédito, y sin crédito no hay producción, y sin producción la vía nueva no tiene qué transportar, y sin empleo los muchachos vuelven a la otra oferta. El modelo es una cadena, y una cadena luce fuerte hasta que un eslabón falla.
 
-El plan responde a esto con humildad deliberada, no con optimismo:
+El plan responde a esto con humildad deliberada, sin apostar todo al optimismo:
 
 - **Empieza con tres nodos, no con treinta.** No por falta de ambición, sino porque esta coreografía es difícil y conviene aprender a bailarla en pocos escenarios antes de montarla en todo el país.
 - **Incluye un nodo de aprendizaje difícil** (3.6), precisamente para descubrir dónde se rompe la planeación antes de apostarlo todo.
@@ -291,6 +291,6 @@ El Frente VIII ya nombra el diagnóstico de fondo (mímica isomórfica, sobrecar
 
 > Estos cinco candados no crean entidad ni ley: son un ejercicio de conteo, una encuesta trimestral, un formulario semanal y un mapeo de 15 días. Se insertan sobre instrumentos que el plan ya tiene (protocolo de 100 días, Cuerpo de Ejecutores Territoriales, rutina de cumplimiento de la sección I), con la misma lógica que ya aplicó el propio Frente XIII: el mayor retorno viene de reescribir reglas que ya existen, no de agregar estructura.
 
-> La objeción más fuerte a este modelo no es ideológica, es de capacidad: ¿tiene el Estado colombiano el músculo de ejecución para bailar esta coreografía sin tropezar? El plan apuesta a que sí, pero apuesta con cautela: en pocos lugares, aprendiendo sobre la marcha, sin abrir el siguiente hasta probar el anterior. Si esa apuesta sobre la ejecución falla, falla el modelo entero. No se promete otra cosa.
+> La objeción más fuerte a este modelo es de capacidad, no de ideología: ¿tiene el Estado colombiano el músculo de ejecución para bailar esta coreografía sin tropezar? El plan apuesta a que sí, pero apuesta con cautela: en pocos lugares, aprendiendo sobre la marcha, sin abrir el siguiente hasta probar el anterior. Si esa apuesta sobre la ejecución falla, falla el modelo entero. No se promete otra cosa.
 
 ---

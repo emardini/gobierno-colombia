@@ -18,7 +18,7 @@ El reparto es deliberado: aquí vive la infraestructura, en el Frente IV se expl
 | Independencia | Administrada por ente independiente del que ejecuta; director por méritos; presupuesto protegido | Contraloría + Veeduría | Año 1 |
 | Acople a Fiscalía | Las alertas disparan investigación con respuesta máx. 30 días; se publica la tasa de conversión alerta-imputación | Fiscalía + Contraloría | Año 2 |
 
-**Por qué es transversal y no de un frente.** La plataforma habilita al menos cinco frentes a la vez: es la base de la anticorrupción (Frente IV), el control del gasto en salud (Frente VI), la integridad territorial (Frente XIII), la inteligencia financiera de seguridad (Frente III) y la trazabilidad de la titulación y las obras de los nodos (Frentes II y la Columna Vertebral). No es política industrial, es infraestructura del Estado entero.
+**Por qué es transversal y no de un frente.** La plataforma habilita al menos cinco frentes a la vez: es la base de la anticorrupción (Frente IV), el control del gasto en salud (Frente VI), la integridad territorial (Frente XIII), la inteligencia financiera de seguridad (Frente III) y la trazabilidad de la titulación y las obras de los nodos (Frentes II y la Columna Vertebral). Más que política industrial, es infraestructura del Estado entero.
 
 **Un buen ejemplo de "primer cliente".** Aunque no pertenece al Frente X, la plataforma sí ilustra su principio de compra pública como jalonador: el Estado se compra a sí mismo una capacidad tecnológica nacional, en vez de importarla. Es un caso de "cómprate lo que predicas", y por eso el Frente X la menciona como ejemplo.
 
@@ -34,13 +34,13 @@ Ese cruce es lo que la plataforma agrega, y no requiere ninguna ley nueva: Cuent
 
 ## Lo que cuesta y lo que genera
 
-Desarrollar y operar la plataforma exige inversión, pero esa inversión no es solo gasto: es empleo formal de alta calificación (ingeniería de datos, análisis, auditoría), es capacidad estatal que hoy no existe y que queda instalada, y es la clase de activo que, maduro, se puede ofrecer como conocimiento anticorrupción a otros países de la región. Construirla es, en sí mismo, una de las apuestas productivas y de soberanía tecnológica del plan, no un costo administrativo.
+Desarrollar y operar la plataforma exige inversión, pero esa inversión no es solo gasto: es empleo formal de alta calificación (ingeniería de datos, análisis, auditoría), es capacidad estatal que hoy no existe y que queda instalada, y es la clase de activo que, maduro, se puede ofrecer como conocimiento anticorrupción a otros países de la región. Construirla es, en sí mismo, una de las apuestas productivas y de soberanía tecnológica del plan: verla como un simple costo administrativo sería quedarse corto.
 
 ## El riesgo de la ruta crítica, y cómo se evita
 
 Aquí hay que ser honestos, porque es el reverso de lo anterior. Si la plataforma habilita cinco frentes a la vez, entonces todo cuelga de ella, y eso la mete en la ruta crítica: si se atrasa, se cae o sale mal hecha, no falla una cosa, fallan todas las que dependían de ella. Y el software estatal de gran escala es, en Colombia y en casi todo el mundo, el tipo de proyecto que llega tarde, cuesta más de lo previsto y a veces no funciona. Poner un megaproyecto de integración de datos como precondición de todo lo demás sería una receta para paralizar el plan.
 
-La salida no es renunciar a la plataforma, es **desacoplarla del arranque**. El plan no espera a que el software esté listo:
+La salida está en **desacoplarla del arranque**, sin renunciar a la plataforma. El plan no espera a que el software esté listo:
 
 - **El arranque opera con control tradicional reforzado.** Antes de cualquier plataforma, el Estado ya controla con interventoría, auditoría de la Contraloría y supervisión de contratos. Para los pocos nodos del inicio (tres, no trescientos), una interventoría intensiva y una auditoría reforzada hechas a mano son perfectamente viables. La plataforma no inventa el control, lo vuelve masivo y barato.
 - **La plataforma se construye en paralelo y habilita el escalamiento, no el arranque.** Su función es permitir hacer en cien municipios, de forma automática y difícil de capturar, lo que al principio se hace a mano en tres. Por eso su criticidad vive en el escalamiento, no en el inicio, y ese es un lugar mucho más seguro: el escalamiento sí puede esperar a que la herramienta madure; el arranque no.

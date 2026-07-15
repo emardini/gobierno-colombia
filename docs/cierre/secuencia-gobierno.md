@@ -6,7 +6,7 @@
 
 La transición no es el período entre ganar y gobernar. Es cuando se resuelven los obstáculos que, si no se resuelven antes del 7 de agosto, harán que el Año 1 se pierda organizándose. Colombia tiene ~90 días entre la segunda vuelta y la posesión, y este gobierno los usa completos.
 
-> **Principio rector:** todo lo que puede hacerse antes del 7 de agosto, se hace antes. El día de posesión el Estado no empieza a prepararse, empieza a ejecutar.
+> **Principio rector:** todo lo que puede hacerse antes del 7 de agosto, se hace antes. El día de posesión el Estado ya ejecuta, sin más preparativos.
 
 **Obstáculo 1: Las personas.** Se identifican los 80 cargos directivos que son cuellos de botella reales (no los 800 del proceso completo). Los 40 más críticos se concursan con la CNSC durante la transición; los nombramientos son hechos consumados el 7 de agosto. Los 40 restantes con proceso corriendo y cierre antes del día 90.
 

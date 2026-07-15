@@ -4,7 +4,7 @@
 
 El 80% de la población vive en ciudades y las ciudades generan el recaudo que financia todo lo demás. El programa concentra la *inversión productiva nueva* en los nodos periféricos, pero no descuida a las ciudades. Este frente hace explícito lo que el programa ya les da (ver también el Piso Universal, 3.5), agrega las intervenciones urbanas de bajo costo y alto impacto, e integra el turismo como industria que conecta los destinos urbanos con los nodos.
 
-> En 2025 el turismo generó $11.166 millones de dólares en divisas, superando por primera vez al carbón y al café juntos. El problema no es volumen, es distribución: el 92% de las reservas se concentra en Bogotá, Medellín y Cartagena.
+> En 2025 el turismo generó $11.166 millones de dólares en divisas, superando por primera vez al carbón y al café juntos. El problema es de distribución, no de volumen: el 92% de las reservas se concentra en Bogotá, Medellín y Cartagena.
 
 ## 12.1 Lo que el programa ya da a las ciudades
 
@@ -113,7 +113,7 @@ Concentrar esfuerzo en las firmas urbanas que ya existen puede afianzar a los in
 
 ## 12.4 El turismo: estrategia de alto impacto dentro del presupuesto
 
-La estrategia no es gastar más, es redirigir lo que ya se gasta y eliminar fricciones. **El diagnóstico:** $11.166M USD en 2025 (+9,4% sostenido); 92% concentrado en tres destinos saturados; las divisas crecen pero los ingresos de agencias caen 1,5% y el empleo del sector 3,7%, las plataformas externas capturan el valor.
+La estrategia consiste en redirigir lo que ya se gasta y eliminar fricciones, no en gastar más. **El diagnóstico:** $11.166M USD en 2025 (+9,4% sostenido); 92% concentrado en tres destinos saturados; las divisas crecen pero los ingresos de agencias caen 1,5% y el empleo del sector 3,7%, las plataformas externas capturan el valor.
 
 | Instrumento | Concreción | Costo fiscal | Impacto | Plazo |
 |---|---|---|---|---|

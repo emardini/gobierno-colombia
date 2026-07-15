@@ -2,6 +2,24 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.51] Pasada de estilo: menos repetición, prosa más humana
+
+- **Revisión de prosa en los 37 archivos de `docs/`**, sin tocar cifras, plazos, responsables, contenido de tablas, encabezados ni numeración. El objetivo era puramente de estilo: el documento había acumulado, a lo largo de 50 versiones, un tic sintáctico repetido cientos de veces ("no es X, es Y" / "no X sino Y"), además de alguna muletilla de honestidad reciclada demasiadas veces seguidas en un mismo frente.
+- Cada instancia repetida se varió con un recurso distinto (subordinada, "más que", reordenamiento afirmativo, dos puntos) en vez de eliminarse por decreto: el recurso retórico sigue ahí donde de verdad es la forma más clara de decir algo, solo dejó de ser el reflejo automático de cada párrafo.
+- Motivado por una lectura de un tercero que señaló, con razón, que el patrón se sentía repetitivo y "generado", precisamente lo que este proyecto quiere evitar en un documento que se propone sonar a una persona pensando, no a una plantilla.
+
+## [1.50] El riesgo del Hallazgo 19 confirmado en vivo: paro campesino de abril de 2026
+
+- **Actualizada la sección "El motor protege al pequeño en la norma" (Frente II) y el Hallazgo 19 (Fundamentos)** con evidencia verificada por web: el riesgo de dilución no quedó en el pasado 2022-2026, escaló a un paro campesino nacional en abril de 2026 (bloqueos de más de una semana en Santander, Boyacá y Cundinamarca, avalúos que subieron hasta cientos de miles por ciento, predios de 13 millones a 3.500 millones de pesos), después de que la ley que exoneraba al pequeño propietario se hundiera en el Congreso y el IGAC actualizara los avalúos por vía administrativa sin esa protección ya vigente.
+- **Cuarta respuesta de diseño agregada:** actualización catastral y cambio de tarifa nunca se activan por separado, se activan como un solo paquete indivisible, para que el avalúo no pueda subir antes de que la protección al pequeño esté en vigor (la falla exacta que produjo el paro de 2026).
+- Se nombran dos herramientas legales ya existentes que la coyuntura mostró subutilizadas: el tope legal al incremento anual del predial tras la actualización (Ley 44/1990 y ajustes posteriores), y la potestad del concejo municipal de fijar tarifas diferenciadas por uso y tamaño del predio.
+
+## [1.49] Cláusula de retorno simétrico: cerrando la asimetría que señalaría Mazzucato
+
+- **Extensión al Mecanismo 3 (Frente XIII), Cláusula de retorno simétrico.** El Contrato de Habilitación de Nodo protegía al privado del riesgo de incumplimiento estatal, pero no capturaba nada para el Estado si el privado tiene éxito extraordinario gracias a la infraestructura que el Estado puso primero. Se agrega una franja de regalía o de reinversión local sobre la utilidad que exceda con claridad la proyección de negocio, pactada desde la firma del contrato y nunca renegociada después de conocido el éxito, para no romper en sentido inverso la misma credibilidad que el Mecanismo 3 protege.
+- **Nuevo hallazgo 20 en Fundamentos:** el Estado emprendedor de Mazzucato (el Estado que socializa el riesgo temprano suele privatizar por completo la ganancia extraordinaria sin condición de retorno), ausente hasta ahora del documento pese a que Acemoglu y Robinson sí estaban presentes.
+- Motivado por comparar el plan contra lo que Acemoglu y Mazzucato dirían de él: Acemoglu reconocería el diseño institucional pero señalaría la base política angosta (ya reconocida como límite honesto en la incógnita de secuencia); Mazzucato señalaría esta asimetría de riesgo y ganancia, que sí se cierra ahora.
+
 ## [1.48] Narcofinanciación y coacción armada: la captura que no se compra, se impone
 
 - **Nueva subsección en el Frente XIII, "Cuando la captura no se compra, se impone".** Distingue el clientelismo tradicional (se compra con contratos y favores rastreables) de la captura por coacción armada o financiación ilegal de campañas (se impone con amenaza, y compromete la legitimidad de origen del gobierno electo, no solo su ejecución).

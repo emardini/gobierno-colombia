@@ -2,7 +2,7 @@
 
 # Frente X: Industria Avanzada y Capacidad Tecnológica
 
-No es paralelo a los demás, es la capa de valor agregado que el programa ya construye. La tecnología avanzada es el siguiente eslabón de cadenas que los frentes anteriores activan.
+En lugar de un frente paralelo a los demás, es la capa de valor agregado que el programa ya construye. La tecnología avanzada es el siguiente eslabón de cadenas que los frentes anteriores activan.
 
 ## 10.1 Lo que Colombia ya tiene y no escala
 

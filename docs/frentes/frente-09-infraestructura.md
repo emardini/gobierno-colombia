@@ -2,7 +2,7 @@
 
 # Frente IX: Infraestructura Estratégica
 
-**Principio:** Colombia no tiene déficit de proyectos anunciados, tiene déficit de proyectos terminados y activados. El mayor retorno está en activar lo que el país ya pagó, no en anunciar obras nuevas.
+**Principio:** El déficit real de Colombia está en los proyectos terminados y activados, no en los anunciados. El mayor retorno está en activar lo que el país ya pagó, no en anunciar obras nuevas.
 
 ## 9.1 Prioridades por impacto/costo
 

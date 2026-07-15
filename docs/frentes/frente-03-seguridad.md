@@ -23,7 +23,7 @@ En los 3 nodos se aplica concentración de fuerza hasta "dominio del área": el 
 
 ## III.3 Capacidades de inteligencia: la brecha más urgente
 
-En 2025 la Fuerza Pública aumentó sus acciones 34% sin mejora de seguridad: el problema no es déficit de operaciones, es déficit de inteligencia y de justicia que consuma los resultados.
+En 2025 la Fuerza Pública aumentó sus acciones 34% sin mejora de seguridad: el problema está menos en el déficit de operaciones que en el déficit de inteligencia y de justicia que consuma los resultados.
 
 | Capacidad | Qué se construye | Responsable | Plazo |
 |---|---|---|---|

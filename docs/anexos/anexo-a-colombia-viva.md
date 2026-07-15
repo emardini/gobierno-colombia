@@ -4,9 +4,9 @@
 
 *Este anexo queda fuera del núcleo del programa. Es una idea a explorar, no un compromiso de gobierno: su lógica ("crear lo nuevo") contrasta con el principio rector del programa ("activar lo que ya se pagó"). Se documenta con su nivel de detalle para evaluación futura, sin ocupar capacidad ejecutiva en el período.*
 
-La pregunta que abren los datos del turismo: ¿puede Colombia construir una plataforma propia que compita con Airbnb y Booking, en lugar de solo pagarles comisión? La respuesta honesta no es ni sí ni no: en su mercado propio y en nichos donde tiene ventaja estructural, sí; globalmente, no. El modelo correcto no es replicar Airbnb, es replicar lo que India hizo con IRCTC: una plataforma de capital mixto que domina el mercado doméstico con ventajas que ninguna plataforma extranjera puede replicar, y que escala desde ahí.
+La pregunta que abren los datos del turismo: ¿puede Colombia construir una plataforma propia que compita con Airbnb y Booking, en lugar de solo pagarles comisión? La respuesta honesta no es ni sí ni no: en su mercado propio y en nichos donde tiene ventaja estructural, sí; globalmente, no. El modelo correcto se parece más a lo que India hizo con IRCTC que a Airbnb: una plataforma de capital mixto que domina el mercado doméstico con ventajas que ninguna plataforma extranjera puede replicar, y que escala desde ahí.
 
-IRCTC, fundada en 1999 como subsidiaria de Ferrocarriles de la India, se convirtió en una de las plataformas de viajes más concurridas del mundo, con cientos de miles de reservas diarias. No compitió con Airbnb globalmente, dominó su propio mercado con acceso a infraestructura estatal que ningún privado podía tener. En 2019 salió a bolsa manteniendo el Estado la mayoría del capital. Ese es el modelo.
+IRCTC, fundada en 1999 como subsidiaria de Ferrocarriles de la India, se convirtió en una de las plataformas de viajes más concurridas del mundo, con cientos de miles de reservas diarias. En lugar de competir con Airbnb a escala global, dominó su propio mercado con acceso a infraestructura estatal que ningún privado podía tener. En 2019 salió a bolsa manteniendo el Estado la mayoría del capital. Ese es el modelo.
 
 ## Los tres mercados donde Colombia Viva gana: y donde Airbnb pierde
 
@@ -26,7 +26,7 @@ IRCTC, fundada en 1999 como subsidiaria de Ferrocarriles de la India, se convirt
 
 ## La ventaja competitiva que Airbnb no puede replicar
 
-Integración con infraestructura pública (disponibilidad de parques, estado de vías, permisos en territorios étnicos, alertas de seguridad por municipio desde la plataforma de trazabilidad), Airbnb no tiene acceso a esos datos. Verificación de calidad con consecuencias reales (el sello no es una estrella comprable sino certificación física del SENA; perderlo baja el ranking automáticamente). Comisión del 8% frente a 15-20% (la estructura de costos de Airbnb la obliga a comisiones altas; Colombia Viva no la tiene). Pagos sin fricción en moneda local (PSE, Nequi, Daviplata; integración con sistemas de Ecuador, Perú y Brasil), relaciones con el sistema financiero que a una empresa extranjera le toman años.
+Integración con infraestructura pública (disponibilidad de parques, estado de vías, permisos en territorios étnicos, alertas de seguridad por municipio desde la plataforma de trazabilidad), Airbnb no tiene acceso a esos datos. Verificación de calidad con consecuencias reales (el sello es una certificación física del SENA, no una estrella comprable; perderlo baja el ranking automáticamente). Comisión del 8% frente a 15-20% (la estructura de costos de Airbnb la obliga a comisiones altas; Colombia Viva no la tiene). Pagos sin fricción en moneda local (PSE, Nequi, Daviplata; integración con sistemas de Ecuador, Perú y Brasil), relaciones con el sistema financiero que a una empresa extranjera le toman años.
 
 ## El modelo financiero
 
@@ -55,4 +55,4 @@ Integración con infraestructura pública (disponibilidad de parques, estado de 
 | Elefante blanco por mala ejecución | Media | Capital privado con rendición trimestral al Congreso; el Estado aporta capital y datos, la gestión es privada con métricas y penalidades contractuales. |
 | Airbnb baja comisiones para retener mercado | Media | Si Airbnb baja comisiones por la competencia, los operadores colombianos ganan igual, es el escenario óptimo. |
 
-> Colombia Viva no es la plataforma que compite con Airbnb en San Francisco. Es la que dominaría el turismo colombiano y latinoamericano con ventajas inimitables: datos públicos integrados, certificación con consecuencias, comisiones a la mitad y operadores dueños de su canal. El modelo IRCTC demostró que funciona, la diferencia es que aquí sería en turismo, no en trenes.
+> Colombia Viva no compite con Airbnb en San Francisco: dominaría el turismo colombiano y latinoamericano con ventajas inimitables, datos públicos integrados, certificación con consecuencias, comisiones a la mitad y operadores dueños de su canal. El modelo IRCTC demostró que funciona, la diferencia es que aquí sería en turismo, no en trenes.
