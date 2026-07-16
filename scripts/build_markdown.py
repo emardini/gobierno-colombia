@@ -62,15 +62,15 @@ def build_markdown():
             print(f"  ✓ {section_name}")
             content = read_file(file_path)
             if content:
-                # Salta líneas de encabezado o comentarios iniciales
+                # Salta línea de comentario inicial si existe
                 lines = content.split('\n')
-                processed_lines = []
+                start_idx = 0
 
-                for line in lines:
-                    # Salta líneas que empiezan con >
-                    if line.startswith('>') and line.startswith('> **'):
-                        continue
-                    processed_lines.append(line)
+                # Si la primera línea es un comentario markdown, saltarla
+                if lines and lines[0].startswith('> **'):
+                    start_idx = 1
+
+                processed_lines = lines[start_idx:]
 
                 # Agrega contenido
                 doc.append('\n'.join(processed_lines))

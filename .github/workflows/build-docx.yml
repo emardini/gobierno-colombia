@@ -38,14 +38,14 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Checkout docs branch (crear si no existe)
-          git fetch origin docs 2>/dev/null || echo "Creating docs branch..."
-          git checkout -B docs origin/docs 2>/dev/null || git checkout -b docs
+          # Crear/actualizar rama docs
+          git checkout --orphan docs-temp 2>/dev/null || git checkout -b docs-temp
+          git reset
 
-          # Copiar archivo generado
-          git checkout ${{ github.ref_name }} -- DOCUMENTO-COMPLETO.md || cp DOCUMENTO-COMPLETO.md .
-
-          # Commit y push
+          # Copiar solo el documento
+          cp DOCUMENTO-COMPLETO.md .
           git add DOCUMENTO-COMPLETO.md
-          git commit -m "docs: auto-update from ${{ github.ref_name }}" || echo "No changes"
-          git push origin docs
+          git commit -m "docs: consolidated document from ${{ github.ref_name }}"
+
+          # Push a docs
+          git push -f origin docs-temp:docs || git push origin docs-temp:docs
