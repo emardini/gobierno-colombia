@@ -145,6 +145,38 @@ El principio que amarra los tres casos, y que faltaba decir con esas palabras: d
 
 Con ese principio explícito, el hueco que queda es la interventoría nacional obligatoria, que hoy no tiene ninguna protección frente a una demanda de nulidad o tutela por parte de la alcaldía que la rechaza. Se cierra igual que los otros dos: la controversia sobre si procede la interventoría (no sobre el fondo de la autonomía territorial, que sigue siendo un debate constitucional legítimo) se somete a un trámite de nulidad de vía preferente ante la jurisdicción contencioso-administrativa, con turno prioritario y plazo perentorio de fallo, de modo que la interventoría opera desde el día en que se designa y solo se levanta si el juez, en el plazo corto que la ley preferente exige, falla en contra. La demora deja de ser gratis para quien la usa como arma, sin quitarle a nadie su derecho a demandar.
 
+## 13.9b Mecanismos para la adjudicación de contratos: prevenir favoritismo en licitaciones
+
+La interventoría supervisa la ejecución *después* del contrato. Pero antes, en la redacción de los pliegos (qué se va a licitar y cómo) y en la evaluación de propuestas (quién gana), hay dos puntos donde la discreción local permite el favoritismo sin rastro. Un alcalde puede escribir un pliego hechos a la medida del contratista que quiere, especificando características que solo una empresa cumple. O puede poner una comisión evaluadora que de facto puntúa al favorito más alto, sea o no merecedor. Ambos ocurren antes de que el nodo vea nada.
+
+| Mecanismo | Diseño | Por qué funciona |
+|---|---|---|
+| Pliegos tipo obligatorios | Colombia Compra publica 2-3 pliegos estándar por sector (vías, agua, energía). El municipio elige cuál. Si necesita variar, justifica por escrito (máx. 1 página), se publica con el pliego. Prohibido adjuntar anexos "aclaratorios" que modifiquen el técnico puro. | Elimina discreción. Quien quiera favoritismo debe hacerlo público, modificando un criterio técnico que quedará auditado. El costo reputacional supera el beneficio. |
+| Puntuación por algoritmo preestablecido | Criterios fijos: experiencia (años verificables), precio, capacidad técnica. Cada uno genera puntos automáticos por banda. Ejemplo: 5+ años = 25 puntos; 3-5 años = 15 puntos. Máquina calcula, no humanos deliberan. | Cero discreción deliberativa. Imposible favorecer a alguien si el criterio es aritmético. |
+| Revisor técnico pre-adjudicación | Colombia Compra asigna un revisor técnico de su staff (no cuerpo nuevo). Solo ANTES de adjudicar, verifica un checklist mínimo: ¿conflicto de interés con el alcalde?, ¿empresa en insolvencia?, ¿demandas por incumplimiento grave?, ¿imposibilidad técnica evidente? Si hay problema documentado, puede objetar por escrito. Si no hay problema, firma la adjudicación. | Cierra el hoyo del "ganador en algoritmo pero imposible en la práctica". La objeción es pública y apelable en 5 días. El revisor no cambia puntuación, solo veta lo que es patentemente inviable. |
+| Publicación de puntuación completa | Cada proponente ve cómo fue puntuado, criterio por criterio. Todo públicoen la plataforma de trazabilidad. Si hay un patrón (el favorito siempre gana aunque objetivamente no califica), se ve inmediatamente. | Transparencia como enforcement. Si hay sospecha, se impugna. La impugnación acelerada ya existe (Frente VIII). |
+
+> **Sobre transparencia vs. anonimato:** El revisor técnico se identifica porque su decisión es apelable y entra en expediente. Pero su identificabilidad no significa que toda su deliberación sea pública. El acto es transparente (se sabe que objetó y por qué); la deliberación puede ser privada (nadie ve sus dudas internas mientras decidía). Esto protege contra amenazas personales sin crear opacidad en el resultado. Si el revisor sufre amenaza documentada, accede a protección UNP en 48h. Y en municipios pequeños, el anonimato de cualquier funcionario es de ficción: todos saben quiénes son en dos semanas. La protección real viene de que la decisión está blindada por algoritmo (no hay discreción que amenazar) y de que quien amenaza sabe que el acto quedó documentado y es apelable.
+
+> **Límite explícito del revisor técnico:** tiene autoridad de veto sobre problema verificable (insolvencia, demanda, conflicto), no sobre criterios técnicos (si dos propuestas cumplen el pliego, no puede decir "a mí me gusta más la de X"). Su veto cabe en apelación en 5 días ante tribunal administrativo que resuelve en 15. Si el tribunal le da la razón, la adjudicación sigue al segundo. Si no, procede la original.
+
+---
+
+## 13.9c Mecanismos contra la negación discrecional de permisos municipales
+
+Un segundo punto de captura indirecta: el alcalde no puede impedir la licitación directamente, pero puede sabotearla negándose a dar permisos de construcción, licencias ambientales, aprobación de planos, o cualquier trámite municipal que el proyecto necesita. Es el veto silencioso.
+
+| Mecanismo | Diseño | Por qué funciona |
+|---|---|---|
+| Ficción legal: silencio es aprobación | El alcalde tiene 20 días máximo para negar un permiso con razón documentada y específica. Si no responde en 20 días, se considera aprobado automáticamente. El nodo puede presentar el acto de "aprovación por silencio" ante el registrador, la autoridad ambiental, o quien sea, y procede sin requerer una firma adicional. | Elimina el arma del bloqueo indefinido. El alcalde debe decidir rápido, documentar por qué se niega, o pierde la discreción. |
+| Desnacionalizar ciertos permisos | Algunos trámites se dan a nivel nacional, no municipal. Licencia ambiental > ANLA (ya existe). Ocupación de espacio público > Colombia Compra (no alcalde). Aprobación de planos > verificador certificado externo (no municipio). Registro sanitario > INVIMA (ya existe). Para cada sector, la Ley de Nodos especifica cuál autoridad da cuál permiso. | El alcalde no tiene discreción sobre temas donde nacionalizar es técnicamente defensible. La autoridad nacional no tiene captura local. |
+| Apelación acelerada y vinculante | Si el alcalde niega un permiso injustificadamente (o lo niega con una razón insuficiente técnicamente), el nodo apela en 5 días ante un tribunal administrativo regional. El tribunal resuelve en 15 días máximo. Su fallo es vinculante, no cabe nueva apelación ordinaria. | Velocidad cierra el hoyo de la dilación. Si el alcalde sabe que tiene 15 días para defender su negación ante un juez técnico, la tasa de negaciones caprichosas cae dramáticamente. |
+| Publicación automática de tramitología | Todo permiso solicitado, el estado del trámite, la razón de la negación (si existe), los plazos para resolver, todo se publica en la plataforma de trazabilidad. Dificil sabotear algo que está siendo observado. | Presión reputacional + documentación. Si hay un patrón de negaciones contra proyectos del nodo, el dato lo muestra. |
+
+> **Límite explícito:** si la negación se basa en un problema técnico real (planos incompletos, incumplimiento ambiental legítimo), el nodo no gana automáticamente, debe subsanar. Pero si es un problema que subsana en 3 meses y el alcalde lleva 12 sin responder, vencido el plazo, se presume aprobado. La ficción legal es sobre la demora, no sobre la substancia.
+
+---
+
 ## 13.10 La intervención territorial: cuando los mecanismos preventivos fallan
 
 | Nivel de alerta | Disparador | Respuesta | Quién ejecuta |
