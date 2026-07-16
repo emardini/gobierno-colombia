@@ -22,15 +22,26 @@ def build_markdown():
 
     print("🔨 Consolidando archivos markdown...")
 
-    # Archivos a incluir (en orden)
+    # Archivos a incluir (en orden lógico)
     files_to_include = [
-        ('docs/05-columna-vertebral.md', 'Columna Vertebral'),
+        ('docs/05-columna-vertebral.md', 'Columna Vertebral: Estado en el Territorio'),
+        ('docs/frentes/frente-01-formalidad.md', 'Frente I: Formalidad y Empleo'),
         ('docs/frentes/frente-02-reforma-agraria.md', 'Frente II: Reforma Agraria'),
+        ('docs/frentes/frente-03-seguridad.md', 'Frente III: Seguridad'),
+        ('docs/frentes/frente-04-salud.md', 'Frente IV: Salud'),
+        ('docs/frentes/frente-05-finanzas.md', 'Frente V: Finanzas Públicas'),
+        ('docs/frentes/frente-06-gasto-social.md', 'Frente VI: Gasto Social'),
+        ('docs/frentes/frente-07-educacion.md', 'Frente VII: Educación y Capacidad Humana'),
         ('docs/frentes/frente-08-capacidad-estatal.md', 'Frente VIII: Capacidad Operativa'),
+        ('docs/frentes/frente-09-innovacion.md', 'Frente IX: Innovación Digital'),
+        ('docs/frentes/frente-10-productividad.md', 'Frente X: Productividad Rural'),
         ('docs/frentes/frente-11-servicios-basicos.md', 'Frente XI: Servicios Básicos'),
+        ('docs/frentes/frente-12-ciudades.md', 'Frente XII: Ciudades Inclusivas'),
         ('docs/frentes/frente-13-integridad-mecanismos.md', 'Frente XIII: Integridad Estructural'),
         ('docs/transversal/fundamentos-investigacion.md', 'Fundamentos en Investigación Reciente'),
         ('docs/transversal/dimension-deliberativa.md', 'Dimensión Deliberativa'),
+        ('docs/transversal/viabilidad-juridica.md', 'Viabilidad Jurídica'),
+        ('docs/transversal/plataforma-trazabilidad.md', 'Plataforma de Trazabilidad'),
     ]
 
     # Construir documento
