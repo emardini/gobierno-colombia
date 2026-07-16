@@ -81,4 +81,6 @@ Colombia es uno de los países donde más asesinan a quienes defienden el ambien
 - La dependencia fiscal de los fósiles es real y no se desmonta con voluntarismo. El mayor riesgo del frente es prometer una transición más rápida de lo que el fisco aguanta y terminar importando energía o abriendo un hueco fiscal que acabe pagando el más pobre.
 - La capacidad de hacer cumplir la ley ambiental es limitada. Declarar áreas protegidas sin presencia que de verdad las proteja es papel, y la frontera se las come igual. Es el mismo riesgo de reabsorción que enfrenta el nodo.
 - El monitoreo satelital tiene vacíos, por nubes y falta de imagen, así que la detección orienta pero no lo ve todo, y necesita la denuncia y los ojos en el territorio.
-- La tensión entre conservar y dejar vivir al que habita el bosque es permanente. El frente la resuelve del lado del débil, pero mal aplicada puede volverse persecución al colono pobre o, al revés, permisividad con el gran depredador. Se corri
+- La tensión entre conservar y dejar vivir al que habita el bosque es permanente. El frente la resuelve del lado del débil, pero mal aplicada puede volverse persecución al colono pobre o, al revés, permisividad con el gran depredador. Se corrige con evidencia, como todo el plan.
+
+> El país no protege su naturaleza declarando parques desde un escritorio, sino estando en el territorio donde hoy no está. El agua vale más que la renta que la destruye. Y la transición, o es honesta con las cuentas y justa con los pobres, o no es transición, es consigna.

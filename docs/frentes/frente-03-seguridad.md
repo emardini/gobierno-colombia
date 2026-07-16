@@ -59,4 +59,6 @@ Entre arrancar la coca y que el cultivo alternativo produzca ingreso pasan 8-24 
 
 ## III.6 Soberanía y diversificación de proveedores de defensa
 
-Regla: ningún proveedor >40% del portafolio. Diversificar hacia Corea del
+Regla: ningún proveedor >40% del portafolio. Diversificar hacia Corea del Sur, Francia, Alemania, Turquía, Brasil y Colombia misma. Toda compra importada incluye cláusula obligatoria de transferencia tecnológica a COTECMAR/CIAC/Indumil, producción nacional progresiva (offset mínimo 20% en el primer contrato, escalando) y formación de ingenieros colombianos.
+
+> La verdadera soberanía es llenar el territorio de Estado, lo que además le quita a actores externos el pretexto barato para intervenir.
