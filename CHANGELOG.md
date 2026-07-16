@@ -2,6 +2,15 @@
 
 Todas las decisiones relevantes sobre el plan se registran aquí. El formato sigue, de manera informal, la idea de *Keep a Changelog*: agrupar por versión y describir qué cambió y por qué.
 
+## [1.56] El Consejo de Nodo: el contrapeso local que faltaba
+
+- **Nueva subsección 3.4.1b en la Columna Vertebral**, a partir de una pregunta directa sobre si el modelo de nodos cumple, en la práctica, con la tesis de Acemoglu y Robinson en *The Narrow Corridor*: que la capacidad del Estado y la capacidad de la sociedad para vigilarlo deben crecer a la par. La auditoría mostró que no: todos los contrapesos existentes al Gerente de Nodo (veeduría del Frente XIII, Comité de Nodo, contrato de desempeño del alcalde) son nacionales o técnicos, ninguno local ni comunitario, mientras que la autoridad real del Gerente sí creció. Fundamentos en la Investigación Reciente (fila 11) sobreclamaba que ese contrapeso simétrico ya existía; se corrigió con honestidad explícita.
+- **El Consejo de Nodo no crea institución nueva**: junta dos que ya existen y funcionan por elección democrática, las Juntas de Acción Comunal (Ley 743/2002) y los Consejos Territoriales de Planeación (art. 340 CP, Ley 152/1994), y les da poder vinculante acotado sobre tres decisiones concretas: la secuencia de obras secundarias dentro del presupuesto ya aprobado, la objeción con pausa obligatoria sobre una contratación específica del Gerente (misma lógica que la alerta amarilla del Frente XIII, ahora activada por la comunidad), y la evaluación anual pública del Gerente como insumo formal de su evaluación de desempeño.
+- **Qué NO decide, por diseño**: ni qué municipios son nodo (eso sigue siendo el IPN técnico, para que el Consejo no se vuelva la nueva puerta de entrada del clientelismo), ni la permanencia del Gerente (sigue siendo resorte de DNP y Presidencia, para que el Consejo no se vuelva mecanismo de captura política del cargo técnico).
+- **Blindaje contra la captura de la participación misma**: la membresía viene de elecciones comunitarias que ya existen y que el nodo no controla, no de una convocatoria discrecional del Gerente o la alcaldía, así que capturar el Consejo exigiría capturar primero esas elecciones, el mismo obstáculo que ya protege al IPN.
+- **Vía jurídica**: decreto reglamentario más cláusula en el Contrato de Habilitación de Nodo y la fiducia, sin ley nueva. Costo marginal.
+- Se actualizó Fundamentos en la Investigación Reciente (fila 11) reconociendo el vacío previo, y Dimensión Deliberativa, reemplazando la aspiración de "consejos de nodo con voz vinculante" por la referencia al mecanismo ya concreto.
+
 ## [1.55] Qué hacer si FECODE bloquea a pesar de la coalición
 
 - **Nueva subsección 7.3.4**, a pedido explícito de tener una estrategia defensiva si el gremio decide bloquear las mejoras a pesar de la oferta de coalición del 7.3.3. Aplica el mismo principio rector del Frente XIII ("diseña para el peor caso, no para el promedio"), con una distinción explícita: un paro por una demanda legítima (el Fomag, por ejemplo) es un derecho laboral que el plan protege, no un obstáculo que combatir, la misma línea que el Frente XIII ya traza entre acelerar el litigio del poderoso y no tocar nunca el del débil que defiende un derecho real.
@@ -327,35 +336,4 @@ Incorporación de una agenda explícita de productividad y competitividad sobre 
 - **Nuevo:** métricas de productividad (valor agregado por trabajador, tasa de graduación de firmas) en el módulo y en la sección global de Medición, para corregir la trampa de "más empleo, menos productividad".
 - Renumeración de las secciones de turismo del Frente XII (12.3→12.4, 12.4→12.5).
 
-## [1.3]: Verificación jurídica
-
-Contraste de las clasificaciones jurídicas con el estado real del derecho colombiano (a 2026).
-
-- **Corregido:** la Jurisdicción Agraria y Rural ya existe (Acto Legislativo 03/2023 + Ley Estatutaria 2570/2026). El plan la implementa y financia, no la crea.
-- **Corregido:** la objeción de conciencia al servicio exige ley estatutaria (no ordinaria) y su diseño "canalizar, no eximir" se marca como constitucionalmente discutible.
-- **Corregido:** la interventoría nacional sobre contratos de entidades territoriales requiere ley, no decreto (autonomía territorial).
-- **Acotado:** la condicionalidad presupuestal aplica a inversión nacional, no a transferencias constitucionales (SGP/regalías).
-- **Confirmado:** el catastro multipropósito ya es servicio público (Ley 1955/2019, Decreto 148/2020): ejecutable por vía administrativa.
-- **Precisado:** "Ley Marco de Nodos" es, técnicamente, una ley ordinaria; la Unidad de Macrocorrupción cabe en ley ordinaria en su versión sin autonomía.
-
-## [1.2]: Fundamentos en investigación reciente
-
-Incorporación de hallazgos de frontera (posteriores al Nobel 2007 de diseño de mecanismos) como ajustes concretos.
-
-- Disciplina por exportación verificada en el Frente X (nueva economía de la política industrial).
-- Pago por desempeño en la DIAN y asignación por desempeño del Gerente de Nodo (experimentos de capacidad estatal).
-- Diseño de la divulgación, competencia por comparación y auditoría de robustez como mecanismos 6, 7 y 8 del Frente XIII.
-- Calibración del *sunset* a la curva de maduración (~7 años) y puente al empleo asalariado (evidencia de "big push").
-- Umbral de irreversibilidad del enclave (Nobel 2024 sobre instituciones).
-- Nueva sección transversal "Fundamentos en la investigación reciente".
-
-## [1.1]: Reorganización e integración de soluciones
-
-- Integración de siete soluciones a las debilidades de la versión original (viabilidad jurídica explícita, cuadro fiscal de dos escenarios, irreversibilidad simétrica con *sunset*, enforcement atado a palancas ejecutivas, piso universal y nodo de aprendizaje, capital humano escalonado, orden y limpieza).
-- Numeración consistente (un solo conjunto de Frentes I-XIV).
-- Colombia Viva movida al Anexo A.
-- Nuevas secciones: Viabilidad Jurídica y Cuadro Fiscal de Dos Escenarios.
-
-## [1.0]: Versión base
-
-- Plan de gobierno original: tesis de las dos raíces, modelo de nodos, 14 frentes, Visión 2042 y transición.
+## [1.3]: Verificación ju
