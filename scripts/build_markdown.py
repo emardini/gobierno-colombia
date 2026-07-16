@@ -42,6 +42,7 @@ def build_markdown():
         ('docs/transversal/dimension-deliberativa.md', 'Dimensión Deliberativa'),
         ('docs/transversal/viabilidad-juridica.md', 'Viabilidad Jurídica'),
         ('docs/transversal/plataforma-trazabilidad.md', 'Plataforma de Trazabilidad'),
+        ('docs/transversal/desmantelamiento-economias-ilegales.md', 'Desmantelamiento de Economías Ilegales'),
     ]
 
     # Construir documento
