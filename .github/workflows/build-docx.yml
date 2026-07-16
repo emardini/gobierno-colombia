@@ -32,20 +32,12 @@ jobs:
       - name: Build consolidated markdown
         run: python scripts/build_markdown.py
 
-      - name: Push to docs branch
+      - name: Commit and push document
         if: success()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Crear/actualizar rama docs
-          git checkout --orphan docs-temp 2>/dev/null || git checkout -b docs-temp
-          git reset
-
-          # Copiar solo el documento
-          cp DOCUMENTO-COMPLETO.md .
           git add DOCUMENTO-COMPLETO.md
-          git commit -m "docs: consolidated document from ${{ github.ref_name }}"
-
-          # Push a docs
-          git push -f origin docs-temp:docs || git push origin docs-temp:docs
+          git diff --cached --quiet || git commit -m "docs: auto-generate consolidated document"
+          git push origin ${{ github.ref_name }}
