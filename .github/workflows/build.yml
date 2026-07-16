@@ -39,3 +39,18 @@ jobs:
           files: |
             programa-completo.md
             dist/estado-en-el-territorio.docx
+
+      - name: Publicar dist/ en la rama "dist" (fuera del historial de main)
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          mkdir -p /tmp/dist-out
+          cp dist/estado-en-el-territorio.docx /tmp/dist-out/
+          cp programa-completo.md /tmp/dist-out/
+          git checkout --orphan dist-branch-tmp
+          find . -mindepth 1 -not -path './.git*' -delete
+          cp /tmp/dist-out/* .
+          git add -A
+          git commit -m "Build automático desde ${{ github.sha }}"
+          git push origin dist-branch-tmp:dist --force
