@@ -8,25 +8,135 @@
 
 ## Contenido
 
-1. Columna Vertebral: Estado en el Territorio
-2. Frente I: Formalidad y Empleo
-3. Frente II: Reforma Agraria
-4. Frente III: Seguridad
-5. Frente IV: Salud
-6. Frente V: Finanzas Públicas
-7. Frente VI: Gasto Social
-8. Frente VII: Educación y Capacidad Humana
-9. Frente VIII: Capacidad Operativa
-10. Frente IX: Innovación Digital
-11. Frente X: Productividad Rural
-12. Frente XI: Servicios Básicos
-13. Frente XII: Ciudades Inclusivas
-14. Frente XIII: Integridad Estructural
-15. Fundamentos en Investigación Reciente
-16. Dimensión Deliberativa
-17. Viabilidad Jurídica
-18. Plataforma de Trazabilidad
-19. Desmantelamiento de Economías Ilegales
+1. Nota de esta versión
+2. Visión Colombia 2042
+3. 0. El Modelo de País: La Brújula
+4. 1. Diagnóstico: Dos Raíces, No Veinte Problemas
+5. 2. Principios Rectores
+6. 3. La Columna Vertebral: Estado en el Territorio
+7. El Rendimiento Compuesto del Modelo de Nodos
+8. Frente I: Empleo de Calidad y Desarrollo de la Periferia
+9. Frente II: Reforma Agraria Integral
+10. Frente III: Seguridad, Soberanía e Inteligencia
+11. Frente IV: Anticorrupción
+12. Frente V: Sostenibilidad Fiscal
+13. Frente VI: Salud
+14. Frente VII: Educación
+15. Frente VIII: Capacidad Operativa del Estado
+16. Frente IX: Infraestructura Estratégica
+17. Frente X: Industria Avanzada y Capacidad Tecnológica
+18. Frente XI: Piso Universal de Servicios Básicos
+19. Frente XII: Ciudades, Turismo y Productividad Urbana
+20. Frente XIII: Integridad Estructural y Diseño de Mecanismos
+21. Frente XIV: Servicio Nacional de Vida
+22. Frente XV: Medio Ambiente, Agua y Uso de los Recursos Naturales
+23. Fundamentos en Investigación Reciente
+24. La Dimensión Deliberativa
+25. Viabilidad Jurídica de los Mecanismos
+26. Plataforma de Trazabilidad del Gasto Público
+27. Desmantelamiento de Economías Ilegales
+28. Cuadro Fiscal de Dos Escenarios
+29. Comunicación Pública y Derecho a la Información
+30. Política Exterior: Interés Nacional, Autonomía y Principios
+31. Productividad y Competitividad Nacional
+
+---
+
+
+# Nota de esta versión
+
+Esta es una reorganización integral del programa. Conserva el nivel de detalle de la versión anterior y corrige sus debilidades estructurales sin cambiar su dirección. Los siete ajustes de fondo son:
+
+1. **Viabilidad jurídica explícita.** Cada mecanismo que requiere autoridad sobre el aparato del Estado declara su vía (decreto / ley ordinaria / ley estatutaria / reforma) y su plazo realista. La autoridad del Gerente de Nodo se reformula como coordinación delegada del Ejecutivo (legal desde el Día 1) más condicionalidad presupuestal, no como mando sobre entidades autónomas. La Ley de Régimen de Nodos se adelanta al Año 1.
+2. **Cuadro fiscal de dos escenarios.** Un escenario base que no asume la reforma tributaria (vive de evasión, eficiencia y ahorro de intereses) y un escenario ampliado si la reforma pasa. Los ahorros de eficiencia dejan de contabilizarse como fuente que financia compromisos duros: son *upside*, no supuesto.
+3. **Irreversibilidad simétrica.** Al protocolo de graduación por éxito se le agrega un *sunset por fracaso*: rampa de salida legítima y transparente para desmontar un nodo que incumple sus métricas pre-registradas. El blindaje protege contra la reversión por capricho, no contra la corrección por evidencia.
+4. **Enforcement atado a palancas ejecutivas.** La penalidad estatal se respalda con arbitraje y garantía pre-fondeada (no con pleito contencioso de años). Las alertas anticorrupción disparan consecuencias automáticas sobre el desembolso, que el programa controla, no dependen de la imputación judicial.
+5. **Piso universal explícito + nodo de aprendizaje difícil.** Se hace visible al frente lo que el programa entrega a todos (incluido el 80 % urbano) y se añade un piloto de Fase 0 en una zona deliberadamente difícil para probar la replicabilidad antes de apostar las olas siguientes.
+6. **Apuesta de capital humano escalonada.** Núcleo sénior pequeño y difícil de conseguir; el resto del trabajo técnico verificable lo hacen convenios universitarios y el Servicio Nacional de Vida bajo supervisión. La rotación anti-captura se aplica al Gerente, no al equipo técnico que acumula conocimiento local.
+7. **Orden y limpieza.** Numeración consistente (un solo conjunto de Frentes I-XIV), módulos integrados en su lugar lógico, y **Colombia Viva movida a un anexo** por no encajar con el principio rector de "activar lo que ya se pagó".
+
+Adicionalmente, esta versión incorpora una capa de **fundamentos en la investigación reciente** (sección propia más siete ajustes puntuales en los Frentes V, VIII, X, XIII y en el blindaje de nodos), que traduce hallazgos de frontera en economía del desarrollo, teoría de juegos y diseño de mecanismos, posteriores al Nobel 2007 que el programa ya usaba, a mejoras concretas del diseño.
+
+*Documento de trabajo. Cifras de fuentes oficiales 2025-2026 (DANE, ANT, MinHacienda, CARF, FIP, UNODC). Sujeto a revisión. Los puntos de viabilidad jurídica se presentan como análisis de política y deben confirmarse con asesoría constitucional.*
+
+---
+
+
+---
+
+
+# Visión Colombia 2042: El Norte de Generación
+
+Este programa gobierna 4 años. Pero las decisiones que toma tienen consecuencias para 16 años. La Visión Colombia 2042 no promete lo que hará este gobierno: le da coherencia intertemporal a cada decisión de inversión, reforma y secuencia. Si una política acerca a Colombia a este horizonte, va en la dirección correcta. Si la aleja, requiere justificación extraordinaria.
+
+> El Colombia de 2042 no es inevitable. Es una posibilidad que se construye o se destruye con las decisiones de los próximos cuatro gobiernos. Este es el primero.
+
+## De dónde venimos, a dónde vamos
+
+| Dimensión | Colombia 2026 (hoy) | Colombia 2042 (meta de generación) | Lo que cambia en este gobierno |
+|---|---|---|---|
+| Prosperidad | PIB per cápita ~$6.500. Pobreza ~35%. Pobreza extrema ~12%. Clase media ~30%. | PIB per cápita ≥$17.000. Pobreza <10%. Pobreza extrema <3%. Clase media ≥60%. | Los nodos de empleo y la formalización inician la curva. Sin este gobierno, la trayectoria no arranca. |
+| Desigualdad | Gini 0.54, uno de los más altos del mundo. 1% posee ~65% de la tierra fértil. | Gini ≤0.42. Distribución de tierra transformada por la reforma agraria acumulada de 4 gobiernos. | El catastro, la titulación y el impuesto a tierras improductivas cambian la estructura, no solo el nivel. |
+| Instituciones | Puesto 99 en IPC 2025, 7 posiciones abajo en un año. Confianza institucional ~20%. | Top 30 mundial en percepción de corrupción. Confianza institucional ≥70%. | El sistema de macrocriminalidad y los mecanismos de diseño rompen el equilibrio de impunidad. |
+| Capacidad productiva | Exportaciones primarias dominantes. Informalidad ~54%. 0.3% PIB en I+D. | Exportaciones agroindustriales premium $15.000M/año. Industria de defensa exporta $2.000M+/año. 10.000+ patentes/año. | COTECMAR, CIAC, APIs farmacéuticos y el sistema de nodos sientan las bases industriales. |
+| Seguridad | ~27.000 combatientes activos. Homicidios ~26/100.000. Coca ~200.000 ha. | Grupos armados desmantelados o marginales. Control del 98% del territorio. Coca residual. | Los 3 nodos de la Ola 1 demuestran el modelo. Las olas 2, 3 y 4 son obra de gobiernos siguientes. |
+| Demografía del talento | Fuga de cerebros. Juventud que quiere emigrar. | 3 universidades en top 200 mundial. 100.000 ingenieros graduados/año. Juventud que quiere quedarse. | El SENA dual, la conectividad escolar y los currículos pertinentes inician el ciclo. |
+| Identidad | Del "país de narcos", narrativa que Colombia exporta involuntariamente. | Del "país de narcos" al "Jaguar Andino Democrático", país que exporta instituciones, cacao, biotecnología y patrulleras. | La narrativa cambia cuando los resultados verificables superan los estereotipos. Empieza en los nodos. |
+
+*Una advertencia honesta: ningún gobierno llega a 2042 solo. Esta visión requiere cuatro gobiernos de distinto signo que mantengan la dirección estratégica aunque cambien las tácticas. No es ingenuidad, es el único modelo que ha funcionado (Corea del Sur, Estonia, Chile, Singapur): décadas de continuidad en las apuestas fundamentales. El programa diseña las instituciones que hacen posible esa continuidad incluso cuando cambia quien gobierna, y, en esta versión, sin atar de manos al sucesor que tenga evidencia para corregir.*
+
+---
+
+
+---
+
+
+# 0. El Modelo de País: La Brújula
+
+Tres anclajes derivados de examinar decisiones, no de etiquetas ideológicas:
+
+- **Universalidad en derechos, priorización en la inversión.** A todos se les garantizan derechos por igual; la inversión productiva se concentra y secuencia porque los recursos no alcanzan para todo a la vez.
+- **Pragmatismo institucional vigilado.** Ni el Estado ni el mercado por fe: cada uno donde hace mejor su tarea, ambos bajo contrapesos fuertes.
+- **Continuista-correctivo.** Construir sobre lo que existe y reformar sin destruir lo que funciona.
+
+> Estado en el territorio, contrapesos fuertes, honestidad como estrategia, y la carga nunca sobre los de abajo.
+
+---
+
+
+---
+
+
+# 1. Diagnóstico: Dos Raíces, No Veinte Problemas
+
+Casi todas las crisis grandes de Colombia cuelgan de dos raíces. Atacar síntomas sin tocarlas es gastar sin resultado.
+
+| Raíz | Qué produce | Cifra de referencia |
+|---|---|---|
+| El Estado no controla ni sirve buena parte de su territorio | Inseguridad, economías ilegales, pobreza rural, informalidad, brecha centro-periferia | ~54% informalidad nacional, ~83% rural; desocupación 8% Bucaramanga vs 25% Quibdó; 1% posee ~65% tierra fértil; 27.000 combatientes armados en 2026 |
+| Instituciones débiles o capturadas y fisco frágil | Corrupción, servicios que fallan, imposibilidad de financiar nada sosteniblemente | Deuda salud ~$33B pese a 99% cobertura; déficit ~6.4-7% PIB; deuda hacia el 70%; calificación BB |
+
+> Atacar raíces, no síntomas. El resto del programa es eso.
+
+---
+
+
+---
+
+
+# 2. Principios Rectores
+
+- **Honestidad fiscal:** cada promesa con su fuente; sin magia. En esta versión, cada compromiso duro se sostiene en el escenario fiscal base, sin depender de ingresos que requieren Congreso.
+- **Raíces, no síntomas:** el éxito no es el espectáculo, es el cambio estructural.
+- **Secuencia y prioridad:** el orden es parte del plan.
+- **Medición desde el diseño,** calculada por quien no ejecuta.
+- **Construir sobre lo construido:** preservar lo que sirve, corregir lo podrido.
+- **Contrapesos antes que confianza:** no depender de la buena fe de ningún actor.
+- **Reversibilidad por evidencia, irreversibilidad por capricho:** lo construido se protege del abandono clientelista, pero conserva una rampa de salida legítima si los datos públicos muestran que falló.
+- **La carga**, en seguridad, impuestos y ajuste, nunca recae sobre los más pobres.
+
+---
+
 
 ---
 
@@ -350,6 +460,53 @@ El Frente VIII ya nombra el diagnóstico de fondo (mímica isomórfica, sobrecar
 ---
 
 
+# El rendimiento compuesto del modelo de nodos
+
+El modelo obliga a que todas las inversiones coincidan en lugar y tiempo.
+
+| Inversión | Metas que mueve simultáneamente |
+|---|---|
+| Conectividad (fibra) | Empleo digital + telemedicina + educación digital + gobierno en línea + trazabilidad + inteligencia territorial |
+| Formalizar empleo | Cobertura salud y pensiones (PILA) + recaudo + secar reclutamiento |
+| Catastro | Titulación (baja Gini) + predial + planeación + inteligencia sobre el territorio |
+| Titulación | Equidad + colateral para crédito + sustitución de coca + arraigo |
+| Seguridad ↔ economía | La seguridad habilita la inversión; el empleo formal le quita reclutas al grupo armado |
+| Agua + EOC | Salud pública + empleo permanente + sostenibilidad local + sustitución de coca + dignidad territorial |
+| Optimización del Estado | Libera $3-5B/año + reasigna 20.000-35.000 funcionarios + genera el dividendo ético (60.000-97.000 empleos) |
+| Turismo en nodos | Seguridad → oferta → empleo formal → recaudo → más seguridad; divisas que financian parte del programa |
+| Antirracismo medible | Cierra brechas en los municipios más informales y construye legitimidad estatal |
+| Compras públicas estratégicas | Desarrollo territorial + industria avanzada + transferencia tecnológica + anticorrupción, en un instrumento |
+| Diseño de mecanismos | Hace que el comportamiento deseado sea dominante para cada actor; el programa funciona aun bajo intento de captura |
+| Servicio Nacional de Vida | Primer empleo + certificación + catastro + agua + cohesión que cruza clases y regiones |
+
+---
+
+
+---
+
+
+# Frente I: Empleo de Calidad y Desarrollo de la Periferia
+
+**Metas:** ≥30% empleo nuevo en empresas pequeñas; ≥40% en la periferia; informalidad de ~54% a ≤44%.
+
+> **Honestidad de escala:** Colombia ha movido la informalidad nacional apenas 2-3 puntos por década en el pasado reciente; diez puntos en cuatro años, si se lee como meta nacional de un solo período, es la promesa más frágil de este frente. Lo que este gobierno puede demostrar y medir con rigor en cuatro años es la caída de informalidad dentro de los municipios-nodo, con adicionalidad contra municipios control (ver Medición y Blindaje), que es una prueba de mecanismo, no de escala país. La meta nacional de ≤44% es la trayectoria de la Visión 2042 sostenida por varios gobiernos, no un compromiso de este cuatrienio; prometerla como logro de un solo período sería exactamente la dilución que el Hallazgo 19 identifica como causa de muerte de reformas anteriores.
+
+| Palanca | Medida concreta | Responsable | Plazo |
+|---|---|---|---|
+| Tributaria | Rediseño ZOMAC/ZESE: incentivos solo por empleo formal neto verificado en PILA; cláusula de reversión; vencimiento 8 años | MinHacienda + DIAN | Año 1 |
+| Regulación | Ventanilla única digital (<5 días microempresa); permisos escalonados por tamaño; compras públicas 30% reservadas a empresas pequeñas y periféricas | DNP + Min. Comercio | Años 1-2 |
+| Asociatividad | Marco legal simplificado para cooperativas rurales (reducir costo 80%); garantías FNG primer año | Min. Trabajo + Min. Agricultura | Año 1 |
+| Bienes públicos rurales | Paquete completo por nodo: vías terciarias + riego + electrificación + conectividad + asistencia técnica + crédito + acopio | INVIAS + Min. Agricultura + UPRA | Por ola |
+| Catastro multipropósito | 100% del territorio en 8 años; iniciar en nodos Ola 1 en Año 1; cobro predial desde Año 2 en municipios listos | IGAC + SNR + Alcaldías | Años 1-8 |
+
+**Portafolio de vectores:** servicios digitales (formal por naturaleza), turismo (alto multiplicador, bajo capital), agroindustria (requiere vías + energía + agua), bioeconomía (largo plazo, Amazonía/Pacífico), renovables (empleo construcción y operación), formalización de minería informal, y MRO aeronáutico y naval (exportación de alto valor, ver Frente X).
+
+**Puente al empleo asalariado y a la movilidad laboral (ajuste basado en evidencia).** El nodo no apuesta solo al autoempleo y las cooperativas. El seguimiento a diez años de programas de "big push" muestra que el canal principal por el que los efectos *persisten* tiene menos que ver con el negocio propio y más con que los hogares se diversifican hacia empleo asalariado más productivo, con frecuencia vía movilidad geográfica hacia polos de mayor demanda. Implicación de diseño: cada nodo construye explícitamente el puente al empleo asalariado formal (intermediación laboral, certificación SENA portable entre regiones, vínculo con las empresas ancla y con los polos urbanos del Frente XII) y *no penaliza* la migración del trabajador formado. Un joven del Caquetá que se forma en el nodo y consigue empleo formal en Medellín es un éxito del programa, no una fuga, su PILA sigue contando y su remesa fortalece el nodo de origen.
+
+
+---
+
+
 # Frente II: Reforma Agraria Integral
 
 **Metas:** titular 3 millones de ha en 4 años; Gini de tierras de ~0.89 a ≤0.82; cero entregas sin paquete habilitador.
@@ -560,6 +717,191 @@ Entre arrancar la coca y que el cultivo alternativo produzca ingreso pasan 8-24 
 ## III.6 Soberanía y diversificación de proveedores de defensa
 
 Regla: ningún proveedor >40% del portafolio. Diversificar hacia Corea del
+
+---
+
+
+# Frente IV: Anticorrupción
+
+**Meta:** subir Colombia del puesto ~92 al ≤70 en el IPC al final del período.
+
+**El reencuadre:** la corrupción alcanzó 94% de impunidad en 2024, y la causa no está tanto en la falta de leyes como en tratarla como suma de delitos individuales. La gran corrupción funciona como sistema que captura instituciones. Se investiga como sistema, con metodologías de macrocriminalidad: identificar aparatos y determinadores, develar modus operandi, rastrear lavado y mecanismos de impunidad.
+
+## La estrategia anticorrupción opera en dos escalas y se apoya en una herramienta
+
+La lucha anticorrupción del plan no está toda en este frente, y conviene leerla como un solo cuerpo aunque sus piezas vivan en lugares distintos por una razón de método. Entra por aquí:
+
+- **Escala nacional y sistémica (este Frente IV).** La gran corrupción tratada como red, no como caso suelto: la Unidad de Macrocorrupción en la Fiscalía, la financiación de campañas, la extinción de dominio, el fondo de reparación.
+- **Escala territorial y municipal (Frente XIII, secciones 13.9 y 13.10).** La corrupción en alcaldías y gobernaciones, atacada con diseño de mecanismos: interventoría nacional obligatoria, pago directo nación-proveedor, techos de concentración por empresa, rendición en vivo y un protocolo de alertas por niveles. Vive en el XIII porque su método es el diseño de mecanismos, que es el corazón de ese frente.
+- **La herramienta que conecta ambas (la plataforma de trazabilidad, el "Sistema Nervioso" del Estado).** La infraestructura de datos que sigue cada peso del gasto público, descrita en su sección transversal propia, [Plataforma de Trazabilidad del Gasto](../transversal/plataforma-trazabilidad.md). Aquí abajo se detalla el motor anticorrupción que corre sobre ella, porque es el hilo que cose la escala territorial con la nacional: la misma alerta que congela un contrato municipal puede revelar la red que opera en nueve departamentos.
+- **La corrupción financiada por economías ilegales (lavado, minería ilegal, captura de DIJIN/CTI).** Cuando el dinero detrás de la captura viene de narcotráfico o minería ilegal, y no solo de contratación pública, el mecanismo vive en su propia sección transversal, [Desmantelamiento de Economías Ilegales](../transversal/desmantelamiento-economias-ilegales.md), porque su lógica (subir el costo de operar en Colombia, no perseguir un caso a la vez) es distinta de la de este frente.
+
+| Capa | Medida | Responsable | Plazo | Vía jurídica |
+|---|---|---|---|---|
+| Origen (gran corrupción) | El régimen legal ya existe (Ley 1475/2011, topes del CNE, Cuentas Claras, delito de financiación con fuentes prohibidas desde 2017): el problema es de verificación, no de vacío legal. El cruce Cuentas Claras × SECOP (detectar al financiador que luego contrata con el gobierno que ayudó a elegir) es ejecutable desde el Día 1, sin ley, vía la plataforma de trazabilidad. La inhabilidad automática sin proceso judicial y un CNE con más dientes sí requieren reforma, y avanzan en paralelo sin que el resto dependa de ellas | Plataforma (Día 1) + CNE y Congreso (reforma, en paralelo) | Años 1-2 (detección) | Detección: decreto. Inhabilidad automática: ley estatutaria / reforma |
+| Investigación sistémica | Unidad de Macrocorrupción en la Fiscalía: investiga cadenas como sistemas. Estructurada como unidad delegada con **presupuesto protegido por vigencias** y modelo de nombramiento por concurso técnico (no pretende autonomía que la Constitución no da dentro de la Fiscalía) | Fiscalía + Congreso | Año 1 | Ley estatutaria |
+| Oportunidad | Digitalizar y eliminar contacto humano discrecional: ventanilla única, inspector digital, adjudicación por algoritmo con reglas públicas | Min. TIC + Entidades | Años 1-3 | Decreto + reglamento |
+| Certeza | Detección por dato, no por denuncia; proceso máx. 18 meses; mismas reglas para aliados y opositores; reparación a víctimas colectivas | Fiscalía + Consejo Superior | Año 1 | Ley |
+| Fondo de Reparación | Todos los bienes recuperados van al Fondo; cuando la corrupción golpea un sector, los recursos reparan ese sector | Fiscalía + SGC + DNP | Años 1-2 | Ley |
+| Extinción de dominio | Disparada por datos; plazos máx. 24 meses; tierras al Fondo de Tierras; testaferros con responsabilidad solidaria | Fiscalía + SGC | Años 1-2 | Ley |
+| Cultura | Currículo escolar con el costo concreto del robo; PAE honesto como práctica | Min. Educación | Años 2-4 | Reglamento |
+
+## La herramienta tecnológica: detección por dato, no por denuncia
+
+Toda la estrategia descansa en una promesa que hay que volver concreta: detectar la corrupción por los datos y no esperar a que alguien la denuncie. Conviene explicar qué es esa herramienta, cómo funciona y, con la misma honestidad, qué no puede hacer. Porque vendida como una caja mágica, defrauda; entendida como lo que es, una buena, cambia el cálculo del que roba.
+
+### Qué es (y qué no es)
+
+No es una inteligencia artificial que "descubre corruptos". Es un sistema de integración de datos y detección de anomalías que corre sobre la plataforma de trazabilidad del gasto (su sección transversal propia). Su premisa es simple: casi toda corrupción que toca el gasto público deja huella en los datos. Una empresa que gana un contrato grande pero no tiene un solo empleado en planilla. Un precio unitario muy por encima del de la región. Un "concurso" con un solo proponente, o con tres que comparten dirección y dueño. La huella existe; el problema es que hoy vive dispersa en bases que no se hablan entre sí. La herramienta no inventa información nueva, hace visible y comparable la que ya existe.
+
+### De dónde saca los datos
+
+Su valor está en el cruce, no en una base sola. Integra fuentes que hoy están separadas, casi todas ya públicas o estatales:
+
+| Fuente | Qué aporta |
+|---|---|
+| SECOP I y II | Contratos: objeto, monto, proponentes, adjudicación |
+| Cuentas Claras (CNE) | Quién financió cada campaña |
+| PILA | Si una empresa tiene empleados reales (o es un cascarón) |
+| RUES y cámaras de comercio | Cuándo se creó una empresa y quiénes son sus dueños y representantes |
+| DIAN | Facturación y declaraciones (con las reservas legales del caso) |
+| Sistema General de Regalías | El gasto de regalías, foco histórico de desvío |
+| Catastro e IGAC | Valor real de predios y obras |
+| UIAF | Reportes de operaciones sospechosas (capacidad que ya existe) |
+| Nómina pública | Nóminas paralelas y contratistas que también son funcionarios |
+
+### El motor de alertas: qué señales dispara
+
+El motor compara, cruza y marca patrones. Cada alerta es una bandera para que un humano revise, no un veredicto.
+
+| Señal | Cómo se detecta |
+|---|---|
+| Empresa fantasma | Constituida pocas semanas antes de ganar, sin empleados en PILA, gana contrato grande |
+| Competencia simulada | Un solo proponente, o "competidores" que comparten dirección, dueños o representante legal (cruce RUES) |
+| Fraccionamiento | Muchos contratos del mismo objeto y proveedor, justo por debajo del umbral que obliga a licitar |
+| Sobreprecio | Precio unitario muy por encima del acuerdo marco o del histórico de la región |
+| Discrepancia físico-financiera | Avance real de la obra (fotos, interventoría) muy por debajo del porcentaje ya desembolsado |
+| Concentración | Una empresa, o un grupo de socios comunes, acapara una porción anómala del presupuesto de un municipio |
+| Direccionamiento | Pliegos con requisitos hechos a la medida de un proponente |
+| Conflicto de interés | Dueños de contratistas que coinciden con funcionarios o con financiadores de campaña (cruce RUES, nómina y Cuentas Claras) |
+
+### Cómo cose las dos escalas
+
+Aquí está lo que hace a la herramienta el hilo de toda la estrategia. La misma alerta sirve en dos direcciones. Hacia abajo, en lo territorial: una alerta roja sin respuesta congela el siguiente desembolso del nodo y dispara la interventoría del Frente XIII, sin necesidad de esperar a un juez. Hacia arriba, en lo sistémico: si la misma empresa, o los mismos socios, o el mismo patrón aparecen en nueve departamentos, eso deja de ser un caso para convertirse en una red, y ahí entra la Unidad de Macrocorrupción a reconstruir el sistema completo. La herramienta detecta el caso pequeño y, al mismo tiempo, revela el patrón grande del que ese caso era apenas un nodo.
+
+### El mismo motor, otros dominios del gasto
+
+Conviene ver la herramienta por lo que de verdad es. No es "anticorrupción de contratos", es detección de anomalías sobre los flujos de dinero y datos del Estado. La contratación de obra es solo el primer dominio donde se aplica, porque ahí el patrón es más claro. Pero el mismo motor sirve en cualquier parte donde el Estado mueve plata o presta un servicio dejando datos. Es, en rigor, una **plataforma de integridad del gasto público** con un motor común y módulos por sector.
+
+| Dominio | La señal análoga que detecta | Dónde vive |
+|---|---|---|
+| Contratación de obra | Empresa fantasma, sobreprecio, fraccionamiento, obra desembolsada y no construida | Módulo 1 (este frente) |
+| Salud | Facturación de procedimientos no realizados, recobros por encima del precio de referencia, pacientes fantasma o fallecidos que siguen "atendidos" | Frente VI |
+| Subsidios y transferencias | Beneficiarios duplicados, fallecidos que cobran, ingresos que no cuadran con el subsidio recibido | Frente XI y programas sociales |
+| Nómina pública | Muertos de nómina, una misma persona en dos cargos incompatibles | Frente VIII |
+| PAE y compras de bienes | Proveedores y precios anómalos, entregas reales por debajo de lo facturado | Frentes VII y XIII |
+
+La regla que evita el desastre: **se trata del mismo motor con reglas distintas por dominio, no de la misma herramienta repetida.** La infraestructura (integrar datos, comparar contra un patrón normal, marcar lo anómalo, publicarlo) se reutiliza, y ahí está el ahorro: construir el motor una vez y aplicarlo a cinco sectores rinde mucho más que cinco sistemas sueltos. Pero las reglas de detección las diseña quien conoce cada sector, porque lo anómalo en una obra no es lo anómalo en una factura médica, y un cruce mal calibrado produce miles de falsos positivos.
+
+Y el orden de despliegue lo manda el dato, no el dolor: se empieza por los dominios donde la información ya existe y tiene calidad, no por donde más duele el robo. Salud, por ejemplo, exige que la facturación electrónica del sector esté ordenada antes de que el módulo sirva de algo.
+
+Salud merece una salvedad de fondo, porque sus datos son clínicos y personales, los más sensibles que existen. En contratación, cruzar quién le ganó qué a quién es información que debería ser pública. En salud, cruzar la facturación de un paciente roza su historia clínica, donde el habeas data y la reserva médica no son un trámite sino un derecho. La diferencia entre cazar al cartel de los recobros y vigilar al enfermo está en el diseño: trabajar sobre datos agregados y de facturación, no sobre diagnósticos individuales; anonimizar donde se pueda; y mantener al operador independiente y auditable. El mismo cuidado de los límites de abajo, subido de nivel porque el dato es más íntimo.
+
+![Diagrama de la plataforma de integridad: los módulos por dominio (contratación, salud, subsidios, nómina, PAE) alimentan un motor común de detección, que produce alertas con dos salidas, la territorial que congela el desembolso y la nacional que alimenta la Unidad de Macrocorrupción.](img/herramienta-integridad.png)
+
+### Quién la maneja, para que no se vuelva un arma política
+
+Una plataforma que cruza los datos de todos es poderosa y, por eso mismo, peligrosa. El blindaje es parte del diseño, no un añadido: la opera un ente independiente del que ejecuta el gasto (Contraloría y veeduría, como define la sección de la Plataforma de Trazabilidad), sus datos son abiertos y descargables para que cualquier periodista o ciudadano corra sus propias consultas, las alertas son públicas, y las reglas de detección son auditables, para que nadie las afloje a conveniencia ni las afile contra un opositor. Se construye sobre lo que ya existe (SECOP, UIAF y Cuentas Claras ya son estatales o públicos), así que es sobre todo un trabajo de interoperabilidad (Frente VIII) por decreto y reglamento, no una ley nueva. El uso de datos personales se sujeta al habeas data (Ley 1581 de 2012).
+
+### Límites y qué NO puede hacer
+
+Esta es la parte que un vendedor de humo omite y que aquí se dice de frente:
+
+- **No prueba la corrupción, la señala.** Una alerta es una hipótesis, no una condena. La verifica un humano (auditor, fiscal) con debido proceso. Habrá falsos positivos, y tratarlos como culpa sería injusto y además ilegal.
+- **No reemplaza al juez ni a la Fiscalía.** Detecta; la sanción sigue su curso con garantías. Por eso el efecto inmediato se ata a una palanca administrativa que el programa sí controla (congelar el desembolso), no a un castigo automático.
+- **Vale lo que valgan los datos de entrada.** Si SECOP está mal diligenciado, si los contratos se suben como PDF escaneado, si un municipio no reporta, la herramienta ve menos. Mejorar la calidad y la obligatoriedad del dato importa como precondición, no como simple detalle técnico.
+- **No ve la corrupción que no deja rastro en el gasto formal.** Sobornos en efectivo, tráfico de influencias sin contrato, o la captura "legal" (una norma hecha a la medida de alguien) se le escapan. Para eso hacen falta otras herramientas.
+- **Se puede burlar si las reglas son fijas y conocidas.** Quien las conoce puede diseñar el fraude para no dispararlas (un contrato apenas distinto, un precio apenas bajo el umbral). Por eso las reglas tienen que evolucionar y combinarse con análisis humano; una regla congelada se evade.
+- **No perfila personas.** No genera puntajes de riesgo sobre individuos ni vigila gente, se enfoca en transacciones y patrones de gasto. Esa frontera es deliberada: la diferencia entre una herramienta de transparencia y una de vigilancia.
+
+> En una frase: la herramienta no atrapa al corrupto sola, le quita el escondite. Hoy la corrupción se esconde en la dispersión, en que ninguna base habla con la otra y nadie compara. Cuando cada peso es rastreable y comparable en público, robar deja de ser fácil e invisible y pasa a ser arriesgado y visible. Ese cambio en el cálculo, más que cualquier captura espectacular, es la meta.
+
+## El papel de la denuncia ciudadana: el sensor que ve donde el dato no llega
+
+La detección por dato tiene un punto ciego inevitable, ya nombrado en los límites: solo ve lo que está digitalizado. El municipio que no reporta, el contrato subido como PDF escaneado, el gasto en efectivo, la zona donde no llega ni el dato ni el Estado, todo eso escapa a la plataforma. Y esos huecos no son aleatorios, coinciden con los lugares de mayor riesgo, porque la ausencia de dato es muchas veces el escondite. Ahí la denuncia ciudadana deja de ser un complemento y se vuelve indispensable: es el sensor humano que llega adonde el dato no llega, el vecino que ve la obra que no se hizo, el empleado que sabe del sobreprecio.
+
+Colombia ya tiene canales (la línea 122 y Denuncia Fácil de la Fiscalía, el portal PACO de la Presidencia, personerías y contralorías locales, veedurías ciudadanas). El problema no está en que falten, sino en que llegan dispersos, desconectados entre sí y de los datos, y con protección al denunciante débil. El plan no crea un canal nuevo, unifica los que existen y los conecta a la plataforma como uno de sus flujos de entrada.
+
+La conexión con los datos sirve para priorizar, nunca para descartar, y esa distinción es todo:
+
+- La denuncia que coincide con una anomalía que la plataforma ya veía se escala de inmediato, porque el dato la respalda.
+- La denuncia que no encuentra nada en los datos no se descarta. Se trata como doble alerta: sobre el hecho denunciado y sobre el punto ciego que reveló, y va a investigación humana tradicional. Que los datos no muestren nada puede significar que no hay nada o que ahí no hay datos, y el sistema solo no distingue cuál, así que el silencio del dato nunca es prueba de inocencia.
+- Lo que el sistema no sabe clasificar pasa por una compuerta humana, precisamente porque lo que no encaja en las categorías de la máquina es lo que más puede tocar lo que ella no ve. El triaje nunca es del todo automático, o los puntos ciegos de la máquina se vuelven ley.
+
+Dos salvaguardas cierran el diseño. La queja por mal servicio o mala atención se enruta al sistema de peticiones y quejas, no al embudo anticorrupción, para no ahogarlo con lo que no es corrupción. Y al denunciante de buena fe se le protege aunque se equivoque: la sanción por denuncia falsa se reserva para la mala fe demostrable, la calumnia deliberada, no el error honesto, porque el mismo garrote que asusta al calumniador silencia al que se atreve a denunciar al poderoso.
+
+## La otra batalla: la percepción de corrupción y la confianza pública
+
+Combatir la corrupción y combatir la percepción de corrupción son dos batallas distintas, y un gobierno puede ganar la primera y perder la segunda. La corrupción real se ataca con detección, pruebas y sanción, y de eso trata el resto de este frente. La percepción es otra cosa: es un problema de confianza, no de información, y por eso no se cura con más datos. Se puede tener el gasto más transparente del mundo y aun así una parte del país seguirá convencida de que el gobierno roba, porque esa convicción no se construyó con datos y no se derriba con datos.
+
+Ignorar esa diferencia sale caro. Un Estado honesto pero percibido como corrupto pierde la legitimidad que necesita para gobernar, y le abre la puerta a quien prometa mano dura contra una corrupción que, real o no, la gente ya da por cierta. La confianza pública es parte de la lucha anticorrupción, no un adorno suyo.
+
+El plan reconoce, además, un límite incómodo: en un país polarizado, una porción de la percepción de corrupción es en realidad polarización disfrazada. Una parte del país percibirá corrupto al gobierno haga lo que haga, solo por ser del bando contrario, igual que percibirá honesto al suyo pase lo que pase. Esa porción no se recupera con transparencia ni con gestos, porque no depende de la conducta del gobierno sino de la tribu de quien mira. Prometer recuperar la confianza de todos sería deshonesto. La meta realista es merecer la confianza con hechos y ganarse a los que todavía juzgan por lo que ven y no por el carnet.
+
+Con esa honestidad de base, el plan trabaja la confianza pública con cuatro palancas, distintas de la detección técnica:
+
+- **La verificabilidad, para que la sospecha se resuelva mirando.** La plataforma de trazabilidad y los datos abiertos no solo detectan el robo, permiten que cualquiera compruebe. Eso no convence al que ya decidió, pero le quita el terreno a la sospecha de buena fe: cambia "yo creo que robaron" por "míralo tú mismo". La desconfianza infundada crece en el vacío de información, y este lo llena.
+- **La simetría demostrada, contra el castigo por bando.** La percepción más tóxica no es "hay corruptos", es "solo persiguen a los del otro lado". El plan la combate haciendo visible que la sanción cae por los hechos y no por el color político: se publica que las alertas y los procesos alcanzan a propios y ajenos en proporción a la evidencia, y el primer gesto de un gobierno honesto es investigar a uno de los suyos con la misma dureza con que investigaría a un rival. Un solo aliado procesado con todas las garantías comunica más integridad que mil tableros de datos.
+- **Los gestos visibles, porque la gente no juzga por indicadores.** La percepción se mueve con señales concretas y humanas: austeridad real y visible en quien gobierna, un poderoso que por fin responde, decisiones que se sienten como justicia. El plan trata esos gestos como parte de la política anticorrupción y no como cosmética, porque comunican lo que ninguna cifra comunica.
+- **La comunicación honesta, no la propaganda.** Un gobierno mudo, o que se declara impoluto, pierde la batalla del relato frente a cualquier demagogo con buena historia. El plan asume que explicar en lenguaje humano lo que se hace, y sobre todo admitir los errores en público, construye más confianza que fingir perfección. La gente confía más en el que reconoce una falla que en el que jura no tener ninguna. Es la misma lógica con que este documento lleva una bitácora de sus propios errores: la honestidad sobre lo que salió mal es lo que vuelve creíble lo que salió bien.
+
+### Cómo se aterriza: dos compromisos verificables
+
+Las palancas anteriores son principios. Para que no se queden en buenas intenciones, dos se convierten en mecanismos concretos, y son los dos que atacan la percepción más dañina, la de que la justicia persigue por bando y no por hechos.
+
+**Reporte público del criterio, no del resultado.** El ente independiente que opera la plataforma (Contraloría y veeduría) publica de forma periódica no un conteo crudo de "cuántos casos de cada partido", que invitaría a leer sesgo donde hay hechos, sino la evidencia de que el criterio de selección fue ciego al color político. Es decir, publica los umbrales y las reglas de alerta, que son los mismos para todos, y la prueba de que ningún caso que cruzó el umbral se archivó por conveniencia y ninguno se abrió sin cruzarlo. La salud del sistema no se mide por si los números salen parejos, se mide por si la regla fue una sola y se aplicó sin excepción. Y vigila con especial celo la señal más reveladora de captura: no que un partido tenga más casos, sino que el partido en el poder tenga sistemáticamente menos de lo esperado. La vara más dura se aplica hacia adentro.
+
+El límite honesto de este mecanismo hay que decirlo, porque es el corazón del asunto. Un criterio ciego puede producir un resultado asimétrico si un partido de verdad comete más corrupción, y esa asimetría, blindada por un proceso demostrablemente imparcial, es información sobre la realidad y no sesgo. Buscar que el reporte salga parejo sería lo contrario de la justicia: sería perseguir por cuotas, proteger al más corrupto o inventarle casos al menos corrupto para cuadrar la foto. La paridad forzada es tan injusta como el sesgo, solo que disfrazada de equilibrio. Por eso el mecanismo promete criterio uniforme y auditable, no simetría de resultados. Y aun así, el partido más señalado alegará persecución, porque le conviene y porque a sus seguidores la pertenencia les pesa más que cualquier auditoría. El reporte convence al que mira de buena fe y desarma al acusador honesto; no silencia al que necesita sentirse perseguido, y no está diseñado para él, sino para todos los demás.
+
+**Compromiso de primer caso propio.** Un gobierno demuestra imparcialidad cuando es severo con los suyos, más que cuando castiga al rival, que es lo que de él se espera. El compromiso, explícito y desde el arranque, es que la vara más dura se aplique hacia adentro y que las primeras actuaciones anticorrupción visibles alcancen a aliados o a miembros del propio gobierno con las mismas garantías y la misma firmeza con que alcanzarían a un opositor. Se verifica con hechos, no con discursos: o los primeros casos tocan a los propios, o el compromiso quedó en retórica, y el reporte de criterio de arriba lo deja en evidencia. Su límite también es honesto: es un gesto fundacional, no una prueba permanente, y se puede simular sacrificando a un aliado menor. Por eso no vive solo, se sostiene sobre el reporte de criterio ciego, que vigila la impunidad de los propios más allá del gesto inicial. Un solo aliado procesado con todas las garantías comunica, eso sí, más integridad que cualquier campaña.
+
+Ninguna de estas palancas 
+
+---
+
+
+# Frente V: Sostenibilidad Fiscal
+
+**Meta:** déficit ≤4% PIB en Año 4; deuda estabilizada; recuperar grado de inversión al final del período. *(La senda intermedia y los dos escenarios se desarrollan en la sección "Cuadro Fiscal de Dos Escenarios".)*
+
+| Fuente | Medida | Estimación | Plazo | Escenario |
+|---|---|---|---|---|
+| Reducir evasión | Cruce DIAN-PILA-catastro; cobro corto; DIAN técnica e independiente. **Unidad de recaudo con pago por desempeño:** equipos de cobro de la DIAN reciben un incentivo atado al recaudo *adicional verificado sobre la línea base histórica*. La evidencia de campo (Punjab, Pakistán) muestra que este esquema elevó la recaudación cerca de un 46% en dos años, y que la ganancia vino de tasar correctamente lo subvaluado, no de sobre-tasar. *Advertencia de validez externa, con el mismo estándar que este documento aplica a otras analogías (Ruanda en el Frente II): Punjab es una provincia, con un impuesto (predial) y una escala muy distintos a los de una administración tributaria nacional como la DIAN, que grava renta, IVA y patrimonio a la vez, con una base de contribuyentes mucho más compleja y más capacidad ya instalada de evasión sofisticada. Esta es, de las tres palancas del escenario base, la que más se apoya en un solo experimento extranjero extrapolado, y la que el propio documento reconoce como la más incierta de las tres (ver Cuadro Fiscal). El mecanismo (pagar por recaudo adicional verificado, no por recaudo total) es transferible; la magnitud del 46% no lo es sin más evidencia.* **Candado anti-hostigamiento** (coherente con "la carga nunca sobre los de abajo"): el incentivo se anula si suben las quejas verificadas de contribuyentes o si el cobro recae sobre la base pequeña; aplica solo a grandes evasores y patrimonios subdeclarados | +$10-15B/año | Años 1-3 | **Base** (no requiere reforma) |
+| Eficiencia del gasto | Nóminas infladas; subsidios regresivos (FEPC); lo recuperado por anticorrupción al fisco | −$10-15B/año | Años 1-2 | **Base** |
+| Credibilidad | Recuperar ancla fiscal baja la prima de riesgo (1 de cada 3 pesos se va en intereses) | −$5-8B/año en intereses | Año 1 | **Base** |
+| Ingresos progresivos | Cerrar exenciones a patrimonios altos; gravar dividendos y grandes patrimonios (>$5.000M); NO más carga a la pyme | +$15-20B/año | Años 1-2 | **Ampliado** (requiere Congreso) |
+| Crecimiento | La agenda productiva entera recauda sin subir tasas | +recaudo estructural | Años 3-8 | Ambos |
+
+> Los años 1-2 son de ordenar la casa, no de repartir. El piso social (adulto mayor, primera infancia, vulnerable) queda fuera del ajuste. **El núcleo del programa cabe en el escenario base; la reforma tributaria acelera, no habilita.**
+
+
+---
+
+
+# Frente VI: Salud
+
+**Metas:** liquidar deuda ~$33B en 4 años; giro 100% automático en Año 2; gasto de bolsillo de ~14% a ≤10%.
+
+| Paso | Medida | Responsable | Plazo |
+|---|---|---|---|
+| Estabilizar | UPC ajustada a costo actuarial real; giro ordenado con plan de pago de deuda; frenar cierre de servicios | Min. Salud + Supersalud | Año 1 |
+| Caja de vidrio | Giro directo automático; trazabilidad con datos abiertos; separación pagador/prestador/auditor; pago contra prestación verificada | Min. Salud + pagadora | Años 1-2 |
+| Prestación plural | Hospitales públicos y privados bajo auditoría; ningún monopolio; reemplazable si falla | Supersalud | Permanente |
+| Soberanía sanitaria | Producción nacional de medicamentos esenciales, genéricos y APIs; meta 30% compra pública a producción nacional en Año 4 | Min. Salud + Min. Comercio + Invima | Años 2-4 |
+| Castigo inescapable | Cruce automático de datos; proceso máx. 12 meses; recuperación de activos | Fiscalía + Supersalud | Año 1 |
+
+Más que una capacidad nueva e independiente, el "castigo inescapable" es el **módulo de salud de la plataforma de integridad del gasto** (ver Frente IV). El mismo motor que detecta el sobreprecio en una obra detecta aquí la facturación de procedimientos que no ocurrieron, el recobro por encima del precio de referencia y el paciente fantasma, cruzando la facturación contra PILA, el registro de defunciones y los precios de referencia de medicamentos. Con una diferencia que no es negociable: como el dato de salud es clínico y personal, el módulo trabaja sobre información agregada y de facturación, no sobre diagnósticos individuales, se anonimiza donde se puede, y respeta el habeas data y la reserva médica (Ley 1581 de 2012). La frontera entre perseguir al cartel de los recobros y vigilar al paciente está justo en ese diseño.
+
 
 ---
 
@@ -899,6 +1241,96 @@ Los Equipos de Ejecución y el semáforo público son la mitad del aparato de se
 ---
 
 
+# Frente IX: Infraestructura Estratégica
+
+**Principio:** El déficit real de Colombia está en los proyectos terminados y activados, no en los anunciados. El mayor retorno está en activar lo que el país ya pagó, no en anunciar obras nuevas.
+
+## 9.1 Prioridades por impacto/costo
+
+| Prioridad | Proyecto | Impacto | Costo fiscal | Plazo |
+|---|---|---|---|---|
+| #1 | Dragado de Buenaventura (canal 12.5m → 14-15m) | Recupera carga perdida a Ecuador; activa 63% de capacidad sin usar | ~$500-800 mil M | 12 meses |
+| #2 | APP Río Magdalena + Canal del Dique (desbloquear lo adjudicado) | −50.4% costos logísticos Bogotá-Caribe; 80% del PIB en la cuenca | APP privado, sin presupuesto nuevo | 18-24 meses |
+| #3 | Ferrocarril La Dorada-Chiriguaná + Tren del Caribe ($7B, listo para licitar) | Multimodal completo; 13.7M ton/año; 4.5M habitantes | $7B (Tren Caribe); La Dorada ya adjudicado | Licitar Año 1-2 |
+| #4 | Red de transmisión eléctrica para renovables | −20-30% tarifas industriales; habilita nodos agroindustriales | Cargo a tarifa regulada; sin presupuesto | 12-18 meses |
+| #5 | Completar 4G + destrabar 6 proyectos 5G en construcción | 30% reducción tiempos; 20% costos operativos | Contratos ya firmados; solo supervisión | Inmediato |
+
+## 9.2 Puertos: qué hacer y qué no
+
+| Puerto | Acción | Justificación |
+|---|---|---|
+| Buenaventura | Dragado canal + vía de acceso Buga-Buenaventura | Mayor ROI del portafolio. Inversión sobre activo ya construido. |
+| Barranquilla | Dragado Bocas de Cenizas + hub multimodal del Tren del Caribe | Convergen río + ferrocarril + tren costero. Inversión en ejecución ($116B 2026). |
+| Urabá (Puerto Antioquia + 4) | Acompañar con vías y seguridad, no construir | El privado ya invirtió. El Estado provee bienes complementarios, no duplica. |
+| Tribugá | Estudios de factibilidad + consulta previa + seguridad. No anunciar como meta del gobierno | Sin vía, sin seguridad, sin consulta: el anuncio perfecto para no ejecutar. Proyecto del horizonte de 15-20 años. |
+
+
+---
+
+
+# Frente X: Industria Avanzada y Capacidad Tecnológica
+
+En lugar de un frente paralelo a los demás, es la capa de valor agregado que el programa ya construye. La tecnología avanzada es el siguiente eslabón de cadenas que los frentes anteriores activan.
+
+## 10.1 Lo que Colombia ya tiene y no escala
+
+| Activo | Capacidad real | Lo que falta |
+|---|---|---|
+| COTECMAR (Cartagena) | Astillero público; diseño naval propio; ingresos USD 108M; exportó patrulleras a Honduras y lanchas a Brasil | Estrategia de exportación regional deliberada |
+| CIAC (aeronáutica) | Certificación FAA y Airbus D&S; repara C-130; construye drones y aviones de entrenamiento | Política comercial de hub MRO regional |
+| Industria farmacéutica | 3er mercado de AL; produce 80% de las unidades del sistema; 34.3% de solicitudes de patentes son farma + biotech | Integración vertical: 80% de APIs se importan. La cadena está rota en el eslabón más valioso |
+| Indumil | Armamento, explosivos, municiones; pistola Córdova 9mm | Transferencia tecnológica en cada compra de defensa |
+| Ecosistema biotech Bogotá | U. Andes, IDCBIS, DreamBio, CellRep; alianza Harvard Data Science | El sistema de salud como primer cliente cautivo |
+
+## 10.2 Las cinco apuestas con ventaja comparativa real
+
+**A. Industria naval y de defensa fluvial.** 17.000 km de ríos navegables y la experiencia operativa más profunda del hemisferio en guerra fluvial de baja intensidad. COTECMAR ya exporta. *Modelo Embraer (Brasil): las FF.AA. como cliente exigente producen tecnología que después se exporta.*
+
+| Medida | Concreción | Responsable | Plazo |
+|---|---|---|---|
+| Exportación naval regional | Identificar 10 países con necesidades de patrullaje fluvial; misión comercial Min. Defensa + ProColombia; COTECMAR como proveedor oficial | Min. Defensa + Min. Comercio | Año 1 |
+| Hub MRO aeronáutico | Zona franca de mantenimiento en Bogotá o Medellín; aprovechar certificación FAA | Min. Comercio + CIAC + ProColombia | Años 1-2 |
+| Transferencia tecnológica en defensa | 20% offset mínimo; 10 ingenieros formados por contrato; manufactura local progresiva | Min. Defensa | Año 1 |
+
+**B. APIs farmacéuticos.** Colombia produce 80% de las unidades pero importa 80% de los ingredientes. El cierre lo da el poder de compra del pagador único de salud como primer cliente cautivo.
+
+| Medida | Concreción | Responsable | Plazo |
+|---|---|---|---|
+| Meta de APIs nacionales | 20% de APIs del sistema de producción nacional al final del período; 40% en 8 años | Min. Salud + Min. Comercio | Año 2 |
+| Transferencia para síntesis | Acuerdos con India y Corea del Sur para instalar plantas con operación nacional progresiva | Min. Comercio + Invima | Años 1-3 |
+| Pagador único como primer cliente | Preferencia por APIs nacionales cuando el precio está dentro del 15% | Min. Salud | Año 2 |
+
+**C. Antidrones.** En 2025 hubo 277 ataques con drones cargados de explosivos. Ningún proveedor externo tiene la calibración operativa de Colombia.
+
+| Medida | Concreción | Responsable | Plazo |
+|---|---|---|---|
+| Programa nacional antidron | $1B Fase 1 aprobado: 40% a CIAC + privados colombianos certificados; 60% compra externa con transferencia obligatoria | Min. Defensa + CIAC | Año 1 |
+| Mercado regional | Patentar soluciones; ProColombia abre mercado con Ecuador, Perú, México, Brasil | Min. Defensa + ProColombia | Años 2-4 |
+
+**D. Procesamiento de níquel.** Colombia exporta el mineral crudo (Cerro Matoso). El valor está en cátodos para baterías de VE, la cadena que Corea y Japón diversifican fuera de China.
+
+| Medida | Concreción | Responsable | Plazo |
+|---|---|---|---|
+| "No exportar recurso crudo" | Renegociar Cerro Matoso con cláusula de procesamiento nacional progresivo | Min. Minas + Min. Comercio | Años 1-3 |
+| Transferencia tecnológica | Acercamiento con POSCO (Corea) y Sumitomo (Japón) para plantas con empleo local en Córdoba | Min. Comercio + Cancillería | Años 1-2 |
+
+**E. Bioeconomía: con expectativas correctas.** La biodiversidad es información, pero transformarla requiere capacidad de innovación. Lo factible en un período: concentrar los recursos de Minciencias en dos o tres clústeres con masa crítica real (medicina regenerativa: U. Andes + IDCBIS + DreamBio + CellRep) y conectarlos al Estado como primer cliente.
+
+## 10.3 El mecanismo que convierte la intención en sistema
+
+- **Compras públicas estratégicas como primer cliente:** salud compra APIs nacionales, Defensa compra antidrones colombianos, la FAC usa MRO nacional. Sin gasto adicional, redirige compras existentes.
+- **Transferencia tecnológica obligatoria** en todo contrato de importación de tecnología estratégica.
+- **Concentración de recursos escasos:** dos o tres clústeres con ventaja real, no financiar todo un poco. Esa valentía distingue una política industrial de un catálogo.
+- **Disciplina por desempeño externo (el principio que separa a Corea de la sustitución de importaciones fallida).** La nueva economía de la política industrial (Juhász, Lane y Rodrik, 2024) muestra que la política industrial funciona cuando el apoyo es *condicional, temporal y atado a una métrica externa difícil de falsificar*, y fracasa cuando es permanente, multiplica objetivos y se captura. El empuje coreano de industria pesada funcionó porque ató el apoyo a **exportaciones**: una métrica que un comprador extranjero debe pagar. Por eso, el escalamiento del apoyo a COTECMAR, los APIs y los antidrones se condiciona a **ingreso por exportación verificado por terceros** (o, en su defecto, a productividad medida por un evaluador independiente), no a producción ni a empleo, que son falsificables. El apoyo tiene cláusula de reversión y vencimiento: quien no alcanza el umbral de exportación pierde el beneficio. La compra pública doméstica es la rampa de entrada; la exportación es la prueba de que la apuesta funciona.
+
+## La plataforma de trazabilidad: un ejemplo de "primer cliente"
+
+La plataforma de trazabilidad del gasto (el "Sistema Nervioso" del Estado) es una capacidad tecnológica nacional que el Frente X impulsa, y de la que el propio Estado es el primer cliente: un caso de "cómprate lo que predicas". Pero su descripción no vive aquí, porque no es política industrial sino infraestructura del Estado entero, transversal a la anticorrupción, la salud, la seguridad y los nodos. Se detalla en su sección propia, [Plataforma de Trazabilidad del Gasto Público](../transversal/plataforma-trazabilidad.md), y su aplicación anticorrupción, en el Frente IV.
+
+
+---
+
+
 # Frente XI: Piso Universal de Servicios Básicos
 
 **QUÉ:** que todo colombiano tenga acceso real, no nominal, a agua potable, saneamiento y conectividad. En los nodos, en 4 años.
@@ -960,6 +1392,141 @@ La ESEPGUA en La Guajira: de 1% a 30% de cobertura rural en Uribia en un año; m
 - **Cobertura universal de agua en 4 años:** la brecha es de $126 billones (MinVivienda), requiere 20-30 años. Sí promete completar los municipios prioritarios listados.
 - **Soluciones idénticas para todos:** la tecnología se adapta al territorio.
 - **Que la operación sea gratis:** la tarifa regulada accesible, con subsidio cruzado y cofinanciación 3 años, es parte del diseño. Sin tarifa, la planta cierra.
+
+
+---
+
+
+# Frente XII: Ciudades, Turismo y Productividad Urbana
+
+El 80% de la población vive en ciudades y las ciudades generan el recaudo que financia todo lo demás. El programa concentra la *inversión productiva nueva* en los nodos periféricos, pero no descuida a las ciudades. Este frente hace explícito lo que el programa ya les da (ver también el Piso Universal, 3.5), agrega las intervenciones urbanas de bajo costo y alto impacto, e integra el turismo como industria que conecta los destinos urbanos con los nodos.
+
+> En 2025 el turismo generó $11.166 millones de dólares en divisas, superando por primera vez al carbón y al café juntos. El problema es de distribución, no de volumen: el 92% de las reservas se concentra en Bogotá, Medellín y Cartagena.
+
+## 12.1 Lo que el programa ya da a las ciudades
+
+| Frente | Beneficio directo para las ciudades |
+|---|---|
+| V (Fiscal) | Recuperar el grado de inversión baja la prima de riesgo y las tasas de crédito urbanas. Con 1 de cada 3 pesos del presupuesto en intereses, bajar ese costo es el mayor "subsidio" posible a la economía urbana. |
+| VIII (Estado) | La ADP y la digitalización reducen tiempos de contratación, apertura de empresas y resolución de disputas. |
+| IX (Infraestructura) | Las 4G/5G, el dragado de Buenaventura y la red de transmisión reducen costos logísticos e industriales urbanos. |
+| X (Industria avanzada) | El hub MRO, los APIs y la industria antidron son empleos de alta calificación en Bogotá, Medellín y Cartagena. |
+| XIV (Servicio Nacional de Vida) | Los jóvenes urbanos salen con certificación técnica y red que cruza regiones, el capital humano de la siguiente generación. |
+| IV (Anticorrupción) | Menos corrupción en contratación reduce el costo de hacer negocios con el Estado para cualquier empresa urbana. |
+
+## 12.2 Las tres intervenciones urbanas que faltan
+
+**A. Interoperabilidad del transporte masivo.** Ninguno de los sistemas (TransMilenio, Metro de Medellín, MIO, Transmetro, Metrolínea) se comunica con otro. No es ineficiencia, es una decisión de diseño nunca corregida.
+
+| Medida | Concreción | Costo | Plazo |
+|---|---|---|---|
+| Tarjeta nacional interoperable | Un solo medio de pago válido en todos los sistemas; el backend distribuye ingresos | ~$50-80 mil M; financiable con cargo a los sistemas | Año 1 (estándar), Año 2 (piloto), Año 3 (universal) |
+| Integración tarifaria urbana | Transferencia entre sistemas dentro de 90 min sin segundo tiquete | Impacto fiscal mínimo | Año 1 (ley), Año 2 (impl.) |
+
+**B. Formalización urbana: el modelo de nodos en la periferia urbana.** La informalidad del 54% también está en Ciudad Bolívar, Aguablanca, la periferia de Medellín y los barrios de Barranquilla.
+
+| Medida | Barrios objetivo | Empleo formal adicional | Plazo |
+|---|---|---|---|
+| Zonas de Formalización Urbana (ZFU): ventanilla única + incentivo tributario en barrios de informalidad >70% | Ciudad Bolívar, comunas 1-3 (Medellín), Aguablanca, sur de Barranquilla, Soledad | 50.000-80.000, el mayor impacto urbano directo | Año 1 (decreto), 1-4 (impl.) |
+
+**C. Teletrabajo regulado: dividendo de productividad sin costo.** La congestión de Bogotá cuesta ~$15 billones/año. Tres medidas de costo cero: incentivo tributario del 130% para teletrabajo verificable del 20% de la nómina; estándar técnico de conectividad domiciliaria como condición de las concesiones de espectro; y horarios escalonados en entidades del Estado en ciudades de más de 500.000 habitantes.
+
+## 12.3 Módulo de Productividad Urbana: activar la economía que ya existe
+
+Este módulo responde a una incoherencia del propio plan: el principio rector "activar lo que ya se pagó" se aplicaba solo a la infraestructura (terminar el puerto, dragar el río), no al tejido productivo. Aplicado a las empresas y los trabajadores que ya existen, ese mismo principio dice: **subir la productividad del stock productivo actual rinde más que crear empleo nuevo en la periferia.** Es la pieza que faltaba para que el plan sirva a la *competitividad nacional*, no solo a la justicia territorial.
+
+> **Por qué es necesario (diagnóstico 2025-2026):** Colombia logró el desempleo más bajo del siglo mientras la productividad por trabajador *cayó* ~3,1% (2022-2025) y la PTF apenas creció ~0,9%. El empleo crece en servicios de baja productividad; la transformación estructural se redujo a la mitad en una década. El país demuestra que crear empleo formal y subir la productividad **no son lo mismo**. Este módulo ataca lo segundo, donde vive el 80% urbano y el grueso de las firmas formales.
+
+**Distinción honesta:** los nodos persiguen seguridad, equidad y control territorial (las dos raíces). Este módulo persigue productividad y competitividad. Son objetivos distintos que viven en lugares distintos; el módulo corre **en paralelo** a los nodos, no los reemplaza.
+
+### A. Recualificación del trabajador en activo
+
+El plan vuelca su capital humano en jóvenes y en el Servicio, y deja desatendido al trabajador adulto urbano ya empleado, cuya productividad es la que cuenta hoy.
+
+| Medida | Concreción | Vía jurídica | Plazo |
+|---|---|---|---|
+| Formación continua con incentivo | Deducción tributaria a la empresa que recualifica a su nómina en competencias verificables (digitales, gestión, técnicas); certificación SENA | Ley ordinaria (incentivo) + reglamento | Año 1-2 |
+| Reconocimiento de aprendizajes previos (RPL) | Certificar por evaluación lo que el trabajador informal ya sabe hacer, sin repetir cursos; convierte experiencia en credencial portable | Decreto + SENA | Año 1 |
+| Reconversión de sectores en transición | Rutas de reentrenamiento para trabajadores de sectores que se contraen (p. ej. transición energética) hacia ocupaciones de mayor productividad | Decreto + SENA + Min. Trabajo | Años 1-4 |
+
+### B. Extensionismo tecnológico y de gestión para pymes: difusión, no invención
+
+La mayor ganancia de productividad no está en inventar, sino en que la firma promedio adopte lo que ya existe. La brecha entre la pyme media y la buena es, casi siempre, de gestión y tecnología disponible.
+
+| Medida | Concreción | Vía jurídica | Plazo |
+|---|---|---|---|
+| Red de extensionismo para pymes (modelo MEP de EE.UU.) | Asesores que entran a la pyme y mejoran procesos, calidad, costos y adopción digital; cofinanciado, con metas de productividad verificadas | Decreto + presupuesto (vía administrativa) | Año 1 (piloto), 2-4 (escala) |
+| Adopción digital básica | Facturación electrónica, inventarios, pagos digitales, presencia en marketplace; "kit digital" subsidiado para microempresa formal | Decreto + Min. TIC | Año 1 |
+| Compras públicas como jalonador de calidad | El Estado premia en sus compras a la pyme que adopta estándares de calidad/productividad verificables (no solo precio) | Reglamento de contratación | Año 2 |
+
+### C. Fin del castigo al crecimiento: el "enano fiscal"
+
+Muchas firmas se quedan pequeñas a propósito para no cruzar los umbrales que disparan costos regulatorios y tributarios. Esa es pérdida de productividad pura: la "mitad faltante" no aparece. Corregirlo es ganancia de reasignación, casi sin gasto.
+
+| Medida | Concreción | Vía jurídica | Plazo |
+|---|---|---|---|
+| Transición suave de obligaciones por tamaño | Que cruzar un umbral de tamaño no dispare costos de golpe: rampa gradual en vez de salto, para que crecer no se castigue | Ley ordinaria (tributaria/laboral) | Años 1-2 |
+| Programa de graduación de firmas | Acompañar a la pequeña formal con potencial para que escale a mediana (crédito, mercados, gestión); meta de tasa de graduación | Decreto + Bancóldex + iNNpulsa | Años 1-4 |
+| Régimen simple ampliado | Simplificar y unificar el cumplimiento para la pyme que crece, reduciendo el costo de ser más grande | Ley ordinaria | Año 2 |
+
+### D. Competencia con dientes y costos de insumos
+
+La productividad sube cuando las firmas compiten y cuando sus insumos cuestan menos. Toca a *toda* firma existente a la vez.
+
+| Medida | Concreción | Vía jurídica | Plazo |
+|---|---|---|---|
+| Autoridad de competencia fortalecida | Más capacidad de la SIC contra carteles y abuso de posición dominante; sanciones disuasivas; abogacía de la competencia en la regulación | Ley ordinaria (refuerzo) + acto administrativo | Años 1-2 |
+| Bajar el costo de insumos transversales | Energía (red de transmisión, Frente IX), logística (multimodal, Frente IX), crédito (ancla fiscal, Frente V), trámite (ventanilla única, Frente VIII): el plan ya los tiene; aquí se orientan explícitamente a la firma existente | Mayormente decreto/ya en curso | Continuo |
+| Protección siempre temporal | Coherente con la disciplina por exportación (Frente X): ningún apoyo a una firma o sector es permanente; vence y se condiciona a desempeño | Reglamento | Continuo |
+
+### E. Doblar la apuesta sobre los clústeres urbanos que ya existen
+
+Bogotá y Medellín ya tienen clústeres de alta productividad y exportables, software, BPO, salud, industrias creativas, servicios profesionales. Fortalecer lo que ya funciona rinde más que fundar lo nuevo. Es "activar lo que ya se pagó" aplicado al talento urbano.
+
+| Medida | Concreción | Vía jurídica | Plazo |
+|---|---|---|---|
+| Servicios transables como apuesta exportadora | Software, BPO/KPO, servicios profesionales y de salud; misiones comerciales de ProColombia; la visa de nómada digital (12.4) como imán de talento | Decreto + ProColombia | Años 1-4 |
+| Profundizar clústeres existentes | Vincular universidad-empresa, capital de riesgo y compra pública alrededor de los clústeres ya formados, en vez de dispersar recursos | Decreto + iNNpulsa + Minciencias | Años 1-4 |
+| Ciudades secundarias como nuevos polos de servicios | Llevar el modelo de clúster de servicios a Bucaramanga, Pereira, Manizales, donde el costo es menor y el talento existe | Decreto + alcaldías | Años 2-4 |
+
+### F. La ciudad que funciona
+
+La congestión y la fricción urbana son un impuesto directo a la productividad de quien ya trabaja. Las palancas ya están en 12.2 (interoperabilidad del transporte, teletrabajo, formalización urbana); este módulo las reconoce explícitamente como política de productividad, no solo de movilidad.
+
+### Métricas de productividad (no solo de empleo)
+
+Para que el módulo no caiga en la trampa nacional de "más empleo, menos productividad", se mide por:
+
+| Indicador | Qué mide | Fuente |
+|---|---|---|
+| Valor agregado por trabajador en firmas atendidas | Productividad laboral real, no headcount | DANE + registros |
+| Tasa de graduación de firmas (micro→pequeña→mediana) | Dinamismo y fin del enano fiscal | Confecámaras + DIAN |
+| Adopción tecnológica/digital en pymes atendidas | Difusión efectiva | Min. TIC + encuesta |
+| Exportaciones de servicios | Competitividad de los clústeres | DANE + Banco de la República |
+
+### Una advertencia honesta
+
+Concentrar esfuerzo en las firmas urbanas que ya existen puede afianzar a los incumbentes y ensanchar la desigualdad, justo lo que el sesgo hacia la periferia busca corregir. Por eso el módulo prioriza la *pyme* y al *trabajador en activo* (no a las grandes), ata todo apoyo a competencia y desempeño, y corre en paralelo a los nodos, no en su lugar. La tensión entre competitividad nacional y justicia territorial es real; el plan la asume con los ojos abiertos en vez de fingir que no existe.
+
+## 12.4 El turismo: estrategia de alto impacto dentro del presupuesto
+
+La estrategia consiste en redirigir lo que ya se gasta y eliminar fricciones, no en gastar más. **El diagnóstico:** $11.166M USD en 2025 (+9,4% sostenido); 92% concentrado en tres destinos saturados; las divisas crecen pero los ingresos de agencias caen 1,5% y el empleo del sector 3,7%, las plataformas externas capturan el valor.
+
+| Instrumento | Concreción | Costo fiscal | Impacto | Plazo |
+|---|---|---|---|---|
+| Visa de nómada digital | 1-2 años para trabajadores remotos extranjeros; 100% digital en 5 días; sin cuota de empleo nacional | ~$5-10B | 50.000 nómadas = $150-400M USD/año en divisas (modelo Costa Rica, Portugal, México) | Decreto Año 1 |
+| Certificación de guías en los nodos (SENA + ProColombia) | Programa bilingüe de 6 meses por nodo (Sinú, selva amazónica del Caquetá, Sierra Nevada del Cesar) | $15-25B (presupuesto SENA existente) | 500-1.000 guías/nodo; descongestiona los tres destinos | Fase 1 |
+| Marcas territoriales de nodos | "Caquetá Salvaje", "Caribe Profundo", "Valles del Cesar", propiedad de cooperativas locales, promovidas por ProColombia | $30-50B (presupuesto ProColombia redirigido) | De 3 a 8-10 destinos con reconocimiento internacional en 4 años | Años 1-4 |
+| Turismo interno que descongestione | Deducción 120% para congresos en ciudades secundarias; 30% de descuento aéreo a destinos de nodos en temporada baja (cargo a aerolíneas) | Mínimo | Distribuye ingresos hacia los nodos; el colombiano como primer turista de los nuevos destinos | Año 1 |
+| Formalización de la cadena turística | Registro obligatorio de plataformas en la DIAN con retención en la fuente; Fondo de competitividad con el 1% de las transacciones de plataformas externas | Cero costo fiscal | Recupera $80-120M USD/año; capitaliza a operadores locales | Ley/Decreto Año 1 |
+
+## 12.5 El turismo como puente entre los nodos y las ciudades
+
+El turista que llega a Bogotá o Medellín es el candidato natural del segundo viaje al Caquetá o al Cesar. La seguridad consolidada habilita el turismo; el turismo genera empleo formal de alta densidad social (el guía certificado tiene contrato, el operador tiene PILA). El empleo formal en turismo de los nodos es indistinguible del de las ciudades: mismo PILA, mismo SENA, misma Ley 2466.
+
+> **Meta de turismo al final del período:** de $11.000M a $17.000-20.000M USD en divisas. No duplicando turistas en los tres destinos actuales, sino distribuyéndolos hacia 8-10 destinos, subiendo el gasto por visitante con el nómada digital y recuperando el valor que capturan las plataformas externas.
+
+*La propuesta de una plataforma nacional de turismo de capital mixto (Colombia Viva) se desarrolla en el **Anexo A**, fuera del núcleo del programa por no ajustarse plenamente al principio rector de "activar lo que ya se pagó".*
 
 
 ---
@@ -1161,6 +1728,205 @@ Este riesgo, además, ya se mide, y el plan no tiene que inventar el instrumento
 
 La respuesta no es la escalera de alertas de arriba (correcta para el desvío de contratos), sino la protección de personas antes que la auditoría de gasto: protección efectiva a candidatos y líderes sociales en el ciclo electoral siguiente al que el nodo llega (con los mecanismos de seguridad del Frente III y no solo la protección de veedores que ya existe en este frente), seguimiento de la Fiscalía a la financiación de la campaña vigente cuando el riesgo fue alto, y honestidad pública sobre el límite: el nodo puede blindar la ejecución del gasto de un gobierno capturado por coacción, pero no puede, por sí solo, deshacer una elección ya ocurrida. Lo que sí puede es asegurar que la siguiente, en ese mismo municipio, ocurra en mejores condiciones, porque para entonces el Estado ya estará presente.
 
+
+---
+
+
+# Frente XIV: Servicio Nacional de Vida: Defensa, Cohesión y Primer Empleo
+
+El servicio militar ha sido históricamente clasista: sirven los pobres que no pueden pagar la libreta ni estudiar (la universidad exime). No ha producido cohesión, ha producido resentimiento de clase en uniforme. Este frente lo rediseña: el Servicio Nacional de Vida es una institución de cohesión social que resuelve simultáneamente defensa territorial, primer empleo juvenil, formación técnica certificada e integración nacional.
+
+> La pregunta no es "¿obligatorio o voluntario?". Es: ¿podemos diseñar una institución tan valiosa que no querer servir sea la excepción? Si el servicio da competencias reales, conecta clases y contribuye a algo que importa, la voluntariedad emerge del valor, y la universalidad garantiza que eso ocurra para todos.
+
+## 14.1 Por qué el modelo actual falla
+
+| Falla | Consecuencia | Lo que corrige el nuevo modelo |
+|---|---|---|
+| Clasismo: sirven los pobres, los ricos evaden | Reproduce la jerarquía social en uniforme | Universalidad real sin exención por clase; modalidades de igual exigencia y estatus |
+| Cero formación con valor de mercado | La libreta es un requisito, no un activo | Cada modalidad produce certificación SENA con valor laboral directo |
+| Mezcla social nula | El joven de Bogotá nunca conoce al del Caquetá | Asignación deliberadamente mixta por origen, clase y etnia |
+| Combate sin preparación ética | Origen histórico de los falsos positivos | 80 horas obligatorias de DIH y ética, con consecuencias para la carrera |
+| Desconexión con el desarrollo | El servicio opera en un mundo paralelo | Las tres modalidades se articulan con los frentes del programa |
+
+## 14.2 Las tres modalidades: igual exigencia, igual estatus, distinto perfil
+
+El servicio dura 12 meses; las tres modalidades tienen igual dedicación, exigencia y credencial.
+
+| Modalidad | Perfil | Formación certificada | Contribución | Destino laboral |
+|---|---|---|---|---|
+| A. Defensa Territorial | Todos, sin excepción de clase. Unidades mixtas | Piloto de drones (CIAC), comunicaciones encriptadas, paramédico de combate, mecánico, inteligencia ambiental. SENA + Min. Defensa | Componente del Estado que llega con la seguridad a los nodos | FFMM, CIAC, seguridad privada, emergencias, industria de defensa |
+| B. Servicio Ambiental y Territorial | Preferencia (no exclusiva) por ciencias naturales, ingeniería, agronomía | Catastro multipropósito (IGAC), purificación de agua (CRA + SENA), reforestación, sistemas solares rurales | Brigadas de catastro Ola 1 y 2; construcción y operación inicial de sistemas de agua; reforestación de cuencas | EOC, IGAC, energía renovable, cooperativas, consultoras ambientales |
+| C. Servicio Comunitario en Salud y Educación | Preferencia (no exclusiva) por vocación de servicio | Auxiliar de enfermería, promotor de salud, educador de primera infancia, instructor deportivo y cultural | Refuerzo de puestos de salud, CDI/HCB, centros de cuidado, programas con jóvenes en riesgo | Hospitales, ICBF, centros de cuidado, educación, deporte y cultura |
+
+## 14.3 La universalidad real: cómo se garantiza (vía jurídica reformulada)
+
+| Regla | Concreción | Vía jurídica |
+|---|---|---|
+| Sin exención por título universitario | Quien estudia hace el servicio en un año académico o verano acumulado; las universidades reorganizan calendarios | **Ley ordinaria modificando la Ley 1861 de 2017**, *no* "obligación constitucional", que exigiría reforma y chocaría con la jurisprudencia de objeción de conciencia |
+| Objeción de conciencia | **Punto jurídicamente delicado (verificado).** La Corte Constitucional sostiene desde 2009 que la objeción de conciencia al servicio militar es un derecho fundamental y una *causal de exención*, cuya regulación exige **ley estatutaria** (no reglamento ni ley ordinaria). El diseño "canalizar a modalidad civil, no eximir" es defendible solo si el servicio alternativo es genuinamente civil y respeta la convicción del objetor: pero choca con la lectura de la Corte como eximente y debe litigarse. No puede presentarse como "compatible" sin esa salvedad | **Ley estatutaria** + confirmación constitucional |
+| Sin exención por capacidad económica | La libreta como producto de pago desaparece; el Estado provee transporte, alimentación, alojamiento y remuneración | Ley |
+| Remuneración digna como primer empleo | Salario mínimo completo + alimentación + alojamiento + equipamiento; PILA e historial laboral desde el Día 1 | Ley + presupuesto |
+| Asignación geográfica cruzada | Mín. 60% de cada unidad de regiones distintas a la del joven; algoritmo de heterogeneidad maximizada | Reglamento |
+| Modalidades equivalentes en estatus | Mismo punto de salida: certificación SENA, historial de servicio, mismos beneficios post-servicio | Reglamento |
+
+## 14.4 Los cuatro mecanismos de diseño
+
+**A. Señal de calidad costosa.** Las 20 empresas más grandes firman un Pacto del Primer Empleo: ≥30% de sus vacantes de entrada a egresados del Servicio con certificación, verificable en PILA, con reporte semestral que Colombia Compra usa en compras públicas (quien no cumple pierde preferencia). El egresado vale más en el mercado; la resistencia de los padres se disuelve cuando el hijo con servicio tiene mejor oferta.
+
+**B. Torneo de modalidades con certificación diferenciada.** Las tres modalidades compiten por los mejores perfiles. La de defensa ofrece especialidades de alto valor (drones, comunicaciones, paramédico) escasas en el sector privado. El algoritmo maximiza la heterogeneidad social dentro de cada unidad: servir en defensa no es señal de clase baja sino de capacidad técnica.
+
+**C. Subsidio inverso regresivo.** Para la familia cuyo hijo es el principal proveedor, el servicio activa un Bono Familiar de Transición por 12 meses. Tabla inversa al ingreso: SISBEN A y B reciben el bono; C y D solo el salario; E solo el salario.
+
+**D. Credencial de Ciudadanía Activa.** Además de la certificación SENA: 5 puntos en concursos de la Alta Dirección Pública, puntaje adicional en becas del Icetex y acceso prioritario al crédito del Banco Agrario. Beneficios atados a la credencial (emitida por el SENA, entidad de carrera autónoma), no al gobierno que la otorgó.
+
+## 14.5 Secuencia de implementación: lanzamiento progresivo
+
+| Fase | Qué se lanza | Meta | Condición para avanzar |
+|---|---|---|---|
+| Transición + Año 1 | Servicio 100% voluntario; 3 modalidades; Pacto con 20 empresas; certificaciones SENA desde el Día 1 | 5.000-10.000 voluntarios | Satisfacción de egresados ≥75%; empleo formal a 6 meses ≥60% |
+| Año 2 | Obligatorio en municipios de nodos activos (Ola 1 + inicio Ola 2). La obligatoriedad empieza donde el servicio ya demostró valor | 30.000-50.000 | Cobertura de cupos ≥80%; cero reclamos de exención por clase |
+| Año 3 | Obligatorio universal, con exenciones médicas y objeción de conciencia canalizada. Sin exención por título | 100.000-150.000/año | Si en el Año 2 hay lista de espera, la obligatoriedad no genera resistencia |
+
+> **Regla anti-coerción:** si en el Año 2 la participación voluntaria supera el 80% de la meta, la universalidad obligatoria entra sin resistencia. Si no, la meta del Año 2 se recorre, pero no se abandona la universalidad: se revisa el valor del servicio, no la ambición.
+
+## 14.6 Lo que produce: el triple resultado
+
+| Resultado | Mecanismo | Indicador | Meta |
+|---|---|---|---|
+| Competencia técnica certificada | Currículo técnico de 400 horas con certificación SENA | % de egresados con empleo formal a 6 meses (DANE) | ≥70% |
+| Red social que cruza clases y regiones | Año compartido con 30 personas de orígenes distintos | Índice de heterogeneidad de la red (encuesta DANE a 2 años) | Reducción medible de la brecha de confianza institucional entre regiones |
+| Contribución verificable a los nodos | Cada unidad tiene un entregable (hectáreas catastradas, agua instalada) | Hectáreas, sistemas de agua, personas atendidas (plataforma de trazabilidad) | 20% de la meta de catastro de Ola 1 y 2 |
+
+## 14.7 DIH y ética: no negociable
+
+80 horas obligatorias de DIH y ética militar (modalidad de defensa) y 40 de derechos fundamentales (ambiental y comunitaria), con peso igual al desempeño técnico. Una calificación deficiente bloquea el ascenso. Toda denuncia de violación de derechos tiene canal expedito (respuesta máx. 10 días) y protección al denunciante. La responsabilidad de mando aplica desde el primer día.
+
+## 14.8 Costo fiscal: con honestidad
+
+| Concepto | Año 1 | Año 2 | Año 3 | Nota |
+|---|---|---|---|---|
+| Jóvenes | 5.000-10.000 | 30.000-50.000 | 100.000-150.000 | Progresivo |
+| Salario + prestaciones | $0.15-0.3 B | $0.9-1.5 B | $3-4.5 B | 1 SMMLV + 30% |
+| Bono Familiar (SISBEN A+B) | $0.05-0.1 B | $0.3-0.5 B | $0.8-1.2 B | ~30% en A+B |
+| Alimentación, alojamiento, equipamiento | $0.1-0.2 B | $0.6-1 B | $2-3 B | Parte aprovecha infraestructura FFMM |
+| **Costo bruto** | **$0.3-0.6 B** | **$1.8-3 B** | **$5.8-8.7 B** | |
+| (−) Valor producido por brigadas (catastro, agua) | n/a | $0.5-0.8 B | $2-3 B | Ahorra contratistas externos |
+| (−) Subsidios familiares desplazados | n/a | $0.3-0.5 B | $1-1.5 B | El servicio reemplaza transferencias no contributivas |
+| **Costo neto presupuesto adicional** | **$0.3-0.6 B** | **$1.0-2.2 B** | **$2.8-5.2 B** | ~0.2-0.4% del PIB en Año 3 |
+
+> **Ajuste de honestidad fiscal:** la versión anterior afirmaba "sin presupuesto adicional neto" apoyándose en la optimización del Estado (dividendo ético). Esta versión reconoce un **costo neto real de ~0.2-0.4% del PIB en el Año 3** y lo ubica en el escenario fiscal: es financiable con los ahorros de eficiencia **si** se materializan, pero el programa no asume que se materializan. Las dos descargas (valor producido por brigadas y subsidios desplazados) son verificables y se mantienen como compensación; la optimización del Estado se trata como margen adicional, no como supuesto que cierra la cuenta.
+
+## 14.9 El servicio como puente con el resto del programa
+
+| Frente | Articulación |
+|---|---|
+| I (Empleo) | Los egresados con certificación son el primer grupo de los incentivos de formalización; el historial cuenta como experiencia en PILA |
+| II (Tierra) | Las brigadas ambientales hacen catastro en los nodos |
+| III (Seguridad) | La modalidad de defensa es la primera reserva profesional y la base de Jóvenes en Paz; convierte el "secar el reclutamiento" en propuesta atractiva |
+| VII (Educación) | La modalidad comunitaria son los auxiliares del SENA dual en los nodos |
+| XI (Agua) | Las brigadas ambientales instalan y operan los primeros meses de los sistemas, resuelve el período de arranque de la EOC |
+| XIII (Ética y cohesión) | La institución de cohesión social más poderosa del frente; el IBET debería medir su efecto a 5 años |
+
+## 14.10 Cómo se cultiva el prestigio del Servicio, sin fabricarlo
+
+El objetivo de largo plazo es que haber servido tenga, con el tiempo, un valor social que se reconozca solo, y que no haberlo hecho se sienta, sin que nadie lo señale, como haberse perdido algo. Ese reconocimiento no se decreta ni se fabrica: una sombra social organizada por el Estado (listas de quién no sirvió, exclusión de beneficios como castigo, campañas que estigmatizan al que no participó) no construye prestigio, sino coerción con otro nombre, y es exactamente el tipo de herramienta que el peor gobierno hereda para señalar a quien le convenga señalar. El plan se abstiene de eso de forma deliberada. Lo que sí hace, porque es legítimo y necesario, es promover con fuerza los ingredientes que, sostenidos durante años, producen ese reconocimiento por sí solos:
+
+- **Red de egresados con vida propia después del Servicio.** Un directorio, encuentros anuales y oportunidades que circulan solo ahí, para que el vínculo creado durante el año no se apague en la graduación. Lo que genera esa sensación de "me perdí de algo" es ver una comunidad activa a la que no se pertenece, más que el recuerdo de una experiencia pasada.
+- **Altavoz a la historia, sin escribirla.** El Estado no narra el testimonio del egresado, financia que se cuente: becas de producción audiovisual, apoyo a documentalistas y periodistas independientes, un archivo público sin filtro editorial del gobierno. Financiar que la historia se cuente no es lo mismo que decidir qué historia se cuenta.
+- **Insignias y credenciales que duran para siempre.** Un distintivo verificable en la plataforma, no solo durante el año de servicio sino para toda la vida civil. El estatus necesita un símbolo visible que se lleve puesto, o la experiencia se vuelve invisible en el día a día.
+- **Preferencia de mercado ganada, no impuesta.** Si empleadores y universidades ven, con datos reales de desempeño post-servicio, que los egresados llegan mejor formados, empiezan a preferirlos por su cuenta. El Estado acelera esto con ferias de empleo específicas y datos públicos de desempeño, pero quien decide preferirlos es el mercado, no el decreto.
+- **Aniversarios recurrentes**, no como acto oficial sino como excusa periódica para que cada cohorte se reencuentre y siga siendo visible.
+
+La regla que separa esto de lo que se descarta: si el mecanismo hace más visible o más fuerte lo bueno que ya existe, se promueve sin culpa. Si depende de nombrar, excluir o presionar a quien no participó, es la línea que no se cruza. El prestigio construido así tarda una generación, no un cuatrienio, y esa lentitud, lejos de ser una falla del diseño, es la prueba de que es honor y no control.
+
+---
+
+
+---
+
+
+# Frente XV: Medio Ambiente, Agua y Uso de los Recursos Naturales
+
+**Metas:** frenar la expansión de la frontera de deforestación en los cuatro departamentos que concentran casi todo el daño; convertir el cuidado del bosque en empleo pagado para las comunidades que viven en él; proteger por presencia y por ley los páramos que surten el agua; separar la minería legal de la ilegal cortándole a esta última el financiamiento; explotar los minerales estratégicos solo con el agua y el consentimiento por delante, y sin fracking; y una transición energética con hoja de ruta fiscal, no con decretos.
+
+| Instrumento | Qué hace | Responsable | Plazo |
+|---|---|---|---|
+| Presencia en el arco de deforestación | Llevar el Estado completo (título, catastro, economía legal, control) a los focos activos, no solo declarar áreas | Nodos + Min. Ambiente + ANT | Años 1-8 |
+| Cumplimiento de la protección del agua | Hacer cumplir la prohibición de minería en páramos y blindar su delimitación | Min. Ambiente + ANLA + autoridades regionales | Permanente |
+| Detección de delito ambiental | Conectar las alertas satelitales del IDEAM a la respuesta en territorio y a la plataforma de trazabilidad, y seguir el dinero de la tala y el oro ilegal | IDEAM + Fiscalía + plataforma | Años 1-4 |
+| Transición con hoja de ruta fiscal | Reinvertir de forma trazable la renta fósil en la nueva matriz y en la diversificación; acelerar renovables destrabando licencia y transmisión | Min. Hacienda + Min. Minas y Energía | Años 1-8 |
+| Transición justa territorial | Llevar primero la diversificación a las regiones que hoy viven del carbón y el petróleo | Min. Comercio + nodos | Años 1-8 |
+| Conservación como empleo | Pagos por servicios ambientales, acuerdos de conservación con pago y cuerpos de guardabosques comunitarios, atados al nodo y al Frente XIV | Min. Ambiente + nodos | Años 1-8 |
+| Minerales estratégicos con consentimiento | Oro y minerales de transición solo fuera de páramos y áreas protegidas, con consulta que puede negar, renta que se queda en parte en el territorio y trazabilidad del mineral | Min. Minas y Energía + ANM + comunidades | Años 2-8 |
+
+## La tesis: la naturaleza se pierde donde el Estado está ausente
+
+Más que un capítulo verde añadido al final, este frente es la tesis del plan aplicada a la naturaleza. Colombia no pierde su bosque por falta de leyes ambientales, tiene muchas. Lo pierde donde el Estado no está. Las cifras lo gritan: casi toda la deforestación de la Amazonía se concentra en cuatro departamentos (Meta, Caquetá, Guaviare y Putumayo), y sus causas no son un misterio. Acaparamiento de tierras, praderización para ganadería extensiva, vías abiertas ilegalmente, grupos armados que ordenan tumbar, y en menor medida minería y cultivos ilícitos. Todo eso es lo que ocurre donde no hay un Estado que titule, registre, vigile y ofrezca economía legal. El bosque cae en el mismo vacío donde caen el campesino despojado y el municipio capturado.
+
+Por eso el instrumento ambiental más potente del plan no está en este frente, está en el modelo de nodos y en la reforma agraria. Titular la tierra y ponerla en el catastro le quita el negocio al acaparador, que muchas veces deforesta para simular posesión y vender. Llevar economía legal, el cacao de Tierralta en vez de la coca o la ganadería que arrasa, le quita la razón económica a tumbar. Llevar el Estado completo a un territorio es, en sí mismo, política ambiental, porque la frontera de deforestación avanza exactamente por donde el Estado se retiró. Conservar exige estar en el territorio, no solo declarar un parque en un mapa.
+
+## El agua primero: los páramos y los ecosistemas estratégicos
+
+Colombia tiene cerca de la mitad de los páramos del mundo, y de ellos bebe la mayor parte del país. El agua, no el petróleo, es el recurso estratégico que define el futuro, y más en un país cuya electricidad depende en cerca de un 70% de embalses vulnerables a las sequías. El principio es simple y no se negocia: el agua está por encima de la renta que se obtiene destruyéndola. La ley ya prohíbe la minería en los páramos, así que el trabajo del plan consiste en hacerla cumplir donde hoy no se cumple, con presencia y con detección, y en blindar la delimitación de los páramos contra la presión constante de quien quiere correr la línea para minar o sembrar, no en legislar de nuevo. Lo mismo vale para los demás ecosistemas que prestan servicios que ningún presupuesto puede reponer: humedales, manglares, y la Amazonía como reguladora de lluvia y sumidero de carbono.
+
+## Deforestación: atacar al que lucra, no al que sobrevive
+
+La regla de oro, la misma de todo el plan, es que la carga nunca cae sobre el más pobre. El colono que tumba media hectárea para sembrar y comer no es el enemigo; el acaparador que arrasa mil para praderizar y vender sí lo es. Criminalizar al colono pobre mientras el gran acaparador y el que le ordena desde un grupo armado quedan libres es injusto e inútil, porque no toca la causa. El plan persigue al que lucra con el daño a escala, el que financia las vías ilegales, el que acapara, el que ordena, y al colono le ofrece la salida que traen la reforma agraria y el nodo: título, economía legal, acuerdos de conservación con pago, no la cárcel. Distinguir al depredador del que sobrevive es la misma disciplina con que el frente fiscal distingue al gran evasor del vendedor informal.
+
+La detección ya existe y funciona: el IDEAM produce alertas tempranas de deforestación por satélite, trimestre a trimestre, con nombre de núcleo y de departamento. El plan no la inventa, la conecta a la respuesta en el territorio y a la plataforma de trazabilidad, para que la alerta satelital no termine en un boletín sino en una acción, y para seguirle el dinero al que financia la tala. Con el límite honesto que ya conocemos de la plataforma: el satélite no ve entre nubes, y hay trimestres con vacíos de imagen, así que la alerta orienta pero no reemplaza los ojos en el territorio.
+
+## Cuidar el bosque como empleo: la conservación que paga
+
+Atacar al que deforesta no basta si al que vive en el bosque no se le ofrece otra forma de ganarse la vida. La conservación no puede ser una orden de no tocar dictada desde Bogotá a gente que necesita comer; tiene que ser una economía. El plan convierte el cuidado del bosque en empleo legal y pagado para las comunidades que ya viven ahí, que son las que mejor lo cuidan cuando tienen con qué.
+
+Los instrumentos existen y no hay que inventarlos, hay que financiarlos y llevarlos al territorio. Pagos por servicios ambientales, es decir, pagarle a la comunidad por mantener el bosque en pie, porque ese bosque le presta al país agua, aire y clima. Acuerdos de conservación con contraprestación, donde la familia se compromete a no expandir la frontera y a cambio recibe ingreso y un proyecto productivo sostenible. Y cuerpos de guardabosques y monitores ambientales comunitarios, empleo directo para vigilar, restaurar y reportar, con la gente del lugar en la nómina, no como favor sino como trabajo. Esto se ata al nodo, al Servicio Nacional de Vida del Frente XIV y a los jóvenes sin oportunidades, para quienes cuidar la selva puede ser un primer empleo digno en vez de la única oferta que hoy les llega, que es la de la economía ilegal. El que cuida el bosque tiene que poder vivir de cuidarlo, porque si conservar da hambre y deforestar da plata, gana la deforestación.
+
+## Minería: separar la legal de la ilegal
+
+> El diseño detallado de trazabilidad, verificación de comercializadores y persecución financiera del oro, el coltán y el wolframio ilegal vive en [Desmantelamiento de Economías Ilegales](../transversal/desmantelamiento-economias-ilegales.md), sección 4. Aquí queda el principio ambiental; ahí el mecanismo.
+
+La minería parte en dos y hay que tratar cada mitad distinto. La minería legal, formal y con licencia es una actividad económica legítima, que debe cumplir estándares ambientales y pagar lo que le corresponde. La minería ilegal, sobre todo el oro con mercurio que envenena los ríos del Chocó, Antioquia y la Amazonía, es otra cosa: es un desastre ambiental y, a la vez, una de las principales cajas de los grupos armados. Por eso combatirla es tanto política ambiental como de seguridad y de finanzas del crimen, y se ataca por donde más duele, el dinero. La plataforma y la inteligencia financiera le siguen el rastro a la comercialización del oro ilegal, que es su punto débil, en vez de perseguir solo al barequero pobre de la orilla. Al minero pequeño y de subsistencia, formalización y alternativas; a la cadena criminal que lo explota y lava el oro, persecución financiera. La misma lógica de separar al que sobrevive del que lucra.
+
+## Explotar los minerales estratégicos sin repetir la maldición de los recursos
+
+Colombia tiene oro y minerales que el mundo va a demandar cada vez más para su propia transición, como el coltán, el cobre y otros, buena parte de ellos en la Orinoquía y la Amazonía, en territorios de comunidades indígenas y de altísima biodiversidad. Lo que importa no es si se explotan o no en abstracto, sino bajo qué condiciones, porque hacerlo mal repite la vieja maldición de los recursos: el territorio pone el daño y la renta se va, dejando pobreza y ríos envenenados. El plan pone condiciones que no son negociables.
+
+Primero, el agua y las áreas protegidas mandan: nada de gran minería en páramos, en fuentes de agua ni en áreas protegidas, sin importar lo que valga lo que hay debajo. Segundo, consentimiento real de las comunidades: la consulta previa a los pueblos indígenas y a las comunidades es un consentimiento que puede decir que no, no un trámite para cumplir y seguir de largo. Tercero, que la renta se quede en parte donde se extrae: regalías y empleo que mejoren la vida del territorio, no solo de la capital y de la empresa. Cuarto, trazabilidad del mineral de la mina al mercado, porque la misma plataforma que persigue el oro ilegal sirve para certificar el legal, y de paso le cierra el mercado al ilegal. Explotar sí es posible, pero con el agua y el consentimiento por delante, no la renta.
+
+## Transición energética con honestidad fiscal
+
+Aquí el plan se aparta por igual de dos posiciones cómodas. Ni el extractivismo sin límite que niega el problema, ni el ambientalismo de decreto que cierra la llave de un día para otro sin decir con qué se financia el Estado mientras tanto. Los hechos obligan a la honestidad. Colombia aporta apenas cerca del 0,6% de las emisiones globales y tiene una fracción mínima de las reservas mundiales de petróleo y gas, así que si cierra su producción de un tajo, el efecto sobre el clima del planeta es casi nulo, porque otro país vende ese petróleo, y el efecto sobre sus finanzas es enorme, porque cerca de la mitad de las exportaciones y una porción grande del fisco dependen hoy de los fósiles. Al mismo tiempo, la demanda mundial va a la baja en el largo plazo y ya hay déficit de gas proyectado, así que aferrarse al modelo tampoco es un plan, es aplazar el problema.
+
+La posición honesta pasa por cómo se financia el Estado mientras se construye la nueva matriz, no por la disyuntiva simplista de "petróleo sí o petróleo no". Eso exige una hoja de ruta fiscal explícita y no un anuncio: cada peso de renta fósil que todavía entre se reinvierte, de manera trazable, en la transición y en la diversificación productiva que este plan ya propone (industria, agroforestería, turismo, servicios), para que el día en que el fósil valga menos, el país ya tenga de qué vivir. Y se decide sobre nuevos contratos con criterio técnico y no de consigna, diciéndole al país la verdad sobre las reservas y el abastecimiento en lugar de esconderla detrás del eslogan del bando de turno.
+
+## La matriz eléctrica: diversificar, no apostar a una sola fuente
+
+La seguridad energética no depende de encontrar la fuente perfecta, depende de no repetir con la electricidad el mismo error que el país ya reconoce con los fósiles, apostarlo casi todo a una sola cosa. Es la misma autonomía por diversificación que este plan aplica a la política exterior, llevada a la red eléctrica.
+
+La hidroeléctrica sigue siendo la columna vertebral del sistema y no se abandona, pero deja de tratarse como garantía. Cerca del 70% de la generación depende de embalses, y eso es precisamente lo que un fenómeno de El Niño prolongado pone en jaque. La respuesta está en dejar de depender solo de ella, no en sustituirla.
+
+La solar y la eólica son la expansión más rápida y más barata, y Colombia ya sumó capacidad instalada real en ambas. El cuello de botella está en el licenciamiento y la transmisión, no en la falta de sol o de viento, así que ahí se concentra el esfuerzo de destrabe, y no en reinventar la tecnología.
+
+La geotérmica entra con un rol específico: es firme, genera de forma constante sin depender del sol ni de la lluvia, y por eso es el complemento exacto para la vulnerabilidad de los embalses en sequía, justo cuando la solar y la eólica tampoco alcanzan a compensar. El proyecto Nereidas, en el Macizo Volcánico del Ruiz, ya tiene viabilidad ambiental para su etapa exploratoria, bajo un marco que prohíbe la geotermia en páramos y áreas protegidas, con cooperación técnica en curso con Islandia. El plan da continuidad institucional a lo ya iniciado, sin prometer capacidad instalada que la fase exploratoria todavía no confirma.
+
+El hidrógeno tiene dos caras que conviene no confundir. Hoy es, sobre todo, un insumo industrial y de exportación: existe una hoja de ruta nacional respaldada por el BID, una planta de Ecopetrol ya operando en Cartagena y más de dos decenas de proyectos en curso, varios en fase de pruebas, con la meta pública de 1 a 3 gigavatios de capacidad instalada para 2030. Eso es real y el plan le da continuidad. Distinto es el hidrógeno como batería de red, almacenar el excedente de solar y eólica para devolverlo cuando hace falta, que es tecnológicamente posible pero todavía caro y poco maduro en cualquier país del mundo. El plan apoya la investigación hacia ese segundo uso como apuesta de mediano plazo, sin venderlo como solución ya disponible.
+
+Y hay una exclusión categórica, la única del frente, coherente con el principio que lo ordena todo: no al fracking. No como consigna, sino porque el riesgo de la fractura hidráulica recae sobre el recurso que este plan pone por encima de todo, el agua, y ese riesgo es en buena parte irreversible. En un país que es potencia hídrica y cuya mayor riqueza estratégica es el agua, apostar reservas de agua contra un aumento incierto y temporal de gas es un mal negocio, medido con criterio técnico y no ideológico. El gas que Colombia necesita para la transición se busca por vías convencionales y con manejo responsable, no jugándose los acuíferos. Es la misma regla del agua primero, aplicada a la energía.
+
+**Un candado honesto sobre el estado real de esa exclusión.** Hoy el fracking en Colombia no está prohibido por ley: está suspendido por una medida cautelar judicial revisable, sobre el decreto y la resolución que lo habilitan, mientras se resuelve de fondo una demanda de nulidad, y seis proyectos de ley para prohibirlo definitivamente fracasaron en el Congreso a lo largo de varios períodos. Es decir, la exclusión que este plan sostiene no tiene, hoy, ningún blindaje legal firme detrás, solo una suspensión que el siguiente gobierno puede revertir por la vía administrativa sin necesidad de una nueva ley. Por eso el plan no se apoya solo en la declaración de principio: la blinda mientras construye la ley con litigio estratégico apoyado en el derecho al agua y el principio de precaución (el mismo que ya usó la Corte Constitucional para frenar intentos de bajar el rigor ambiental en hidrocarburos), y con licenciamiento exigente que haga angosta la puerta administrativa para cualquier nuevo piloto, incluyendo la consulta previa rigurosa que ya frenó proyectos piloto por su omisión. La ley que cierre la puerta de modo definitivo sigue siendo la meta, pero se construye con coalición y evidencia, no se asume ganada.
+
+Y la transición es justa o no es transición: las regiones que hoy viven del carbón, como La Guajira, y del petróleo no se abandonan a su suerte en nombre del planeta, porque eso sería cargar el costo sobre los más pobres, justo lo que el plan prohíbe. A esas regiones la diversificación llega primero, no después.
+
+## Quién protege a los que protegen
+
+Colombia es uno de los países donde más asesinan a quienes defienden el ambiente y el territorio, muchos de ellos líderes indígenas y campesinos que se paran frente a los armados que quieren tumbar, minar o sembrar en sus tierras. Protegerlos, lejos de ser un gesto simbólico, es reconocer que son la primera línea de la política ambiental, y que cada uno que matan es un pedazo de bosque que queda sin quien lo defienda. La protección efectiva de los líderes ambientales, con los mecanismos de seguridad del Frente III y la presencia estatal del nodo, es parte de este frente tanto como los satélites y las leyes.
+
+## Límites y riesgos honestos
+
+- La dependencia fiscal de los fósiles es real y no se desmonta con voluntarismo. El mayor riesgo del frente es prometer una transición más rápida de lo que el fisco aguanta y terminar importando energía o abriendo un hueco fiscal que acabe pagando el más pobre.
+- La capacidad de hacer cumplir la ley ambiental es limitada. Declarar áreas protegidas sin presencia que de verdad las proteja es papel, y la frontera se las come igual. Es el mismo riesgo de reabsorción que enfrenta el nodo.
+- El monitoreo satelital tiene vacíos, por nubes y falta de imagen, así que la detección orienta pero no lo ve todo, y necesita la denuncia y los ojos en el territorio.
+- La tensión entre conservar y dejar vivir al que habita el bosque es permanente. El frente la resuelve del lado del débil, pero mal aplicada puede volverse persecución al colono pobre o, al revés, permisividad con el gran depredador. Se corri
 
 ---
 
@@ -1455,6 +2221,250 @@ Y la trazabilidad isotópica, aunque real como ciencia, no es una tecnología ma
 
 ---
 
+
+# Cuadro Fiscal de Dos Escenarios
+
+Esta sección es nueva. Responde a la crítica de que el financiamiento descansaba en leyes que el propio programa duda conseguir y en ahorros burocráticos que rara vez se materializan a la escala proyectada. La solución es construir dos escenarios y demostrar que el **núcleo del programa cabe en el escenario base**.
+
+## Punto de partida
+
+Déficit ~6.4-7% del PIB; deuda hacia el 70%; calificación BB; 1 de cada 3 pesos del presupuesto en intereses.
+
+## Escenario base: sin reforma tributaria
+
+Vive solo de lo que el Ejecutivo controla más directamente. Demuestra que el núcleo (los 3 nodos, la maquinaria de ejecución, el piso universal) es viable aun si el Congreso no aprueba la tributaria.
+
+| Palanca | Mecanismo | Estimación anual | Control |
+|---|---|---|---|
+| Reducción de evasión | Cruce DIAN-PILA-catastro; cobro corto; DIAN técnica | +$10-15B | Ejecutivo + administración tributaria |
+| Eficiencia del gasto | Subsidios regresivos (FEPC), nóminas, lo recuperado por anticorrupción | −$10-15B | Ejecutivo |
+| Ahorro de intereses | Recuperar el ancla fiscal baja la prima de riesgo | −$5-8B | Mercado, vía credibilidad |
+| **Espacio fiscal del escenario base** | | **~$25-38B/año** potencial | |
+
+Con este espacio se financian: los 3 nodos de Ola 1, los Equipos Territoriales, el piso universal, el estándar mínimo de calidad y el costo neto del Servicio Nacional de Vida en su fase temprana. **Ningún compromiso duro del núcleo se construye sobre el dividendo ético ni sobre la reforma tributaria.**
+
+## Escenario ampliado: si la reforma tributaria pasa
+
+| Palanca adicional | Mecanismo | Estimación |
+|---|---|---|
+| Ingresos progresivos | Cerrar exenciones a patrimonios altos; gravar dividendos y grandes patrimonios (>$5.000M); sin más carga a la pyme | +$15-20B/año |
+
+El escenario ampliado **acelera las olas** y adelanta la universalidad del Servicio, no habilita el núcleo, lo expande.
+
+## Costeo de un nodo: Montería + Tierralta/Valencia como caso base
+
+Hasta aquí el cuadro fiscal solo tenía ingresos y espacio; le faltaba la contraparte de gasto, y sin ella el Principio Rector "cada promesa con su fuente" no se puede verificar. Esta sección construye el costeo con Montería-Tierralta, el nodo mejor documentado, con cada supuesto visible y su fuente, para que se pueda mover una cifra y ver si el nodo se sostiene. Donde el plan ya tiene un dato duro, se usa; donde no, se advierte que es una estimación de orden de magnitud, no un presupuesto ejecutado.
+
+**Fase 0 (Preparación): seguridad, presencia, catastro.**
+
+| Rubro | Estimación anual | Supuesto y fuente |
+|---|---|---|
+| Cuerpo de Ejecutores Territoriales (núcleo sénior) | ~$5.200M/año | 20 personas × salario ×1,8 sobre Bogotá (Frente VIII), estimado en ~$18M/mes promedio para el perfil técnico sénior estatal; 20 × $21,6M × 12 |
+| Catastro multipropósito del nodo | ~$8.000-15.000M (una vez, no anual) | Costo por predio muy superior al de Ruanda (~$7 USD), que opera en terreno plano, sin conflicto y con participación obligatoria; se estima 3-5 veces ese costo por la topografía y el riesgo de seguridad de Tierralta, sobre un catastro de aproximadamente 15.000-20.000 predios rurales en la zona |
+| Seguridad adicional concentrada (Fase 0) | Redirección de pie de fuerza ya presupuestado, sin costo nuevo mayor | El plan no crea nueva fuerza pública, concentra la existente; el costo marginal es logístico, no de nómina |
+| **Subtotal Fase 0** | **~$13.000-20.000M el primer año** (incluye el catastro no recurrente) | |
+
+**Fase 1 (Activación): conectividad, crédito, compras públicas.**
+
+| Rubro | Estimación anual | Supuesto y fuente |
+|---|---|---|
+| Vía terciaria y conectividad | ~$4.000-8.000M | Orden de magnitud de un tramo de vía terciaria mejorada en zona de montaña, sin cifra propia del plan; se marca como estimación externa, no como dato del documento |
+| Garantías de crédito y capital semilla | ~$2.000-3.000M | Fondo de garantía para el paquete habilitador de tierra (crédito para insumos, siembra, mejora de finca), dimensionado sobre el número de hectáreas en el nodo |
+| Brigada del Servicio Nacional de Vida (catastro y agua) | Costo ya contabilizado en el Frente XIV, no se duplica aquí | El Servicio aporta mano de obra, no gasto adicional del nodo |
+| **Subtotal Fase 1** | **~$6.000-11.000M/año** | |
+
+**Costo total anualizado del nodo (Fases 0-2, primeros 4 años):** entre $19.000M y $31.000M el primer año (con el catastro no recurrente), y entre $6.000M y $11.000M/año en régimen, una vez hecho el catastro. Para los tres nodos de Ola 1, asumiendo escala comparable, el costo total ronda $60.000-90.000M el primer año y $20.000-35.000M/año en régimen. Frente al espacio fiscal del escenario base ($25-38B/año, es decir $25.000.000-38.000.000M), el costo de los tres nodos es una fracción muy pequeña de ese espacio, del orden del 0,1-0,3%. Esto responde directamente al señalamiento externo: **el problema fiscal del programa no está en el costo de los nodos, que es marginal, está en que el escenario base no alcanza a cerrar, además, la senda de déficit que el plan se fija** (ver la reconciliación más abajo).
+
+**Retorno fiscal y año de equilibrio.** El nodo se paga a sí mismo por tres vías: el predial post-catastro, que el IGAC estima puede multiplicarse por más de cinco una vez actualizado el avalúo; la formalización laboral vía PILA, que empieza a generar aportes parafiscales y de salud desde el primer empleo formal neto; y el ahorro relativo en gasto de seguridad reactiva a medida que baja el reclutamiento. Con el orden de magnitud de arriba, el punto de equilibrio (cuando el recaudo adicional del nodo iguala su costo anualizado en régimen) se estima entre el año 6 y el año 10 después de terminado el catastro, no antes. Decirlo así, y no "se paga solo" sin plazo, responde a lo que pidió el análisis externo: sigue siendo buena política incluso si el retorno pleno no cabe en un período presidencial, porque la inversión más cara (el catastro) no se repite, y desde el año 1 empieza a generar recaudo creciente aunque no cubra el costo total hasta más adelante.
+
+**El límite de este costeo, sin rodeos.** Estas cifras son un modelo de orden de magnitud, no un presupuesto ejecutado ni una partida aprobada. Los rubros de vía y catastro se apoyan en comparaciones externas (costos típicos de proyectos similares en Colombia) y no en un estudio de ingeniería del nodo específico, que solo existiría tras la Fase 0. El valor de este ejercicio no es la precisión de cada cifra, es demostrar que el orden de magnitud del costo de un nodo es manejable frente al espacio fiscal, y que cualquiera puede recalcularlo si tiene mejor información: cambiar el supuesto del salario, del costo por predio o del plazo de retorno, y ver si la conclusión se sostiene.
+
+## Senda de déficit reconciliada
+
+La versión anterior tenía dos cifras inconsistentes (≤4% en el Frente V y ≤5.5% en la tabla de secuencia). Senda única:
+
+| Momento | Meta de déficit | Cómo |
+|---|---|---|
+| Año 1 | ≤6% PIB | Ancla fiscal + freno al gasto improductivo |
+| Año 2 | ≤5.5% PIB | Evasión + eficiencia rinden; intereses empiezan a bajar |
+| Año 3 | ≤4.7% PIB | Crecimiento de los nodos + (si pasó) reforma tributaria |
+| Año 4 | ≤4% PIB | Recaudo estructural por crecimiento; grado de inversión en horizonte |
+
+**La aritmética completa, sin maquillaje.** Con un PIB nominal del orden de $1.800B, cerrar 2,5 puntos de déficit (de ~6,5% a 4%) equivale a un ajuste de unos $45B. El espacio del escenario base ($25-38B/año) no cierra esa brecha por sí solo, y hay que decirlo con la misma franqueza con que se dice el resto del cuadro: el escenario base no es el ajuste fiscal completo, es la parte que el Ejecutivo controla sin el Congreso. El resto del cierre viene de tres fuentes que este cuadro no cuenta como "espacio nuevo" porque no son palancas discrecionales sino la mecánica misma de la senda: el crecimiento nominal de la economía (que sube el denominador y baja el déficit como proporción sin que nadie tenga que "conseguir" ese dinero), la recomposición del gasto ya presupuestado hacia lo que menos pesa en el corto plazo, y el hecho de que la meta de déficit de cada año se mide sobre un PIB que también creció. Un ajuste de 2,5 puntos en cuatro años, mitad por espacio fiscal nuevo y mitad por crecimiento y composición del gasto, es exigente pero no es la fantasía aritmética que resultaría de pedirle los $45B enteros a las tres palancas del escenario base. Si el crecimiento decepciona, la senda se retrasa, no se abandona, y el stress test de arriba ya lo reconoce.
+
+## Stress test: qué pasa si las cosas salen peor
+
+| Supuesto adverso | Efecto | Respuesta del diseño |
+|---|---|---|
+| Crecimiento 1 pp menor de lo proyectado | Menor recaudo estructural en Años 3-4 | El núcleo no depende del crecimiento alto; las olas siguientes se ralentizan vía el activador por resultado, el diseño ya es contracíclico |
+| El rating no se recupera a tiempo | El ahorro de intereses llega más tarde | El escenario base no presupuesta el ahorro de intereses como financiación de gasto nuevo; es alivio, no fuente |
+| La reforma tributaria no pasa | Sin los +$15-20B/año | Se opera en escenario base; las olas se espacian, pero el núcleo se cumple |
+| Los ahorros de eficiencia del gasto rinden la mitad | $5-7,5B/año menos (mitad de los $10-15B de esa línea) | Esta línea sí es parte del espacio fiscal duro, y su faltante sí afecta la senda: por eso el rango de espacio fiscal se presenta como $25-38B y no como un número único, y las olas siguientes se espacian con el activador por resultado si el recaudo real cae hacia el extremo bajo del rango |
+| El dividendo ético (empleo por reasignación) rinde menos de lo estimado | Menos empleo reasignado (60.000-97.000 es el rango completo) | El dividendo ético se mide en empleos, no en billones, y ningún compromiso duro del núcleo lo presupuesta como fuente fiscal: es *upside* de cohesión social, no de caja, así que su faltante no descuadra ni el núcleo ni la senda de déficit |
+| Cae el precio o la demanda del petróleo antes de lo previsto | El fisco pierde de golpe una renta de la que hoy depende cerca de la mitad de las exportaciones (ver Frente XV) | No es un riesgo hipotético, es tendencial: se trata como certeza de calendario incierto, no como cisne negro. La hoja de ruta fiscal de la transición (Frente XV) reinvierte de forma trazable la renta fósil que aún entra en diversificación productiva, para que el hueco no aparezca de un día para otro cuando el precio caiga |
+| Un desastre climático mayor (inundación, sequía prolongada) golpea el gasto y el recaudo a la vez | Gasto de emergencia no presupuestado y caída simultánea de recaudo en la zona afectada | El fondo de contingencia de desastres se dimensiona como compromiso duro, no como discrecional de coyuntura, y el criterio de nodo prioriza la reconstrucción sobre municipios ya mapeados por riesgo climático, para no empezar de cero cada vez |
+
+> El principio que cierra el cuadro: financiar compromisos duros con fuentes blandas es como se desfondan los programas. Aquí, lo duro se financia con lo seguro (escenario base) y lo ambicioso espera a lo incierto (escenario ampliado).
+
+---
+
+
+---
+
+
+# Comunicación Pública y Derecho a la Información
+
+Un gobierno honesto puede gobernar bien y aun así ser derrotado por el relato. Con los medios tradicionales en contra, desinformación circulando y potencias extranjeras interviniendo, un Estado que no puede comunicarle directamente a su gente lo que hace queda a merced de quien controle los canales. Ese es un problema democrático real, no una excusa. Pero el mismo derecho a informar sin intermediarios hostiles es la herramienta favorita del autoritarismo, y por eso esta es la sección más delicada del plan: la buena intención no protege del mal resultado. Se diseña, como todo lo demás, blindando con estructura y no con confianza, y pensando siempre en que la herramienta la va a heredar el peor adversario, no uno mismo.
+
+El propósito de esta sección se dice de una vez, porque ordena todo lo que sigue: es una arquitectura de medios pensada para proteger la democracia, no para servir a un gobierno. Busca crear un ecosistema donde sea más difícil monopolizar las comunicaciones, desinformar y manipular a escala, y lo busca sin coerción y sin limitar libertades. Esas cuatro metas parecen tirar en direcciones opuestas, porque la forma perezosa de frenar la manipulación es censurar y la de romper un monopolio es que el Estado meta mano en quién publica. Se reconcilian con una sola regla, que es la columna de todo lo demás: la intervención actúa siempre sobre la estructura y la transparencia del sistema, nunca sobre el contenido ni la verdad del mensaje. La transparencia de quién paga un anuncio no se puede voltear para censurar; el poder de declarar algo falso, sí. Por eso lo primero es legítimo y lo segundo nunca. Es la diferencia entre un demócrata, que quiere que el abuso sea imposible venga de donde venga, y un partidario, que solo quiere el control en manos amigas.
+
+## El problema es real, y la tentación también
+
+Las dos cosas son ciertas a la vez. Un gobierno legítimo tiene derecho a informar, y una sociedad necesita saber qué hace su Estado sin depender solo de intermediarios interesados. Pero "comunicar lo que pasa, y no lo que otros dicen que pasa" esconde una trampa mortal: asume que el gobierno sabe lo que pasa y los demás mienten, cuando el gobierno también tiene su versión interesada, también calla lo que le incomoda y también llama desinformación a la crítica. Todo gobierno del mundo cree que él dice la verdad y que los medios lo calumnian. Con ese mismo argumento, comunicar la verdad del pueblo frente a los medios oligarcas, se construyeron las hegemonías comunicacionales de la región, que son censura con otro nombre. La regla de diseño es implacable: si la herramienta solo es segura cuando la usa un gobierno bueno, es una mala herramienta, porque el siguiente gobierno puede no serlo.
+
+## Medios públicos, no gubernamentales
+
+La distinción lo decide todo. Un medio gubernamental es la voz del presidente de turno, cambia de dueño con cada elección y sirve al que manda. Un medio público es del Estado pero no del gobierno: su lealtad es al ciudadano, no al mandatario, y su independencia editorial está blindada. El plan apuesta por lo segundo, y eso se logra con estructura concreta, no con promesas:
+
+- **Financiación estable por ley,** no sujeta al presupuesto anual que el gobierno aprieta o afloja para premiar o castigar la línea editorial.
+- **Junta directiva plural y escalonada,** con asientos para la oposición y la sociedad civil garantizados por norma, y renovación por tramos, para que ningún gobierno pueda coparla de una vez.
+- **Directores con periodo fijo desfasado del ciclo presidencial,** que no entren ni salgan con el mandatario.
+- **Rendición de cuentas del propio medio,** con defensor de la audiencia y publicación de su línea y sus finanzas.
+
+El propósito de todo eso es simple: que el que pague (el Estado) no sea el que mande (el gobierno de turno). Un medio público capturado por el gobierno deja de informar: se vuelve propaganda con recursos de todos.
+
+Esto no se construye de cero. Colombia ya tiene su sistema de medios públicos, RTVC (Señal Colombia, Canal Institucional, Radio Nacional, Radiónica), creado en 2004 y financiado con recursos de todos. El problema es que depende del Ministerio de las TIC, o sea del gobierno de turno, y por eso es capturable, como lo han denunciado críticos en administraciones de distinto signo cuando la programación se inclina a resaltar al presidente y sus ministros. La captura de los medios públicos es un vicio que cambia de bando pero no de naturaleza: la misma crítica que un lado hace hoy, la hará el otro cuando le toque la oposición. Por eso el plan no crea un canal nuevo, blinda el que existe con las salvaguardas de arriba, y le devuelve el mandato que su propia misión legal ya declara pero que la dependencia política le impide cumplir: información veraz, oportuna y plural, al servicio del ciudadano y no del gobernante.
+
+El modelo de referencia, del que la BBC es el ejemplo más conocido, no es un misterio ni una importación caprichosa: es un radiodifusor de servicio público con mandato de servir al ciudadano, independencia editorial garantizada, financiación estable que no depende del favor anual del gobierno, y una gobernanza plural que impide que un mandato se apropie de la línea. No se trata de copiar una institución extranjera al pie de la letra, sino de adoptar sus amarres, los que hacen que un medio pagado por todos no termine sirviendo a uno solo. Ninguno de esos amarres es perfecto ni inmune, pero la diferencia entre un medio público blindado y uno capturado es, justamente, si esos amarres existen o no.
+
+## Las alocuciones, regladas
+
+El derecho del gobierno a dirigirse a la nación es legítimo, pero sin reglas se vuelve cadena propagandística. Los límites sanos son concretos: que las alocuciones sean para asuntos de interés nacional real y no para atacar opositores, con topes de frecuencia y duración, sin uso en periodo electoral, y con derecho de réplica. Un gobierno que encadena la señal cada semana para hablar de sí mismo no informa, hace campaña con dinero público.
+
+## Comunicar con verificabilidad, no con propaganda
+
+Aquí está la defensa más poderosa y la que no se presta para el abuso, porque ya vive en el plan. Frente a "otros dicen que pasa X", responder "no, pasa Y" solo enfrenta la palabra del Estado contra la de ellos. Lo que de verdad funciona es que cualquiera pueda ir a comprobar qué pasó. Los datos abiertos, la plataforma de trazabilidad, la rendición de cuentas verificable comunican lo que pasa sin necesidad de un aparato mediático, y son mucho más creíbles, porque no piden que le crean al gobierno, dejan que la gente vea. Un dato abierto derrota a un video falso mejor que cualquier canal estatal, porque el canal estatal también puede mentir y la gente lo sabe. El gobierno que quiere que le crean debería obsesionarse con hacer verificable lo que hace, antes que con tener un canal para contarlo.
+
+## Desinformación y libertad de expresión: el equilibrio delicado
+
+Combatir la desinformación es legítimo, pero "desinformación" es la palabra que los gobiernos usan para nombrar lo que no les gusta. Un Estado que se arroga el poder de decidir qué es verdad y qué es mentira, y de actuar sobre eso, es un Estado con poder de censura, aunque se llame lucha contra las noticias falsas. Por eso el principio es tajante: **el Estado no debe ser árbitro de la verdad.**
+
+La salida democrática depende de más y mejor información libre, y de ciudadanos capaces de juzgarla, más que de la información oficial. El Estado ayuda creando las condiciones, no ocupando el lugar del árbitro:
+
+- **Fortalecer los árbitros independientes:** un periodismo robusto y plural, verificadores autónomos (no oficiales), y medios regionales que no dependan del pauta oficial para sobrevivir.
+- **Alfabetización mediática** en la escuela y en la ciudadanía, para que la gente sepa distinguir una fuente de un rumor. Un ciudadano que sabe leer información es mejor defensa que cualquier ministerio.
+- **Transparencia sobre la injerencia extranjera** cuando se pruebe con evidencia, no como acusación de cajón contra el crítico incómodo.
+
+Y lo que el Estado NO debe hacer, dicho de frente para que no quede a interpretación: no crear una oficina que dictamine qué es verdad, no criminalizar la "noticia falsa" con tipos penales vagos que se presten para perseguir la crítica, y no usar la lucha contra la desinformación como excusa para silenciar opositores. La libertad de expresión incluye el derecho a equivocarse y hasta a decir tonterías; el remedio contra el mal discurso es más discurso, no el silencio impuesto por el poder. Un gobierno que se declara defensor de la verdad y enemigo de la mentira ya dio el primer paso hacia decidir él cuál es cuál.
+
+## El pluralismo: muchas voces que ningún gobierno pueda apagar
+
+Un solo medio, por bueno que sea, es frágil: lo captura quien gana la siguiente elección. La salud informativa de una democracia depende de tener muchas voces distribuidas que ningún poder pueda apagar de un golpe, mucho más que de un canal que dé la cara del gobierno de turno. Un canal público lo controla el que manda; a cientos de medios independientes, regionales y comunitarios no los controla nadie de una vez. Por eso la meta del plan es un ecosistema plural y resistente antes que un medio fuerte, y esa es la mejor garantía de que el ciudadano que no comulga con el poder de turno siga teniendo dónde informarse.
+
+El papel del Estado aquí es fomentar esa pluralidad sin controlarla, y la distinción es delicada, porque el mismo dinero que fortalece un ecosistema puede comprarlo. Un gobierno que financia a los medios "independientes" que le aplauden hizo captura con otro nombre. Por eso el fomento tiene que ser a distancia y por reglas ciegas al contenido: acceso al espectro para radios comunitarias por criterios técnicos y no políticos, apoyos a medios regionales por fórmulas objetivas y auditables y nunca a discreción del gobernante, y la reforma de la pauta oficial ya mencionada, para que la publicidad estatal no premie al amigo ni asfixie al crítico. El Estado pone las condiciones para que existan muchas voces, no elige cuáles.
+
+Y un principio que ordena todo lo anterior, incómodo pero necesario: la independencia de los medios se defiende igual cuando favorece al que uno quiere y cuando favorece al que uno rechaza. Un medio público inclinado hacia el propio lado es una captura que todavía no ha cambiado de dueño, aunque a algunos les parezca un triunfo. Quien solo defiende el pluralismo cuando refleja su cara defiende, sin darse cuenta, el mismo vicio que critica en el adversario. El blindaje vale la pena precisamente porque protege la voz del que hoy no está en el poder, sea quien sea mañana.
+
+## Cómo se comunica bien: principios de uso, no de propaganda
+
+Blindar los medios y reglar las alocuciones evita el abuso, pero no dice cómo comunicar bien. Y comunicar bien es una función de gobierno, no un adorno: un Estado que hace cosas buenas y no sabe contarlas queda a merced de quien controle el relato. La línea entre comunicar y hacer propaganda con plata pública es delgada, y la marca una sola pregunta, que debería hacerse ante cada pieza: ¿esto le sirve a la gente para saber o decidir algo, o solo hace ver bien al que manda? Fiel a lo primero, es comunicación pública; si deriva a lo segundo, es campaña permanente pagada por todos.
+
+Con esa brújula, el plan comunica según unos principios:
+
+- **Comunicar para cuatro cosas, en ese orden de importancia.** Servicio (cómo acceder a un trámite, un subsidio, un derecho, una fecha), que es lo más útil y lo más descuidado porque no da titulares pero cambia el día de la gente. Rendición de cuentas (qué se hizo con la plata, qué se cumplió y qué no). Contexto (por qué se tomó una decisión difícil). Y emergencia (avisar rápido y claro en una crisis). Que la vanidad, la foto inaugurando, no se coma el presupuesto ni la atención de las otras tres.
+- **Mostrar la prueba, en vez de pedir que le crean.** La mejor comunicación de gobierno no afirma "lo hicimos bien", da la forma de comprobarlo: un enlace a los datos abiertos, el tablero público de metas donde se ve lo cumplido y lo incumplido. La plataforma de trazabilidad y los datos abiertos son, además de herramientas anticorrupción, el mejor contenido posible, porque comunicar mostrando la evidencia es más creíble que comunicar afirmando, y es lo que blinda la comunicación contra la acusación de propaganda.
+- **Mostrar el trabajo, no solo el resultado.** La gente confía en lo que ve hacerse, no en el desfile de logros que nadie cree. Comunicar el proceso (aquí está el problema, esto intentamos, esto salió mal y así lo corregimos) genera más confianza que anunciar solo triunfos. Es la lógica de la bitácora de este plan, aplicada a gobernar: la honestidad sobre lo que cuesta vuelve creíble lo que se logra.
+- **Hablar el idioma de la gente sin frivolizar el cargo.** Traducir la jerga técnica a lenguaje humano, sí; convertir al gobernante en un influencer que busca likes, no. Adaptar el formato de cada plataforma sin rebajar el fondo.
+- **Accesibilidad como principio.** Comunicar donde de verdad está la gente y no solo la élite, en lenguaje claro, con subtítulos, audio y lenguas donde toque, pensando en el de mala conexión y en el de la vereda. La comunicación pública que no llega al más apartado no cumplió su función.
+- **Atada al cargo, más que a la persona.** Desde cuentas institucionales y con reglas de gasto claras, el Estado informando y no el gobernante construyendo su marca. Es la línea que casi todos cruzan, y la que mantiene la comunicación como servicio y no como culto.
+
+Visto en conjunto, un buen plan de comunicación de gobierno es casi indistinguible de un buen plan de transparencia: mostrar la prueba, mostrar el proceso, hablarle claro a todos, atarse al cargo. No son dos cosas, son la misma vista desde dos ángulos.
+
+
+> Un gobierno se vuelve creíble no controlando el relato, sino volviendo verificable lo que hace. El Estado que quiere ser dueño de la verdad ya dejó de  servirla. Informar sí, con voz propia y reglada; arbitrar la verdad, nunca.
+
+
+---
+
+
+# Política Exterior: Interés Nacional, Autonomía y Principios
+
+La política exterior de Colombia ha oscilado históricamente entre subordinarse a la potencia del momento y alinearse con un bloque por afinidad ideológica. Las dos son, en el fondo, la misma cosa: la renuncia a tener una política propia. Este plan propone un tercer camino, el único que corresponde a un país que quiere ser dueño de sí mismo: una política exterior de interés nacional y de principios, que sirve a Colombia y no se alquila a nadie. Es la doctrina de un Estado que sabe lo que quiere y no depende de nadie para quererlo, y no la de un bando que sigue consignas.
+
+El eje es la soberanía, entendida completa. El plan ya la trabaja hacia adentro: la soberanía se construye llenando el territorio de Estado, porque el vacío es lo que invita a que otros intervengan. Esta sección añade la mitad que mira hacia afuera, y su primer principio es tajante: un Estado resuelve sus asuntos internos con sus propias instituciones, y no convoca a poderes extranjeros contra sus propios ciudadanos. La justicia colombiana se hace en Colombia. Pedirle a otro país que sancione, persiga o castigue a nacionales por disputas internas no tiene nada de firmeza: es entregar la soberanía por la puerta de atrás. Y del mismo modo que Colombia no acepta injerencia en lo suyo, tampoco la practica en lo ajeno.
+
+Ese principio necesita una aclaración, para que no se malentienda: resolver los asuntos internos con instituciones propias no es lo mismo que rechazar la extradición. Honrar un tratado de extradición vigente por un delito de jurisdicción compartida, el caso típico del narcotráfico dirigido a un mercado extranjero, es precisamente aplicar las reglas por encima de la fuerza. Lo que el principio rechaza es lo contrario: pedirle a una potencia que sancione o persiga a un ciudadano por una disputa puramente interna, sin tratado y sin delito compartido. Una cosa es cumplir la regla, y otra muy distinta es alquilar el poder ajeno.
+
+Sobre ese eje, la doctrina se sostiene en unos principios durables:
+
+- **Interés nacional por encima de la afinidad ideológica.** Cada relación se juzga por lo que le da a Colombia, no por si el otro gobierna parecido o contrario a quien manda aquí. Ni el rechazo reflejo a una potencia por consigna, ni la subordinación a otra por conveniencia. El pragmatismo, más que falta de principios, es el principio de poner al país antes que la simpatía.
+- **Autonomía por diversificación.** La dependencia de un solo socio, en comercio, en defensa, en tecnología o en diplomacia, es una vulnerabilidad, porque quien depende obedece. La autonomía real no viene de aislarse, viene de tener muchos socios, de modo que ninguno pueda dictar. Diversificar es la forma práctica de no arrodillarse.
+- **Las reglas por encima de la fuerza.** Una potencia media no tiene poder para protegerse; se protege con un mundo de reglas que atan también al fuerte. Por eso Colombia defiende el derecho internacional y los espacios multilaterales, y lo hace con coherencia: exige de otros las reglas que ella misma respeta. La misma convicción que dentro del país pone contrapesos sobre el poderoso, afuera prefiere el orden de reglas al de la fuerza bruta.
+- **Responsabilidad compartida en lo que cruza fronteras.** Los problemas que no respetan límites, el crimen transnacional, las economías ilícitas, el ambiente, la migración, se enfrentan como socio en una responsabilidad compartida, no como subordinado que recibe órdenes. En los asuntos donde Colombia ha puesto un costo alto y desproporcionado, negocia desde esa posición, no desde la súplica.
+- **El comercio al servicio del desarrollo, no al revés.** La política comercial se alinea con la diversificación productiva que el plan persigue por dentro: abrir mercados para lo que se quiere llegar a producir, no solo para seguir vendiendo lo que nos mantiene dependientes de unas pocas materias primas.
+- **La riqueza ambiental como posición, no como vulnerabilidad.** El agua, la Amazonía y la biodiversidad no son solo algo que proteger, son un activo desde el cual Colombia negocia con el mundo. Lo que parece fragilidad, bien jugado, es una fuente de peso diplomático.
+- **La protección del nacional en el exterior.** El Estado protege a sus ciudadanos dondequiera que estén, y no los persigue. La diáspora es un puente y un activo, no un problema ni un enemigo.
+
+## La doctrina de vecindario, para cualquier vecino y cualquier gobierno
+
+Colombia comparte fronteras vivas con países cuya situación interna cambia con el tiempo y con gobiernos que este plan no controla. Escribir la política exterior alrededor de la coyuntura de un vecino concreto es un error de diseño, porque esa coyuntura puede ser irreconocible en un año. Lo que se fija aquí no es una posición sobre ningún gobierno vecino en particular, sino la doctrina que se aplica igual sin importar quién gobierne al otro lado ni cómo llegó, en cuatro reglas:
+
+- **No injerencia, en los dos sentidos.** Colombia no convoca ni respalda intervención externa contra ningún vecino, ni intenta imponer resultados internos en otro país. El reconocimiento de gobiernos, cuando aplique, se basa en verificación institucional por mecanismos multilaterales, no en la conveniencia bilateral del momento ni en la postura de terceras potencias.
+- **La frontera se gestiona por capacidad instalada, no por reacción a la crisis del día.** El protocolo de contingencia (migratorio, humanitario, de seguridad) existe antes de que se necesite y se activa por umbrales objetivos, no por decisión improvisada cuando la crisis ya está encima.
+- **La frontera es economía, no solo riesgo.** El corredor que ya opera de hecho en cada frontera se reconoce y se hace trazable, para separar el comercio legal de la economía ilegal, en vez de tratarlo como amenaza permanente.
+- **La cooperación humanitaria no es gesto político.** La ayuda ante una crisis en un país vecino se canaliza por agencias multilaterales, nunca como respaldo ni rédito hacia un gobierno específico.
+
+Es una doctrina fija leída sobre una coyuntura cambiante: la regla no cambia con el vecino, solo cambia su aplicación al caso del momento.
+
+Y un principio que blinda a todos los demás: la política exterior es de Estado, no de gobierno. Debe tener continuidad e institucionalidad, con un servicio diplomático profesional y meritocrático y no repartido como botín (la carrera diplomática y consular ya existe en la ley, el Decreto Ley 274 de 2000; el reto no es crearla sino cumplirla, con concurso de ingreso, jefaturas de misión de carrera y publicación de qué cargos son de carrera y cuáles de designación política), para que la diplomacia no dé bandazos con cada elección ni se convierta en el instrumento personal de quien manda. Como el resto del plan, se diseña pensando en que la herramienta la hereda el peor gobierno posible: un país cuya diplomacia depende del capricho de una persona no tiene política exterior, tiene el humor de un gobernante.
+
+> Una potencia media no se hace respetar ni alineándose con el fuerte ni desafiándolo por consigna, sino teniendo intereses claros, principios firmes y la autonomía que da no depender de nadie. La soberanía no se declara, se construye: llenando el territorio por dentro, y no entregándola por fuera.
+
+
+---
+
+
+# Productividad y Competitividad Nacional: la apuesta de fondo
+
+Esta es la sección que ata al resto. El plan persigue empleo, seguridad y equidad, pero el ingreso por persona de un país en el largo plazo lo decide una sola cosa: cuánto valor produce cada trabajador. Y ahí Colombia tiene un problema que no puede seguir ignorando.
+
+> **El problema, sin rodeos.** En 2025 el país logró el desempleo más bajo del siglo, pero la productividad por trabajador cayó cerca de 3,1% entre 2022 y 2025 y la productividad total de los factores apenas creció 0,9%. El empleo nuevo se concentra en servicios de baja productividad y el paso de trabajadores hacia sectores más productivos se redujo a la mitad en una década. Crear empleo formal y subir la productividad no son lo mismo, y el país lleva años demostrándolo. Sin productividad no hay competitividad, y sin competitividad el empleo que se crea es frágil.
+
+## El objetivo nacional, con metas duras
+
+| Meta | Punto de partida (2025-2026) | Meta Año 4 | Quién la mide |
+|---|---|---|---|
+| Productividad total de los factores (PTF) | ~0,9% anual | ≥1,5% anual sostenido | DANE + DNP, panel independiente |
+| Productividad laboral por trabajador | Cayendo (~-3,1% acumulado) | Crecimiento positivo ≥2% anual | DANE |
+| Inversión productiva (formación bruta de capital fijo) | Contribución del capital por trabajador negativa | Recuperar la contribución del capital a positiva; subir la inversión 2-3 puntos del PIB | DANE + Banco de la República |
+| Exportaciones no minero-energéticas | Base 2025 | +30% real en el período | DANE + ProColombia |
+| Costo logístico (como % del valor del producto) | Alto frente a la OCDE | Bajar de forma medible con el sistema multimodal | DNP + Min. Transporte |
+| Posición en competitividad (ranking IMD) | Rezagada en la región | Subir posiciones de forma sostenida | Referente externo |
+
+La productividad deja de ser un subproducto esperado y se vuelve un objetivo medido, con dueño y con tablero público, anclado al Sistema Nacional de Competitividad que ya existe en Colombia (Consejo Privado de Competitividad + DNP + DANE).
+
+## Las palancas fuertes, en orden
+
+No todas las palancas pesan igual. Estas son las que más mueven la productividad, ordenadas por impacto y por qué tan al alcance del Ejecutivo están. Casi todas ya viven en el plan; lo que faltaba era nombrarlas como una sola apuesta.
+
+1. **Catastro y titulación (Frente II).** La palanca de fondo y la más subestimada. El título convierte tierra muerta en colateral, el colateral en crédito, el crédito en la inversión que hoy falta, y el registro permite que la tierra fluya hacia quien la usa mejor. Ataca de raíz la mala asignación de recursos, que es el corazón del problema de productividad. Ya tiene piso legal (servicio público desde 2019): es ejecución y financiación, no un pedido al Congreso. El Módulo de Productividad Rural del Frente II convierte esa titulación en productividad medida (rendimiento por hectárea, valor agregado local, exportación agro).
+2. **Logística multimodal (Frente IX).** Río Magdalena, ferrocarril, dragado de Buenaventura. Los costos logísticos son un impuesto directo a la competitividad de toda firma que mueva algo. Bajarlos sube la productividad sin que las empresas hagan nada distinto.
+3. **Profundización de capital e inversión (Frentes V, VIII, X).** El ancla fiscal baja la prima de riesgo y el costo del crédito; el Contrato de Habilitación atrae inversión privada; la atracción de inversión extranjera completa. Dado que hoy la contribución del capital por trabajador es negativa, esta palanca es urgente.
+4. **Difusión tecnológica y de gestión (Módulos de Productividad Urbana 12.3 y Rural del Frente II).** La mayor ganancia no está en inventar sino en que el productor promedio adopte lo que ya existe. El extensionismo para pymes urbanas y la extensión agropecuaria moderna mueven la media de todo el aparato productivo, en la ciudad y en el campo. Barato y enteramente ejecutivo.
+5. **Fin del castigo al crecimiento (12.3).** Quitar los umbrales que hacen que las firmas se queden pequeñas a propósito libera la "mitad faltante" donde está la productividad. Ganancia de reasignación casi sin gasto.
+6. **Competencia con dientes (12.3 y Frente XIII).** Una autoridad de competencia fuerte sube la productividad de los rivales del incumbente. La protección a sectores es siempre temporal y condicionada a exportar, nunca permanente.
+7. **Facilitación de comercio.** Digitalizar la aduana y la ventanilla única de comercio exterior baja un impuesto invisible a toda exportación. Bajo costo, sin Congreso.
+8. **Capital humano pertinente (Frentes VII, XIV y 12.3).** SENA dual pegado a los vectores de cada nodo, recualificación del trabajador en activo, reconocimiento de aprendizajes previos. La palanca más lenta y la de mayor retorno.
+
+## Por qué esto es coherente con el resto del plan
+
+El principio rector "activar lo que ya se pagó" se aplicaba solo a la infraestructura. Esta sección lo extiende al tejido productivo: subir la productividad de las firmas y los trabajadores que ya existen rinde más que crear otros nuevos. Los nodos siguen sirviendo a la justicia territorial y la seguridad; esta agenda sirve a la competitividad nacional, y corre en paralelo. La tensión entre ambos objetivos es real y el plan la asume de frente: prioriza la pyme y al trabajador sobre el incumbente, y ata todo apoyo a competencia y desempeño verificable.
+
+---
+
+
+---
+
 ## Notas
 
 Este documento es versionado y abierto.
@@ -1463,4 +2473,4 @@ Este documento es versionado y abierto.
 - Cambios de principio requieren justificación técnica
 - Parámetros se discuten con evidencia
 
-**Última actualización:** 2026-07-16 16:54:01
+**Última actualización:** 2026-07-16 16:57:31
