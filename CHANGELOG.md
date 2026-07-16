@@ -11,6 +11,18 @@ Todas las decisiones relevantes sobre el plan se registran aquí. El formato sig
 - **Vía jurídica**: decreto reglamentario más cláusula en el Contrato de Habilitación de Nodo y la fiducia, sin ley nueva. Costo marginal.
 - Se actualizó Fundamentos en la Investigación Reciente (fila 11) reconociendo el vacío previo, y Dimensión Deliberativa, reemplazando la aspiración de "consejos de nodo con voz vinculante" por la referencia al mecanismo ya concreto.
 
+## [1.57] Auditoría de instituciones inclusivas vs. extractivas, y el marco de North, Wallis y Weingast
+
+- **Auditoría completa del documento** con el marco de Acemoglu y Robinson (*Why Nations Fail*): para cada mecanismo o institución que el plan crea o reutiliza, ¿su diseño es genuinamente inclusivo (poder disputable, entrada abierta, reglas iguales para todos) o deja una vía real de captura extractiva? La auditoría, hecha con un subagente dedicado, confirmó que buena parte del plan ya está blindado (Servicio Nacional de Vida, Fondo de Tierras, Mecanismo 3 con retorno simétrico, subsidio-a-competencia de las EOC) y encontró seis huecos genuinos, no hipotéticos.
+- **Gobernanza interna de la EOC y las cooperativas (Frente XI, 11.2), completamente ausente hasta ahora.** El resto del blindaje protege a la Empresa Operadora Comunitaria de fallar hacia afuera, pero nada protegía contra que fallara hacia adentro: una junta que se perpetúa, una membresía cerrada a los primeros asociados. Corrección: hacer cumplir, con verificación real y no solo formal, la Ley 79 de 1988 (que ya exige asamblea general y un asociado un voto), con período máximo de junta, reelección limitada y membresía abierta. Misma regla extendida a las cooperativas del Módulo de Productividad Rural.
+- **Composición del Consejo de Nodo (Columna Vertebral, 3.4.1b): el límite honesto de la v1.56.** Decir que la membresía "viene de elecciones que ya existen" no bastaba: la participación en JAC suele ser baja y con plancha única, y los delegados al Consejo Territorial de Planeación los designa el alcalde, dándole al mismo alcalde una vía indirecta sobre su propio contrapeso. Corrección: designación directa del delegado por su organización sectorial, sin paso por la alcaldía, y extensión del mapa de riesgo electoral de la MOE (que ya protege a las alcaldías) a las elecciones de JAC.
+- **Concesiones de infraestructura de 15-25 años (Columna Vertebral, Capa 2), sin ninguna revisión periódica**, a diferencia de la EOC pequeña que sí tiene disciplina de recompetencia (Mecanismo 5). Corrección: revisión tarifaria y de desempeño cada 5 años vía la facultad que la CRA ya tiene (Ley 142/1994), con recompetencia si el concesionario incumple dos revisiones seguidas.
+- **Empresa ancla sin cláusula de no exclusividad (Frente XIII, Mecanismo 3).** La cláusula de retorno simétrico protege al Estado; nada protegía al productor de que la empresa ancla se volviera, con el tiempo, comprador único, la misma posición del intermediario de la historia de Wílmer, formalizada. Corrección: cláusula de no exclusividad más facilitación activa de un segundo comprador o empleador.
+- **El Gerente de Nodo sin ningún canal de escrutinio fuera del Ejecutivo (Frente VIII-C), a pesar del Consejo de Nodo.** El panel técnico independiente que ya valida el IPN y el sunset recibe ahora las objeciones acumuladas del Consejo de Nodo y publica un concepto anual público, sin quitarle a Presidencia la decisión de remoción.
+- **Barreras de entrada en los concursos de mérito (Frente VIII-F), nunca nombradas.** Un concurso "abierto a todos" que exige viajar a la capital departamental o pagar inscripción no es neutral. Corrección: examen descentralizado sobre la conectividad ancla, inscripción gratuita para estratos 1-2 y municipios rurales, y publicación de la composición geográfica y socioeconómica de cada cohorte.
+- **Nuevo hallazgo 21 en Fundamentos**: North, Wallis y Weingast, *Violence and Social Orders* (2009), sobre órdenes de acceso limitado y las tres condiciones de umbral hacia el acceso abierto (imperio de la ley entre élites, organizaciones de vida perpetua, control unificado de la fuerza). El nodo ya sigue esta secuencia sin haberla nombrado: Fase 0 antepone la fuerza pública unificada; las capas de irreversibilidad (reforzadas con la gobernanza de la EOC) construyen organizaciones que sobreviven a sus fundadores; el criterio ciego a partido de este mismo frente es imperio de la ley aplicado primero a la propia élite. El hallazgo agrega la razón de fondo para no leer la coalición con la élite (la zanahoria del Frente II, la caja de vidrio ofrecida a FECODE) como debilidad: es, según la evidencia histórica, cómo empiezan las transiciones reales.
+- Se confirmó, sin necesidad de cambios, que el documento ya incorpora con solidez a Ostrom (hallazgo 14, aplicado en el Frente XI), Dani Rodrik (hallazgo 1, vía Juhász-Lane-Rodrik 2024) y el marco de Iteración Adaptativa Dirigida por Problemas de Andrews, Pritchett y Woolcock (diagnóstico central del Frente VIII).
+
 ## [1.55] Qué hacer si FECODE bloquea a pesar de la coalición
 
 - **Nueva subsección 7.3.4**, a pedido explícito de tener una estrategia defensiva si el gremio decide bloquear las mejoras a pesar de la oferta de coalición del 7.3.3. Aplica el mismo principio rector del Frente XIII ("diseña para el peor caso, no para el promedio"), con una distinción explícita: un paro por una demanda legítima (el Fomag, por ejemplo) es un derecho laboral que el plan protege, no un obstáculo que combatir, la misma línea que el Frente XIII ya traza entre acelerar el litigio del poderoso y no tocar nunca el del débil que defiende un derecho real.
@@ -336,4 +348,35 @@ Incorporación de una agenda explícita de productividad y competitividad sobre 
 - **Nuevo:** métricas de productividad (valor agregado por trabajador, tasa de graduación de firmas) en el módulo y en la sección global de Medición, para corregir la trampa de "más empleo, menos productividad".
 - Renumeración de las secciones de turismo del Frente XII (12.3→12.4, 12.4→12.5).
 
-## [1.3]: Verificación ju
+## [1.3]: Verificación jurídica
+
+Contraste de las clasificaciones jurídicas con el estado real del derecho colombiano (a 2026).
+
+- **Corregido:** la Jurisdicción Agraria y Rural ya existe (Acto Legislativo 03/2023 + Ley Estatutaria 2570/2026). El plan la implementa y financia, no la crea.
+- **Corregido:** la objeción de conciencia al servicio exige ley estatutaria (no ordinaria) y su diseño "canalizar, no eximir" se marca como constitucionalmente discutible.
+- **Corregido:** la interventoría nacional sobre contratos de entidades territoriales requiere ley, no decreto (autonomía territorial).
+- **Acotado:** la condicionalidad presupuestal aplica a inversión nacional, no a transferencias constitucionales (SGP/regalías).
+- **Confirmado:** el catastro multipropósito ya es servicio público (Ley 1955/2019, Decreto 148/2020): ejecutable por vía administrativa.
+- **Precisado:** "Ley Marco de Nodos" es, técnicamente, una ley ordinaria; la Unidad de Macrocorrupción cabe en ley ordinaria en su versión sin autonomía.
+
+## [1.2]: Fundamentos en investigación reciente
+
+Incorporación de hallazgos de frontera (posteriores al Nobel 2007 de diseño de mecanismos) como ajustes concretos.
+
+- Disciplina por exportación verificada en el Frente X (nueva economía de la política industrial).
+- Pago por desempeño en la DIAN y asignación por desempeño del Gerente de Nodo (experimentos de capacidad estatal).
+- Diseño de la divulgación, competencia por comparación y auditoría de robustez como mecanismos 6, 7 y 8 del Frente XIII.
+- Calibración del *sunset* a la curva de maduración (~7 años) y puente al empleo asalariado (evidencia de "big push").
+- Umbral de irreversibilidad del enclave (Nobel 2024 sobre instituciones).
+- Nueva sección transversal "Fundamentos en la investigación reciente".
+
+## [1.1]: Reorganización e integración de soluciones
+
+- Integración de siete soluciones a las debilidades de la versión original (viabilidad jurídica explícita, cuadro fiscal de dos escenarios, irreversibilidad simétrica con *sunset*, enforcement atado a palancas ejecutivas, piso universal y nodo de aprendizaje, capital humano escalonado, orden y limpieza).
+- Numeración consistente (un solo conjunto de Frentes I-XIV).
+- Colombia Viva movida al Anexo A.
+- Nuevas secciones: Viabilidad Jurídica y Cuadro Fiscal de Dos Escenarios.
+
+## [1.0]: Versión base
+
+- Plan de gobierno original: tesis de las dos raíces, modelo de nodos, 14 frentes, Visión 2042 y transición.
