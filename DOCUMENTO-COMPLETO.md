@@ -818,6 +818,8 @@ Un límite que este plan nunca suelta: una fuerza más letal y más temible exig
 
 **Honestidad fiscal.** Este componente cuesta, y no se finge lo contrario. El grueso del paquete (salud de primer nivel, beca educativa universal, vivienda) vive en el escenario ampliado, junto a la modernización de equipo. Pero lo que más retiene por peso gastado sí cabe en el escenario base y arranca ya: corregir la distorsión salarial, la preferencia de contratación del veterano, los bonos al talento escaso y el rediseño de la selección y el entrenamiento, todo eso es más barato que el hardware y ataca directo la fuga de talento. Y la reforma del régimen pensional no es opcional: el pasivo que estima la Contraloría obliga a migrar hacia un modelo sostenible, de modo que el privilegio que atrae hoy no quiebre la caja mañana. Se invierte en el hombre primero, porque es donde Colombia puede ser number one de la región sin esperar una década de compras.
 
+**De dónde sale la plata del núcleo, y de dónde no.** El núcleo de retención del escenario base no se financia con plata nueva, se financia recomponiendo un presupuesto de defensa que ya es enorme (cerca del 4% del PIB, del cual hoy el 79% se va en personal y pensiones y apenas el 4% en inversión). Tres palancas, ninguna dependiente del Congreso: pasar de masa de soldados regulares a menos profesionales mejor pagados, cortar el desangre de la corrupción en compras (los blindados sobrefacturados, los helicópteros, el escudo antidrones cuestionado son ejemplos recientes de plata que hoy se pierde), y la reforma del régimen pensional, que a mediano plazo alivia el pasivo en vez de agrandarlo. Es pagar mejores hombres con lo que hoy se malgasta. Lo que **no** financia este componente es la extinción de dominio ni la confiscación de bienes criminales: es dinero real pero volátil (la SAE recaudó $843.000 millones en 2023, $360.000 millones en 2024 y $1,1 billones en 2025) y lento (proceso promedio de 9,4 años), y usarlo para pagar una nómina, una salud o una pensión sería exactamente la trampa que el [Cuadro Fiscal](../transversal/cuadro-fiscal.md) prohíbe: financiar compromisos duros con fuentes blandas. Lo recuperado por confiscación tiene su destino ya asignado en el plan, y es de una sola vez: reinversión visible en los nodos ([Desmantelamiento de Economías Ilegales](../transversal/desmantelamiento-economias-ilegales.md)). Lo permanente se paga con fuente permanente; lo de una vez, con fuente de una vez.
+
 
 ---
 
@@ -2597,4 +2599,4 @@ Este documento es versionado y abierto.
 - Cambios de principio requieren justificación técnica
 - Parámetros se discuten con evidencia
 
-**Última actualización:** 2026-07-16 18:38:36
+**Última actualización:** 2026-07-16 18:42:51
