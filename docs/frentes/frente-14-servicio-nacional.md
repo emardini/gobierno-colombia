@@ -26,6 +26,23 @@ El servicio dura 12 meses; las tres modalidades tienen igual dedicación, exigen
 | B. Servicio Ambiental y Territorial | Preferencia (no exclusiva) por ciencias naturales, ingeniería, agronomía | Catastro multipropósito (IGAC), purificación de agua (CRA + SENA), reforestación, sistemas solares rurales | Brigadas de catastro Ola 1 y 2; construcción y operación inicial de sistemas de agua; reforestación de cuencas | EOC, IGAC, energía renovable, cooperativas, consultoras ambientales |
 | C. Servicio Comunitario en Salud y Educación | Preferencia (no exclusiva) por vocación de servicio | Auxiliar de enfermería, promotor de salud, educador de primera infancia, instructor deportivo y cultural | Refuerzo de puestos de salud, CDI/HCB, centros de cuidado, programas con jóvenes en riesgo | Hospitales, ICBF, centros de cuidado, educación, deporte y cultura |
 
+## 14.2b Defensa total: una base de capacidad para todas las modalidades
+
+Todas las modalidades del Servicio, no solo la de defensa, incluyen una base común de entrenamiento en uso seguro de armas de fuego y defensa personal. La idea tiene nombre y respaldo: es la doctrina de defensa total que sostienen Finlandia, Suiza, Singapur, Israel y, desde la guerra de Ucrania, buena parte de Europa. Una sociedad donde cada ciudadano tiene una base mínima de capacidad es, en sí misma, disuasión, y le deja al país una reserva entrenada que puede convocar. Además cierra una jerarquía implícita del propio Servicio: hoy la defensa es "la modalidad de las armas"; una base común vuelve real el principio de igual exigencia e igual estatus.
+
+El entrenamiento se parte en dos capas, y la distinción es lo que hace la idea a la vez ambiciosa y responsable.
+
+| Capa | Qué incluye | Quién la recibe |
+|---|---|---|
+| **Capa universal (todas las modalidades)** | Defensa personal sin armas, seguridad y familiarización con el arma de fuego (manejo seguro, respeto, cómo no dispararse), primeros auxilios bajo fuego y qué hacer ante una emboscada o un ataque. Es familiarización y resiliencia, no destreza de combate | Todos los que sirven, en las tres modalidades |
+| **Capa de combate (solo modalidad A)** | Tiro real sostenido, táctica, empleo del arma como combatiente | Solo la modalidad de Defensa Territorial |
+
+**La objeción de conciencia queda exenta de la capa de fuego.** El objetor canalizado a una modalidad civil (14.3) hace la defensa personal, la seguridad y los primeros auxilios, pero no empuña ni dispara un arma. Esto no es un detalle: es lo que preserva intacta la defensa jurídica de todo el servicio universal. La Corte trata la objeción como derecho fundamental, y el plan sostiene la universalidad sobre el argumento de "canalizar a una modalidad genuinamente civil, no eximir". Si se obligara al objetor a empuñar un arma, esa modalidad dejaría de ser civil y el argumento se caería entero. Eximirlo de la capa de fuego es, por eso, condición de que el diseño se sostenga en corte, no una concesión.
+
+**Sobre el miedo a "entrenar futuros criminales", con honestidad.** La objeción obvia es que entrenar a más de cien mil jóvenes al año en un país inundado de armas ilegales crea una habilidad que los grupos armados quieren. La respuesta es la tesis central del plan aplicada aquí: el joven que se va a la delincuencia lo hace igual, y el grupo armado lo entrena de todos modos; negarle formación al joven del Servicio no le quita el arma al criminal, solo se la quita al que eligió el camino bueno. El Servicio es justamente la intervención que gana la competencia por ese muchacho, el mismo "secar el reclutamiento" del Frente III. Un joven con oportunidad, formación certificada y ethos es el menos propenso a volverse criminal, no el más, y el entrenamiento va empaquetado con todo eso, no suelto. El riesgo residual no desaparece (una minoría deserta, y ocurre), pero se maneja con barandas baratas que no contradicen la filosofía: selección, el propio ethos y las horas de DIH y ética (14.7) como filtro formativo, la trazabilidad de quién fue entrenado en la plataforma, y consecuencia real por el mal uso. Son barandas, no frenos: el entrenamiento no se niega, se acompaña.
+
+**Lo que produce, además de capacidad individual.** La capa universal convierte a cada cohorte del Servicio en la base de una reserva nacional entrenada, que conecta con la fuerza profesional del Frente III (III.7): la modalidad de defensa alimenta la reserva profesional, y las otras dos aportan una ciudadanía con base de resiliencia y primeros auxilios útil en emergencias, desastres y seguridad cotidiana. Disuasión por profundidad, no solo por el pie de fuerza activo.
+
 ## 14.3 La universalidad real: cómo se garantiza (vía jurídica reformulada)
 
 | Regla | Concreción | Vía jurídica |
