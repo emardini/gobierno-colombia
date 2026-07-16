@@ -12,6 +12,10 @@ on:
   # También permite ejecutar manualmente desde Actions
   workflow_dispatch:
 
+permissions:
+  contents: write
+  actions: read
+
 jobs:
   build-docx:
     runs-on: ubuntu-latest
@@ -58,7 +62,7 @@ jobs:
 
       - name: Create Release
         if: success()
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         with:
           files: dist/Estado-en-el-Territorio.docx
           tag_name: build-${{ github.run_number }}
