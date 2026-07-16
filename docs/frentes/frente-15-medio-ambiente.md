@@ -38,6 +38,8 @@ Los instrumentos existen y no hay que inventarlos, hay que financiarlos y llevar
 
 ## Minería: separar la legal de la ilegal
 
+> El diseño detallado de trazabilidad, verificación de comercializadores y persecución financiera del oro, el coltán y el wolframio ilegal vive en [Desmantelamiento de Economías Ilegales](../transversal/desmantelamiento-economias-ilegales.md), sección 4. Aquí queda el principio ambiental; ahí el mecanismo.
+
 La minería parte en dos y hay que tratar cada mitad distinto. La minería legal, formal y con licencia es una actividad económica legítima, que debe cumplir estándares ambientales y pagar lo que le corresponde. La minería ilegal, sobre todo el oro con mercurio que envenena los ríos del Chocó, Antioquia y la Amazonía, es otra cosa: es un desastre ambiental y, a la vez, una de las principales cajas de los grupos armados. Por eso combatirla es tanto política ambiental como de seguridad y de finanzas del crimen, y se ataca por donde más duele, el dinero. La plataforma y la inteligencia financiera le siguen el rastro a la comercialización del oro ilegal, que es su punto débil, en vez de perseguir solo al barequero pobre de la orilla. Al minero pequeño y de subsistencia, formalización y alternativas; a la cadena criminal que lo explota y lava el oro, persecución financiera. La misma lógica de separar al que sobrevive del que lucra.
 
 ## Explotar los minerales estratégicos sin repetir la maldición de los recursos
@@ -79,6 +81,4 @@ Colombia es uno de los países donde más asesinan a quienes defienden el ambien
 - La dependencia fiscal de los fósiles es real y no se desmonta con voluntarismo. El mayor riesgo del frente es prometer una transición más rápida de lo que el fisco aguanta y terminar importando energía o abriendo un hueco fiscal que acabe pagando el más pobre.
 - La capacidad de hacer cumplir la ley ambiental es limitada. Declarar áreas protegidas sin presencia que de verdad las proteja es papel, y la frontera se las come igual. Es el mismo riesgo de reabsorción que enfrenta el nodo.
 - El monitoreo satelital tiene vacíos, por nubes y falta de imagen, así que la detección orienta pero no lo ve todo, y necesita la denuncia y los ojos en el territorio.
-- La tensión entre conservar y dejar vivir al que habita el bosque es permanente. El frente la resuelve del lado del débil, pero mal aplicada puede volverse persecución al colono pobre o, al revés, permisividad con el gran depredador. Se corrige con evidencia, como todo el plan.
-
-> El país no protege su naturaleza declarando parques desde un escritorio, sino estando en el territorio donde hoy no está. El agua vale más que la renta que la destruye. Y la transición, o es honesta con las cuentas y justa con los pobres, o no es transición, es consigna.
+- La tensión entre conservar y dejar vivir al que habita el bosque es permanente. El frente la resuelve del lado del débil, pero mal aplicada puede volverse persecución al colono pobre o, al revés, permisividad con el gran depredador. Se corri

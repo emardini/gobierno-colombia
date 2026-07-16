@@ -17,6 +17,8 @@ Reencuadre: no "línea dura vs. negociación". La restricción que ata es **cont
 | Drogas | Meta de daño, no erradicación. Golpear tráfico, finanzas y lavado, no al campesino. Sustitución = desarrollo rural | Datos trimestrales | UNODC + Policía + Min. Agr. |
 | Equidad en la carga | Rendición de cuentas por toda muerte civil; candados DD.HH.; no repetir falsos positivos | Verificación independiente | Defensoría + Min. Defensa |
 
+> Este frente ataca el incentivo de sembrar (desarrollo, comprador garantizado, presencia estatal). El dinero, los minerales ilegales y la captura institucional que financia a estos grupos armados tienen su propio diseño, con su propia lógica, en [Desmantelamiento de Economías Ilegales](../transversal/desmantelamiento-economias-ilegales.md): son dos batallas distintas y confundirlas fue uno de los errores de diseño del PNIS.
+
 ## III.2 Seguridad concentrada con DIH en nodos Ola 1
 
 En los 3 nodos se aplica concentración de fuerza hasta "dominio del área": el grupo armado no opera abiertamente, ni recluta, ni extorsiona. Tropa + juez + médico + maestro entran juntos, en semanas. El éxito se mide en presencia estatal civil establecida y reclutamiento seco, no en bajas, lo que elimina el incentivo que generó los falsos positivos. Solo se aplica donde la tasa de homicidios ya desciende (salvo el nodo de aprendizaje (Columna Vertebral, 3.6), que se mantiene en Fase 0).
@@ -57,6 +59,4 @@ Entre arrancar la coca y que el cultivo alternativo produzca ingreso pasan 8-24 
 
 ## III.6 Soberanía y diversificación de proveedores de defensa
 
-Regla: ningún proveedor >40% del portafolio. Diversificar hacia Corea del Sur, Francia, Alemania, Turquía, Brasil y Colombia misma. Toda compra importada incluye cláusula obligatoria de transferencia tecnológica a COTECMAR/CIAC/Indumil, producción nacional progresiva (offset mínimo 20% en el primer contrato, escalando) y formación de ingenieros colombianos.
-
-> La verdadera soberanía es llenar el territorio de Estado, lo que además le quita a actores externos el pretexto barato para intervenir.
+Regla: ningún proveedor >40% del portafolio. Diversificar hacia Corea del
