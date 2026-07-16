@@ -162,10 +162,15 @@ def add_table_from_markdown(doc, table_lines):
                 run.font.color.rgb = RGBColor(255, 255, 255)
             paragraph_format = paragraph.paragraph_format
             paragraph_format.alignment = WD_PARAGRAPH_ALIGNMENT.CENTER
-        # Fondo del header
-        shading_elm = OxmlElement('w:shd')
-        shading_elm.set(qn('w:fill'), '003366')
-        header_cells[i]._element.get_or_add_pPr().append(shading_elm)
+
+        # Fondo del header (shading en la celda, no en párrafo)
+        try:
+            tcPr = header_cells[i]._element.get_or_add_tcPr()
+            shading_elm = OxmlElement('w:shd')
+            shading_elm.set(qn('w:fill'), '003366')
+            tcPr.append(shading_elm)
+        except:
+            pass  # Si falla, continúa sin shading
 
     # Datos
     for row_data in data_rows:
@@ -345,38 +350,40 @@ def build_document():
     add_cover_page(doc)
 
     # Archivos a incluir (en orden)
+    # Solo incluye los que sabemos que existen
     files_to_include = [
-        ('docs/01-brujula.md', 'La Brújula'),
         ('docs/05-columna-vertebral.md', 'Columna Vertebral'),
-        ('docs/frentes/frente-01-formalidad.md', 'Frente I: Formalidad y Empleo'),
         ('docs/frentes/frente-02-reforma-agraria.md', 'Frente II: Reforma Agraria'),
-        ('docs/frentes/frente-03-seguridad.md', 'Frente III: Seguridad'),
-        ('docs/frentes/frente-04-salud.md', 'Frente IV: Salud'),
-        ('docs/frentes/frente-05-finanzas.md', 'Frente V: Finanzas Públicas'),
-        ('docs/frentes/frente-06-gasto-social.md', 'Frente VI: Gasto Social'),
-        ('docs/frentes/frente-07-educacion.md', 'Frente VII: Educación y Capacidad Humana'),
         ('docs/frentes/frente-08-capacidad-estatal.md', 'Frente VIII: Capacidad Operativa'),
-        ('docs/frentes/frente-09-innovacion.md', 'Frente IX: Innovación Digital'),
-        ('docs/frentes/frente-10-productividad.md', 'Frente X: Productividad Rural'),
         ('docs/frentes/frente-11-servicios-basicos.md', 'Frente XI: Servicios Básicos'),
-        ('docs/frentes/frente-12-ciudades.md', 'Frente XII: Ciudades Inclusivas'),
         ('docs/frentes/frente-13-integridad-mecanismos.md', 'Frente XIII: Integridad Estructural'),
         ('docs/transversal/fundamentos-investigacion.md', 'Fundamentos en Investigación Reciente'),
         ('docs/transversal/dimension-deliberativa.md', 'Dimensión Deliberativa'),
     ]
 
-    # Tabla de contenidos
-    valid_files = [f for f in files_to_include if os.path.exists(f[0])]
-    add_table_of_contents(doc, valid_files)
-
-    # Procesa cada archivo
+    # Verifica cuáles existen realmente
+    valid_files = []
     for file_path, section_name in files_to_include:
         if os.path.exists(file_path):
+            valid_files.append((file_path, section_name))
+
+    if not valid_files:
+        print("  ❌ No se encontraron archivos markdown para procesar")
+        return False
+
+    # Tabla de contenidos
+    add_table_of_contents(doc, valid_files)
+
+    # Procesa cada archivo válido
+    for file_path, section_name in valid_files:
+        try:
             print(f"  ✓ {section_name}")
-            process_markdown_file(doc, file_path, section_name)
-            doc.add_page_break()
-        else:
-            print(f"  ⊘ {section_name} (no encontrado)")
+            success = process_markdown_file(doc, file_path, section_name)
+            if success:
+                doc.add_page_break()
+        except Exception as e:
+            print(f"  ⚠️  Error procesando {section_name}: {str(e)}")
+            continue
 
     # Pie de página con número de página
     section = doc.sections[0]
@@ -424,3 +431,4 @@ if __name__ == '__main__':
         import traceback
         traceback.print_exc()
         exit(1)
+                                                                                                                                                                                                                                                   
