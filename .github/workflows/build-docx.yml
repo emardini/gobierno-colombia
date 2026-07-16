@@ -47,8 +47,5 @@ jobs:
 
           # Commit y push
           git add DOCUMENTO-COMPLETO.md
-          git commit -m "docs: update from ${{ github.ref_name }}
-
-${{ github.event.head_commit.message }}" || echo "No changes"
-
+          git commit -m "docs: auto-update from ${{ github.ref_name }}" || echo "No changes"
           git push origin docs
