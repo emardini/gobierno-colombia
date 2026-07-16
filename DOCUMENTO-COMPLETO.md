@@ -8,13 +8,24 @@
 
 ## Contenido
 
-1. Columna Vertebral
-2. Frente II: Reforma Agraria
-3. Frente VIII: Capacidad Operativa
-4. Frente XI: Servicios Básicos
-5. Frente XIII: Integridad Estructural
-6. Fundamentos en Investigación Reciente
-7. Dimensión Deliberativa
+1. Columna Vertebral: Estado en el Territorio
+2. Frente I: Formalidad y Empleo
+3. Frente II: Reforma Agraria
+4. Frente III: Seguridad
+5. Frente IV: Salud
+6. Frente V: Finanzas Públicas
+7. Frente VI: Gasto Social
+8. Frente VII: Educación y Capacidad Humana
+9. Frente VIII: Capacidad Operativa
+10. Frente IX: Innovación Digital
+11. Frente X: Productividad Rural
+12. Frente XI: Servicios Básicos
+13. Frente XII: Ciudades Inclusivas
+14. Frente XIII: Integridad Estructural
+15. Fundamentos en Investigación Reciente
+16. Dimensión Deliberativa
+17. Viabilidad Jurídica
+18. Plataforma de Trazabilidad
 
 ---
 
@@ -488,6 +499,270 @@ Titular sin paquete habilitador produce papeles, no productividad: es el error h
 ---
 
 
+# Frente III: Seguridad, Soberanía e Inteligencia
+
+**Metas:** homicidios de ~26 a ≤18/100.000 en 4 años; coca −30% en 4 años; cero falsos positivos.
+
+## III.1 Estrategia de control territorial
+
+Reencuadre: no "línea dura vs. negociación". La restricción que ata es **control territorial + desmonte de economías ilegales**. Fuerza, negociación y sometimiento son herramientas subordinadas a ese fin.
+
+| Instrumento | Medida | Condición | Responsable |
+|---|---|---|---|
+| Negociación | Con grupos con mando verificable y horizonte político; garantes creíbles; avance condicionado a hechos | Cese verificado 90 días | Alto Comisionado |
+| Sometimiento | Grupos criminal-económicos sin agenda política; rendición individual con beneficios escalonados | Ventana de 6 meses | Fiscalía + Min. Justicia |
+| Fuerza | Último recurso; foco en cabecillas y finanzas, no en combatientes rasos | Solo tras fracaso de negociación/sometimiento | FF.MM. + Policía |
+| Secar reclutamiento | Empleo formal en zonas de riesgo; los nodos son la política de seguridad | Nodo activo = política de seguridad | DNP + SENA + Min. Trabajo |
+| Drogas | Meta de daño, no erradicación. Golpear tráfico, finanzas y lavado, no al campesino. Sustitución = desarrollo rural | Datos trimestrales | UNODC + Policía + Min. Agr. |
+| Equidad en la carga | Rendición de cuentas por toda muerte civil; candados DD.HH.; no repetir falsos positivos | Verificación independiente | Defensoría + Min. Defensa |
+
+## III.2 Seguridad concentrada con DIH en nodos Ola 1
+
+En los 3 nodos se aplica concentración de fuerza hasta "dominio del área": el grupo armado no opera abiertamente, ni recluta, ni extorsiona. Tropa + juez + médico + maestro entran juntos, en semanas. El éxito se mide en presencia estatal civil establecida y reclutamiento seco, no en bajas, lo que elimina el incentivo que generó los falsos positivos. Solo se aplica donde la tasa de homicidios ya desciende (salvo el nodo de aprendizaje (Columna Vertebral, 3.6), que se mantiene en Fase 0).
+
+## III.3 Capacidades de inteligencia: la brecha más urgente
+
+En 2025 la Fuerza Pública aumentó sus acciones 34% sin mejora de seguridad: el problema está menos en el déficit de operaciones que en el déficit de inteligencia y de justicia que consuma los resultados.
+
+| Capacidad | Qué se construye | Responsable | Plazo |
+|---|---|---|---|
+| Inteligencia territorial fina | Reconstruir redes locales de inteligencia humana; incentivos competitivos a la desmovilización individual como fuente | Comando FF.MM. + DNP | Año 1 |
+| Inteligencia financiera | Fortalecer la UIAF con análisis de redes; cruce con la plataforma de trazabilidad | UIAF + Fiscalía + MinHacienda | Años 1-2 |
+| Inteligencia ambiental | Detección en tiempo real de deforestación, minería ilegal y contaminación hídrica en nodos y cuencas | DNI + Min. Ambiente + IDEAM | Año 1 |
+| Capacidad antidron | Detección y neutralización en nodos y nodos de infraestructura crítica; desarrollo nacional vía CIAC | Min. Defensa + CIAC | Año 1 |
+| Ciberinteligencia | Monitoreo de redes usadas para reclutamiento, con garantías constitucionales | DNI + Fiscalía | Años 1-2 |
+| Justicia con capacidad | Ampliar Fiscalía y jueces especializados para procesar capturas; sin esto la acción militar no disuade | Fiscalía + Consejo Superior | Años 1-3 |
+
+## III.4 Jóvenes en Paz: cortar el reclutamiento desde la raíz
+
+El reclutamiento no se detiene con operaciones, con empleo y futuro. El programa Jóvenes en Paz tiene resultados verificados: Quibdó 1.857 beneficiarios → homicidios −25.9%; Tumaco 1.127 jóvenes → −34%.
+
+| Componente | Concreción | Responsable | Plazo |
+|---|---|---|---|
+| Escala en nodos | Obligatorio en Fase 0 de cada nodo, simultáneo al despliegue de fuerza. Mín. 1.000 jóvenes/nodo antes del fin de Fase 1 | DNP + SENA + Min. Trabajo | Fase 0 |
+| Incentivo tributario | Deducción del 150% para empresas que contraten jóvenes certificados en municipios de nodos | DIAN + Min. Trabajo | Año 1 |
+| Articulación SENA dual | Certificado de competencias como llave de salida del ciclo de reclutamiento; módulos de empleabilidad | SENA + Min. Trabajo | Fase 1 |
+
+## III.5 Puente de ingreso para sustitución de coca: el eslabón que rompe el ciclo
+
+Entre arrancar la coca y que el cultivo alternativo produzca ingreso pasan 8-24 meses. Sin ingreso en ese vacío, la familia regresa a la coca por necesidad. Cerrarlo es la condición de posibilidad de la sustitución voluntaria.
+
+| Componente | Concreción | Lógica | Responsable |
+|---|---|---|---|
+| Empleo temporal en obras del nodo | Prioridad a familias que arrancan coca: escuelas, salud, vías terciarias, acueductos, reforestación. $1.5-2M/mes, 6 meses. Meta 500-1.000 empleos/nodo | El campesino no pierde ingreso al salir de la coca; el período de espera construye los bienes públicos del nodo | Min. Trabajo + INVIAS + Min. Vivienda |
+| Pago por arranque voluntario | $5.000-8.000/ha: 50% al arrancar, 50% a los 6 meses con cultivo alternativo. Verificación por drones, no por papel | Señal económica inmediata que cambia el cálculo | UNODC + Min. Agricultura |
+| Compra garantizada (2 años) | El Estado compra 100% de la producción alternativa a ≥80% del precio internacional (Idema reformado) | Elimina la incertidumbre de mercado, segundo factor de regreso a la coca | Min. Agricultura + IDEMA reformado |
+| Articulación con reforma agraria | El arranque activa la titulación y el paquete habilitador. El título es el activo que vuelve permanente la decisión | La tierra propia es el mayor desincentivo al regreso | ANT + Min. Agricultura |
+
+## III.6 Soberanía y diversificación de proveedores de defensa
+
+Regla: ningún proveedor >40% del portafolio. Diversificar hacia Corea del Sur, Francia, Alemania, Turquía, Brasil y Colombia misma. Toda compra importada incluye cláusula obligatoria de transferencia tecnológica a COTECMAR/CIAC/Indumil, producción nacional progresiva (offset mínimo 20% en el primer contrato, escalando) y formación de ingenieros colombianos.
+
+> La verdadera soberanía es llenar el territorio de Estado, lo que además le quita a actores externos el pretexto barato para intervenir.
+
+
+---
+
+
+# Frente VII: Educación
+
+**Metas:** +10 puntos en el puntaje global de Saber 11 en 6 años; detener y revertir el crecimiento de la brecha urbano-rural en Saber 11 (de 26,7 puntos en 2025 a no más de 20 en 4 años, antes de intentar bajarla más); tasa NINI de ~20% a ≤15%; graduación oportuna en pregrado público de 43% a ≥55% en el período.
+
+## 7.0 El diagnóstico que esta versión no se puede seguir saltando
+
+La versión anterior de este frente eran cinco medidas genéricas sin mecanismo, sin vía jurídica y sin costeo, un nivel de detalle muy por debajo del resto del plan. Esta versión lo reconstruye con la misma disciplina que ya se aplicó en salud, seguridad e integridad: medidas concretas, responsables, plazos, vía jurídica explícita y costo, apoyadas en evidencia de qué funciona a bajo costo en vez de intuición.
+
+El punto de partida no es alentador, pero tampoco es el fracaso plano que a veces se cuenta. El puntaje global de Saber 11 viene subiendo desde la pandemia (250,2 en 2022, 255,8 en 2025), aunque todavía no recupera el techo histórico de 2016. Esa mejora, sin embargo, esconde tres brechas que crecen más rápido de lo que crece el promedio: la diferencia urbano-rural pasó de 18,5 puntos en 2014 a 26,7 en 2025, un aumento del 44% en doce años, ninguna otra desigualdad educativa del país creció tanto; la diferencia entre colegio oficial y no oficial pasó de 19,9 a 27,5 puntos; y apareció una brecha de género de 9 puntos que hace una década no existía, más marcada todavía en colegios oficiales. Colombia tiene, según la OCDE, una de las tasas más altas de jóvenes NINI del bloque, cerca de una quinta parte de los jóvenes en edad de trabajar según el DANE (hasta 25% en la franja de 18 a 24 años en la comparación de la OCDE, frente a un promedio de 14%). La caída reciente de esa cifra hay que contarla con la misma honestidad con que este documento trata sus propios números favorables: responde más a la caída de la natalidad y a la migración juvenil que a una mejora estructural de fondo. En educación superior, la cobertura pública creció de forma real (150.000 cupos nuevos, gratuidad para 846.000 estudiantes), pero la graduación oportuna en pregrado sigue en 43%, y en 2025 más de 100.000 beneficiarios de ICETEX perdieron el subsidio a la tasa de interés por restricción fiscal.
+
+Ninguna medida de este frente requiere ley nueva. Esa es, de hecho, la respuesta directa a la crítica de que el plan promete demasiado con instrumentos que no tiene: la mayoría de lo que Colombia necesita en educación ya cabe en el Estatuto de Profesionalización Docente (Decreto 1278/2002), en la potestad del Ministerio de Educación para fijar estándares curriculares por resolución (Ley 115/1994), en el contrato de aprendizaje del SENA (Ley 789/2002), en el Sistema Nacional de Acreditación de la educación superior (Ley 30/1992), en la Cátedra de la Paz ya obligatoria (Ley 1732/2014) y en el Programa Ondas de Minciencias, que ya lleva quince años formando la curiosidad científica de millones de niños. El problema no ha sido, en general, falta de norma. Ha sido no usar del todo la que ya existe.
+
+## 7.1 Primera infancia: la base que no se recupera después
+
+| Medida | Concreción | Responsable | Plazo |
+|---|---|---|---|
+| Cobertura CDI/HCB al 80% en nodos | Transferencia vinculada a indicadores de desarrollo infantil, no solo a la asistencia | ICBF + Min. Educación | Años 1-3 |
+| Tránsito protegido a preescolar y primero | Seguimiento nominal del niño entre el CDI/HCB y el colegio, para que ninguno se pierda en el cambio de sistema | ICBF + Min. Educación | Años 2-4 |
+
+La evidencia internacional (panel GEEAP, Banco Mundial/UNICEF/USAID, 2023) ubica el desarrollo infantil temprano entre las inversiones educativas de mayor retorno por peso invertido, junto con la pedagogía estructurada. Colombia ya tiene la institucionalidad (ICBF) y el programa (CDI/HCB); lo que falta es la condicionalidad por resultado que el resto del plan ya aplica en otros frentes, y el seguimiento del niño cuando cambia de sistema, que hoy se pierde con demasiada frecuencia.
+
+## 7.2 Aprendizaje fundamental: enseñar al nivel real, no al calendario del currículo
+
+Esta es la sección de mayor impacto por peso invertido de todo el frente, y la que la versión anterior no tenía.
+
+**El programa ya existe; lo que falta es rediseñarlo con la evidencia correcta.** El programa Todos a Aprender (PTA) opera desde hace más de una década en 805 de los 1.122 municipios del país, con más de 100.000 docentes acompañados. Una evaluación de impacto de 2025 (Scielo Colombia) encontró que el programa mejora la eficiencia escolar, pero de forma muy desigual según el grado de implementación, con rendimientos decrecientes donde se satura sin ajustar el método. El problema no es la falta de programa, es que el PTA se diseñó como acompañamiento genérico y no como los dos mecanismos que la evidencia global más reciente (revisión de más de 200 evaluaciones de impacto en 52 países, *Journal of Development Economics*, 2025) identifica como los de mayor retorno: la **pedagogía estructurada** (planes de clase con materiales ligados, monitoreo y acompañamiento continuo del docente, no solo capacitación puntual) y la **enseñanza al nivel real del estudiante** (agrupar por lo que el niño sabe hacer, no por el grado en que está matriculado, sobre todo en lectura y matemáticas de primaria).
+
+| Mecanismo | Rediseño sobre lo que ya existe | Responsable | Vía y plazo |
+|---|---|---|---|
+| Reagrupamiento por nivel en lectura y matemáticas (primaria) | Diagnóstico rápido al inicio de año; grupos de refuerzo por lo que el niño sabe hacer, no por el grado matriculado, en los colegios de mayor brecha | Min. Educación + PTA | Resolución MEN. Año 1 (piloto), Año 2 (nodos), Año 3 (rural disperso) |
+| Tutoría de alta dosis focalizada | Sesiones frecuentes e intensivas de refuerzo en lectura y matemáticas, priorizadas donde el índice de brecha (ver abajo) es peor, no repartidas parejo | PTA + Min. Educación | Reglamento del programa existente. Por ola, siguiendo el calendario de nodos |
+| Materiales estructurados con guion de clase | Planes de clase con materiales ligados y protocolo de acompañamiento verificable, en vez de talleres genéricos de "buenas prácticas" | Min. Educación | Resolución MEN. Año 1-2 |
+| Índice de Brecha de Aprendizaje Territorial (IBAT) | Cruza Saber 3°-5°-9°-11° con zona rural/urbana y sector oficial/no oficial, publicado con desagregación municipal, misma lógica que el IBET étnico (Frente XIII) y el IPN de nodos (Columna Vertebral 3.3.1) | ICFES + DANE | Resolución conjunta. Año 1 |
+
+El IBAT no es un instrumento nuevo de fondo, es la misma arquitectura de medición que el plan ya usa dos veces (IPN, IBET), aplicada aquí para decidir dónde entra primero la tutoría de alta dosis y el reagrupamiento por nivel: no parejo en todo el país, donde más lo necesita primero.
+
+**Costeo.** Esto no es un programa nuevo que compita por presupuesto fresco, es el PTA existente rediseñado. El costo marginal es el de los materiales estructurados y la recapacitación de los tutores actuales en el nuevo protocolo, un orden de magnitud menor que crear una estructura paralela, sobre un presupuesto sectorial que ya pasó de $49,8B en 2022 a $70,4B en 2024.
+
+## 7.3 Maestros: el mérito que el Estatuto ya permite y nunca se activó del todo
+
+El Decreto 1278 de 2002 ya faculta al Gobierno Nacional a reglamentar estímulos e incentivos salariales ligados al desempeño docente, sujeto a apropiación presupuestal. Es una potestad de dos décadas, parcialmente usada (bonificaciones puntuales como el Decreto 983/2017), nunca activada a la escala que el propio Estatuto permite.
+
+| Medida | Concreción | Responsable | Vía y plazo |
+|---|---|---|---|
+| Bonificación rural y de zona dispersa | Sobresueldo diferencial para maestros en nodos y zonas de mayor brecha, dentro del margen que ya autoriza el Decreto 1278 | Min. Educación + MinHacienda | Decreto reglamentario. Año 1 |
+| Maestro mentor | Docentes de mayor desempeño verificado asumen, con estipendio adicional, el acompañamiento de pares en su misma institución, en vez de que la única vía de ascenso sea el examen individual | Min. Educación | Decreto reglamentario (ajusta la evaluación ya existente). Año 2 |
+| Evaluación que pesa el aula, no solo el papel | Recalibrar los factores de la evaluación de desempeño (ya vigente) para que la visita de acompañamiento y la ganancia de aprendizaje verificable del grupo pesen más que el examen de conocimientos aislado | Min. Educación + DAFP | Decreto reglamentario. Año 2 |
+| Concurso meritocrático sin cola de espera indefinida | Calendario público y predecible de convocatorias, para que la planta de nodos y zonas de brecha se llene con concursados, no con provisionales indefinidos | Min. Educación + CNSC | Sin cambios normativos. Año 1 |
+| Plan de mejoramiento obligatorio entre la primera evaluación insatisfactoria y la segunda | El Estatuto ya exige dos evaluaciones consecutivas insatisfactorias para el retiro; este frente reglamenta lo que hoy no está reglamentado a fondo, que en ese año intermedio el docente reciba acompañamiento estructurado del maestro mentor de su institución, con objetivos concretos y verificables, no que quede solo a la espera de la segunda evaluación | Min. Educación + maestro mentor | Decreto reglamentario. Año 1 |
+
+El objetivo de la evaluación no es depurar la planta, es mejorarla. Por eso el plan de mejoramiento no es un trámite de forma: es la diferencia entre un sistema que castiga el primer tropiezo y uno que primero intenta corregirlo, y solo llega a la consecuencia dura si el acompañamiento, ya dado, no funcionó.
+
+Nada de esto exige tocar el Estatuto. La discusión gremial sobre unificar el 1278 con el régimen anterior (2277) es legítima y está en curso en otro plano, pero no es requisito para activar lo que el 1278 ya autoriza y el gobierno de turno simplemente no ha reglamentado a fondo.
+
+**El riesgo político que este frente no puede fingir que no existe.** FECODE ha resistido durante dos décadas justo la parte más dura del Decreto 1278: la evaluación de desempeño con consecuencia de retiro tras dos años consecutivos insatisfactorios, bandera de al menos un paro nacional (2015) y de su demanda histórica de fusionar el 1278 con el 2277 en un estatuto único sin ese riesgo. La bonificación rural y el maestro mentor no deberían generar el mismo choque, porque son plata adicional sin riesgo de retiro. La pieza que sí puede activar resistencia gremial, incluida la amenaza de paro, es recalibrar la evaluación (aunque el objetivo, pesar el aula y no solo el examen, sea defendible en sí mismo). La respuesta de este frente no es evitar el tema: es secuenciar. La bonificación y el mentor entran primero, como confianza construida con hechos, y la recalibración de la evaluación se lleva a la Comisión Nacional de Concertación de Políticas Salariales y Laborales del Sector Público, que ya existe y ya es el canal legal de negociación con el magisterio, en vez de decretarse de un golpe sin mesa previa, que es históricamente lo que dispara el paro, no el contenido técnico del cambio.
+
+### 7.3.1 Qué toma este frente de los sistemas más avanzados, y qué no
+
+Copiar Finlandia o Singapur completos no sirve de nada a un país con el punto de partida fiscal e institucional de Colombia; la pregunta útil no es qué hacen los mejores sistemas del mundo, sino cuáles de sus palancas concretas sobreviven la traducción a un presupuesto ajustado, un Estado descentralizado en 1.122 municipios y un Estatuto docente que ya existe y no se va a reemplazar. Tres casos, con lo que sí se adapta y lo que no.
+
+- **Estonia** construyó su ventaja no con más plata por alumno (gasta menos por estudiante que buena parte de la OCDE) sino con autonomía real del docente sobre cómo enseñar, un currículo nacional que fija el qué y deja el cómo al maestro, y una carrera docente de cuatro etapas (voluntaria, ligada a competencias verificadas, no solo a antigüedad) con acompañamiento entre pares integrado a la rutina escolar. Lo que se adapta: la figura del maestro mentor (7.3) y la evaluación que pesa el aula (7.3) son, en lo esencial, una versión de bajo costo de ese mismo diseño, montada sobre el Decreto 1278 que ya existe, no sobre una reforma salarial general que Colombia no puede pagar todavía. Lo que no se adapta: Estonia llegó a pagar a sus maestros 120% del salario promedio nacional después de una década de aumentos sostenidos; Colombia no tiene ese espacio fiscal hoy, así que el incremento de este frente se concentra en la bonificación rural, focalizada, no en un aumento general.
+- **Singapur** separa el ascenso salarial de convertirse en directivo: un maestro puede subir de categoría y de sueldo por dos vías más, quedándose en el aula (vía de especialista sénior) o formando a otros (vía de liderazgo pedagógico), no solo por la vía administrativa tradicional. Lo que se adapta: el maestro mentor de este frente ya recoge esa idea, sin necesidad de construir el aparato de evaluación centralizado y de altísimo costo que tiene el sistema de Singapur completo. Lo que no se adapta: Singapur invierte en la selección de origen (solo entra a la docencia el tercio superior de cada cohorte universitaria), algo que depende de la atractividad de la carrera y del mercado laboral general, no de una reglamentación que un solo gobierno pueda decretar en cuatro años.
+- **Vietnam** supera en las pruebas PISA a países con mucho mayor ingreso, y la evidencia más reciente (2023-2025) atribuye esa ventaja a una combinación de alto gasto relativo en educación (~20% del gasto público), currículo estructurado, alta exigencia de rendición de cuentas a docentes y directivos, y liderazgo escolar fuerte, no a ningún programa aislado. Lo que se adapta: la combinación misma, currículo con estándares claros (7.4) más pedagogía estructurada (7.2) más acompañamiento docente exigente (7.3), es exactamente la apuesta de este frente. Lo que no se adapta, y hay que decirlo con la misma honestidad con que el resto del plan trata la evidencia externa: parte de la ventaja de Vietnam viene de un compromiso político y cultural sostenido por décadas y de un sistema de partido único con capacidad de disciplina administrativa que no es transferible a una democracia descentralizada como la colombiana, y algunos estudios advierten que su método de muestreo en PISA podría inflar algo el resultado por la población fuera del sistema escolar. La lección útil no es el régimen político, es que el paquete (currículo + pedagogía + exigencia docente) rinde más junto que cualquiera de sus piezas por separado, que es justo por qué este frente los ata entre sí (7.2, 7.3, 7.4) en vez de tratarlos como reformas independientes.
+
+### 7.3.2 Formación continua: que la calidad del maestro no se detenga en el concurso de ingreso
+
+Los incentivos del 7.3 cambian lo que se premia una vez el docente ya está en el aula, pero no resuelven una pregunta distinta: cómo se asegura que la formación del maestro siga mejorando durante toda la carrera, no solo en el examen de ingreso. Colombia ya tiene la arquitectura para esto, definida por el MEN como el **Sistema Colombiano de Formación de Educadores (SCFE)**, que organiza tres momentos de la formación docente sin que hasta ahora se hayan conectado con la disciplina del resto del plan.
+
+| Momento | Qué ya existe | Qué agrega este frente | Vía y plazo |
+|---|---|---|---|
+| Formación inicial (universidad) | Las licenciaturas ya están sujetas al Sistema de Aseguramiento de la Calidad (registro calificado obligatorio y acreditación de alta calidad, CNA/CONACES) | El concurso docente (7.3) da puntaje adicional, no excluyente, a egresados de licenciaturas acreditadas, para que la acreditación deje de ser un sello sin consecuencia práctica en la contratación | Resolución MEN + CNSC. Año 2 |
+| Formación en servicio | El PTA rediseñado (7.2) ya es, de hecho, el vehículo de formación en servicio más grande del país | Se declara explícitamente como tal dentro del SCFE, y su contenido deja de ser genérico: se ajusta cada año con los datos de la evaluación de desempeño (7.3) y del IBAT, formación donde el dato muestra que más se necesita, no un curso igual para todos | Sin norma nueva; ajuste de contenido del programa existente. Anual, desde Año 1 |
+| Formación avanzada (posgrado) | Programas de becas para maestría/doctorado docente han existido de forma intermitente en el MEN | Becas de posgrado priorizadas para maestros de nodos y zonas de mayor brecha, con compromiso de permanencia de al menos 3 años en la zona tras el posgrado, la misma lógica que ya usa el servicio rural obligatorio en salud para evitar que la inversión se vaya el día que termina | MEN + ICETEX. Decreto/convenio. Años 2-4 |
+
+El principio que conecta los tres momentos: la formación deja de ser un evento puntual (un curso, una certificación) y se convierte en una rutina anual que responde a lo que el propio sistema de evaluación ya mide, la misma lógica de cierre del ciclo que el Frente XIII aplica a la corrupción territorial y que este frente aplica aquí al aprendizaje del maestro.
+
+### 7.3.3 La coalición con el magisterio: qué gana FECODE, no solo qué acepta
+
+Negociar la resistencia previsible del 7.3.1 no basta. La pregunta más ambiciosa, y la correcta, es qué necesitaría este frente para que FECODE no solo tolere el paquete sino que tenga interés propio en sostenerlo, la misma lógica de coaliciones con interés económico directo que el plan ya usa para blindar los nodos (Columna Vertebral, Capa 3). Eso exige empezar por lo que de verdad le urge al magisterio hoy, no por lo que le urge a este plan.
+
+**Lo que más urge hoy no es el 1278, es el Fomag.** El sistema de salud del magisterio (Fondo Nacional de Prestaciones Sociales del Magisterio) entró en 2024-2026 en una crisis real y verificable: la red de prestadores se redujo 84% con el nuevo modelo, el patrimonio del fondo pasó de $1,2 billones positivos en 2021 a cerca de $3 billones negativos en 2025, más de 2.300 contratos operaron sin auditoría, y la crisis llegó a un paro nacional del magisterio en abril de 2026 por fallas en la entrega de medicamentos y continuidad de tratamientos. Este plan no necesita inventar una solución nueva para esto: ya tiene, diseñada para otro sector, la herramienta exacta que este problema pide. La caja de vidrio del Frente VI (giro directo, separación pagador/prestador/auditor, pago contra prestación verificada, trazabilidad en datos abiertos) es, mecanismo por mecanismo, la respuesta a una red de contratos sin auditoría y un fondo con patrimonio negativo. Aplicarla al Fomag, a través de su propio Consejo Directivo (que ya tiene representación de Fecode, sin necesidad de crear ninguna instancia nueva), es la oferta más creíble que este plan le puede hacer al magisterio: no una promesa sobre la evaluación docente, una solución verificable a la crisis que hoy los saca a marchar.
+
+| Lo que ofrece el plan | Por qué es un interés real de Fecode, no una concesión de forma | Vía y plazo |
+|---|---|---|
+| Caja de vidrio aplicada al Fomag (trazabilidad, auditoría de los +2.300 contratos, giro directo al prestador) | Resuelve la crisis que ya provocó un paro nacional en 2026, con la herramienta que el plan ya construyó para salud (Frente VI), no una promesa nueva sin diseño | Decisión del Consejo Directivo del Fomag (con Fecode ya representado) + Fiduprevisora. Año 1, urgente |
+| Autonomía pedagógica real en el aula (lección de Estonia, 7.3.1) | El maestro deja de ser ejecutor de un guion impuesto y gana margen profesional sobre el cómo, a cambio de aceptar que el qué (estándares) y el resultado se midan | Resolución MEN. Año 1-2 |
+| Maestro mentor y bonificación rural como ingreso adicional, no como amenaza | Abre una vía de ascenso salarial sin abandonar el aula (lección de Singapur, 7.3.1), un beneficio material directo para buena parte de la base afiliada | Decreto reglamentario. Año 1-2 |
+| Becas de posgrado priorizadas (7.3.2) | Inversión en la carrera del maestro que hoy compite por pocos cupos intermitentes; se vuelve programa estable | MEN + ICETEX. Años 2-4 |
+| Recalibración de la evaluación llevada a la mesa de concertación, no decretada unilateralmente | Fecode participa en el diseño de los nuevos factores de evaluación (7.3), no los recibe hechos | Comisión Nacional de Concertación de Políticas Salariales y Laborales del Sector Público. Año 2 |
+| Compromiso explícito de no tocar el Estatuto (1278/2277) sin la misma mesa | Quita el miedo de fondo que explica buena parte de la resistencia histórica: que la reglamentación de hoy sea la antesala de una reforma estructural no negociada mañana | Declaración de política, sin necesidad de norma |
+
+El orden importa tanto como el contenido: el Fomag se aborda primero y con la urgencia que la crisis ya tiene, no al final de la lista. Un gobierno que resuelve el problema de salud que hoy saca a los maestros a marchar, antes de pedirles que acepten una evaluación recalibrada, negocia desde la confianza construida, no desde la promesa. Es la misma secuencia que el resto del plan ya aplica en los nodos: primero seguridad y presencia, después lo que exige más confianza.
+
+### 7.3.4 Si a pesar de todo hay bloqueo: diseño para el peor caso, no pelea con el gremio
+
+El mismo principio rector del Frente XIII aplica aquí: **diseñar para el peor caso, no para el promedio.** La coalición del 7.3.3 es la apuesta central, pero el frente no puede depender de que funcione. Y hay que ser precisos sobre qué significa "sabotaje" aquí, porque la respuesta cambia según el caso: un paro por una demanda legítima (el propio Fomag, por ejemplo) es un derecho laboral que este plan protege, no un obstáculo que combatir, la misma distinción que el Frente XIII ya traza entre acelerar el litigio del poderoso que busca demorar el control y no tocar nunca el del débil que defiende un derecho real. Lo que sí exige diseño es que el reformismo no dependa por completo de que la dirigencia sindical, en cualquier momento y por cualquier cálculo político, decida cooperar.
+
+| Riesgo | Diseño que lo resiste |
+|---|---|
+| El paquete completo se cae si la dirigencia de FECODE rechaza el conjunto en bloque | Los beneficios materiales (bonificación rural, maestro mentor, caja de vidrio del Fomag, becas de posgrado) se implementan de forma incondicional y no se atan a que el gremio acepte la recalibración de la evaluación, que queda como la única pieza sujeta a concertación. El paquete es separable, no todo o nada. |
+| Un paro nacional paraliza la implementación en el territorio sin necesidad de tocar ninguna ley | La continuidad del aprendizaje no depende solo de la presencia diaria del maestro: los materiales estructurados del 7.2, el aprendizaje asistido por computador del 7.5 y el contenido offline ya están diseñados para funcionar con menor acompañamiento presencial si hace falta, sin que esto se use nunca como sustituto permanente del maestro ni como herramienta para romper un paro. |
+| La alimentación escolar se usa como rehén de una disputa laboral que no tiene que ver con el PAE | El PAE (7.8) corre por la UApA y las alcaldías, no por la nómina docente; su continuidad no depende de si hay o no cese de actividades en las aulas. |
+| La negociación se estanca porque la base afiliada no sabe qué está realmente sobre la mesa | Los beneficios concretos (cifras de la bonificación, alcance del arreglo del Fomag, cupos de becas) se publican con la misma lógica de datos abiertos que el resto del plan, directamente a los maestros y no solo a la dirigencia, para que el respaldo o el rechazo del paquete se decida con información completa, no con la versión que cada lado cuente. |
+| Un rechazo se vuelve permanente porque no hay ninguna instancia formal donde reabrir la conversación | La Comisión Nacional de Concertación (7.3.3) no es una reunión única: queda como mesa permanente para la pieza de evaluación, con reuniones periódicas fijadas de antemano, para que un no de hoy no cierre la puerta de aquí a cuatro años. |
+
+Lo que este diseño no hace, y no debería hacer, es tratar una huelga magisterial como una amenaza a neutralizar. El plan protege el derecho de huelga en general (es, de hecho, el mismo principio que aplica en el Frente XIII a la protesta social legítima) y reserva su capacidad de resistencia para el escenario distinto: que la reforma pedagógica de fondo (7.2, 7.4, 7.4b), que no depende de la evaluación docente ni requiere el visto bueno del gremio para avanzar, no quede rehén de una disputa que es, en su origen, sobre una sola pieza del frente y no sobre el resto.
+
+## 7.4 Currículo y estándares: lo mínimo que todo colegio debe garantizar
+
+El Ministerio de Educación ya tiene la potestad de fijar lineamientos curriculares y estándares básicos de competencias por resolución (Ley 115/1994), sin pasar por el Congreso. Esta sección usa esa potestad para cerrar una promesa que el plan ya hizo en otro frente sin detallarla: el estándar mínimo de calidad en todo colegio, parte del piso universal (Frente XIII, anticlasismo).
+
+| Medida | Concreción | Responsable | Vía y plazo |
+|---|---|---|---|
+| Estándar mínimo verificable en lectura y matemáticas por grado | Actualización de los estándares básicos de competencias, con foco explícito en lo fundamental antes que en la cobertura temática amplia | Min. Educación | Resolución MEN. Año 1 |
+| Habilitación y cierre por incumplimiento sostenido | El colegio que no alcanza el estándar mínimo dos años seguidos, verificado por Saber, entra a plan de mejoramiento obligatorio con acompañamiento del PTA reforzado; si persiste, aplica la habilitación/cierre ya prevista para el piso universal | Min. Educación + Secretarías | Decreto + resolución. Años 2-4 |
+
+## 7.4b Formación en valores, integridad y método científico: lo que se enseña, no solo cómo
+
+Las secciones anteriores construyen el piso (leer, contar) y rediseñan al maestro que lo enseña. Falta el contenido: qué se forma además de la competencia técnica. Colombia ya tiene, sin necesitar ley nueva, tres piezas que existen hace años y casi nunca se cuentan juntas: la Cátedra de la Paz, obligatoria en todo colegio del país desde 2015 (Ley 1732/2014, Decreto 1038/2015); los Estándares Básicos de Competencias Ciudadanas y de Ciencias Naturales, que el MEN ya fija por resolución; y el Programa Ondas de Minciencias, quince años operando, más de 4 millones de niños participantes históricos y más de 92.000 solo en Antioquia en 2025, con un modelo ya probado de investigadores-niños y capital semilla por grupo. Este frente no crea ninguna de las tres. Las conecta entre sí y las prioriza en los nodos y en los colegios de mayor brecha.
+
+| Medida | Concreción | Responsable | Vía y plazo |
+|---|---|---|---|
+| Integridad y anticorrupción desde la Cátedra de la Paz | Incorporar contenido específico de integridad pública y anticorrupción al contenido ya obligatorio de la Cátedra de la Paz, en alianza con experiencias ya probadas en el país (como "Mundo Crystal" de Transparencia por Colombia), sin crear asignatura nueva | Min. Educación + Secretaría de Transparencia + sociedad civil | Orientación MEN + convenio. Año 1-2 |
+| Pensamiento crítico vía lectura crítica y debate estructurado | Aplicar a la comprensión crítica de textos y al debate en aula el mismo protocolo de pedagogía estructurada del 7.2 (guion, monitoreo, acompañamiento), en vez de tratarlo como contenido aparte sin método | Min. Educación + PTA | Resolución MEN. Años 1-3 |
+| Método científico real: escalar el Programa Ondas en nodos | Priorizar cupos y capital semilla del programa (ya existente, Minciencias) en los colegios de los nodos y de mayor IBAT, con preguntas de investigación ancladas cuando se pueda al vector del propio nodo (el agua, el cacao, el suelo, la energía solar del territorio) | Minciencias + Min. Educación | Sin norma nueva; priorización dentro del programa existente. Por ola |
+| Ciencias con más laboratorio y menos memorización | Recalibrar los Estándares Básicos de Ciencias Naturales (misma vía que 7.4) para que la evaluación de aula pese la observación, la hipótesis y el experimento, no solo el examen de contenidos | Min. Educación | Resolución MEN. Años 2-3 |
+
+**El límite honesto de la pieza anticorrupción.** La corrupción no se cura enseñándole a un niño de nueve años qué es un pliego de condiciones; se cura con los mecanismos de diseño que hacen costoso robar hoy (Frente XIII). Lo que la formación temprana sí puede hacer es más lento y no sustituye lo anterior: un ciudadano que entiende desde chico por qué la plata pública se audita y se hace pública crece exigiendo esa misma auditoría de adulto, y ese ciudadano es, en quince años, el elector, el veedor o el funcionario que sostiene los mecanismos que este plan construye hoy. Es una apuesta de largo plazo, no un atajo, y no reemplaza ni un solo candado del Frente XIII.
+
+**La tensión que este frente no esconde.** La pedagogía estructurada del 7.2 es, por diseño, medible y repetible, y ese es precisamente su valor para cerrar la brecha en lectura y matemáticas. Aplicada sin criterio a todo lo demás, podría aplanar justo lo que el Programa Ondas protege: la pregunta que el niño hace porque quiere saber, no porque va a salir en la prueba. Por eso Ondas se mantiene deliberadamente voluntario y fuera del sistema de evaluación estandarizada, como contrapeso explícito, no como programa suelto que compite por atención con el resto del frente.
+
+## 7.5 Conectividad y aprendizaje asistido: el mismo cable que ya paga el nodo
+
+El modelo de nodos ya contempla llevar conectividad ancla a cada territorio (Columna Vertebral, Fase 1); este frente no pide una nueva inversión en fibra, usa la que el nodo ya financia por otras razones. Sobre esa conectividad, el software de aprendizaje asistido por computador es, según la misma revisión de evidencia de 2025, una de las intervenciones de mejor costo-beneficio cuando se monta sobre infraestructura que ya existe, y una de las peores cuando se compra el hardware sin la conectividad ni el contenido pedagógico detrás.
+
+| Medida | Concreción | Responsable | Vía y plazo |
+|---|---|---|---|
+| Aprendizaje asistido por computador en lectura y matemáticas | Software de práctica adaptativa (ya evaluado internacionalmente) en los colegios que reciben conectividad ancla del nodo, priorizados por el IBAT | Min. TIC + Min. Educación | Sin norma nueva; convenio de licenciamiento. Por ola |
+| Contenido offline para zona sin cobertura estable | Bibliotecas y ejercicios descargables que no dependen de conexión permanente, para el tramo del nodo donde la fibra aún no llega | Min. Educación + Min. TIC | Sin cambios. Años 1-3 |
+
+## 7.6 Educación media y tránsito a la vida productiva: SENA dual y bilingüismo pertinente
+
+| Medida | Concreción | Responsable | Vía y plazo |
+|---|---|---|---|
+| SENA dual por vector de nodo | Currículos y cupos garantizados pegados al vector productivo de cada nodo (agroindustria, turismo, energía, MRO), usando el contrato de aprendizaje ya vigente (Ley 789/2002), sin crear figura nueva | SENA + sector privado del nodo | Sin ley nueva. Por ola |
+| Bilingüismo con la misma pedagogía estructurada del 7.2 | Extender el método de planes de clase estructurados y monitoreo, ya diseñado para lectura y matemáticas, a la enseñanza de inglés en colegios de nodos con vector turístico o exportador | Min. Educación + programa Colombia Bilingüe | Resolución MEN. Años 2-4 |
+| Media técnica articulada con el SENA | Que el título de bachiller salga acompañado de una certificación técnica inicial en el oficio del nodo, no como programa aparte sino como articulación ya prevista en la ley general de educación | Min. Educación + SENA | Sin cambios normativos. Por ola |
+
+## 7.7 Educación superior: cobertura que se paga con calidad y pertinencia, no solo con cupos
+
+La expansión de cobertura pública de los últimos años es real y positiva, pero expandir cupos sin atar el financiamiento a calidad y empleabilidad corre el riesgo de convertirse en otro programa que crece en matrícula y no en resultado, la misma trampa que este plan ya identificó en otros sectores. Colombia no necesita crear un sistema de aseguramiento de calidad nuevo: el Consejo Nacional de Acreditación (CNA, Ley 30/1992) y el Observatorio Laboral para la Educación (OLE, ya operado por el Ministerio) existen hace años y están subutilizados como criterio de financiamiento.
+
+| Medida | Concreción | Responsable | Vía y plazo |
+|---|---|---|---|
+| Gratuidad y nuevos cupos condicionados a acreditación vigente o en trámite avanzado | El crecimiento de cupos financiados prioriza programas acreditados por el CNA o con plan de mejoramiento verificable, no matrícula sin más | Min. Educación + CNA | Decreto/CONPES. Año 2 |
+| Financiamiento que sigue al egresado empleado | El OLE, que ya cruza matrícula con vinculación laboral formal (PILA), se usa como criterio de asignación presupuestal entre programas, no solo como reporte estadístico | Min. Educación + OLE + PILA | Decreto/CONPES. Años 2-3 |
+| Subsidio de tasa de interés de ICETEX focalizado, no universal | Ante la restricción fiscal que ya llevó a retirar el subsidio a más de 100.000 beneficiarios en 2025, concentrar el subsidio restante en carreras STEM, pedagogía y vectores de nodo, y en estudiantes rurales, en vez de repartirlo parejo sin ese criterio | ICETEX + Min. Educación | Decisión de junta directiva de ICETEX (decreto/CONPES). Año 1 |
+| Meta de graduación oportuna, no solo de cobertura | Tablero público de graduación a tiempo por programa e IES, hoy en 43%, con la misma lógica de datos abiertos que el resto del plan | Min. Educación + SNIES | Sin cambios normativos. Año 1 |
+
+**El límite honesto de esta sección.** Focalizar el subsidio de ICETEX es una decisión defendible dado el punto de partida fiscal del programa (ver Cuadro Fiscal), pero es también una restricción real para el estudiante de clase media que hoy cuenta con ese crédito y no entra en las categorías priorizadas. El plan no lo esconde: la alternativa de mantenerlo universal, sin recursos nuevos, sería un subsidio cada vez más delgado para todos, no uno efectivo para nadie.
+
+## 7.8 Alimentación escolar: cerrar lo que falta de una política que ya arrancó bien
+
+Este es el punto donde la versión anterior del frente era más débil: trataba el PAE solo como caso de integridad del gasto, sin decir nada de cobertura ni de calidad nutricional, como si el programa fuera menor. No lo es, y hay que partir reconociendo un avance real, no inventado: en 2022 el PAE llegó al 76% de los estudiantes; en 2026 llega al 85,5%, el nivel más alto de su historia, con un presupuesto que casi se duplicó ($3,94B en 2021 a $7,31B en 2026) y que en 2025 se convirtió, después de 60 años de programa, en política de Estado con financiamiento de largo plazo, no solo en programa de gobierno de turno. La calidad también mejoró: la comida preparada en sitio, más nutritiva y más difícil de inflar en factura que la ración industrializada, subió de 57% a 78% de los casos entre 2022 y 2025. Y existe ya una estrategia de continuidad en vacaciones (PAE en Receso) que evita el hueco nutricional de fin de año escolar.
+
+El punto débil real no es la ausencia de plan, es que a este documento le faltaba decirlo y, sobre eso, faltaba un objetivo concreto de cierre. Queda así:
+
+| Medida | Concreción | Responsable | Vía y plazo |
+|---|---|---|---|
+| Cerrar el 14,5% de cobertura restante, empezando por los nodos | El déficit de cobertura que aún queda (de 85,5% a universal) se cierra primero en los municipios de nodo y en los de mayor IBAT, no parejo en todo el país | UApA (Unidad de Alimentos para Aprender) + Min. Educación | Sin norma nueva; dentro de la política de Estado ya vigente. Por ola |
+| Minuta nutricional mínima verificable, no solo entregada | La minuta patrón (ya definida técnicamente) se audita contra lo servido, con veeduría ciudadana y datos abiertos, no solo contra lo comprado | UApA + ICBF | Sin cambios normativos. Año 1 |
+| 100% comida preparada en sitio en los nodos | El avance nacional de 57% a 78% se acelera a 100% primero en los municipios de nodo, donde el plan ya tiene equipo territorial para verificarlo | UApA + Alcaldías | Meta dentro de la política existente. Por ola |
+| Continuidad de PAE en Receso en municipios de nodo | La estrategia de vacaciones, ya diseñada, se garantiza sin interrupción en los nodos, donde la inseguridad alimentaria de fondo suele ser mayor | UApA + Alcaldías | Sin cambios normativos. Desde Año 1 |
+| Digitalización de toda la cadena, de la compra al plato | Trazabilidad completa, veeduría ciudadana, cambio de operador ante irregularidad verificada | Min. Educación + Alcaldías | Año 1 |
+
+Nada de esto pide ley nueva ni gasto adicional grande: la Ley 2183 de 2022 y la política de Estado que de ahí se derivó en 2025 ya crearon la Unidad de Alimentos para Aprender, ya comprometieron financiamiento sostenido, y ya fijaron calidad y cobertura como ejes propios. Lo que este frente aporta es lo que aporta en todo lo demás: priorizar por dónde entra primero (nodos, mayor brecha) y atar la calidad a datos verificables, no dar por hecho que "ya existe" es lo mismo que "ya llegó a todos".
+
+## 7.9 Vía jurídica y costeo del Frente VII
+
+| Mecanismo | Vía | Por qué no requiere ley nueva |
+|---|---|---|
+| Reagrupamiento por nivel, materiales estructurados, IBAT | Resolución MEN / ICFES-DANE | El MEN ya fija lineamientos y estándares por resolución (Ley 115/1994); el ICFES ya aplica y publica las pruebas |
+| Bonificación rural, maestro mentor, evaluación recalibrada | Decreto reglamentario | El Decreto 1278/2002 ya faculta al Gobierno a reglamentar incentivos y ajustar los factores de evaluación |
+| SENA dual, media técnica articulada | Sin cambios | El contrato de aprendizaje (Ley 789/2002) y la articulación media-SENA ya existen; falta uso sistemático, no norma |
+| Financiamiento superior atado a acreditación y empleabilidad | Decreto/CONPES | El CNA (Ley 30/1992) y el OLE ya existen como criterio disponible, no usado a fondo como condición de financiamiento |
+| Subsidio ICETEX focalizado | Decisión de junta directiva | ICETEX ya tiene facultad reglamentaria sobre sus propias líneas de crédito y subsidio |
+| Integridad/anticorrupción en la Cátedra de la Paz, pensamiento crítico, Programa Ondas en nodos | Orientación MEN + priorización interna de programa existente | La Cátedra de la Paz ya es obligatoria por ley (1732/2014); el Programa Ondas ya opera hace 15 años bajo Minciencias; ninguno de los dos requiere crear norma ni estructura nueva |
+| Formación continua (inicial, en servicio, avanzada) | Resolución MEN + convenio MEN-ICETEX | El Sistema Colombiano de Formación de Educadores ya existe como marco del MEN; la acreditación de licenciaturas ya es obligatoria (CNA/CONACES) |
+| Caja de vidrio aplicada al Fomag | Decisión del Consejo Directivo del Fomag + Fiduprevisora | El Fomag ya es un fondo-cuenta con régimen especial (Ley 91/1989) y consejo directivo con representación de Fecode; no requiere ley nueva, solo la misma lógica de trazabilidad ya diseñada para el Frente VI |
+| Cierre de cobertura y calidad del PAE en nodos | Decisión de la Unidad de Alimentos para Aprender (UApA) | El PAE ya es política de Estado desde 2025 (Ley 2183/2022 y su desarrollo), con financiamiento propio; el frente solo prioriza y audita, no crea programa |
+
+**Costeo, en el mismo espíritu de orden de magnitud que el Cuadro Fiscal.** La mayor parte de este frente no es gasto nuevo, es redirección de un presupuesto sectorial que ya casi se dobló entre 2022 y 2024 ($49,8B a $70,4B): rediseñar el PTA existente, recalibrar una evaluación que ya se aplica, y usar dos sistemas de información (CNA, OLE) que ya operan. El único costo incremental real es la bonificación rural docente, los materiales estructurados y la recapacitación de tutores, el aprendizaje asistido por computador sobre la conectividad que el nodo ya financia, y las becas de posgrado docente; ninguno de estos es de una magnitud comparable al costo de crear un programa desde cero. La caja de vidrio del Fomag y el cierre de cobertura del PAE se financian con presupuesto que ya existe en esos dos fondos (el Fomag como fondo-cuenta propio, el PAE con los $7,31B ya comprometidos para 2026); no son gasto nuevo del Frente VII, son mejor uso de plata que el Estado ya destina a esos dos programas. Todo cabe en el escenario fiscal base ya definido, sin depender de la reforma tributaria ni de ahorros de eficiencia todavía no capturados.
+
+---
+
+
+---
+
+
 # Frente VIII: Capacidad Operativa del Estado
 
 Este frente es la condición de posibilidad de todos los demás. Sin capacidad ejecutoria el Frente I no crea empleos, el II no titula, el VI no gira a tiempo. Se activa primero, desde la transición.
@@ -927,6 +1202,124 @@ Sería fácil convertir la participación en otro mecanismo frío, una casilla q
 
 ---
 
+
+# Viabilidad Jurídica de los Mecanismos
+
+Esta sección es nueva. Responde a la objeción de que el programa pretende hacer por decreto cosas que requieren ley. El principio es simple: **separar con honestidad qué puede cada instrumento y declararlo en cada mecanismo.** Lo que el Ejecutivo puede hacer solo se hace el Día 1; lo que requiere ley entra al paquete legislativo con su plazo realista. *(Análisis de política, no concepto jurídico vinculante: los puntos constitucionales deben confirmarse con asesoría especializada.)*
+
+*Verificación (junio 2026): esta clasificación se contrastó con el estado actual del derecho colombiano. Hallazgos: (a) la Jurisdicción Agraria y Rural ya está creada (AL 03/2023 + Ley Estatutaria 2570/2026), el plan la implementa, no la crea; (b) el catastro multipropósito ya es servicio público (Ley 1955/2019, Decreto 148/2020), ejecutable por vía administrativa; (c) la objeción de conciencia exige ley estatutaria y su diseño es constitucionalmente discutible; (d) la interventoría nacional sobre territorios y la condicionalidad de transferencias constitucionales (SGP/regalías) no se logran por decreto/circular. Las filas afectadas están marcadas.*
+
+*Verificación (julio 2026): un señalamiento externo preguntó qué pasa con los mecanismos marcados "solo por ley" si el Congreso nunca aprueba la Ley de Régimen de Nodos. La respuesta no puede ser solo esperanza, así que se investigó si existen sustitutos no legislativos, y aparecieron tres, ninguno inventado para esta versión: (a) el control fiscal excepcional y prevalente de la Contraloría General de la República (Acto Legislativo 04 de 2019, que ya reformó el artículo 267 constitucional, reglamentado por el Decreto 403 de 2020), que le da competencia prevalente automática cuando los recursos de origen nacional superan el 50% de la financiación de un proyecto, o a solicitud del propio alcalde o gobernador; (b) la doctrina de la Corte Constitucional sobre el artículo 287, que distingue recursos endógenos del municipio (autonomía fuerte) de recursos de origen nacional (margen amplio de condicionamiento), justo lo que es la inversión de un nodo por diseño; (c) el precedente ya vigente de la Ley 715 de 2001, que permite al nivel superior asumir la competencia de un municipio que no reporta, incumple estándares o desvía recursos, sin que eso haya requerido nunca una ley de intervención general. El detalle y sus límites se desarrollan en "Qué sobrevive si la Ley de Régimen de Nodos no se aprueba", al final de esta sección.*
+
+## Qué puede cada instrumento
+
+| Instrumento | Qué habilita | Quién decide | Tiempo típico |
+|---|---|---|---|
+| **Decreto / acto administrativo** | Coordinación de la rama ejecutiva, delegación (Ley 489), creación de fiducias, circulares presupuestales, equipos de ejecución, austeridad. **Catastro multipropósito: ya es servicio público (Ley 1955/2019, Decreto 148/2020): ejecutable por vía administrativa + financiación, no es pedido legislativo** | Presidente / ministros | Inmediato (redactados en transición) |
+| **Convenio interadministrativo** | Coordinación con entidades autónomas y sociedades de economía mixta donde el mando no procede | Partes | Semanas |
+| **Ley ordinaria** | Reforma a la Ley 80, universalidad del servicio sin exención por título (Ley 1861), presupuesto plurianual, ZOMAC/ZESE, estratificación, régimen de nodos, interventoría nacional sobre territorios | Congreso (mayoría simple) | 1-2 períodos legislativos |
+| **Ley estatutaria** | Objeción de conciencia al servicio, financiación de campañas, CNE (la Jurisdicción Agraria ya tiene su ley estatutaria, Ley 2570/2026) | Congreso (mayoría absoluta + control previo de la Corte) | 1-2 períodos legislativos |
+| **Reforma constitucional** | Solo si se insistiera en universalidad del servicio "sin excepción constitucional", *evitado en esta versión* | Congreso (acto legislativo) | Varios períodos |
+
+## Clasificación de los mecanismos clave por vía y plazo
+
+| Mecanismo | Vía | Plazo | Nota de ajuste |
+|---|---|---|---|
+| Autoridad del Gerente de Nodo | Decreto (coordinación delegada) + Ley de Régimen de Nodos (autoridad estatutaria) | Día 1 / Año 1 | Reformulado: coordinación + condicionalidad presupuestal, no mando sobre entidades autónomas |
+| Patrimonios autónomos fiduciarios | Decreto + contrato | Transición / 7-ago | Sin cambios, ya no requería ley |
+| Equipos de Ejecución / Comisionado de Destrabe | Decreto (libre nombramiento) | Día 1 | Sin cambios |
+| Condicionalidad presupuestal por nodo | Circular presupuestal | Año 1 | **Acotado**: aplica a las líneas de *inversión nacional* ejecutadas en el territorio; **no** al SGP ni a las regalías (transferencias de base constitucional, arts. 356-357 y SGR), que no se condicionan al concepto del Gerente por acto administrativo |
+| Ley de Régimen de Nodos (criterios, fases, graduación, sunset) | Ley ordinaria | **Año 1 (adelantada)** | Antes Año 2; se mueve a Año 1. *Precisión: "Ley Marco" (art. 150-19) es una categoría reservada a otras materias; el nombre técnico correcto es ley ordinaria que crea el régimen de nodos* |
+| Interventoría nacional obligatoria | **Ley** (no decreto), en su versión universal e incondicional | Año 1 | **Corregido**: imponerla sobre contratos de entidades territoriales autónomas (art. 287) y sobre el Estatuto de Contratación requiere ley, no decreto. **Actualizado (jul-2026)**: existe una vía no legislativa que cubre la mayor parte del efecto práctico desde el Día 1, vía control excepcional de la Contraloría y convenio con el alcalde (ver "Qué sobrevive sin la ley", abajo) |
+| Penalidad del Contrato de Habilitación | Arbitraje + garantía pre-fondeada | Año 1 | Reformulado: ya no depende del contencioso administrativo |
+| Congelamiento automático por alerta roja | Cláusula contractual de la fiducia | Año 1 | Reformulado: consecuencia ejecutiva, no judicial |
+| Servicio Nacional de Vida sin exención universitaria | Ley ordinaria (modifica exenciones de la Ley 1861) | Año 1 | La universalidad sin exención por título sí cabe en ley ordinaria |
+| Objeción de conciencia al servicio | **Ley estatutaria** (no ordinaria) | Años 1-2 | **Corregido**: la Corte la trata como derecho fundamental y *causal de exención*, cuya regulación exige ley estatutaria; el diseño "canalizar, no eximir" es constitucionalmente discutible y debe litigarse/confirmarse |
+| Unidad de Macrocorrupción con presupuesto protegido | Ley ordinaria (reforma Ley 938/2004) o resolución del Fiscal General | Año 1 | **Ajustado**: en su versión de unidad delegada *sin* autonomía, cabe en ley ordinaria o acto del Fiscal; solo si se insiste en independencia con período fijo escala a ley estatutaria |
+| Lenguaje claro | Ley + reglamento (consecuencia en evaluación, no nulidad) | Año 1 | Reformulado: sin nulidad por incomprensibilidad |
+| Jurisdicción Agraria y Rural | **Ya creada**: Acto Legislativo 03/2023 (constitucional) + Ley Estatutaria 2570/2026 (estructura). Falta ley ordinaria de competencias/procedimiento (en trámite) + implementación y financiación | En curso | **Actualizado**: el programa no la crea, la implementa, financia y conecta a los nodos; empuja la ley ordinaria pendiente |
+| Reforma Ley 80 | Ley ordinaria | Años 1-2 | Sin cambios |
+| Financiación pública de campañas / CNE | Ley estatutaria / reforma | Años 1-2 | Sin cambios |
+
+## La estrategia de secuencia legislativa
+
+El programa **no depende** de que el Congreso apruebe todo. La regla es: avanzar con lo ejecutivo en los Años 1-2 mientras se construye coalición para lo legislativo. La Ley de Régimen de Nodos se tramita **con coalición amplia**, no por imposición, porque una ley aprobada con respaldo plural es a la vez más duradera y más legítima democráticamente que el lock-in ejecutivo: responde a la objeción de irreversibilidad-vs-democracia en lugar de agravarla.
+
+## Qué sobrevive si la Ley de Régimen de Nodos no se aprueba (nuevo)
+
+Decir "el programa avanza con lo ejecutivo mientras construye coalición" no basta si nadie especifica qué queda en pie el día en que un Congreso hostil entierra el proyecto de ley sin debate. Esta sección responde eso, mecanismo por mecanismo, para el caso más exigente de la tabla: la interventoría nacional obligatoria.
+
+**El sustituto no legislativo, y de dónde sale.** Tres piezas del ordenamiento colombiano, ninguna creada por este plan, cubren buena parte de lo que la interventoría "por ley" buscaba:
+
+- **Control fiscal excepcional y prevalente de la Contraloría General.** El Acto Legislativo 04 de 2019 (reforma constitucional, no ley ordinaria revocable por un Congreso de turno) y su reglamento, el Decreto 403 de 2020, le dan a la Contraloría General competencia prevalente automática cuando los recursos de origen nacional superan el 50% de la financiación de un proyecto, desplazando a la contraloría territorial. Como el nodo pone precisamente la plata grande de origen nacional, la mayoría de sus proyectos cruzan ese umbral por diseño. Y donde algún proyecto quede justo debajo, el Contrato de Habilitación de Nodo y el contrato de desempeño del alcalde (Frente XIII, 13.9) ya contemplan que el municipio acepte condiciones como requisito de entrada; agregar ahí la solicitud voluntaria de esta intervención excepcional (que la norma permite pedir al propio alcalde o gobernador) la activa sin depender de ninguna ley nueva.
+- **La doctrina de recursos endógenos y exógenos (art. 287).** La Corte Constitucional blinda con fuerza la autonomía territorial sobre los recursos propios del municipio (tributos, SGP, regalías), pero reconoce un margen amplio de condicionamiento sobre recursos de origen nacional, donde el municipio solo tiene derecho a participar, no propiedad plena. La inversión de un nodo es, por diseño, plata nueva de origen nacional, nunca SGP ni regalías, así que corre por el carril donde la Constitución deja más espacio a condicionar por decreto o por convenio cómo se ejecuta.
+- **El precedente de la Ley 715 de 2001.** Ya existe, para educación y salud, la figura de que el nivel superior asuma la competencia de un municipio que no reporta, incumple estándares o desvía recursos, sin que eso haya requerido nunca una ley de intervención general. Es el mismo molde que la interventoría de nodo necesita, ya probado en otros dos sectores, replicable por convenio para los demás componentes del nodo.
+
+**Lo que esto no resuelve, dicho sin adornos.** Ninguna de las tres piezas fuerza la interventoría sobre un alcalde que se niega desde el principio a firmar el contrato de desempeño o a solicitar el control excepcional; todas dependen, en algún punto, de un convenio o de una solicitud, no de una imposición unilateral e incondicional como la que daría la ley. La respuesta a ese caso extremo no es legal, es estructural y ya está en el diseño: un alcalde que rechaza incluso la versión contractual de la supervisión no cumple el perfil de cooperación mínima que el protocolo de selección exige, y el municipio alternativo de mayor puntaje en el IPN lo reemplaza (Columna Vertebral, 3.3.4). El programa no necesita ganarle una pelea jurídica a un alcalde capturado; le basta con no invertir ahí y hacerlo en el municipio que sí coopera.
+
+**Sobre la otra apuesta, que un sucesor hostil mantenga las reglas por decreto.** Vale la pena decir con la misma honestidad por qué esa apuesta específica es débil y no debe ser la protección principal: un decreto se deshace exactamente con la misma facilidad con la que se hizo, así que esperar que el próximo gobierno decida por las buenas seguir decretando lo mismo no es blindaje, es esperanza. La protección real contra un sucesor hostil no viene de que el decreto siga vigente, viene de que, para cuando ese sucesor llegue, la autoridad de decreto ya se haya convertido en hechos consumados que no dependen de él: títulos entregados, contratos de EOC firmados a diez años, fiducias con recursos ya comprometidos que solo el Congreso puede reasignar en sus primeros 24 meses (Capas 1 a 3 del blindaje, Columna Vertebral 3.4.1). La velocidad del protocolo de 100 días no es solo eficiencia operativa, es la ventana en la que el programa corre a dejar de depender del decreto que lo hizo posible.
+
+*Análisis de política a partir de una revisión rápida por fuentes web (Decreto 403 de 2020, y las sentencias de la Corte Constitucional C-937 de 2010, C-380 de 2019 y C-389 de 2021), no una lectura jurídica completa. El umbral del 50% de financiación nacional, el alcance exacto de la competencia prevalente y la aplicabilidad del molde de la Ley 715 a sectores distintos de educación y salud deben confirmarse con asesoría constitucional antes de tratarse como definitivos.*
+
+---
+
+
+---
+
+
+# Plataforma de Trazabilidad del Gasto Público (el Sistema Nervioso del Estado)
+
+Esta es una sección transversal, no parte de un frente, porque la plataforma no pertenece a ninguno: sirve a todos. Es la infraestructura que sigue cada peso público desde que entra hasta que se gasta en algo real. La cañería de datos sobre la que corren muchas cosas del plan, entre ellas la plataforma de integridad del gasto que se detalla en el Frente IV (su aplicación anticorrupción, con el motor, los módulos por dominio, las dos escalas y los límites).
+
+El reparto es deliberado: aquí vive la infraestructura, en el Frente IV se explica qué corre por ella. Así, cambiar una señal de detección se hace en un solo lugar y no hay que sincronizar dos secciones.
+
+| Componente | Medida | Responsable | Plazo |
+|---|---|---|---|
+| Integración de bases | Interoperar SECOP, Cuentas Claras, PILA, DIAN, catastro, UIAF y demás fuentes; API pública. Es la base común que alimenta tanto la gestión del gasto como la detección de anomalías | DNP + DIAN + IGAC + UIAF | Año 1 |
+| Motor de detección | Corre sobre esta infraestructura. Las señales concretas y los módulos por dominio (contratación, salud, subsidios, nómina) se detallan en el Frente IV, para no duplicarlos aquí | Ente independiente (Contraloría + Veeduría) | Años 1-2 |
+| Inteligencia financiera | Uso propio de seguridad, distinto de la detección de corrupción en el gasto: rastreo de flujos financieros de grupos armados, en coordinación con la UIAF | UIAF + Min. Defensa | Años 1-2 |
+| Denuncia ciudadana | Canal unificado (integra los que ya existen) como flujo de entrada; es el sensor humano que cubre los puntos ciegos del dato. Su triaje (cruzar para priorizar, nunca para descartar) y sus salvaguardas se detallan en el Frente IV | Secretaría de Transparencia + entes de control | Años 1-2 |
+| Vetting de proveedores con historial global | Cruce automático de todo oferente en SECOP contra las listas de inhabilitación del Banco Mundial, el BID, la CAF y las agencias anticorrupción de otros países, antes de adjudicar. La corrupción no es solo doméstica: una empresa sancionada por sobornar en un país entra a Colombia como si nada hubiera pasado, porque hoy nada cruza esa información | Colombia Compra Eficiente + plataforma | Año 1 |
+| Cruce financiación de campañas contra contratación pública | Cuentas Claras (ya integrada) se cruza contra SECOP y RUES: quién le dio plata a una campaña y quién recibe contratos del gobierno que esa campaña ayudó a elegir. No crea delito ni tope nuevo, hace verificable el que ya existe | CNE + Colombia Compra + plataforma | Año 1 |
+| Datos abiertos | Toda la plataforma descargable; actualización diaria; API para periodistas y veedores | DNP + Min. TIC | Año 2 |
+| Independencia | Administrada por ente independiente del que ejecuta; director por méritos; presupuesto protegido | Contraloría + Veeduría | Año 1 |
+| Acople a Fiscalía | Las alertas disparan investigación con respuesta máx. 30 días; se publica la tasa de conversión alerta-imputación | Fiscalía + Contraloría | Año 2 |
+
+**Por qué es transversal y no de un frente.** La plataforma habilita al menos cinco frentes a la vez: es la base de la anticorrupción (Frente IV), el control del gasto en salud (Frente VI), la integridad territorial (Frente XIII), la inteligencia financiera de seguridad (Frente III) y la trazabilidad de la titulación y las obras de los nodos (Frentes II y la Columna Vertebral). Más que política industrial, es infraestructura del Estado entero.
+
+**Un buen ejemplo de "primer cliente".** Aunque no pertenece al Frente X, la plataforma sí ilustra su principio de compra pública como jalonador: el Estado se compra a sí mismo una capacidad tecnológica nacional, en vez de importarla. Es un caso de "cómprate lo que predicas", y por eso el Frente X la menciona como ejemplo.
+
+## Vetting de proveedores con historial de corrupción global
+
+La corrupción no es solo un problema de contratistas locales. Una empresa sancionada por el Banco Mundial por sobornar funcionarios en África, o inhabilitada por el BID por fraude en una obra en otro país de la región, puede hoy presentarse a un contrato en Colombia sin que nada la detecte, porque las listas de inhabilitación de los organismos multilaterales y de las agencias anticorrupción de otros países no cruzan con SECOP. El plan cierra esa puerta con un mecanismo simple: antes de adjudicar, todo oferente se cruza automáticamente contra las listas de inhabilitación del Banco Mundial, el BID, la CAF y los registros públicos de sanciones de otros países, y el resultado del cruce queda como parte del expediente público del contrato. No es un tribunal nuevo ni un juicio propio, es hacer visible un historial que ya existe en otro lado y que hoy nadie consulta. El costo es bajo, porque las listas son públicas; lo único que faltaba era la costumbre de mirarlas.
+
+## El financiamiento de campañas no necesita ley nueva, necesita verificación
+
+Colombia ya tiene, desde hace más de una década, un régimen de financiación de campañas razonablemente completo: topes de gasto fijados cada año por el CNE, la obligación de reportar ingresos y gastos en el sistema Cuentas Claras, la prohibición expresa de financiarse con recursos de quien viva de contratos estatales, y desde 2017 delitos penales específicos por financiar campañas con fuentes prohibidas o violar los topes. El problema no es un vacío legal que exija un proyecto de ley que este Congreso, como cualquiera, nunca aprobaría. El problema es que ese régimen se verifica poco: Cuentas Claras es en buena medida autodeclarado, y hoy nadie cruza sistemáticamente quién financió una campaña contra quién termina, después, contratando con el gobierno que esa campaña puso en el poder.
+
+Ese cruce es lo que la plataforma agrega, y no requiere ninguna ley nueva: Cuentas Claras ya está entre las bases integradas, y ahora se cruza contra SECOP y el registro de proveedores (RUES). Si el financiador de una campaña aparece después como contratista del gobierno resultante, la alerta se genera sola, con el mismo lenguaje de conflicto de interés que ya usa el resto de la plataforma para la contratación ordinaria. No se crea un delito nuevo (el de financiación con fuentes prohibidas ya existe en el Código Penal), se le da al delito que ya existe la evidencia que hoy nadie produce. Es el mismo principio que ha ordenado todo este frente: donde la ley ya está y solo falta hacerla cumplible con datos, se hace cumplible con datos; la ley nueva se reserva para donde de verdad no hay otra vía.
+
+## Lo que cuesta y lo que genera
+
+Desarrollar y operar la plataforma exige inversión, pero esa inversión no es solo gasto: es empleo formal de alta calificación (ingeniería de datos, análisis, auditoría), es capacidad estatal que hoy no existe y que queda instalada, y es la clase de activo que, maduro, se puede ofrecer como conocimiento anticorrupción a otros países de la región. Construirla es, en sí mismo, una de las apuestas productivas y de soberanía tecnológica del plan: verla como un simple costo administrativo sería quedarse corto.
+
+## El riesgo de la ruta crítica, y cómo se evita
+
+Aquí hay que ser honestos, porque es el reverso de lo anterior. Si la plataforma habilita cinco frentes a la vez, entonces todo cuelga de ella, y eso la mete en la ruta crítica: si se atrasa, se cae o sale mal hecha, no falla una cosa, fallan todas las que dependían de ella. Y el software estatal de gran escala es, en Colombia y en casi todo el mundo, el tipo de proyecto que llega tarde, cuesta más de lo previsto y a veces no funciona. Poner un megaproyecto de integración de datos como precondición de todo lo demás sería una receta para paralizar el plan.
+
+La salida está en **desacoplarla del arranque**, sin renunciar a la plataforma. El plan no espera a que el software esté listo:
+
+- **El arranque opera con control tradicional reforzado.** Antes de cualquier plataforma, el Estado ya controla con interventoría, auditoría de la Contraloría y supervisión de contratos. Para los pocos nodos del inicio (tres, no trescientos), una interventoría intensiva y una auditoría reforzada hechas a mano son perfectamente viables. La plataforma no inventa el control, lo vuelve masivo y barato.
+- **La plataforma se construye en paralelo y habilita el escalamiento, no el arranque.** Su función es permitir hacer en cien municipios, de forma automática y difícil de capturar, lo que al principio se hace a mano en tres. Por eso su criticidad vive en el escalamiento, no en el inicio, y ese es un lugar mucho más seguro: el escalamiento sí puede esperar a que la herramienta madure; el arranque no.
+- **Se construye por módulos y desde la experiencia, no en abstracto.** Operar manualmente los primeros nodos enseña qué señales importan, dónde está el fraude real y qué datos sirven. La plataforma se diseña a partir de eso, módulo por módulo y por madurez del dato, en vez de diseñarse a ciegas en una oficina. Es la misma lógica del nodo de aprendizaje: probar en pequeño, entender, y solo entonces automatizar.
+
+El costo honesto de este camino: durante el período manual, el control es más caro por peso vigilado, más lento y más vulnerable a la captura local, que es justo lo que la plataforma viene a resolver. Es un sobrecosto temporal de control a cambio de no detener el arranque esperando un software. Es un trueque sensato: mejor pagar control manual en tres nodos por un tiempo que congelar el plan entero hasta que un sistema esté perfecto.
+
+> Un Estado que ve cada peso en tiempo real, con los datos abiertos para que cualquiera mire, cambia el cálculo del que roba: la corrupción deja de esconderse en la dispersión. Esa es la función de la plataforma, y la razón de que sea cimiento y no apéndice. Pero el cimiento no detiene la obra: el arranque se controla a mano, y la plataforma llega para que el control crezca a escala de país.
+
+
+---
+
 ## Notas
 
 Este documento es versionado y abierto.
@@ -935,4 +1328,4 @@ Este documento es versionado y abierto.
 - Cambios de principio requieren justificación técnica
 - Parámetros se discuten con evidencia
 
-**Última actualización:** 2026-07-16 03:57:26
+**Última actualización:** 2026-07-16 04:01:19
