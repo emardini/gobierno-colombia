@@ -69,4 +69,4 @@ jobs:
             **Fecha:** ${{ github.event.head_commit.timestamp }}
             **Commit:** ${{ github.event.head_commit.message }}
         env:
-          GITHUB_TOKEN: ${{ secrets.GITH
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
