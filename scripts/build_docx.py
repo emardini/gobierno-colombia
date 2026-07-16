@@ -414,7 +414,13 @@ def build_document():
     os.makedirs(output_dir, exist_ok=True)
 
     output_path = os.path.join(output_dir, 'Estado-en-el-Territorio.docx')
-    doc.save(output_path)
+    try:
+        doc.save(output_path)
+    except Exception as e:
+        print(f"Error al guardar: {e}")
+        # Intenta ruta alternativa
+        output_path = os.path.join(output_dir, 'estado-en-el-territorio.docx')
+        doc.save(output_path)
 
     file_size_kb = os.path.getsize(output_path) / 1024
     print(f"\n✅ Documento generado exitosamente")
@@ -431,3 +437,4 @@ if __name__ == '__main__':
         import traceback
         traceback.print_exc()
         exit(1)
+                   
