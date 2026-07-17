@@ -21,7 +21,7 @@ En lugar de un frente paralelo a los demás, es la capa de valor agregado que el
 | Medida | Concreción | Responsable | Plazo |
 |---|---|---|---|
 | Exportación naval regional | Identificar 10 países con necesidades de patrullaje fluvial; misión comercial Min. Defensa + ProColombia; COTECMAR como proveedor oficial | Min. Defensa + Min. Comercio | Año 1 |
-| Hub MRO aeronáutico | Zona franca de mantenimiento en Bogotá o Medellín; aprovechar certificación FAA | Min. Comercio + CIAC + ProColombia | Años 1-2 |
+| Centro MRO aeronáutico | Zona franca de mantenimiento en Bogotá o Medellín; aprovechar certificación FAA | Min. Comercio + CIAC + ProColombia | Años 1-2 |
 | Transferencia tecnológica en defensa | 20% offset mínimo; 10 ingenieros formados por contrato; manufactura local progresiva | Min. Defensa | Año 1 |
 
 **B. APIs farmacéuticos.** Colombia produce 80% de las unidades pero importa 80% de los ingredientes. El cierre lo da el poder de compra del pagador único de salud como primer cliente cautivo.
@@ -39,11 +39,12 @@ En lugar de un frente paralelo a los demás, es la capa de valor agregado que el
 | Programa nacional antidron | $1B Fase 1 aprobado: 40% a CIAC + privados colombianos certificados; 60% compra externa con transferencia obligatoria | Min. Defensa + CIAC | Año 1 |
 | Mercado regional | Patentar soluciones; ProColombia abre mercado con Ecuador, Perú, México, Brasil | Min. Defensa + ProColombia | Años 2-4 |
 
-**D. Procesamiento de níquel.** Colombia exporta el mineral crudo (Cerro Matoso). El valor está en cátodos para baterías de VE, la cadena que Corea y Japón diversifican fuera de China.
+**D. Procesamiento de minerales de transición (níquel, cobre y estratégicos).** Colombia exporta el níquel crudo de Cerro Matoso, y el valor está en los cátodos para baterías de vehículo eléctrico, la cadena que Corea y Japón diversifican fuera de China. La misma lógica aplica al cobre a medida que entren en producción los yacimientos que hoy se licencian (El Alacrán y los que sigan, ver [Frente XV](frente-15-medio-ambiente.md)): no exportar el concentrado crudo, sino procesar y encadenar valor en el país. Con una salvedad de secuencia que no se puede saltar: esto solo es política industrial donde el mineral es legal y el territorio es gobernable. El níquel y el cobre califican; el coltán y las tierras raras no, porque hoy son economía ilegal en zonas que el Estado no controla, así que su eslabón industrial no existe hasta que existan primero la soberanía y la cuantificación de reservas (Frente XV). No se construye una planta sobre un mineral que hoy financia a un grupo armado.
 
 | Medida | Concreción | Responsable | Plazo |
 |---|---|---|---|
 | "No exportar recurso crudo" | Renegociar Cerro Matoso con cláusula de procesamiento nacional progresivo | Min. Minas + Min. Comercio | Años 1-3 |
+| Cobre: procesar, no exportar concentrado | Condicionar los nuevos títulos y contratos de cobre (El Alacrán y siguientes) a procesamiento y encadenamiento local progresivo, con transferencia tecnológica, no a exportar el concentrado crudo | Min. Minas + Min. Comercio + ANM | Años 2-8 |
 | Transferencia tecnológica | Acercamiento con POSCO (Corea) y Sumitomo (Japón) para plantas con empleo local en Córdoba | Min. Comercio + Cancillería | Años 1-2 |
 
 **E. Bioeconomía: con expectativas correctas.** La biodiversidad es información, pero transformarla requiere capacidad de innovación. Lo factible en un período: concentrar los recursos de Minciencias en dos o tres clústeres con masa crítica real (medicina regenerativa: U. Andes + IDCBIS + DreamBio + CellRep) y conectarlos al Estado como primer cliente.
