@@ -9,7 +9,7 @@ En lugar de un frente paralelo a los demás, es la capa de valor agregado que el
 | Activo | Capacidad real | Lo que falta |
 |---|---|---|
 | COTECMAR (Cartagena) | Astillero público; diseño naval propio; ingresos USD 108M; exportó patrulleras a Honduras y lanchas a Brasil | Estrategia de exportación regional deliberada |
-| CIAC (aeronáutica) | Certificación FAA y Airbus D&S; repara C-130; construye drones y aviones de entrenamiento | Política comercial de hub MRO regional |
+| CIAC (aeronáutica) | Certificación FAA y Airbus D&S; repara C-130; construye drones y aviones de entrenamiento | Política comercial de centro MRO regional |
 | Industria farmacéutica | 3er mercado de AL; produce 80% de las unidades del sistema; 34.3% de solicitudes de patentes son farma + biotech | Integración vertical: 80% de APIs se importan. La cadena está rota en el eslabón más valioso |
 | Indumil | Armamento, explosivos, municiones; pistola Córdova 9mm | Transferencia tecnológica en cada compra de defensa |
 | Ecosistema biotech Bogotá | U. Andes, IDCBIS, DreamBio, CellRep; alianza Harvard Data Science | El sistema de salud como primer cliente cautivo |

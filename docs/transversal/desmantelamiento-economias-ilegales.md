@@ -90,7 +90,7 @@ Ningún mecanismo de arriba sirve si quien lo ejecuta está comprado. En diciemb
 | Problema documentado | Mecanismo | Por qué evita más burocracia |
 |---|---|---|
 | DIJIN, CTI y Antinarcóticos operan en silos | Una sola plataforma de datos compartida entre las tres, sobre la infraestructura que ya describe [Plataforma de Trazabilidad](plataforma-trazabilidad.md) | No se fusionan instituciones (eso ya se intentó dos veces y se disolvió ambas), se conecta lo que ya existe |
-| Escoltas e investigadores capturados en casos sensibles | Rotación obligatoria de escoltas de fiscales en casos de macrocorrupción o macrocriminalidad, extraídos de un pool regional distinto al territorio del caso que investigan | Sin esto, cualquier mecanismo de esta sección es papel: el caso Nicolás Petro mostró que la filtración puede venir de la protección misma |
+| Escoltas e investigadores capturados en casos sensibles | Rotación obligatoria de escoltas de fiscales en casos de macrocorrupción o macrocriminalidad, extraídos de un grupo regional distinto al territorio del caso que investigan | Sin esto, cualquier mecanismo de esta sección es papel: el caso Nicolás Petro mostró que la filtración puede venir de la protección misma |
 | Filtración de expedientes por soborno interno | El mismo canal de protección al denunciante que ya existe en Frente XIII (protección real del que dice no) se extiende a funcionarios de DIJIN y CTI que reporten intentos de soborno, con el mismo candado de respuesta en 30 días | Reutiliza un mecanismo que el plan ya diseñó, en vez de crear un canal paralelo |
 
 ## Límites y riesgos honestos

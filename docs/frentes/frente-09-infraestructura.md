@@ -18,7 +18,7 @@
 
 | Puerto | Acción | Justificación |
 |---|---|---|
-| Buenaventura | Dragado canal + vía de acceso Buga-Buenaventura | Mayor ROI del portafolio. Inversión sobre activo ya construido. |
-| Barranquilla | Dragado Bocas de Cenizas + hub multimodal del Tren del Caribe | Convergen río + ferrocarril + tren costero. Inversión en ejecución ($116B 2026). |
+| Buenaventura | Dragado canal + vía de acceso Buga-Buenaventura | Mayor retorno del portafolio. Inversión sobre activo ya construido. |
+| Barranquilla | Dragado Bocas de Cenizas + centro multimodal del Tren del Caribe | Convergen río + ferrocarril + tren costero. Inversión en ejecución ($116B 2026). |
 | Urabá (Puerto Antioquia + 4) | Acompañar con vías y seguridad, no construir | El privado ya invirtió. El Estado provee bienes complementarios, no duplica. |
 | Tribugá | Estudios de factibilidad + consulta previa + seguridad. No anunciar como meta del gobierno | Sin vía, sin seguridad, sin consulta: el anuncio perfecto para no ejecutar. Proyecto del horizonte de 15-20 años. |

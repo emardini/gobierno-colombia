@@ -13,7 +13,7 @@ El 80% de la población vive en ciudades y las ciudades generan el recaudo que f
 | V (Fiscal) | Recuperar el grado de inversión baja la prima de riesgo y las tasas de crédito urbanas. Con 1 de cada 3 pesos del presupuesto en intereses, bajar ese costo es el mayor "subsidio" posible a la economía urbana. |
 | VIII (Estado) | La ADP y la digitalización reducen tiempos de contratación, apertura de empresas y resolución de disputas. |
 | IX (Infraestructura) | Las 4G/5G, el dragado de Buenaventura y la red de transmisión reducen costos logísticos e industriales urbanos. |
-| X (Industria avanzada) | El hub MRO, los APIs y la industria antidron son empleos de alta calificación en Bogotá, Medellín y Cartagena. |
+| X (Industria avanzada) | El centro MRO, los APIs y la industria antidron son empleos de alta calificación en Bogotá, Medellín y Cartagena. |
 | XIV (Servicio Nacional de Vida) | Los jóvenes urbanos salen con certificación técnica y red que cruza regiones, el capital humano de la siguiente generación. |
 | IV (Anticorrupción) | Menos corrupción en contratación reduce el costo de hacer negocios con el Estado para cualquier empresa urbana. |
 
@@ -23,7 +23,7 @@ El 80% de la población vive en ciudades y las ciudades generan el recaudo que f
 
 | Medida | Concreción | Costo | Plazo |
 |---|---|---|---|
-| Tarjeta nacional interoperable | Un solo medio de pago válido en todos los sistemas; el backend distribuye ingresos | ~$50-80 mil M; financiable con cargo a los sistemas | Año 1 (estándar), Año 2 (piloto), Año 3 (universal) |
+| Tarjeta nacional interoperable | Un solo medio de pago válido en todos los sistemas; el sistema interno distribuye ingresos | ~$50-80 mil M; financiable con cargo a los sistemas | Año 1 (estándar), Año 2 (piloto), Año 3 (universal) |
 | Integración tarifaria urbana | Transferencia entre sistemas dentro de 90 min sin segundo tiquete | Impacto fiscal mínimo | Año 1 (ley), Año 2 (impl.) |
 
 **B. Formalización urbana: el modelo de nodos en la periferia urbana.** La informalidad del 54% también está en Ciudad Bolívar, Aguablanca, la periferia de Medellín y los barrios de Barranquilla.
@@ -59,7 +59,7 @@ La mayor ganancia de productividad no está en inventar, sino en que la firma pr
 | Medida | Concreción | Vía jurídica | Plazo |
 |---|---|---|---|
 | Red de extensionismo para pymes (modelo MEP de EE.UU.) | Asesores que entran a la pyme y mejoran procesos, calidad, costos y adopción digital; cofinanciado, con metas de productividad verificadas | Decreto + presupuesto (vía administrativa) | Año 1 (piloto), 2-4 (escala) |
-| Adopción digital básica | Facturación electrónica, inventarios, pagos digitales, presencia en marketplace; "kit digital" subsidiado para microempresa formal | Decreto + Min. TIC | Año 1 |
+| Adopción digital básica | Facturación electrónica, inventarios, pagos digitales, presencia en plataformas de venta; "paquete digital" subsidiado para microempresa formal | Decreto + Min. TIC | Año 1 |
 | Compras públicas como jalonador de calidad | El Estado premia en sus compras a la pyme que adopta estándares de calidad/productividad verificables (no solo precio) | Reglamento de contratación | Año 2 |
 
 ### C. Fin del castigo al crecimiento: el "enano fiscal"
@@ -102,7 +102,7 @@ Para que el módulo no caiga en la trampa nacional de "más empleo, menos produc
 
 | Indicador | Qué mide | Fuente |
 |---|---|---|
-| Valor agregado por trabajador en firmas atendidas | Productividad laboral real, no headcount | DANE + registros |
+| Valor agregado por trabajador en firmas atendidas | Productividad laboral real, sin nómina inflada | DANE + registros |
 | Tasa de graduación de firmas (micro→pequeña→mediana) | Dinamismo y fin del enano fiscal | Confecámaras + DIAN |
 | Adopción tecnológica/digital en pymes atendidas | Difusión efectiva | Min. TIC + encuesta |
 | Exportaciones de servicios | Competitividad de los clústeres | DANE + Banco de la República |
