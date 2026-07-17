@@ -8,7 +8,7 @@ El reparto es deliberado: aquí vive la infraestructura, en el Frente IV se expl
 
 | Componente | Medida | Responsable | Plazo |
 |---|---|---|---|
-| Integración de bases | Interoperar SECOP, Cuentas Claras, PILA, DIAN, catastro, UIAF y demás fuentes; API pública. Es la base común que alimenta tanto la gestión del gasto como la detección de anomalías | DNP + DIAN + IGAC + UIAF | Año 1 |
+| Integración de bases (por módulos, no de golpe) | Interoperar SECOP, Cuentas Claras, PILA, DIAN, catastro y UIAF, pero módulo por módulo y por madurez del dato, no todo el Estado en un año. El Año 1 conecta primero las fuentes que ya son públicas o están limpias (SECOP, Cuentas Claras, RUES) y las de los tres nodos; el resto entra a medida que cada base se ordena. Interoperar todo el Estado de una vez es justo el megaproyecto de TI que en Colombia siempre fracasa, y no se intenta | DNP + DIAN + IGAC + UIAF | Año 1 lo maduro; el resto por módulo |
 | Motor de detección | Corre sobre esta infraestructura. Las señales concretas y los módulos por dominio (contratación, salud, subsidios, nómina) se detallan en el Frente IV, para no duplicarlos aquí | Ente independiente (Contraloría + Veeduría) | Años 1-2 |
 | Inteligencia financiera | Uso propio de seguridad, distinto de la detección de corrupción en el gasto: rastreo de flujos financieros de grupos armados, en coordinación con la UIAF | UIAF + Min. Defensa | Años 1-2 |
 | Denuncia ciudadana | Canal unificado (integra los que ya existen) como flujo de entrada; es el sensor humano que cubre los puntos ciegos del dato. Su triaje (cruzar para priorizar, nunca para descartar) y sus salvaguardas se detallan en el Frente IV | Secretaría de Transparencia + entes de control | Años 1-2 |

@@ -19,4 +19,6 @@ El modelo obliga a que todas las inversiones coincidan en lugar y tiempo.
 | Diseño de mecanismos | Hace que el comportamiento deseado sea dominante para cada actor; el programa funciona aun bajo intento de captura |
 | Servicio Nacional de Vida | Primer empleo + certificación + catastro + agua + cohesión que cruza clases y regiones |
 
+> El acoplamiento que esta tabla celebra es, a la vez, su mayor fortaleza y su mayor fragilidad, y hay que decirlo con la misma franqueza que la Columna Vertebral (3.8): que todo refuerce a todo significa también que si una pieza falla, arrastra a las demás. Esta página muestra el rendimiento compuesto cuando el modelo funciona; no es una promesa de que funcionará. La cobertura contra esa fragilidad no vive aquí, vive en el gradualismo del nodo (empezar con tres, no con treinta), el activador por resultado y el sunset por fracaso. Léase esta tabla como el premio si la ejecución sale bien, no como un supuesto de que saldrá.
+
 ---

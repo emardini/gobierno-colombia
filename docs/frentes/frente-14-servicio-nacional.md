@@ -70,11 +70,13 @@ El entrenamiento se parte en dos capas, y la distinción es lo que hace la idea 
 
 | Fase | Qué se lanza | Meta | Condición para avanzar |
 |---|---|---|---|
-| Transición + Año 1 | Servicio 100% voluntario; 3 modalidades; Pacto con 20 empresas; certificaciones SENA desde el Día 1 | 5.000-10.000 voluntarios | Satisfacción de egresados ≥75%; empleo formal a 6 meses ≥60% |
-| Año 2 | Obligatorio en municipios de nodos activos (Ola 1 + inicio Ola 2). La obligatoriedad empieza donde el servicio ya demostró valor | 30.000-50.000 | Cobertura de cupos ≥80%; cero reclamos de exención por clase |
+| Transición + Año 1 | Servicio 100% voluntario; 3 modalidades; Pacto con 20 empresas; certificaciones SENA desde el Día 1 | 5.000-10.000 voluntarios | Satisfacción de egresados ≥75%; empleo formal a 6 meses ≥60%; y capacidad de entrega demostrada: se alojó, alimentó, entrenó (incluido el tiro real) y certificó a la cohorte sin degradar la calidad ni la seguridad |
+| Año 2 | Obligatorio en municipios de nodos activos (Ola 1 + inicio Ola 2). La obligatoriedad empieza donde el servicio ya demostró valor | 30.000-50.000 | Cobertura de cupos ≥80%; cero reclamos de exención por clase; y la logística (alojamiento, instructores de armas, cupos SENA, PILA) escaló al nuevo tamaño sin cuello de botella verificado |
 | Año 3 | Obligatorio universal, con exenciones médicas y objeción de conciencia canalizada. Sin exención por título | 100.000-150.000/año | Si en el Año 2 hay lista de espera, la obligatoriedad no genera resistencia |
 
 > **Regla anti-coerción:** si en el Año 2 la participación voluntaria supera el 80% de la meta, la universalidad obligatoria entra sin resistencia. Si no, la meta del Año 2 se recorre, pero no se abandona la universalidad: se revisa el valor del servicio, no la ambición.
+
+> **La compuerta mide entrega, no solo demanda (ajuste de capacidad).** El salto de 10.000 a 150.000 personas al año es de 15 veces, y el mayor riesgo no es que los jóvenes no quieran servir, es que el Estado no pueda alojarlos, entrenarlos en armas y certificarlos por SENA a esa escala sin bajar la calidad. Por eso las condiciones de avance de arriba no miden solo si hay demanda (satisfacción, cupos), sino si la capacidad de entrega escaló de verdad. No se pasa a 50.000 hasta demostrar que se pudo con los primeros, ni a 150.000 hasta demostrar que se pudo con los 50.000. La escala la manda la capacidad probada, no el calendario ni la meta política.
 
 ## 14.6 Lo que produce: el triple resultado
 
