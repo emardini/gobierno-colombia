@@ -1843,6 +1843,26 @@ El turista que llega a Bogotá o Medellín es el candidato natural del segundo v
 
 > **Meta de turismo al final del período:** de $11.000M a $17.000-20.000M USD en divisas. No duplicando turistas en los tres destinos actuales, sino distribuyéndolos hacia 8-10 destinos, subiendo el gasto por visitante con el nómada digital y recuperando el valor que capturan las plataformas externas.
 
+## 12.6 Motor de emprendimiento dinámico: crear y escalar firmas jóvenes, donde nace el empleo
+
+El módulo de productividad (12.3) apuesta a fortalecer las firmas que ya existen, y esa apuesta es correcta pero incompleta, porque deja fuera de foco justo donde nace el empleo nuevo. La evidencia es contundente y hay que decirla sin rodeos: la creación neta de empleo no viene de las firmas pequeñas por ser pequeñas, viene de las firmas jóvenes de alto crecimiento (Haltiwanger, Jarmin y Miranda, 2013: controlando por edad, la relación tamaño-crecimiento desaparece). Y el diagnóstico colombiano preciso, con microdatos del DANE, es de Eslava, Haltiwanger y Pinzón (2019): Colombia no tiene un problema de natalidad empresarial, tiene un "up or out" debilitado. Nacen muchísimas empresas (297.000 en 2024, más del 99% microempresas), pero escalan poco y sobreviven poco: de las creadas en 2017, solo el 33,5% seguía viva cinco años después, contra más del 40% en la OCDE. El país está lleno de firmas pequeñas y viejas que ni crecen ni mueren. Ese, y no la falta de emprendedores, es el cuello de botella del empleo.
+
+Entonces el motor no busca crear más microempresas, de esas sobran. Busca que las firmas jóvenes con potencial escalen, y que el fracaso honrado no arruine al que lo intenta. Y lo hace con una regla innegociable, la misma del Frente X: **el Estado no escoge ganadores**. Invierte en fondos y pone condiciones de mercado; quien elige la empresa es el privado que arriesga su propia plata al lado.
+
+| Palanca | Cómo funciona, en concreto | Vía jurídica |
+|---|---|---|
+| Fondo de fondos apalancado (escalar Bancóldex Capital) | El Estado invierte como socio limitado en fondos privados de capital de riesgo que eligen y financian las firmas jóvenes; el Estado nunca elige la empresa. Se apalanca con capital privado y de las AFP (cuyos tickets son muy grandes para invertir directo en una startup, pero calzan en un fondo de fondos), y lleva una cláusula de recompra estilo Yozma: el privado puede comprarle al Estado su parte a costo más un interés, de modo que el Estado sale y le deja al privado la ganancia extraordinaria, lo que atrae capital y evita que el fondo se vuelva permanente | Administrativa (Bancóldex ya existe y ya opera el vehículo) |
+| Garantía a la inversión temprana | Una garantía tipo FNG que cubre parte de la pérdida del que invierte en la etapa semilla y Serie A, el "valle de la muerte" que más del 70% de las firmas no cruza. Reduce el riesgo del capital privado temprano sin que el Estado ponga la plata directa | Administrativa (objeto del FNG) |
+| Incentivo tributario al inversionista ángel | Deducción para quien invierte capital pre-semilla en una firma joven certificada, con permanencia mínima y tope, para hacer crecer la base de ángeles local (modelo SEIS/EIS del Reino Unido) | Ley (reserva tributaria, art. 338 CP) |
+| El Estado como primer cliente (compra pública de innovación) | Activar de verdad la compra pública de innovación y precomercial que la ley ya permite (art. 36 de la Ley 2069/2020, Decreto 442/2022, CONPES 4129/2023) pero que casi no se usa: unas pocas entidades ancla compran soluciones a firmas jóvenes, que es demanda real y un primer contrato que las hace escalar (modelo SBIR de EE.UU.) | Reglamento + activación (ya es legal) |
+| Segunda oportunidad ágil para el fracaso honrado | Que quebrar de buena fe no cueste una década de castigo: acortar los tiempos de la insolvencia, revisar la inhabilidad de hasta 10 años, y reducir la permanencia en centrales de riesgo para el fracaso sin dolo. El miedo a la ruina personal suprime el emprendimiento que crea empleo | Ley (reforma a la Ley 1116/2006 y a la insolvencia de persona natural) |
+
+**Por qué esto sí crea empleo y no es el empleo público que se rechaza.** Ninguna de estas palancas es nómina estatal ni subsidio a dedo. El empleo lo crean las firmas que escalan; el Estado solo baja el costo y el riesgo de que escalen, y se sale (la cláusula de recompra garantiza que no se quede de socio permanente). Es catalizar un mercado, no reemplazarlo, y es coherente con el sesgo del plan contra escoger ganadores y contra el gasto permanente.
+
+**Los límites honestos, para no vender un milagro israelí.** Yozma funcionó en Israel sobre condiciones que Colombia no tiene servidas (una ola de ingenieros inmigrantes, la diáspora en Silicon Valley, spillovers de la inversión extranjera), y Lerner advierte que copiar solo el mecanismo de apalancamiento no reproduce el resultado. Start-Up Chile mostró que el dinero solo no mueve la aguja, lo que sirve es la mentoría, y que subsidiar a fundadores globalmente móviles tiene baja retención. La restricción real de Colombia no es la plata pública, es la escasez de gestores privados de fondos de calidad y de un flujo suficiente de firmas invertibles: ColCapital reporta pocos fondos de riesgo domiciliados en el país y ninguno formado en los últimos años. Por eso el fondo de fondos y el desarrollo de gestores locales van primero, y la meta se calibra a ese flujo real, no a una ambición copiada.
+
+**Honestidad fiscal.** Esta es la palanca de empleo de menor costo neto del plan, porque el grueso es capital revolvente, no gasto: el fondo de fondos invierte, recupera y reinvierte, y la recompra le devuelve al Estado su aporte. Lo que sí es gasto (la garantía, el incentivo al ángel) es acotado y se cuenta como tal. En el escenario base entra lo administrativo (escalar Bancóldex Capital, activar la compra de innovación) y la reforma de segunda oportunidad; el incentivo tributario al ángel espera su ley y el escenario que la habilite.
+
 *La propuesta de una plataforma nacional de turismo de capital mixto (Colombia Viva) se desarrolla en el **Anexo A**, fuera del núcleo del programa por no ajustarse plenamente al principio rector de "activar lo que ya se pagó".*
 
 
@@ -2820,4 +2840,4 @@ Este documento es versionado y abierto.
 - Cambios de principio requieren justificación técnica
 - Parámetros se discuten con evidencia
 
-**Última actualización:** 2026-07-17 13:28:56
+**Última actualización:** 2026-07-17 13:56:41
