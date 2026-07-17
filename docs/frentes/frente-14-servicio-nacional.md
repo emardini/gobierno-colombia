@@ -64,6 +64,8 @@ El entrenamiento se parte en dos capas, y la distinción es lo que hace la idea 
 
 **D. Credencial de Ciudadanía Activa.** Además de la certificación SENA: 5 puntos en concursos de la Alta Dirección Pública, puntaje adicional en becas del Icetex y acceso prioritario al crédito del Banco Agrario. Beneficios atados a la credencial (emitida por el SENA, entidad de carrera autónoma), no al gobierno que la otorgó.
 
+**Salvaguarda contra una ciudadanía de dos niveles.** Estos beneficios premian haber servido, pero no pueden convertirse en un castigo para quien no sirvió por objeción de conciencia o exención médica: el acceso ordinario al empleo público, al crédito y a las becas se mantiene intacto para todos, la credencial suma un plus acotado y nunca resta el derecho de base. Es coherente con el principio universalista del Frente XIII y con la regla de 14.10 de no organizar una sombra social contra el que no participó. Los 5 puntos en la Alta Dirección Pública, además, se acotan para no desplazar el mérito técnico que el propio plan exige en esos cargos.
+
 ## 14.5 Secuencia de implementación: lanzamiento progresivo
 
 | Fase | Qué se lanza | Meta | Condición para avanzar |
