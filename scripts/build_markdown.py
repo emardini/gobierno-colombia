@@ -31,7 +31,7 @@ def build_markdown():
         ('docs/04-principios.md', '2. Principios Rectores'),
         ('docs/05-columna-vertebral.md', '3. La Columna Vertebral: Estado en el Territorio'),
         ('docs/06-rendimiento-compuesto.md', 'El Rendimiento Compuesto del Modelo de Nodos'),
-        ('docs/frentes/frente-01-empleo.md', 'Frente I: Empleo de Calidad y Desarrollo de la Periferia'),
+        ('docs/frentes/frente-01-empleo.md', 'Frente I: Economía y Desarrollo de la Periferia'),
         ('docs/frentes/frente-02-reforma-agraria.md', 'Frente II: Reforma Agraria Integral'),
         ('docs/frentes/frente-03-seguridad.md', 'Frente III: Seguridad, Soberanía e Inteligencia'),
         ('docs/frentes/frente-04-anticorrupcion.md', 'Frente IV: Anticorrupción'),

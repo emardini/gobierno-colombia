@@ -4,6 +4,8 @@
 
 El 80% de la población vive en ciudades y las ciudades generan el recaudo que financia todo lo demás. El programa concentra la *inversión productiva nueva* en los nodos periféricos, pero no descuida a las ciudades. Este frente hace explícito lo que el programa ya les da (ver también el Piso Universal, 3.5), agrega las intervenciones urbanas de bajo costo y alto impacto, e integra el turismo como industria que conecta los destinos urbanos con los nodos.
 
+> El empleo y la productividad urbana viven en este frente (el módulo de I.3 en adelante); el empleo de la periferia vive en el nodo y en el Frente I. El mapa completo de dónde vive cada pieza del empleo está en el Frente I, sección I.0.
+
 > En 2025 el turismo generó $11.166 millones de dólares en divisas, superando por primera vez al carbón y al café juntos. El problema es de distribución, no de volumen: el 92% de las reservas se concentra en Bogotá, Medellín y Cartagena.
 
 ## 12.1 Lo que el programa ya da a las ciudades
