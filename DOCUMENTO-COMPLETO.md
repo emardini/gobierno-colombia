@@ -15,7 +15,7 @@
 5. 2. Principios Rectores
 6. 3. La Columna Vertebral: Estado en el Territorio
 7. El Rendimiento Compuesto del Modelo de Nodos
-8. Frente I: Economía y Desarrollo de la Periferia
+8. Frente I: Empleo de Calidad y Desarrollo de la Periferia
 9. Frente II: Reforma Agraria Integral
 10. Frente III: Seguridad, Soberanía e Inteligencia
 11. Frente IV: Anticorrupción
@@ -511,57 +511,29 @@ El modelo obliga a que todas las inversiones coincidan en lugar y tiempo.
 | Diseño de mecanismos | Hace que el comportamiento deseado sea dominante para cada actor; el programa funciona aun bajo intento de captura |
 | Servicio Nacional de Vida | Primer empleo + certificación + catastro + agua + cohesión que cruza clases y regiones |
 
-> El acoplamiento que esta tabla celebra es, a la vez, su mayor fortaleza y su mayor fragilidad, y hay que decirlo con la misma franqueza que la Columna Vertebral (3.8): que todo refuerce a todo significa también que si una pieza falla, arrastra a las demás. Esta página muestra el rendimiento compuesto cuando el modelo funciona; no es una promesa de que funcionará. La cobertura contra esa fragilidad no vive aquí, vive en el gradualismo del nodo (empezar con tres, no con treinta), el activador por resultado y el sunset por fracaso. Léase esta tabla como el premio si la ejecución sale bien, no como un supuesto de que saldrá.
-
 ---
 
 
 ---
 
 
-# Frente I: Economía y Desarrollo de la Periferia
+# Frente I: Empleo de Calidad y Desarrollo de la Periferia
 
-**Metas:** ≥30% del empleo formal nuevo en empresas pequeñas; ≥40% en la periferia; caída verificable de informalidad dentro de los municipios-nodo, medida contra municipios control.
+**Metas:** ≥30% empleo nuevo en empresas pequeñas; ≥40% en la periferia; informalidad de ~54% a ≤44%.
 
-> **Honestidad de escala.** Colombia ha movido la informalidad nacional apenas 2-3 puntos por década en el pasado reciente; diez puntos en cuatro años, si se lee como meta nacional de un solo período, sería la promesa más frágil del plan. Lo que este gobierno puede demostrar y medir con rigor en cuatro años es la caída de informalidad dentro de los municipios-nodo, con adicionalidad contra municipios control (ver Medición y Blindaje), que es una prueba de mecanismo, no de escala país. La meta nacional de largo plazo (≤44%) es trayectoria de la Visión 2042 sostenida por varios gobiernos, no un compromiso de este cuatrienio; prometerla como logro de un solo período sería la dilución que el Hallazgo 19 identifica como causa de muerte de reformas anteriores.
+> **Honestidad de escala:** Colombia ha movido la informalidad nacional apenas 2-3 puntos por década en el pasado reciente; diez puntos en cuatro años, si se lee como meta nacional de un solo período, es la promesa más frágil de este frente. Lo que este gobierno puede demostrar y medir con rigor en cuatro años es la caída de informalidad dentro de los municipios-nodo, con adicionalidad contra municipios control (ver Medición y Blindaje), que es una prueba de mecanismo, no de escala país. La meta nacional de ≤44% es la trayectoria de la Visión 2042 sostenida por varios gobiernos, no un compromiso de este cuatrienio; prometerla como logro de un solo período sería exactamente la dilución que el Hallazgo 19 identifica como causa de muerte de reformas anteriores.
 
-## I.0 Dónde vive el empleo en este plan (el mapa)
-
-En este plan el empleo no es un frente aparte, es un resultado, y tiene dos motores. Para las ciudades, donde vive el 80% de la población, el motor es el Módulo de Productividad Urbana del Frente XII (recualificación del trabajador en activo, extensionismo para pymes, fin del "enano fiscal", graduación de firmas, formalización urbana). Para la periferia rural, el motor es el nodo: el empleo aparece cuando el Estado llega completo, con seguridad, vía, título, crédito y comprador a la vez (Columna Vertebral). Este frente no duplica esa maquinaria; se ocupa de la economía de la periferia y de quitar las fricciones que hoy impiden que la economía formal arranque ahí. Quien busque la operación del empleo urbano debe ir al XII; quien busque de dónde sale el empleo rural, al nodo. Aquí viven las pocas palancas que son propias de la periferia y de nadie más.
-
-| Qué se busca | Dónde vive |
-|---|---|
-| Empleo y productividad urbana (el 80% de la población) | Frente XII, Módulo de Productividad Urbana |
-| Empleo de la periferia como resultado del Estado completo | Columna Vertebral (el nodo) + este frente |
-| Ingreso rural inmediato y sustitución de coca | Frente III, III.5 |
-| Tierra, titulación y catastro | Frente II |
-| Bienes públicos del territorio (vía, riego, energía, conectividad) | El nodo (Columna Vertebral) |
-| Industria avanzada y MRO exportador | Frente X |
-
-## I.1 Las palancas propias de la periferia (operativas)
-
-Son cuatro, y cada una quita una fricción concreta que hoy mantiene informal a la economía de la periferia. No son metas, son procedimientos con su vía jurídica y su dueño.
-
-| Palanca | Cómo funciona, en concreto | Vía jurídica | Plazo |
+| Palanca | Medida concreta | Responsable | Plazo |
 |---|---|---|---|
-| Incentivo tributario atado a empleo formal | Rediseñar ZOMAC (Ley 1819/2016, cuya tarifa reducida expira en 2027) y ZESE (art. 268 Ley 1955/2019, con inscripción ya cerrada) para que el beneficio se gane por **empleo formal neto verificado en PILA**, con cláusula de reversión si el empleo desaparece. Es a la vez rediseño y reactivación, porque ambos regímenes vencen o están cerrados | **Ley** (la tarifa y las causales de pérdida del beneficio son reserva de ley, art. 338 CP y C-602/2015; el reglamento solo define el cruce con PILA y el procedimiento de reversión) | Año 1 (ley), 1-2 (impl.) |
-| Ventanilla única de verdad, menos de 5 días | Fortalecer la Ventanilla Única Empresarial que **ya existe** (Decreto 1875/2017 y 2106/2019), cerrando la interoperabilidad entre cámara de comercio, RUT (DIAN) y afiliación a seguridad social, hasta que abrir una microempresa tome menos de 5 días en cualquier municipio de nodo | **Decreto** (es interoperabilidad administrativa, no requiere ley) | Año 1 |
-| Cooperativa rural barata y rápida | Bajar el costo y el tiempo de constituir una cooperativa con plantillas de estatutos, registro digital por la misma ventanilla, curso de economía solidaria virtual, y garantía del FNG (ya habilitada por vía administrativa, cobertura hasta 90%) para el primer crédito. El mínimo de asociados ya bajó a 3 (art. 22 Ley 2069/2020), así que la fricción que queda es de costo y trámite, no de umbral | **Decreto + reglamento** (la exención total de los costos de registro sí requiere ley) | Año 1 |
-| Compra pública que jalona a la empresa pequeña | Usar ya lo que la Ley 2069/2020 (arts. 30-36) permite por reglamento (convocatorias limitadas a MiPyme y desempate a su favor), y tramitar por ley una reserva de un porcentaje de la compra pública para la empresa pequeña y periférica, estructurada **por debajo del umbral de los TLC** (~US$125.000) para no chocar con el trato nacional | **Reglamento** (lo vigente, Día 1) **+ Ley** (la reserva porcentual) | Año 1 (reglamento), 1-2 (ley) |
+| Tributaria | Rediseño ZOMAC/ZESE: incentivos solo por empleo formal neto verificado en PILA; cláusula de reversión; vencimiento 8 años | MinHacienda + DIAN | Año 1 |
+| Regulación | Ventanilla única digital (<5 días microempresa); permisos escalonados por tamaño; compras públicas 30% reservadas a empresas pequeñas y periféricas | DNP + Min. Comercio | Años 1-2 |
+| Asociatividad | Marco legal simplificado para cooperativas rurales (reducir costo 80%); garantías FNG primer año | Min. Trabajo + Min. Agricultura | Año 1 |
+| Bienes públicos rurales | Paquete completo por nodo: vías terciarias + riego + electrificación + conectividad + asistencia técnica + crédito + acopio | INVIAS + Min. Agricultura + UPRA | Por ola |
+| Catastro multipropósito | 100% del territorio en 8 años; iniciar en nodos Ola 1 en Año 1; cobro predial desde Año 2 en municipios listos | IGAC + SNR + Alcaldías | Años 1-8 |
 
-**El mecanismo, no solo la palanca.** La palanca tributaria es, en rigor, un mecanismo de diseño coherente con el resto del plan: no premia instalarse en la periferia (que es falsificable y se capturó antes), premia el empleo formal neto verificado en PILA, y lo revierte si el empleo se cae. Se paga por el resultado difícil de fingir, no por la promesa. Es la misma lógica del Contrato de Habilitación (Frente XIII) y del apoyo por exportación (Frente X): condicional, verificable y reversible.
+**Portafolio de vectores:** servicios digitales (formal por naturaleza), turismo (alto multiplicador, bajo capital), agroindustria (requiere vías + energía + agua), bioeconomía (largo plazo, Amazonía/Pacífico), renovables (empleo construcción y operación), formalización de minería informal, y MRO aeronáutico y naval (exportación de alto valor, ver Frente X).
 
-**Piloto y escala.** Igual que el resto del plan, estas palancas arrancan en los nodos de Ola 1, se mide su efecto contra municipios control (adicionalidad, no número crudo), y se escalan por resultado, no por calendario. La ventanilla y la cooperativa, que son administrativas, pueden correr en todo el país desde el Año 1; el rediseño tributario y la reserva de compras esperan su ley y se pilotean donde ya haya nodo.
-
-**Lo que hay que medir antes de fijar metas duras, con honestidad.** Tres cosas que hoy no están evaluadas y conviene medir antes de prometer cifras: el efecto real de ZOMAC/ZESE sobre empleo formal (nunca se evaluó con rigor), los días que de verdad toma hoy la ventanilla, y el costo y tiempo reales de constituir una cooperativa. El plan encarga esa medición en el Año 1 en vez de fijar metas sobre supuestos.
-
-## I.2 Portafolio de vectores productivos de la periferia
-
-Servicios digitales (formales por naturaleza), turismo (alto multiplicador, bajo capital, ver Frente XII), agroindustria (requiere vía, energía y agua del nodo), bioeconomía (largo plazo, Amazonía y Pacífico), renovables (empleo en construcción y operación), formalización de la minería informal (ver Frente XV), y MRO aeronáutico y naval (exportación de alto valor, ver Frente X). Ninguno se decreta desde una oficina: cada vector se activa donde el nodo ya puso las condiciones para que exista.
-
-## I.3 Puente al empleo asalariado y a la movilidad laboral
-
-El nodo no apuesta solo al autoempleo y las cooperativas. El seguimiento a diez años de programas de gran empuje muestra que el canal por el que los efectos *persisten* tiene menos que ver con el negocio propio y más con que los hogares se diversifican hacia empleo asalariado más productivo, con frecuencia vía movilidad geográfica hacia polos de mayor demanda. Implicación de diseño: cada nodo construye explícitamente el puente al empleo asalariado formal (intermediación laboral, certificación SENA portable entre regiones, vínculo con las empresas ancla y con los polos urbanos del Frente XII) y *no penaliza* la migración del trabajador formado. Un joven del Caquetá que se forma en el nodo y consigue empleo formal en Medellín es un éxito del programa, no una fuga: su PILA sigue contando y su remesa fortalece el nodo de origen.
+**Puente al empleo asalariado y a la movilidad laboral (ajuste basado en evidencia).** El nodo no apuesta solo al autoempleo y las cooperativas. El seguimiento a diez años de programas de "gran empuje" muestra que el canal principal por el que los efectos *persisten* tiene menos que ver con el negocio propio y más con que los hogares se diversifican hacia empleo asalariado más productivo, con frecuencia vía movilidad geográfica hacia polos de mayor demanda. Implicación de diseño: cada nodo construye explícitamente el puente al empleo asalariado formal (intermediación laboral, certificación SENA portable entre regiones, vínculo con las empresas ancla y con los polos urbanos del Frente XII) y *no penaliza* la migración del trabajador formado. Un joven del Caquetá que se forma en el nodo y consigue empleo formal en Medellín es un éxito del programa, no una fuga, su PILA sigue contando y su remesa fortalece el nodo de origen.
 
 
 ---
@@ -596,7 +568,7 @@ La titulación masiva genera conflictos (traslapes, ocupaciones superpuestas, di
 
 ## Tecnología de punta para el catastro: el multiplicador de velocidad
 
-La meta de 750.000 ha/año exige duplicar la velocidad histórica del IGAC. Con detección automática de linderos por IA, drones y registro digital integrado, la productividad por técnico se multiplica de 3 a 5 veces. Aquí la tecnología no es un adorno: es la condición de posibilidad de la meta. Pero conviene decirlo sin optimismo: ese multiplicador está validado en metodología, no en producción a escala nacional, y la integración IGAC-ANT-SNR con un solo ingreso de dato es un proyecto de TI estatal de varios años y alto riesgo de fracaso, no una decisión que se toma y ya. Por eso la meta anual no se fija por decreto: se ata al multiplicador realmente logrado en los primeros nodos. Si la productividad por técnico sube 2 veces y no 4, la meta se recalibra a esa realidad en lugar de incumplirse en silencio. El catastro se escala al ritmo que la capacidad demuestre, no al que la ambición pida.
+La meta de 750.000 ha/año exige duplicar la velocidad histórica del IGAC. Con detección automática de linderos por IA, drones y registro digital integrado, la productividad por técnico se multiplica de 3 a 5 veces. Aquí la tecnología no es un adorno: es la condición de posibilidad de la meta.
 
 **Base ya existente en Colombia:** el IGAC tiene contrato activo con Planet Labs (monitoreo satelital diario con IA). En enero de 2026, investigadores colombianos validaron extracción automática de linderos por fusión SAR + óptica con el modelo Segment Anything (SAM), desarrollada para la Reforma Rural Integral. **Referente:** Ruanda registró 10,3 millones de parcelas en menos de cinco años, con costo por título de ~$7 USD, escalando de 15.000 a 376.686 archivos/año (×25) con levantamiento comunitario + verificación tecnológica. *Advertencia de validez externa, con el mismo estándar que este documento exige a cualquier otra analogía: Ruanda opera en terreno plano, sin conflicto armado activo, sin despojo paramilitar que oculte linderos, y con un Estado que puede obligar a la población a participar. El costo por predio en Colombia, en zonas como Tierralta, será varias veces mayor, y el plazo de escalamiento probablemente más largo. Lo que se toma de Ruanda es la posibilidad técnica (levantamiento comunitario + IA + satélite escala rápido cuando el diseño es correcto), no la cifra de costo ni el plazo, que no son transferibles sin ajuste.*
 
@@ -1102,7 +1074,7 @@ Ninguna de estas palancas gana la percepción de una vez, y el plan no lo promet
 
 | Fuente | Medida | Estimación | Plazo | Escenario |
 |---|---|---|---|---|
-| Reducir evasión | Cruce DIAN-PILA-catastro; cobro corto; DIAN técnica e independiente. **Unidad de recaudo con pago por desempeño:** equipos de cobro de la DIAN reciben un incentivo atado al recaudo *adicional verificado sobre la línea base histórica*. La evidencia de campo (Punjab, Pakistán) muestra que este esquema elevó la recaudación cerca de un 46% en dos años, y que la ganancia vino de tasar correctamente lo subvaluado, no de sobre-tasar. *Advertencia de validez externa, con el mismo estándar que este documento aplica a otras analogías (Ruanda en el Frente II): Punjab es una provincia, con un impuesto (predial) y una escala muy distintos a los de una administración tributaria nacional como la DIAN, que grava renta, IVA y patrimonio a la vez, con una base de contribuyentes mucho más compleja y más capacidad ya instalada de evasión sofisticada. Esta es, de las tres palancas del escenario base, la que más se apoya en un solo experimento extranjero extrapolado, y la que el propio documento reconoce como la más incierta de las tres (ver Cuadro Fiscal). El mecanismo (pagar por recaudo adicional verificado, no por recaudo total) es transferible; la magnitud del 46% no lo es sin más evidencia. Por eso el esquema se pilotea antes de contarlo: arranca en una o dos direcciones seccionales de la DIAN con un solo tributo, se mide el recaudo adicional real durante uno o dos ciclos, y solo si el piloto confirma la magnitud se escala al resto; mientras el piloto no la confirme, su aporte se trata como incierto y no como caja segura del ajuste.* **Candado anti-hostigamiento** (coherente con "la carga nunca sobre los de abajo"): el incentivo se anula si suben las quejas verificadas de contribuyentes o si el cobro recae sobre la base pequeña; aplica solo a grandes evasores y patrimonios subdeclarados | +$10-15B/año | Años 1-3 | **Base** (no requiere reforma) |
+| Reducir evasión | Cruce DIAN-PILA-catastro; cobro corto; DIAN técnica e independiente. **Unidad de recaudo con pago por desempeño:** equipos de cobro de la DIAN reciben un incentivo atado al recaudo *adicional verificado sobre la línea base histórica*. La evidencia de campo (Punjab, Pakistán) muestra que este esquema elevó la recaudación cerca de un 46% en dos años, y que la ganancia vino de tasar correctamente lo subvaluado, no de sobre-tasar. *Advertencia de validez externa, con el mismo estándar que este documento aplica a otras analogías (Ruanda en el Frente II): Punjab es una provincia, con un impuesto (predial) y una escala muy distintos a los de una administración tributaria nacional como la DIAN, que grava renta, IVA y patrimonio a la vez, con una base de contribuyentes mucho más compleja y más capacidad ya instalada de evasión sofisticada. Esta es, de las tres palancas del escenario base, la que más se apoya en un solo experimento extranjero extrapolado, y la que el propio documento reconoce como la más incierta de las tres (ver Cuadro Fiscal). El mecanismo (pagar por recaudo adicional verificado, no por recaudo total) es transferible; la magnitud del 46% no lo es sin más evidencia.* **Candado anti-hostigamiento** (coherente con "la carga nunca sobre los de abajo"): el incentivo se anula si suben las quejas verificadas de contribuyentes o si el cobro recae sobre la base pequeña; aplica solo a grandes evasores y patrimonios subdeclarados | +$10-15B/año | Años 1-3 | **Base** (no requiere reforma) |
 | Eficiencia del gasto | Nóminas infladas; subsidios regresivos (FEPC); lo recuperado por anticorrupción al fisco | −$10-15B/año | Años 1-2 | **Base** |
 | Credibilidad | Recuperar ancla fiscal baja la prima de riesgo (1 de cada 3 pesos se va en intereses) | −$5-8B/año en intereses | Año 1 | **Base** |
 | Ingresos progresivos | Cerrar exenciones a patrimonios altos; gravar dividendos y grandes patrimonios (>$5.000M); NO más carga a la pyme | +$15-20B/año | Años 1-2 | **Ampliado** (requiere Congreso) |
@@ -1536,22 +1508,6 @@ Las reformas de ejecución no mueren solo por falta de capacidad, mueren por res
 
 Los Equipos de Ejecución y el semáforo público son la mitad del aparato de seguimiento. La otra mitad, la que en la experiencia de las unidades de cumplimiento (Barber, en el gobierno británico) de verdad mueve la aguja, es una rutina, no un tablero más. Y aquí conviene nombrarla por lo que es, porque cualquiera que haya trabajado en ingeniería la reconoce: es el mismo ritual que en el desarrollo de software se llama reunión de seguimiento o revisión de ciclo. Un encuentro periódico y fijo, corto y sin ceremonia, donde el responsable y quien lidera miran juntos los mismos datos, uno por uno, se nombra lo que está trabado y quién lo destraba, y se vuelve a mirar a la semana siguiente. Lo aburrido y repetitivo es precisamente lo que funciona, porque nadie quiere llegar dos veces seguidas a la reunión con el mismo problema sin resolver. El plan formaliza esa rutina: un número pequeño de prioridades por nodo, no una lista de cincuenta que dispersa; trayectorias con metas intermedias mes a mes y no solo la meta final; y el encuentro periódico del Gerente con su Equipo de Ejecución, y de este con el Presidente en los hitos, mirando el tablero de frente. Con la advertencia que el propio Barber terminó reconociendo: la rutina se pudre si degenera en enseñar para la métrica, así que se combina con la regla anti Goodhart que el plan ya tiene, métricas pre registradas y evaluación independiente. La rutina crea la presión, y la regla anti Goodhart evita que la presión corrompa el dato.
 
-## J. Iteración de verdad: la plantilla del nodo como hipótesis, no como plano
-
-Este frente adopta el marco de solución iterativa dirigida por problemas (Andrews, Pritchett y Woolcock) para escapar de la trampa de capacidad, y conviene ser honesto sobre hasta dónde llega y dónde se aparta a propósito. El plan es fiel a ese marco en lo grande: parte de problemas y no de soluciones importadas, empieza con tres nodos y no treinta para no caer en sobrecarga prematura, aprende antes de escalar (activador por resultado), y construye capacidad haciendo. Pero en un punto se aparta, y con razón: la plantilla del nodo es bastante uniforme (las cinco piezas, el protocolo de 100 días, los criterios del IPN), y esa uniformidad es deliberada, es el blindaje anti-captura que un entorno clientelista exige y que el marco original, pensado para construir capacidad y no para sobrevivir a la captura, no prioriza. El plan sacrifica algo de flexibilidad a cambio de resistencia a la captura, y lo dice de frente en vez de fingir que no hay tensión.
-
-Dicho eso, hay cuatro ajustes baratos que acercan el plan al espíritu iterativo sin soltar el blindaje, y se adoptan:
-
-- **La plantilla es una hipótesis, no un plano.** Lo que se aprende en un nodo no solo decide si se abre el siguiente (ir o no ir), también modifica el diseño del siguiente. La bitácora del nodo y el segmento de transferencia de la sección I dejan de ser solo memoria y se vuelven insumo formal de una revisión del propio protocolo entre olas: qué parte de la secuencia falló, qué hito sobraba, qué faltaba. El protocolo de 100 días entra a cada ola como la mejor versión aprendida hasta ahí, no como el mismo plano congelado del primer día. Lo que no cambia entre nodos son los criterios ciegos del IPN y las reglas anti-captura; lo que sí cambia es la coreografía de ejecución, que es donde el aprendizaje manda.
-
-- **Una métrica pre-registrada equivocada se puede corregir, en público.** La regla anti-Goodhart fija las métricas antes de ejecutar para que nadie las afloje a conveniencia, y eso se mantiene. Pero aprender a veces significa descubrir que una métrica medía lo que no era. Para que el pre-compromiso no fosilice una meta mala, se abre una vía de revisión con el mismo estándar del sunset: cambiar una métrica exige expediente público, concepto del tercero independiente y justificación técnica, de modo que corregir sea posible pero nunca silencioso ni conveniente. Se distingue así el ajuste honesto por aprendizaje del amaño interesado, que es lo que la regla anti-Goodhart siempre quiso evitar.
-
-- **Buscar lo que ya funciona, no solo importar la plantilla (desviación positiva).** El mapeo de conocimiento práctico local de los primeros 15 días (Columna Vertebral, 3.9) se amplía: no solo cataloga cómo se gobierna hoy el territorio, busca activamente al que ya resuelve bien con poco, el operador comunitario que sí sostiene su acueducto, la vereda que sí titula sin conflicto, y construye sobre esa práctica local exitosa en vez de imponerle encima la solución de escritorio. La mejor idea muchas veces ya está en el territorio, apagada por falta de apoyo, no en el manual.
-
-- **Los modelos importados se adoptan por su función, no por su forma.** El plan trae referentes de afuera (el intercambio de datos de Estonia, la beca del veterano estilo estadounidense, el registro de agentes extranjeros, la salud militar de primer nivel, la alta dirección pública de Chile). Cada uno se adopta por la función que cumple, no por su forma, y viene con una condición: si al aterrizarlo en Colombia la función no transfiere, se adapta o se descarta, no se conserva la cáscara por prestigio. Copiar la forma sin la función es exactamente la mímica isomórfica que este frente diagnostica como la enfermedad; traer un referente y luego negarse a soltarlo cuando no funciona sería caer en ella con nombre extranjero.
-
-El hilo de los cuatro: iterar de verdad es dejar que la realidad del territorio corrija el diseño, no solo que confirme o frene la expansión. El blindaje protege las reglas del juego (criterios ciegos, métricas no amañables, propiedad comunitaria); la iteración perfecciona la jugada (la secuencia, las metas, las prácticas que se replican). Confundir las dos, blindar la jugada o dejar sueltas las reglas, es el error que este ajuste evita.
-
 
 ---
 
@@ -1579,35 +1535,6 @@ El hilo de los cuatro: iterar de verdad es dejar que la realidad del territorio 
 | Urabá (Puerto Antioquia + 4) | Acompañar con vías y seguridad, no construir | El privado ya invirtió. El Estado provee bienes complementarios, no duplica. |
 | Tribugá | Estudios de factibilidad + consulta previa + seguridad. No anunciar como meta del gobierno | Sin vía, sin seguridad, sin consulta: el anuncio perfecto para no ejecutar. Proyecto del horizonte de 15-20 años. |
 
-## 9.3 Que lo construido no se abandone: mantenimiento y operación
-
-El principio del frente, activar lo que ya se pagó, queda a medias si el país sigue haciendo lo que hace: construir y no mantener. Es la misma enfermedad que el Frente XI diagnostica en el agua (el 39% de las plantas no funciona porque el contrato de obra no incluía el de operación), y en las vías es igual de grave: de la red terciaria, que es el 69% de las carreteras del país y la que conecta al campesino con el mercado, solo cerca del 6% está en buen estado según el INVÍAS. La aritmética es implacable: cada peso en mantenimiento evita varios en reconstrucción (el Banco Mundial y la CAF citan un factor de 3 a 4), porque el deterioro del pavimento es exponencial. No mantener no es ahorrar, es aplazar un gasto mayor.
-
-| Medida | Diseño | Por qué funciona |
-|---|---|---|
-| Obra con operación incluida | Todo contrato de obra vial incorpora su mantenimiento de largo plazo desde la adjudicación, igual que el contrato integrado del agua (Frente XI) | Cierra el hueco por donde hoy se pierde lo construido: nadie opera lo que nadie se comprometió a operar |
-| Pago por nivel de servicio, no por obra medida | Contratos que pagan por mantener la vía en un estándar (transitable, sin huecos), no por metros intervenidos (modelo CREMA, evidencia del BID) | Alinea el incentivo con el resultado: el contratista gana porque la vía sirva, no por repavimentar sin fin |
-| Microempresas de mantenimiento vial comunitario | Escalar el modelo que el INVÍAS ya tiene: administradores viales que supervisan microempresas asociativas locales de conservación rutinaria (ya genera miles de empleos) | Es el equivalente vial de las empresas operadoras comunitarias de agua: operación local, empleo formal en la periferia, y la comunidad cuida lo que usa |
-| Financiación de mantenimiento protegida | Una fracción del presupuesto vial reservada y no reasignable para conservación | Lo que no tiene plata blindada se lo come la coyuntura, igual que el catastro (Frente II) |
-
-## 9.4 La capa de largo horizonte: preparar el futuro sin anunciar humo
-
-Este frente es, a propósito, de corto plazo, y esa disciplina es su fortaleza. Pero un país que solo termina lo empezado se queda sin futuro. Hay una diferencia enorme entre anunciar una obra para la foto, que es lo que este frente rechaza, y arrancar con responsabilidad la tubería de una obra transformadora: estudios, predios, estructura de financiación, consulta previa y protección de la servidumbre. Lo primero es populismo; lo segundo es planeación. La regla es la misma de la fila de Tribugá (9.2): este gobierno no promete inaugurar estas obras, promete dejar su tubería lista y entregarla al siguiente, y se mide por hitos de estructuración, no por cortes de cinta.
-
-Con ese molde, cinco apuestas de alto retorno y de las que un país puede sentir orgullo, escogidas porque reparten el beneficio entre millones y no entre una élite:
-
-| Apuesta | Por qué transforma a la mayoría | Qué hace este gobierno |
-|---|---|---|
-| Los ríos como columna vertebral | El transporte por agua cuesta una fracción del terrestre; abarata comida e insumos para unos 6 millones de habitantes ribereños hoy aislados. Recuperar el Magdalena como corredor permanente y tejer la red fluvial de la Orinoquía y la Amazonía | Blindar la APP del río que ya avanza y sumarle visión de cuenca: no solo dragar, cuidar la llanura inundable y la pesca, o el remedio destruye el río |
-| Ferrocarril de carga | Hoy solo el 31% de la red férrea opera; recuperar los corredores baja el costo logístico para todos y le quita presión al camión (85% de la carga). La Dorada-Chiriguaná ya duplicó su carga y se adjudicó la primera APP férrea del país | Proteger la servidumbre invadida por ley, atar obra a operación, y estructurar los corredores con retorno real, no todos |
-| Cable aéreo como transporte masivo (la apuesta de orgullo) | Colombia es referente mundial (Medellín, Manizales). Conecta al más pobre, que vive en las laderas donde no cabe un metro ni un bus; barato, rápido de construir y limpio. En Medellín la línea K acompañó una caída de homicidios del 66% en su zona | Convertir el cable en sistema estructurante de las ciudades andinas y de conexión rural-montaña, integrado a la tarifa del transporte público, siempre con el urbanismo social que lo hace funcionar (sin él es una atracción, no una política) |
-| Seguridad hídrica nacional | Colombia es potencia hídrica y aun así racionó agua en Bogotá en 2024 y sufre desabastecimiento crónico en el Caribe. El agua segura sostiene salud, agricultura e hidroeléctricas a la vez | Tratar el agua como infraestructura crítica (recarga y protección de páramos y acuíferos, reúso, alerta ante El Niño), con soluciones basadas en naturaleza antes que megarrepresas; de la mano del Frente XV |
-| Cadena de frío y acopio (posibilidad anclada al nodo, no obra estatal nacional) | Colombia pierde cerca de un tercio de sus alimentos por falta de frío y acopio poscosecha; recuperarlo abarata la comida del pobre urbano y sube el ingreso del campesino a la vez. Pero es un negocio, no una obra pública: lo operan la cooperativa y el privado, nunca el Estado | Nada de red nacional planeada desde Bogotá, que sería más compleja que un nodo y el megaproyecto que fracasa. El Estado solo habilita lo que hoy falta (energía confiable, vía o río, y agregar a los productores dispersos en un volumen que valga la pena servir) y desriesga la inversión privada temprana con garantía. El acopio con frío emerge entonces donde un nodo ya puso esas condiciones, operado por la cooperativa local con la compra garantizada (Frente III.5) como demanda ancla. Es una posibilidad que el nodo hace probable, no una carga de la que el nodo dependa: si aparece, es un premio; el nodo funciona con ella o sin ella |
-
-Dos apuestas de esta familia viven, con razón, en otros frentes, y aquí solo se nombran para que el mapa quede completo: la energía barata y limpia que abarata todo lo demás (sobre todo la geotérmica del cinturón volcánico, con el proyecto Nereidas ya aprobado) está en el [Frente XV](frente-15-medio-ambiente.md), y la fibra óptica troncal como bien público que habilita educación, salud y trabajo remoto en la periferia, en el Frente XII y la plataforma de trazabilidad.
-
-Y la verdad más incómoda para un frente de concreto, que conviene decir de frente: la infraestructura de mayor retorno documentado no es de concreto. Es la primera infancia. La evidencia de Heckman cifra el retorno de los programas integrales de 0 a 5 años cerca del 13% anual por niño, vía mejor salud, empleo e ingreso décadas después, mejor que cualquier autopista. Esa inversión vive en los frentes social y de educación, pero pertenece a esta conversación: preparar el futuro es más que asfalto. El problema de todas estas apuestas es el mismo, y por eso la capa se blinda: su retorno tarda más que un período de gobierno, así que siempre pierde ante el corte de cinta, y la única forma de que sobrevivan es medirlas por estructuración y entregarlas armadas al siguiente gobierno, no enterradas.
-
 
 ---
 
@@ -1633,7 +1560,7 @@ En lugar de un frente paralelo a los demás, es la capa de valor agregado que el
 | Medida | Concreción | Responsable | Plazo |
 |---|---|---|---|
 | Exportación naval regional | Identificar 10 países con necesidades de patrullaje fluvial; misión comercial Min. Defensa + ProColombia; COTECMAR como proveedor oficial | Min. Defensa + Min. Comercio | Año 1 |
-| Centro MRO aeronáutico | Zona franca de mantenimiento en Bogotá o Medellín; aprovechar certificación FAA | Min. Comercio + CIAC + ProColombia | Años 1-2 |
+| Hub MRO aeronáutico | Zona franca de mantenimiento en Bogotá o Medellín; aprovechar certificación FAA | Min. Comercio + CIAC + ProColombia | Años 1-2 |
 | Transferencia tecnológica en defensa | 20% offset mínimo; 10 ingenieros formados por contrato; manufactura local progresiva | Min. Defensa | Año 1 |
 
 **B. APIs farmacéuticos.** Colombia produce 80% de las unidades pero importa 80% de los ingredientes. El cierre lo da el poder de compra del pagador único de salud como primer cliente cautivo.
@@ -1651,12 +1578,11 @@ En lugar de un frente paralelo a los demás, es la capa de valor agregado que el
 | Programa nacional antidron | $1B Fase 1 aprobado: 40% a CIAC + privados colombianos certificados; 60% compra externa con transferencia obligatoria | Min. Defensa + CIAC | Año 1 |
 | Mercado regional | Patentar soluciones; ProColombia abre mercado con Ecuador, Perú, México, Brasil | Min. Defensa + ProColombia | Años 2-4 |
 
-**D. Procesamiento de minerales de transición (níquel, cobre y estratégicos).** Colombia exporta el níquel crudo de Cerro Matoso, y el valor está en los cátodos para baterías de vehículo eléctrico, la cadena que Corea y Japón diversifican fuera de China. La misma lógica aplica al cobre a medida que entren en producción los yacimientos que hoy se licencian (El Alacrán y los que sigan, ver [Frente XV](frente-15-medio-ambiente.md)): no exportar el concentrado crudo, sino procesar y encadenar valor en el país. Con una salvedad de secuencia que no se puede saltar: esto solo es política industrial donde el mineral es legal y el territorio es gobernable. El níquel y el cobre califican; el coltán y las tierras raras no, porque hoy son economía ilegal en zonas que el Estado no controla, así que su eslabón industrial no existe hasta que existan primero la soberanía y la cuantificación de reservas (Frente XV). No se construye una planta sobre un mineral que hoy financia a un grupo armado.
+**D. Procesamiento de níquel.** Colombia exporta el mineral crudo (Cerro Matoso). El valor está en cátodos para baterías de VE, la cadena que Corea y Japón diversifican fuera de China.
 
 | Medida | Concreción | Responsable | Plazo |
 |---|---|---|---|
 | "No exportar recurso crudo" | Renegociar Cerro Matoso con cláusula de procesamiento nacional progresivo | Min. Minas + Min. Comercio | Años 1-3 |
-| Cobre: procesar, no exportar concentrado | Condicionar los nuevos títulos y contratos de cobre (El Alacrán y siguientes) a procesamiento y encadenamiento local progresivo, con transferencia tecnológica, no a exportar el concentrado crudo | Min. Minas + Min. Comercio + ANM | Años 2-8 |
 | Transferencia tecnológica | Acercamiento con POSCO (Corea) y Sumitomo (Japón) para plantas con empleo local en Córdoba | Min. Comercio + Cancillería | Años 1-2 |
 
 **E. Bioeconomía: con expectativas correctas.** La biodiversidad es información, pero transformarla requiere capacidad de innovación. Lo factible en un período: concentrar los recursos de Minciencias en dos o tres clústeres con masa crítica real (medicina regenerativa: U. Andes + IDCBIS + DreamBio + CellRep) y conectarlos al Estado como primer cliente.
@@ -1745,8 +1671,6 @@ La ESEPGUA en La Guajira: de 1% a 30% de cobertura rural en Uribia en un año; m
 # Frente XII: Ciudades, Turismo y Productividad Urbana
 
 El 80% de la población vive en ciudades y las ciudades generan el recaudo que financia todo lo demás. El programa concentra la *inversión productiva nueva* en los nodos periféricos, pero no descuida a las ciudades. Este frente hace explícito lo que el programa ya les da (ver también el Piso Universal, 3.5), agrega las intervenciones urbanas de bajo costo y alto impacto, e integra el turismo como industria que conecta los destinos urbanos con los nodos.
-
-> El empleo y la productividad urbana viven en este frente (el módulo de I.3 en adelante); el empleo de la periferia vive en el nodo y en el Frente I. El mapa completo de dónde vive cada pieza del empleo está en el Frente I, sección I.0.
 
 > En 2025 el turismo generó $11.166 millones de dólares en divisas, superando por primera vez al carbón y al café juntos. El problema es de distribución, no de volumen: el 92% de las reservas se concentra en Bogotá, Medellín y Cartagena.
 
@@ -1872,26 +1796,6 @@ La estrategia consiste en redirigir lo que ya se gasta y eliminar fricciones, no
 El turista que llega a Bogotá o Medellín es el candidato natural del segundo viaje al Caquetá o al Cesar. La seguridad consolidada habilita el turismo; el turismo genera empleo formal de alta densidad social (el guía certificado tiene contrato, el operador tiene PILA). El empleo formal en turismo de los nodos es indistinguible del de las ciudades: mismo PILA, mismo SENA, misma Ley 2466.
 
 > **Meta de turismo al final del período:** de $11.000M a $17.000-20.000M USD en divisas. No duplicando turistas en los tres destinos actuales, sino distribuyéndolos hacia 8-10 destinos, subiendo el gasto por visitante con el nómada digital y recuperando el valor que capturan las plataformas externas.
-
-## 12.6 Motor de emprendimiento dinámico: crear y escalar firmas jóvenes, donde nace el empleo
-
-El módulo de productividad (12.3) apuesta a fortalecer las firmas que ya existen, y esa apuesta es correcta pero incompleta, porque deja fuera de foco justo donde nace el empleo nuevo. La evidencia es contundente y hay que decirla sin rodeos: la creación neta de empleo no viene de las firmas pequeñas por ser pequeñas, viene de las firmas jóvenes de alto crecimiento (Haltiwanger, Jarmin y Miranda, 2013: controlando por edad, la relación tamaño-crecimiento desaparece). Y el diagnóstico colombiano preciso, con microdatos del DANE, es de Eslava, Haltiwanger y Pinzón (2019): Colombia no tiene un problema de natalidad empresarial, tiene un "up or out" debilitado. Nacen muchísimas empresas (297.000 en 2024, más del 99% microempresas), pero escalan poco y sobreviven poco: de las creadas en 2017, solo el 33,5% seguía viva cinco años después, contra más del 40% en la OCDE. El país está lleno de firmas pequeñas y viejas que ni crecen ni mueren. Ese, y no la falta de emprendedores, es el cuello de botella del empleo.
-
-Entonces el motor no busca crear más microempresas, de esas sobran. Busca que las firmas jóvenes con potencial escalen, y que el fracaso honrado no arruine al que lo intenta. Y lo hace con una regla innegociable, la misma del Frente X: **el Estado no escoge ganadores**. Invierte en fondos y pone condiciones de mercado; quien elige la empresa es el privado que arriesga su propia plata al lado.
-
-| Palanca | Cómo funciona, en concreto | Vía jurídica |
-|---|---|---|
-| Fondo de fondos apalancado (escalar Bancóldex Capital) | El Estado invierte como socio limitado en fondos privados de capital de riesgo que eligen y financian las firmas jóvenes; el Estado nunca elige la empresa. Se apalanca con capital privado y de las AFP (cuyos tickets son muy grandes para invertir directo en una startup, pero calzan en un fondo de fondos), y lleva una cláusula de recompra estilo Yozma: el privado puede comprarle al Estado su parte a costo más un interés, de modo que el Estado sale y le deja al privado la ganancia extraordinaria, lo que atrae capital y evita que el fondo se vuelva permanente | Administrativa (Bancóldex ya existe y ya opera el vehículo) |
-| Garantía a la inversión temprana | Una garantía tipo FNG que cubre parte de la pérdida del que invierte en la etapa semilla y Serie A, el "valle de la muerte" que más del 70% de las firmas no cruza. Reduce el riesgo del capital privado temprano sin que el Estado ponga la plata directa | Administrativa (objeto del FNG) |
-| Incentivo tributario al inversionista ángel | Deducción para quien invierte capital pre-semilla en una firma joven certificada, con permanencia mínima y tope, para hacer crecer la base de ángeles local (modelo SEIS/EIS del Reino Unido) | Ley (reserva tributaria, art. 338 CP) |
-| El Estado como primer cliente (compra pública de innovación) | Activar de verdad la compra pública de innovación y precomercial que la ley ya permite (art. 36 de la Ley 2069/2020, Decreto 442/2022, CONPES 4129/2023) pero que casi no se usa: unas pocas entidades ancla compran soluciones a firmas jóvenes, que es demanda real y un primer contrato que las hace escalar (modelo SBIR de EE.UU.) | Reglamento + activación (ya es legal) |
-| Segunda oportunidad ágil para el fracaso honrado | Que quebrar de buena fe no cueste una década de castigo: acortar los tiempos de la insolvencia, revisar la inhabilidad de hasta 10 años, y reducir la permanencia en centrales de riesgo para el fracaso sin dolo. El miedo a la ruina personal suprime el emprendimiento que crea empleo | Ley (reforma a la Ley 1116/2006 y a la insolvencia de persona natural) |
-
-**Por qué esto sí crea empleo y no es el empleo público que se rechaza.** Ninguna de estas palancas es nómina estatal ni subsidio a dedo. El empleo lo crean las firmas que escalan; el Estado solo baja el costo y el riesgo de que escalen, y se sale (la cláusula de recompra garantiza que no se quede de socio permanente). Es catalizar un mercado, no reemplazarlo, y es coherente con el sesgo del plan contra escoger ganadores y contra el gasto permanente.
-
-**Los límites honestos, para no vender un milagro israelí.** Yozma funcionó en Israel sobre condiciones que Colombia no tiene servidas (una ola de ingenieros inmigrantes, la diáspora en Silicon Valley, spillovers de la inversión extranjera), y Lerner advierte que copiar solo el mecanismo de apalancamiento no reproduce el resultado. Start-Up Chile mostró que el dinero solo no mueve la aguja, lo que sirve es la mentoría, y que subsidiar a fundadores globalmente móviles tiene baja retención. La restricción real de Colombia no es la plata pública, es la escasez de gestores privados de fondos de calidad y de un flujo suficiente de firmas invertibles: ColCapital reporta pocos fondos de riesgo domiciliados en el país y ninguno formado en los últimos años. Por eso el fondo de fondos y el desarrollo de gestores locales van primero, y la meta se calibra a ese flujo real, no a una ambición copiada.
-
-**Honestidad fiscal.** Esta es la palanca de empleo de menor costo neto del plan, porque el grueso es capital revolvente, no gasto: el fondo de fondos invierte, recupera y reinvierte, y la recompra le devuelve al Estado su aporte. Lo que sí es gasto (la garantía, el incentivo al ángel) es acotado y se cuenta como tal. En el escenario base entra lo administrativo (escalar Bancóldex Capital, activar la compra de innovación) y la reforma de segunda oportunidad; el incentivo tributario al ángel espera su ley y el escenario que la habilite.
 
 *La propuesta de una plataforma nacional de turismo de capital mixto (Colombia Viva) se desarrolla en el **Anexo A**, fuera del núcleo del programa por no ajustarse plenamente al principio rector de "activar lo que ya se pagó".*
 
@@ -2169,13 +2073,11 @@ El entrenamiento se parte en dos capas, y la distinción es lo que hace la idea 
 
 | Fase | Qué se lanza | Meta | Condición para avanzar |
 |---|---|---|---|
-| Transición + Año 1 | Servicio 100% voluntario; 3 modalidades; Pacto con 20 empresas; certificaciones SENA desde el Día 1 | 5.000-10.000 voluntarios | Satisfacción de egresados ≥75%; empleo formal a 6 meses ≥60%; y capacidad de entrega demostrada: se alojó, alimentó, entrenó (incluido el tiro real) y certificó a la cohorte sin degradar la calidad ni la seguridad |
-| Año 2 | Obligatorio en municipios de nodos activos (Ola 1 + inicio Ola 2). La obligatoriedad empieza donde el servicio ya demostró valor | 30.000-50.000 | Cobertura de cupos ≥80%; cero reclamos de exención por clase; y la logística (alojamiento, instructores de armas, cupos SENA, PILA) escaló al nuevo tamaño sin cuello de botella verificado |
+| Transición + Año 1 | Servicio 100% voluntario; 3 modalidades; Pacto con 20 empresas; certificaciones SENA desde el Día 1 | 5.000-10.000 voluntarios | Satisfacción de egresados ≥75%; empleo formal a 6 meses ≥60% |
+| Año 2 | Obligatorio en municipios de nodos activos (Ola 1 + inicio Ola 2). La obligatoriedad empieza donde el servicio ya demostró valor | 30.000-50.000 | Cobertura de cupos ≥80%; cero reclamos de exención por clase |
 | Año 3 | Obligatorio universal, con exenciones médicas y objeción de conciencia canalizada. Sin exención por título | 100.000-150.000/año | Si en el Año 2 hay lista de espera, la obligatoriedad no genera resistencia |
 
 > **Regla anti-coerción:** si en el Año 2 la participación voluntaria supera el 80% de la meta, la universalidad obligatoria entra sin resistencia. Si no, la meta del Año 2 se recorre, pero no se abandona la universalidad: se revisa el valor del servicio, no la ambición.
-
-> **La compuerta mide entrega, no solo demanda (ajuste de capacidad).** El salto de 10.000 a 150.000 personas al año es de 15 veces, y el mayor riesgo no es que los jóvenes no quieran servir, es que el Estado no pueda alojarlos, entrenarlos en armas y certificarlos por SENA a esa escala sin bajar la calidad. Por eso las condiciones de avance de arriba no miden solo si hay demanda (satisfacción, cupos), sino si la capacidad de entrega escaló de verdad. No se pasa a 50.000 hasta demostrar que se pudo con los primeros, ni a 150.000 hasta demostrar que se pudo con los 50.000. La escala la manda la capacidad probada, no el calendario ni la meta política.
 
 ## 14.6 Lo que produce: el triple resultado
 
@@ -2280,22 +2182,6 @@ La minería parte en dos y hay que tratar cada mitad distinto. La minería legal
 Colombia tiene oro y minerales que el mundo va a demandar cada vez más para su propia transición, como el coltán, el cobre y otros, buena parte de ellos en la Orinoquía y la Amazonía, en territorios de comunidades indígenas y de altísima biodiversidad. Lo que importa no es si se explotan o no en abstracto, sino bajo qué condiciones, porque hacerlo mal repite la vieja maldición de los recursos: el territorio pone el daño y la renta se va, dejando pobreza y ríos envenenados. El plan pone condiciones que no son negociables.
 
 Primero, el agua y las áreas protegidas mandan: nada de gran minería en páramos, en fuentes de agua ni en áreas protegidas, sin importar lo que valga lo que hay debajo. Segundo, consentimiento real de las comunidades: la consulta previa a los pueblos indígenas y a las comunidades es un consentimiento que puede decir que no, no un trámite para cumplir y seguir de largo. Tercero, que la renta se quede en parte donde se extrae: regalías y empleo que mejoren la vida del territorio, no solo de la capital y de la empresa. Cuarto, trazabilidad del mineral de la mina al mercado, porque la misma plataforma que persigue el oro ilegal sirve para certificar el legal, y de paso le cierra el mercado al ilegal. Explotar sí es posible, pero con el agua y el consentimiento por delante, no la renta.
-
-### El estado real de cada mineral, y la secuencia que impone
-
-No todos los minerales estratégicos están en el mismo punto, y meterlos en el mismo saco lleva a prometer lo que no se puede. Conviene ser exacto.
-
-El **cobre** es el más avanzado y el único con perspectiva realista de industria. Hay yacimientos definidos y con nombre: El Alacrán en Córdoba, que recibió licencia ambiental en 2026 y es el más cercano a producir; Quebradona en Antioquia, grande pero archivado por la ANLA en 2021 y en reestudio; y Mocoa en Putumayo, enorme pero apenas en exploración. Hoy la producción nacional es marginal (una sola mina pequeña en el Chocó). Haciéndolo bien, en 10 a 15 años el país podría tener dos o tres minas de cobre y ser un actor menor de la región, nunca un rival de Chile o Perú, y con una demanda mundial en fuerte alza por la electrificación. Es una oportunidad real, pero modesta y de plazo largo, no una salvación fiscal.
-
-El **coltán, las tierras raras y el wolframio** son otra historia, y hay que contarla sin ilusión. Geológicamente existen (Vichada, Guainía, Guaviare), pero hoy son casi enteramente ilegales: sin licencia, controlados por el ELN y las disidencias, sacados de contrabando hacia China con frecuencia vía Venezuela, y sin siquiera un inventario oficial de reservas. Ahí el mineral no es del país, es del grupo armado que gobierna esos territorios. Por eso su tratamiento principal en este plan no es como industria a explotar sino como economía ilegal a desmantelar ([Desmantelamiento de Economías Ilegales](../transversal/desmantelamiento-economias-ilegales.md), sección 4). Prometer una industria de tierras raras hoy sería vender humo: el mineral está donde el Estado no está.
-
-De ahí sale la secuencia honesta, que no se puede saltar y que vale sobre todo para el coltán y las tierras raras:
-
-- **Primero, soberanía y conocimiento.** El control territorial (el nodo, Frente III) y la cuantificación oficial de reservas por el Servicio Geológico Colombiano, que hoy no existe: Colombia no tiene un inventario de sus minerales estratégicos comparable al de sus vecinos, solo estimaciones por proyecto. Cuantificar es la precondición más barata de todas, no requiere ley, y sin ella todo lo demás es especulación. Es lo primero, y es una palanca concreta que el plan sí puede activar ya.
-- **Después, formalización con trazabilidad,** para distinguir el mineral legal del ilegal y cerrarle el mercado al segundo, con el mismo mecanismo que el oro (RUCOM biométrico y balance de masa, Desmantelamiento sección 4).
-- **Y solo entonces, explotación** con las condiciones no negociables de arriba: fuera de páramos y áreas protegidas, consulta que puede negar, renta que se queda en parte en el territorio, y trazabilidad de la mina al mercado.
-
-Un mineral estratégico no es una oportunidad hasta que el Estado controla el territorio donde está y sabe cuánto hay. Antes de eso es, en el mejor caso, una promesa, y en el peor, la caja de un grupo armado. Esa es la diferencia entre el cobre (yacimientos conocidos en zonas gobernables, donde la conversación ya es de licencia y agua) y el coltán (mineral en territorios que hoy no controla el Estado, donde la conversación todavía es de soberanía).
 
 ## Transición energética con honestidad fiscal
 
@@ -2480,7 +2366,7 @@ El reparto es deliberado: aquí vive la infraestructura, en el Frente IV se expl
 
 | Componente | Medida | Responsable | Plazo |
 |---|---|---|---|
-| Integración de bases (por módulos, no de golpe) | Interoperar SECOP, Cuentas Claras, PILA, DIAN, catastro y UIAF, pero módulo por módulo y por madurez del dato, no todo el Estado en un año. El Año 1 conecta primero las fuentes que ya son públicas o están limpias (SECOP, Cuentas Claras, RUES) y las de los tres nodos; el resto entra a medida que cada base se ordena. Interoperar todo el Estado de una vez es justo el megaproyecto de TI que en Colombia siempre fracasa, y no se intenta | DNP + DIAN + IGAC + UIAF | Año 1 lo maduro; el resto por módulo |
+| Integración de bases | Interoperar SECOP, Cuentas Claras, PILA, DIAN, catastro, UIAF y demás fuentes; API pública. Es la base común que alimenta tanto la gestión del gasto como la detección de anomalías | DNP + DIAN + IGAC + UIAF | Año 1 |
 | Motor de detección | Corre sobre esta infraestructura. Las señales concretas y los módulos por dominio (contratación, salud, subsidios, nómina) se detallan en el Frente IV, para no duplicarlos aquí | Ente independiente (Contraloría + Veeduría) | Años 1-2 |
 | Inteligencia financiera | Uso propio de seguridad, distinto de la detección de corrupción en el gasto: rastreo de flujos financieros de grupos armados, en coordinación con la UIAF | UIAF + Min. Defensa | Años 1-2 |
 | Denuncia ciudadana | Canal unificado (integra los que ya existen) como flujo de entrada; es el sensor humano que cubre los puntos ciegos del dato. Su triaje (cruzar para priorizar, nunca para descartar) y sus salvaguardas se detallan en el Frente IV | Secretaría de Transparencia + entes de control | Años 1-2 |
@@ -2628,8 +2514,6 @@ Esta sección no resuelve el narcotráfico mundial, y prometer eso sería repeti
 La recuperación de activos tampoco reduce, por sí sola, una sola hectárea de coca sembrada. Esa es tarea de Frente III, con presencia estatal sostenida y comprador garantizado. Confundir ambos objetivos, como ya lo hizo el PNIS al anunciar subsidios sin la capacidad de cumplirlos, es el error de diseño más caro que este plan puede evitar.
 
 Y la trazabilidad isotópica, aunque real como ciencia, no es una tecnología madura para control masivo en 2026: usarla como si lo fuera, prometiendo certificar cada kilo de oro, sería el mismo tipo de promesa vacía que este plan evita en todos sus demás frentes.
-
-Y falta la advertencia de ejecución más incómoda, que es de capacidad y no de diseño. Los mecanismos de esta sección asumen dos cosas que hoy no existen: una plataforma que cruce en vivo lo que sabe cada agencia, y una coordinación entre DIJIN, CTI, UIAF y Fiscalía que hoy opera en silos y que, como mostró la red desarticulada en 2025, está en parte infiltrada. Conectar por una plataforma compartida a instituciones penetradas no es un encendido, es un riesgo, y por eso no se hace de golpe: la coordinación arranca como piloto sobre un puñado de casos y una sola cadena (por ejemplo el oro ilegal), con la rotación de personal y los candados anti-filtración de la sección 6 puestos antes, y solo se amplía cuando ese piloto demuestra que el cruce de información no se le filtra al enemigo. El plazo de 30 días de respuesta de la Fiscalía es una meta hacia la que se construye capacidad, no un supuesto del primer día. La misma regla del resto del plan: probar en pequeño, verificar que no se rompe, y solo entonces escalar.
 
 
 ---
@@ -2886,4 +2770,4 @@ Este documento es versionado y abierto.
 - Cambios de principio requieren justificación técnica
 - Parámetros se discuten con evidencia
 
-**Última actualización:** 2026-07-17 15:49:22
+**Última actualización:** 2026-07-17 04:51:59
