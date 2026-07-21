@@ -2,7 +2,7 @@
 
 ## Plan de Gobierno Integral 2026-2030
 
-**Generado:** 20 de July de 2026
+**Generado:** 21 de July de 2026
 
 ---
 
@@ -2924,4 +2924,4 @@ Este documento es versionado y abierto.
 - Cambios de principio requieren justificación técnica
 - Parámetros se discuten con evidencia
 
-**Última actualización:** 2026-07-20 18:59:55
+**Última actualización:** 2026-07-21 01:55:41
