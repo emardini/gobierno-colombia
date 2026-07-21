@@ -2973,4 +2973,4 @@ Este documento es versionado y abierto.
 - Cambios de principio requieren justificación técnica
 - Parámetros se discuten con evidencia
 
-**Última actualización:** 2026-07-21 18:54:16
+**Última actualización:** 2026-07-21 23:23:51
