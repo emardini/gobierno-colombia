@@ -73,7 +73,7 @@ Entre arrancar la coca y que el cultivo alternativo produzca ingreso pasan 8-24 
 |---|---|---|---|
 | Empleo temporal en obras del nodo | Prioridad a familias que arrancan coca: escuelas, salud, vías terciarias, acueductos, reforestación. $1.5-2M/mes, 6 meses. Meta 500-1.000 empleos/nodo | El campesino no pierde ingreso al salir de la coca; el período de espera construye los bienes públicos del nodo | Min. Trabajo + INVIAS + Min. Vivienda |
 | Pago por arranque voluntario | $5.000-8.000/ha: 50% al arrancar, 50% a los 6 meses con cultivo alternativo. Verificación por drones, no por papel | Señal económica inmediata que cambia el cálculo | UNODC + Min. Agricultura |
-| Compra garantizada (2 años) | El Estado compra 100% de la producción alternativa a ≥80% del precio internacional (Idema reformado) | Elimina la incertidumbre de mercado, segundo factor de regreso a la coca | Min. Agricultura + IDEMA reformado |
+| Compra garantizada (2 años) | El Estado compra la producción alternativa a ≥80% del precio internacional (Idema reformado), con un cupo por familia atado al área que sustituyó y precio decreciente por encima del cupo, para no repetir el error del PNIS, cuyo mero anuncio disparó el cultivo porque garantizar compra sin límite premia sembrar más | Elimina la incertidumbre de mercado, segundo factor de regreso a la coca | Min. Agricultura + IDEMA reformado |
 | Articulación con reforma agraria | El arranque activa la titulación y el paquete habilitador. El título es el activo que vuelve permanente la decisión | La tierra propia es el mayor desincentivo al regreso | ANT + Min. Agricultura |
 
 ## III.6 Soberanía y diversificación de proveedores de defensa

@@ -29,6 +29,8 @@ Con este espacio se financian: los 3 nodos de Ola 1, los Equipos Territoriales, 
 
 El escenario ampliado **acelera las olas** y adelanta la universalidad del Servicio, no habilita el núcleo, lo expande.
 
+Una precisión que evita malentender ese "acelera, no habilita": el escenario ampliado es opcional para el núcleo, pero no para la desigualdad. Es la reconstrucción del contrato fiscal (progresividad, cierre de exenciones al capital, tributación directa) que la restricción del Congreso hoy impide y que la caída de la renta fósil vuelve, con el tiempo, obligatoria y no opcional (ver [Frente V](../frentes/frente-05-fiscal.md) y [Frente XV](../frentes/frente-15-medio-ambiente.md)). Se deja el instrumento listo desde ya para moverlo cuando concurran la mayoría y la urgencia.
+
 ## Costeo de un nodo: Montería + Tierralta/Valencia como caso base
 
 Hasta aquí el cuadro fiscal solo tenía ingresos y espacio; le faltaba la contraparte de gasto, y sin ella el Principio Rector "cada promesa con su fuente" no se puede verificar. Esta sección construye el costeo con Montería-Tierralta, el nodo mejor documentado, con cada supuesto visible y su fuente, para que se pueda mover una cifra y ver si el nodo se sostiene. Donde el plan ya tiene un dato duro, se usa; donde no, se advierte que es una estimación de orden de magnitud, no un presupuesto ejecutado.

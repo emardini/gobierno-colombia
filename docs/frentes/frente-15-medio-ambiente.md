@@ -70,6 +70,17 @@ Aquí el plan se aparta por igual de dos posiciones cómodas. Ni el extractivism
 
 La posición honesta pasa por cómo se financia el Estado mientras se construye la nueva matriz, no por la disyuntiva simplista de "petróleo sí o petróleo no". Eso exige una hoja de ruta fiscal explícita y no un anuncio: cada peso de renta fósil que todavía entre se reinvierte, de manera trazable, en la transición y en la diversificación productiva que este plan ya propone (industria, agroforestería, turismo, servicios), para que el día en que el fósil valga menos, el país ya tenga de qué vivir. Y se decide sobre nuevos contratos con criterio técnico y no de consigna, diciéndole al país la verdad sobre las reservas y el abastecimiento en lugar de esconderla detrás del eslogan del bando de turno.
 
+### La parte que este plan ayuda a causar, y por eso debe responder
+
+Hay que decir algo que suele quedar implícito: la caída de la renta fósil no es solo un choque externo que le llega al país desde el mercado mundial. Este plan, al desincentivar la expansión extractiva y no abrir nuevas fronteras de petróleo y carbón, contribuye a causarla. Y lo que uno ayuda a causar, lo responde. Tratar la crisis fiscal que viene como un accidente del que aprovecharse para forzar reformas sería deshonesto y peligroso: deshonesto porque uno ayudó a provocarla, y peligroso porque las crisis no se controlan una vez sueltas. El plan descarta de forma explícita esa doctrina del shock.
+
+De ahí una disciplina de dos candados, que ordena el ritmo de toda la transición:
+
+- **No retirar la extracción más rápido de lo que entra la energía que la reemplaza.** Primero la seguridad energética. El país necesita gas para la transición y electricidad firme, y ya racionó agua en Bogotá en 2024, así que el desmonte no puede abrir un hueco de suministro. El gas convencional, las renovables, la red y la geotérmica entran antes de que salga lo que sostienen.
+- **No dejar ir la renta fiscal más rápido de lo que se construye la que la reemplaza.** La renta fósil paga hoy una porción grande del Estado. Soltarla antes de tener la base tributaria y el crecimiento que la sustituyan desfonda el fisco y termina pagándolo el más pobre. Por eso la reconstrucción del contrato fiscal (tributación directa progresiva, [Frente V](frente-05-fiscal.md)) no es un lujo del programa, es la condición para que esta transición sea fiscalmente sostenible, y su preparación arranca desde ya aunque su aprobación espere la mayoría.
+
+Conviene separar las dos cosas que la palabra "extracción" mezcla: la energía es una necesidad física del país y se asegura; la renta es un ingreso del fisco y se reemplaza. Desincentivar la extracción las toca a las dos, pero cada una se maneja distinto, y confundirlas es la vía rápida a la crisis energética o al hueco fiscal.
+
 ## La matriz eléctrica: diversificar, no apostar a una sola fuente
 
 La seguridad energética no depende de encontrar la fuente perfecta, depende de no repetir con la electricidad el mismo error que el país ya reconoce con los fósiles, apostarlo casi todo a una sola cosa. Es la misma autonomía por diversificación que este plan aplica a la política exterior, llevada a la red eléctrica.
