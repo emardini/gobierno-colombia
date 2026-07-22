@@ -169,7 +169,7 @@
         loaded++;
       }
 
-      stripContentLinks();
+      linkifyInternalOnly();
       buildTOC(tocData);
       document.getElementById('status').textContent =
         loaded + ' secciones cargadas. Usa Ctrl+F para buscar en todo el plan, o "Guardar como PDF" arriba.';
@@ -185,10 +185,25 @@
       });
     }
 
-    // "Sin enlaces": todo hipervínculo del cuerpo se vuelve texto plano, para un documento limpio.
-    function stripContentLinks() {
-      document.querySelectorAll('section.doc a').forEach(a => {
-        a.replaceWith(document.createTextNode(a.textContent));
+    // Solo vínculos internos: una referencia a otra sección salta dentro de la página;
+    // cualquier enlace que apunte fuera (externo, mailto, o .md que no está aquí) se vuelve texto plano.
+    function linkifyInternalOnly() {
+      document.querySelectorAll('section.doc').forEach(sec => {
+        const fileURL = new URL(sec.dataset.href, siteRoot);
+        sec.querySelectorAll('a[href]').forEach(a => {
+          const h = a.getAttribute('href') || '';
+          if (h.startsWith('#')) return; // ya es un ancla interna
+          if (!/^(https?:|mailto:)/i.test(h)) {
+            const clean = h.replace(/[#?].*$/, '');
+            if (/\.md$/i.test(clean)) {
+              let abs; try { abs = new URL(clean, fileURL).href; } catch (e) { abs = null; }
+              const rootRel = abs && abs.startsWith(siteRoot.href)
+                ? decodeURIComponent(abs.slice(siteRoot.href.length)) : null;
+              if (rootRel && sectionByPath[rootRel]) { a.href = '#' + sectionByPath[rootRel]; return; }
+            }
+          }
+          a.replaceWith(document.createTextNode(a.textContent)); // apunta fuera: a texto plano
+        });
       });
     }
 

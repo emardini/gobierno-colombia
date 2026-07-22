@@ -24,7 +24,7 @@ Esa tesis es el **núcleo** del proyecto y no se cambia por propuesta. Todo lo d
 
 ## Cómo leerlo
 
-El documento completo está partido en archivos por sección (la fuente de verdad). El documento consolidado en un solo archivo y el Word no se versionan: se *generan* con el build (ver más abajo) y se publican como artefactos y releases en GitHub. Para tenerlos en tu máquina, corre `./build.sh`.
+El plan está partido en archivos por sección dentro de `docs/`, que son la fuente de verdad. En la web puedes leerlo de dos formas: como [sitio navegable](https://emardini.github.io/gobierno-colombia/#/), con barra lateral y buscador, o como [una sola página con todo el contenido](https://emardini.github.io/gobierno-colombia/completo.html), pensada para leer de corrido o guardar en PDF.
 
 ### Fundamentos (núcleo)
 1. [Visión Colombia 2042](docs/01-vision-2042.md), el horizonte de generación
@@ -91,19 +91,9 @@ Esto es un ejercicio intelectual, no una campaña. Su valor no depende de que al
 
 Los análisis jurídicos y fiscales son **análisis de política, no conceptos vinculantes**, y deben confirmarse con asesoría especializada. Las cifras provienen de fuentes oficiales 2025-2026 y están sujetas a revisión.
 
-## Cómo se construye (build)
+## Todo el contenido junto
 
-La fuente de verdad son los archivos de `docs/`. El documento completo (`programa-completo.md`) y el Word (`dist/estado-en-el-territorio.docx`) se *generan* a partir de ellos; no se editan a mano. El orden de las secciones está en [`build/manifest.txt`](build/manifest.txt).
-
-Para construir en tu máquina (requiere `python3` y, para el Word, `pandoc`):
-
-```bash
-./build.sh
-```
-
-Esto une los archivos de `docs/` en el orden del manifiesto, quita los banners de capa, arma `programa-completo.md` y produce el Word. Si añades una sección nueva en `docs/`, agrégala también al manifiesto; el build avisa si un archivo de `docs/` quedó fuera.
-
-En GitHub, el flujo de Actions ([`.github/workflows/build.yml`](.github/workflows/build.yml)) corre el build en cada push y deja el markdown y el Word como *artefactos* descargables. Al publicar una etiqueta de versión (por ejemplo `v1.7`), además crea un *Release* con ambos archivos adjuntos.
+No hay paso de compilación: los archivos de `docs/` son la fuente de verdad y el sitio los arma solo. Si quieres el plan entero en un único lugar, abre [la página de plan completo](completo.html), que reúne todas las secciones en una sola página leyendo los mismos archivos fuente, sin versionar nada generado. Desde ahí, la opción "Guardar como PDF" del navegador produce una copia en PDF si la necesitas.
 
 ## Ver el plan como sitio web
 
