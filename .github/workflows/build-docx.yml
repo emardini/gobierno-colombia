@@ -8,21 +8,17 @@ on:
       - 'scripts/build_markdown.py'
       - '.github/workflows/build-docx.yml'
       - 'CHANGELOG.md'
-
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   build-docs:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4.1.1
-        with:
-          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5.0.0
@@ -32,12 +28,8 @@ jobs:
       - name: Build consolidated markdown
         run: python scripts/build_markdown.py
 
-      - name: Commit and push document
-        if: success()
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add DOCUMENTO-COMPLETO.md
-          git diff --cached --quiet || git commit -m "docs: auto-generate consolidated document"
-          git push origin ${{ github.ref_name }}
+      - name: Upload consolidated document as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: documento-completo
+          path: DOCUMENTO-COMPLETO.md
