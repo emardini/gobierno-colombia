@@ -1,5 +1,6 @@
 - **Inicio**
   - [Presentación del Plan (una página)](presentacion.html)
+  - [Plan completo en una sola página](completo.html)
   - [Introducción completa](README.md)
   - [Mapa: núcleo y ejecución](MAPA-NUCLEO-EJECUCION.md)
 

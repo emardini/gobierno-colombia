@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Estado en el Territorio: plan completo en una página</title>
+  <meta name="description" content="Plan de gobierno para Colombia, todo el contenido en una sola página." />
+  <style>
+    :root { --theme: #1f6f54; --ink: #2c3e50; --muted: #6b7c76; --line: #e3e8e6; --bg-soft: #f4f8f6; }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      color: var(--ink);
+      line-height: 1.7;
+      background: #fff;
+    }
+    header.bar {
+      position: sticky; top: 0; z-index: 10;
+      background: #fff; border-bottom: 1px solid var(--line);
+      display: flex; align-items: center; justify-content: space-between;
+      gap: 1rem; padding: .6rem 1.2rem;
+    }
+    header.bar .title { font-weight: 700; color: var(--theme); font-size: .95rem; }
+    header.bar nav a {
+      color: var(--ink); text-decoration: none; font-size: .82rem;
+      border: 1px solid var(--line); padding: .35rem .7rem; border-radius: 6px; margin-left: .4rem;
+    }
+    header.bar nav a:hover { border-color: var(--theme); color: var(--theme); }
+    .wrap { max-width: 860px; margin: 0 auto; padding: 1.5rem 1.2rem 5rem; }
+    .lead { color: var(--muted); font-size: .9rem; border-left: 4px solid var(--theme); background: var(--bg-soft); padding: .6rem .9rem; border-radius: 0 6px 6px 0; }
+    #toc { margin: 2rem 0 1rem; padding: 1.2rem 1.4rem; background: var(--bg-soft); border: 1px solid var(--line); border-radius: 8px; }
+    #toc h2 { margin: 0 0 .6rem; font-size: 1rem; color: var(--theme); }
+    #toc .grp { margin-top: .8rem; font-size: .72rem; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); font-weight: 700; }
+    #toc ul { list-style: none; margin: .2rem 0 0; padding: 0; column-gap: 2rem; }
+    #toc li { margin: .12rem 0; }
+    #toc a { color: var(--ink); text-decoration: none; font-size: .9rem; }
+    #toc a:hover { color: var(--theme); text-decoration: underline; }
+    h1.group-title {
+      margin: 3.2rem 0 0; padding: .3rem 0 .5rem; color: var(--theme);
+      font-size: 1.05rem; text-transform: uppercase; letter-spacing: .06em;
+      border-bottom: 2px solid var(--theme);
+    }
+    section.doc { scroll-margin-top: 70px; padding: 1rem 0 1.5rem; border-bottom: 1px dashed var(--line); }
+    section.doc h1 { font-size: 1.7rem; color: var(--ink); margin-top: 1.2rem; }
+    section.doc h2 { font-size: 1.3rem; margin-top: 1.8rem; }
+    section.doc h3 { font-size: 1.08rem; }
+    section.doc img { max-width: 100%; height: auto; }
+    a { color: var(--theme); }
+    blockquote { border-left: 4px solid var(--theme); background: var(--bg-soft); margin: 1rem 0; padding: .5rem 1rem; color: #3b4a44; }
+    code { background: #eef2f0; padding: .1em .35em; border-radius: 4px; font-size: .88em; }
+    pre { background: #f6f8fa; padding: 1rem; border-radius: 8px; overflow: auto; }
+    pre code { background: none; padding: 0; }
+    table { border-collapse: collapse; width: 100%; margin: 1rem 0; font-size: .92rem; display: block; overflow-x: auto; }
+    th, td { border: 1px solid var(--line); padding: .5rem .6rem; text-align: left; vertical-align: top; }
+    th { background: var(--bg-soft); }
+    .err { color: #b00020; font-style: italic; }
+    #status { color: var(--muted); font-size: .9rem; margin: 2rem 0; }
+    .toTop { position: fixed; right: 1rem; bottom: 1rem; background: var(--theme); color: #fff; text-decoration: none; padding: .5rem .7rem; border-radius: 50%; font-size: 1rem; box-shadow: 0 2px 8px rgba(0,0,0,.2); }
+    @media print {
+      header.bar, .toTop, #toc .print-hide { display: none !important; }
+      header.bar { position: static; }
+      a { color: var(--ink); text-decoration: none; }
+      section.doc { border: none; page-break-inside: auto; }
+      .lead { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <header class="bar">
+    <span class="title">Estado en el Territorio</span>
+    <nav>
+      <a href="index.html">Sitio navegable</a>
+      <a href="#" onclick="window.print();return false;">Guardar como PDF</a>
+    </nav>
+  </header>
+
+  <div class="wrap">
+    <p class="lead">Todo el plan en una sola página. Se arma en tu navegador a partir de los archivos fuente del repositorio, así que siempre refleja la versión más reciente. Para leerlo como sitio con navegación lateral y buscador, usa el <a href="index.html">sitio navegable</a>.</p>
+    <div id="toc" aria-label="Tabla de contenido"><h2>Contenido</h2><div id="toc-body">Cargando índice…</div></div>
+    <div id="content"></div>
+    <div id="status">Cargando el plan…</div>
+  </div>
+
+  <a class="toTop" href="#" title="Volver arriba">↑</a>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked@12/marked.min.js"></script>
+  <script>
+    // Grupos del sidebar que NO se incluyen en la página única (meta del repositorio).
+    const EXCLUDE_GROUPS = ['Proyecto'];
+    const siteRoot = new URL('.', location.href);
+    const sectionByPath = {};
+
+    const slug = s => s.replace(/[^a-z0-9]+/gi, '-').toLowerCase().replace(/^-|-$/g, '');
+
+    async function main() {
+      let sidebar;
+      try {
+        const r = await fetch('_sidebar.md');
+        if (!r.ok) throw new Error('status ' + r.status);
+        sidebar = await r.text();
+      } catch (e) {
+        document.getElementById('status').innerHTML = '<span class="err">No se pudo leer _sidebar.md: ' + e.message + '</span>';
+        return;
+      }
+
+      const items = [];
+      let group = '';
+      for (const line of sidebar.split('\n')) {
+        let m = line.match(/^-\s+\*\*(.+?)\*\*/);
+        if (m) { group = m[1].trim(); continue; }
+        m = line.match(/^\s+-\s+\[(.+?)\]\((.+?)\)/);
+        if (m) {
+          const text = m[1].trim();
+          let href = m[2].trim();
+          if (EXCLUDE_GROUPS.includes(group)) continue;
+          if (!/\.md(?:[#?]|$)/i.test(href)) continue; // solo markdown (omite presentacion.html)
+          href = href.replace(/[#?].*$/, '');
+          items.push({ group, text, href });
+        }
+      }
+
+      const content = document.getElementById('content');
+      const tocData = [];
+      let lastGroup = null;
+      let loaded = 0;
+
+      for (const it of items) {
+        let md;
+        try {
+          const r = await fetch(it.href);
+          if (!r.ok) throw new Error('status ' + r.status);
+          md = await r.text();
+        } catch (e) {
+          const s = document.createElement('section');
+          s.className = 'doc';
+          s.innerHTML = '<p class="err">No se pudo cargar ' + it.href + ' (' + e.message + ')</p>';
+          content.appendChild(s);
+          continue;
+        }
+
+        const lines = md.split('\n');
+        if (lines[0] && lines[0].startsWith('> **')) lines.shift(); // quita la nota de versión inicial
+        md = lines.join('\n');
+
+        const id = 'sec-' + slug(it.href);
+        sectionByPath[it.href] = id;
+
+        if (it.group !== lastGroup) {
+          const h = document.createElement('h1');
+          h.className = 'group-title';
+          h.id = 'grp-' + slug(it.group);
+          h.textContent = it.group;
+          content.appendChild(h);
+          lastGroup = it.group;
+          tocData.push({ group: it.group, items: [] });
+        }
+
+        const sec = document.createElement('section');
+        sec.className = 'doc';
+        sec.id = id;
+        sec.dataset.href = it.href;
+        sec.innerHTML = marked.parse(md);
+        fixMedia(sec, it.href);
+        content.appendChild(sec);
+
+        tocData[tocData.length - 1].items.push({ text: it.text, id });
+        loaded++;
+      }
+
+      stripContentLinks();
+      buildTOC(tocData);
+      document.getElementById('status').textContent =
+        loaded + ' secciones cargadas. Usa Ctrl+F para buscar en todo el plan, o "Guardar como PDF" arriba.';
+    }
+
+    // Corrige rutas relativas de imágenes al abrirse desde la raíz.
+    function fixMedia(sec, href) {
+      const fileURL = new URL(href, siteRoot);
+      sec.querySelectorAll('img[src]').forEach(img => {
+        const s = img.getAttribute('src');
+        if (/^(https?:|data:|\/)/i.test(s)) return;
+        try { img.src = new URL(s, fileURL).href; } catch (e) {}
+      });
+    }
+
+    // "Sin enlaces": todo hipervínculo del cuerpo se vuelve texto plano, para un documento limpio.
+    function stripContentLinks() {
+      document.querySelectorAll('section.doc a').forEach(a => {
+        a.replaceWith(document.createTextNode(a.textContent));
+      });
+    }
+
+    function buildTOC(tocData) {
+      const body = document.getElementById('toc-body');
+      body.innerHTML = '';
+      tocData.forEach(g => {
+        const label = document.createElement('div');
+        label.className = 'grp';
+        label.textContent = g.group;
+        body.appendChild(label);
+        const ul = document.createElement('ul');
+        g.items.forEach(it => {
+          const li = document.createElement('li');
+          const a = document.createElement('a');
+          a.href = '#' + it.id;
+          a.textContent = it.text;
+          li.appendChild(a);
+          ul.appendChild(li);
+        });
+        body.appendChild(ul);
+      });
+    }
+
+    main();
+  </script>
+</body>
+</html>

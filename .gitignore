@@ -8,7 +8,3 @@
 # o se descargan de los artefactos/releases de GitHub Actions).
 /programa-completo.md
 /dist/
-
-# Consolidado generado por scripts/build_markdown.py
-# (se produce localmente con el script, o se descarga como artefacto de CI)
-/DOCUMENTO-COMPLETO.md
