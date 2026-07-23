@@ -3,3 +3,8 @@
 *.bak
 .DS_Store
 ~$*
+
+# Entregables generados por scripts/build-completo.py
+# (se publican vía GitHub Actions, no se versionan)
+/plan-completo.md
+/completo.html
