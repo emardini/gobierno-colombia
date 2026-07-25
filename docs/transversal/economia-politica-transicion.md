@@ -1,5 +1,6 @@
 > **MIXTO.** El principio de esta sección (una reforma no dura por su diseño técnico, sino por la coalición que crea y por el significado que la gente le atribuye) es núcleo; los instrumentos culturales, las cifras y los casos son ejecución y se discuten con evidencia. Ver [CONTRIBUTING](../../CONTRIBUTING.md).
 
+
 # Economía política de la transición: la coalición y el relato que sostienen el plan
 
 Una objeción frecuente, y justa, es que el plan tiene mucha economía y mucho diseño de mecanismos, y comparativamente poca teoría política. Da por hecho que los mecanismos vencerán la captura, el sabotaje y el cansancio de los gobiernos. Pero un mecanismo no se defiende solo. Lo que defiende a una reforma es una coalición que gana con ella y un relato que la gente reconoce como propio. Esta sección es esa parte: cómo cada reforma construye la base social que la va a proteger, cómo se sostiene el cambio sin fingir una capacidad estatal que no existe, y cómo todo esto evita volverse tecnocracia fría. Los símbolos, la identidad, la narrativa, la cultura y la legitimidad se tratan aquí como instrumentos tan serios como los fiscales.
