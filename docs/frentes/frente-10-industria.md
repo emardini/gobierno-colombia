@@ -22,7 +22,7 @@ En lugar de un frente paralelo a los demás, es la capa de valor agregado que el
 |---|---|---|---|
 | Exportación naval regional | Identificar 10 países con necesidades de patrullaje fluvial; misión comercial Min. Defensa + ProColombia; COTECMAR como proveedor oficial | Min. Defensa + Min. Comercio | Año 1 |
 | Centro MRO aeronáutico | Zona franca de mantenimiento en Bogotá o Medellín; aprovechar certificación FAA | Min. Comercio + CIAC + ProColombia | Años 1-2 |
-| Transferencia tecnológica en defensa | 20% offset mínimo; 10 ingenieros formados por contrato; manufactura local progresiva | Min. Defensa | Año 1 |
+| Transferencia tecnológica en defensa | 20% de compensación industrial (offset) mínima; 10 ingenieros formados por contrato; manufactura local progresiva | Min. Defensa | Año 1 |
 
 **B. APIs farmacéuticos.** Colombia produce 80% de las unidades pero importa 80% de los ingredientes. El cierre lo da el poder de compra del pagador único de salud como primer cliente cautivo.
 
@@ -36,7 +36,7 @@ En lugar de un frente paralelo a los demás, es la capa de valor agregado que el
 
 | Medida | Concreción | Responsable | Plazo |
 |---|---|---|---|
-| Programa nacional antidron | $1B Fase 1 aprobado: 40% a CIAC + privados colombianos certificados; 60% compra externa con transferencia obligatoria | Min. Defensa + CIAC | Año 1 |
+| Programa nacional antidron | $1 billón Fase 1 aprobado: 40% a CIAC + privados colombianos certificados; 60% compra externa con transferencia obligatoria | Min. Defensa + CIAC | Año 1 |
 | Mercado regional | Patentar soluciones; ProColombia abre mercado con Ecuador, Perú, México, Brasil | Min. Defensa + ProColombia | Años 2-4 |
 
 **D. Procesamiento de minerales de transición (níquel, cobre y estratégicos).** Colombia exporta el níquel crudo de Cerro Matoso, y el valor está en los cátodos para baterías de vehículo eléctrico, la cadena que Corea y Japón diversifican fuera de China. La misma lógica aplica al cobre a medida que entren en producción los yacimientos que hoy se licencian (El Alacrán y los que sigan, ver [Frente XV](frente-15-medio-ambiente.md)): no exportar el concentrado crudo, sino procesar y encadenar valor en el país. Con una salvedad de secuencia que no se puede saltar: esto solo es política industrial donde el mineral es legal y el territorio es gobernable. El níquel y el cobre califican; el coltán y las tierras raras no, porque hoy son economía ilegal en zonas que el Estado no controla, así que su eslabón industrial no existe hasta que existan primero la soberanía y la cuantificación de reservas (Frente XV). No se construye una planta sobre un mineral que hoy financia a un grupo armado.

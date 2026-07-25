@@ -11,7 +11,7 @@ Las victorias tempranas no tienen que ser las más grandes, tienen que ser las m
 | 40 concursos directivos abiertos | Los 40 cargos más críticos con la CNSC; nombramientos consumados el 7-ago | Técnicos del Estado y sociedad civil |
 | 3 patrimonios fiduciarios constituidos | Montería, Florencia, Valledupar; firmados el 7-ago | El Año 1 no se pierde organizándose |
 | Licitación dragado Buenaventura abierta | Proceso de 12 meses; abierto en transición = canal listo en Año 2 | Exportadores, sindicato portuario, comunidades |
-| Adjudicación $2.3B La Guajira en 90 días | Estructuración lista jul-2026; meta 500.000 beneficiarios | El hito más simbólico del período |
+| Adjudicación $2,3 billones La Guajira en 90 días | Estructuración lista jul-2026; meta 500.000 beneficiarios | El hito más simbólico del período |
 | APP Río Magdalena desbloqueada | El contrato ya existe; solo destrabar | Exportadores e industria de toda la cuenca |
 
 ## Año 1: Ordenar la casa y activar lo heredado
@@ -23,8 +23,8 @@ Las victorias tempranas no tienen que ser las más grandes, tienen que ser las m
 | Canal del Dique: obras iniciadas | APP adjudicada; beneficia el 80% del PIB de la cuenca |
 | 4G + 5G: todos activos | Contratos ya firmados; solo supervisión |
 | Tumaco: acueducto terminado | El 38% restante + entrega con O&M; conectado con seguridad del nodo |
-| Tren del Caribe: licitación lanzada | $7B; lanzarlo en Año 1 permite adjudicación en Año 2 |
-| **Ley de Régimen de Nodos radicada** | Da piso estatutario a la autoridad del Gerente y consagra el sunset por fracaso |
+| Tren del Caribe: licitación lanzada | $7 billones; lanzarlo en Año 1 permite adjudicación en Año 2 |
+| **Ley de Régimen de Nodos radicada** | Da piso estatutario a la autoridad del Gerente y consagra el caducidad por fracaso |
 
 ## Años 2-4: Resultados que blindan la continuidad
 
@@ -37,8 +37,8 @@ Las victorias tempranas no tienen que ser las más grandes, tienen que ser las m
 | Año 3 | 500.000 personas con agua real en La Guajira | Verificado por DANE y Superservicios |
 | Año 3 | Nodos Ola 1 en Fase 2 | Empleo formal sostenido 12 meses en PILA |
 | Año 4 | ≥100.000 empleos formales netos | Netos, persistentes, con adicionalidad. *Nota de honestidad: esta cifra no sale solo de los 3 nodos de Ola 1; supone Ola 2 activa (3 nodos adicionales, lanzada en Año 2 si el activador se cumple) más las palancas nacionales de formalización del Frente I y XII (rediseño ZOMAC/ZESE, formalización urbana) que no dependen del modelo de nodos. Si Ola 2 no se activa a tiempo, esta meta se revisa a la baja junto con el activador, no se sostiene por decreto* |
-| Año 4 | 5 millones con agua potable real | Plantas operando, medido por Contraloría |
+| Año 4 | Municipios prioritarios de agua entregados y operando (La Guajira, Tumaco, Buenaventura, Quibdó) | Plantas operando, medido por Contraloría; la meta de 5 millones es del horizonte 5-8 años, no del cuatrienio |
 | Año 4 | Sistema multimodal completo | Río + tren + puertos integrados |
-| Año 4 | Informalidad 54% → ≤44% | El número más difícil de falsificar y de revertir |
+| Año 4 | Informalidad nacional en descenso medido (la meta ≤44% es de la Visión 2042, no del cuatrienio) | El número más difícil de falsificar y de revertir |
 
 ---

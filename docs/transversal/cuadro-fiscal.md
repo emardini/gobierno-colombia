@@ -6,7 +6,7 @@ Esta sección es nueva. Responde a la crítica de que el financiamiento descansa
 
 ## Punto de partida
 
-Déficit ~6.4-7% del PIB; deuda hacia el 70%; calificación BB; 1 de cada 3 pesos del presupuesto en intereses.
+Déficit del Gobierno Nacional Central en 6,4% del PIB al cierre de 2025, el más alto en décadas; deuda neta cerca del 60% y en ascenso hacia el 66% al final de la década; calificación crediticia partida (Fitch en BB, S&P en BB- tras la rebaja de abril de 2026, y solo Moody's conserva el grado de inversión en Baa3); cerca de 1 de cada 3 pesos del presupuesto se va en servicio de deuda.
 
 ## Escenario base: sin reforma tributaria
 
@@ -14,10 +14,10 @@ Vive solo de lo que el Ejecutivo controla más directamente. Demuestra que el n�
 
 | Palanca | Mecanismo | Estimación anual | Control |
 |---|---|---|---|
-| Reducción de evasión | Cruce DIAN-PILA-catastro; cobro corto; DIAN técnica | +$10-15B | Ejecutivo + administración tributaria |
-| Eficiencia del gasto | Subsidios regresivos (FEPC), nóminas, lo recuperado por anticorrupción | −$10-15B | Ejecutivo |
-| Ahorro de intereses | Recuperar el ancla fiscal baja la prima de riesgo | −$5-8B | Mercado, vía credibilidad |
-| **Espacio fiscal del escenario base** | | **~$25-38B/año** potencial | |
+| Reducción de evasión | Cruce DIAN-PILA-catastro; cobro corto; DIAN técnica | +$10-15 billones | Ejecutivo + administración tributaria |
+| Eficiencia del gasto | Subsidios regresivos (FEPC), nóminas, lo recuperado por anticorrupción | −$10-15 billones | Ejecutivo |
+| Ahorro de intereses | Recuperar el ancla fiscal baja la prima de riesgo | −$5-8 billones | Mercado, vía credibilidad |
+| **Espacio fiscal del escenario base** | | **~$25-38 billones/año** potencial | |
 
 Con este espacio se financian: los 3 nodos de Ola 1, los Equipos Territoriales, el piso universal, el estándar mínimo de calidad y el costo neto del Servicio Nacional de Vida en su fase temprana. **Ningún compromiso duro del núcleo se construye sobre el dividendo ético ni sobre la reforma tributaria.**
 
@@ -25,7 +25,7 @@ Con este espacio se financian: los 3 nodos de Ola 1, los Equipos Territoriales, 
 
 | Palanca adicional | Mecanismo | Estimación |
 |---|---|---|
-| Ingresos progresivos | Cerrar exenciones a patrimonios altos; gravar dividendos y grandes patrimonios (>$5.000M); sin más carga a la pyme | +$15-20B/año |
+| Ingresos progresivos | Cerrar exenciones a patrimonios altos; gravar dividendos y grandes patrimonios (>$5.000M); sin más carga a la pyme | +$15-20 billones/año |
 
 El escenario ampliado **acelera las olas** y adelanta la universalidad del Servicio, no habilita el núcleo, lo expande.
 
@@ -53,7 +53,7 @@ Hasta aquí el cuadro fiscal solo tenía ingresos y espacio; le faltaba la contr
 | Brigada del Servicio Nacional de Vida (catastro y agua) | Costo ya contabilizado en el Frente XIV, no se duplica aquí | El Servicio aporta mano de obra, no gasto adicional del nodo |
 | **Subtotal Fase 1** | **~$6.000-11.000M/año** | |
 
-**Costo total anualizado del nodo (Fases 0 y 1, primeros 4 años):** entre $19.000M y $31.000M el primer año (con el catastro no recurrente), y entre $6.000M y $11.000M/año en régimen, una vez hecho el catastro. Para los tres nodos de Ola 1, asumiendo escala comparable, el costo total ronda $60.000-90.000M el primer año y $20.000-35.000M/año en régimen. Frente al espacio fiscal del escenario base ($25-38B/año, es decir $25.000.000-38.000.000M), el costo de los tres nodos es una fracción muy pequeña de ese espacio, del orden del 0,1-0,3%. Esto responde directamente al señalamiento externo: **el problema fiscal del programa no está en el costo de los nodos, que es marginal, está en que el escenario base no alcanza a cerrar, además, la senda de déficit que el plan se fija** (ver la reconciliación más abajo).
+**Costo total anualizado del nodo (Fases 0 y 1, primeros 4 años):** entre $19.000M y $31.000M el primer año (con el catastro no recurrente), y entre $6.000M y $11.000M/año en régimen, una vez hecho el catastro. Para los tres nodos de Ola 1, asumiendo escala comparable, el costo total ronda $60.000-90.000M el primer año y $20.000-35.000M/año en régimen. Frente al espacio fiscal del escenario base ($25-38 billones/año, es decir $25.000.000-38.000.000M), el costo de los tres nodos es una fracción muy pequeña de ese espacio, del orden del 0,1-0,3%. Esto responde directamente al señalamiento externo: **el problema fiscal del programa no está en el costo de los nodos, que es marginal, está en que el escenario base no alcanza a cerrar, además, la senda de déficit que el plan se fija** (ver la reconciliación más abajo).
 
 **Retorno fiscal y año de equilibrio.** El nodo se paga a sí mismo por tres vías: el predial post-catastro, que el IGAC estima puede multiplicarse por más de cinco una vez actualizado el avalúo; la formalización laboral vía PILA, que empieza a generar aportes parafiscales y de salud desde el primer empleo formal neto; y el ahorro relativo en gasto de seguridad reactiva a medida que baja el reclutamiento. Con el orden de magnitud de arriba, el punto de equilibrio (cuando el recaudo adicional del nodo iguala su costo anualizado en régimen) se estima entre el año 6 y el año 10 después de terminado el catastro, no antes. Decirlo así, y no "se paga solo" sin plazo, responde a lo que pidió el análisis externo: sigue siendo buena política incluso si el retorno pleno no cabe en un período presidencial, porque la inversión más cara (el catastro) no se repite, y desde el año 1 empieza a generar recaudo creciente aunque no cubra el costo total hasta más adelante.
 
@@ -68,9 +68,9 @@ La versión anterior tenía dos cifras inconsistentes (≤4% en el Frente V y �
 | Año 1 | ≤6% PIB | Ancla fiscal + freno al gasto improductivo |
 | Año 2 | ≤5.5% PIB | Evasión + eficiencia rinden; intereses empiezan a bajar |
 | Año 3 | ≤4.7% PIB | Crecimiento de los nodos + (si pasó) reforma tributaria |
-| Año 4 | ≤4% PIB | Recaudo estructural por crecimiento; grado de inversión en horizonte |
+| Año 4 | ≤4% PIB | Recaudo estructural por crecimiento; senda de vuelta hacia el grado de inversión (hoy solo Moody's lo conserva, S&P y Fitch están dos o tres escalones por debajo) |
 
-**La aritmética completa, sin maquillaje.** Con un PIB nominal del orden de $1.800B, cerrar 2,5 puntos de déficit (de ~6,5% a 4%) equivale a un ajuste de unos $45B. El espacio del escenario base ($25-38B/año) no cierra esa brecha por sí solo, y hay que decirlo con la misma franqueza con que se dice el resto del cuadro: el escenario base no es el ajuste fiscal completo, es la parte que el Ejecutivo controla sin el Congreso. El resto del cierre viene de tres fuentes que este cuadro no cuenta como "espacio nuevo" porque no son palancas discrecionales sino la mecánica misma de la senda: el crecimiento nominal de la economía (que sube el denominador y baja el déficit como proporción sin que nadie tenga que "conseguir" ese dinero), la recomposición del gasto ya presupuestado hacia lo que menos pesa en el corto plazo, y el hecho de que la meta de déficit de cada año se mide sobre un PIB que también creció. Un ajuste de 2,5 puntos en cuatro años, mitad por espacio fiscal nuevo y mitad por crecimiento y composición del gasto, es exigente pero no es la fantasía aritmética que resultaría de pedirle los $45B enteros a las tres palancas del escenario base. Si el crecimiento decepciona, la senda se retrasa, no se abandona, y el stress test de arriba ya lo reconoce.
+**La aritmética completa, sin maquillaje.** Con un PIB nominal del orden de $1.800 billones, cerrar 2,5 puntos de déficit (de ~6,5% a 4%) equivale a un ajuste de unos $45 billones. El espacio del escenario base ($25-38 billones/año) no cierra esa brecha por sí solo, y hay que decirlo con la misma franqueza con que se dice el resto del cuadro: el escenario base no es el ajuste fiscal completo, es la parte que el Ejecutivo controla sin el Congreso. El resto del cierre viene de tres fuentes que este cuadro no cuenta como "espacio nuevo" porque no son palancas discrecionales sino la mecánica misma de la senda: el crecimiento nominal de la economía (que sube el denominador y baja el déficit como proporción sin que nadie tenga que "conseguir" ese dinero), la recomposición del gasto ya presupuestado hacia lo que menos pesa en el corto plazo, y el hecho de que la meta de déficit de cada año se mide sobre un PIB que también creció. Un ajuste de 2,5 puntos en cuatro años, mitad por espacio fiscal nuevo y mitad por crecimiento y composición del gasto, es exigente pero no es la fantasía aritmética que resultaría de pedirle los $45 billones enteros a las tres palancas del escenario base. Si el crecimiento decepciona, la senda se retrasa, no se abandona, y la prueba de resistencia de arriba ya lo reconoce.
 
 ## Prueba de resistencia: qué pasa si las cosas salen peor
 
@@ -78,11 +78,13 @@ La versión anterior tenía dos cifras inconsistentes (≤4% en el Frente V y �
 |---|---|---|
 | Crecimiento 1 pp menor de lo proyectado | Menor recaudo estructural en Años 3-4 | El núcleo no depende del crecimiento alto; las olas siguientes se ralentizan vía el activador por resultado, el diseño ya es contracíclico |
 | El rating no se recupera a tiempo | El ahorro de intereses llega más tarde | El escenario base no presupuesta el ahorro de intereses como financiación de gasto nuevo; es alivio, no fuente |
-| La reforma tributaria no pasa | Sin los +$15-20B/año | Se opera en escenario base; las olas se espacian, pero el núcleo se cumple |
-| Los ahorros de eficiencia del gasto rinden la mitad | $5-7,5B/año menos (mitad de los $10-15B de esa línea) | Esta línea sí es parte del espacio fiscal duro, y su faltante sí afecta la senda: por eso el rango de espacio fiscal se presenta como $25-38B y no como un número único, y las olas siguientes se espacian con el activador por resultado si el recaudo real cae hacia el extremo bajo del rango |
+| La reforma tributaria no pasa | Sin los +$15-20 billones/año | Se opera en escenario base; las olas se espacian, pero el núcleo se cumple |
+| Los ahorros de eficiencia del gasto rinden la mitad | $5-7,5 billones/año menos (mitad de los $10-15 billones de esa línea) | Esta línea sí es parte del espacio fiscal duro, y su faltante sí afecta la senda: por eso el rango de espacio fiscal se presenta como $25-38 billones y no como un número único, y las olas siguientes se espacian con el activador por resultado si el recaudo real cae hacia el extremo bajo del rango |
 | El dividendo ético (empleo por reasignación) rinde menos de lo estimado | Menos empleo reasignado (60.000-97.000 es el rango completo) | El dividendo ético se mide en empleos, no en billones, y ningún compromiso duro del núcleo lo presupuesta como fuente fiscal: es *margen al alza* de cohesión social, no de caja, así que su faltante no descuadra ni el núcleo ni la senda de déficit |
 | Cae el precio o la demanda del petróleo antes de lo previsto | El fisco pierde de golpe una renta de la que hoy depende cerca de la mitad de las exportaciones (ver Frente XV) | No es un riesgo hipotético, es tendencial: se trata como certeza de calendario incierto, no como cisne negro. La hoja de ruta fiscal de la transición (Frente XV) reinvierte de forma trazable la renta fósil que aún entra en diversificación productiva, para que el hueco no aparezca de un día para otro cuando el precio caiga |
 | Un desastre climático mayor (inundación, sequía prolongada) golpea el gasto y el recaudo a la vez | Gasto de emergencia no presupuestado y caída simultánea de recaudo en la zona afectada | El fondo de contingencia de desastres se dimensiona como compromiso duro, no como discrecional de coyuntura, y el criterio de nodo prioriza la reconstrucción sobre municipios ya mapeados por riesgo climático, para no empezar de cero cada vez |
+
+**Un riesgo que este cuadro debe nombrar: el nuevo SGP.** La reforma que sube el Sistema General de Participaciones al 39,5% de los ingresos corrientes (Acto Legislativo 03 de 2024) empieza su rampa en 2027, dentro de este horizonte, y añade una presión fiscal grande, del orden de decenas de billones al año en régimen ([Descentralización](descentralizacion.md)). Este cuadro no la ignora: el plan apoya que esa rampa sea gradual, atada a capacidad y condicionada a la regla fiscal, y trata su costo como parte del ajuste, no como plata aparte. Si el recaudo del escenario base cae hacia el extremo bajo y la rampa del SGP presiona al tiempo, la respuesta es la misma del resto del cuadro: espaciar las olas con el activador por resultado, sin financiar lo permanente con fuentes inciertas.
 
 > El principio que cierra el cuadro: financiar compromisos duros con fuentes blandas es como se desfondan los programas. Aquí, lo duro se financia con lo seguro (escenario base) y lo ambicioso espera a lo incierto (escenario ampliado).
 

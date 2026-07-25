@@ -19,22 +19,15 @@ El 80% de la población vive en ciudades y las ciudades generan el recaudo que f
 | XIV (Servicio Nacional de Vida) | Los jóvenes urbanos salen con certificación técnica y red que cruza regiones, el capital humano de la siguiente generación. |
 | IV (Anticorrupción) | Menos corrupción en contratación reduce el costo de hacer negocios con el Estado para cualquier empresa urbana. |
 
-## 12.2 Las tres intervenciones urbanas que faltan
+## 12.2 Las intervenciones urbanas que faltan
 
-**A. Interoperabilidad del transporte masivo.** Ninguno de los sistemas (TransMilenio, Metro de Medellín, MIO, Transmetro, Metrolínea) se comunica con otro. No es ineficiencia, es una decisión de diseño nunca corregida.
-
-| Medida | Concreción | Costo | Plazo |
-|---|---|---|---|
-| Tarjeta nacional interoperable | Un solo medio de pago válido en todos los sistemas; el sistema interno distribuye ingresos | ~$50-80 mil M; financiable con cargo a los sistemas | Año 1 (estándar), Año 2 (piloto), Año 3 (universal) |
-| Integración tarifaria urbana | Transferencia entre sistemas dentro de 90 min sin segundo tiquete | Impacto fiscal mínimo | Año 1 (ley), Año 2 (impl.) |
-
-**B. Formalización urbana: el modelo de nodos en la periferia urbana.** La informalidad del 54% también está en Ciudad Bolívar, Aguablanca, la periferia de Medellín y los barrios de Barranquilla.
+**A. Formalización urbana: el modelo de nodos en la periferia urbana.** La informalidad del 54% también está en Ciudad Bolívar, Aguablanca, la periferia de Medellín y los barrios de Barranquilla.
 
 | Medida | Barrios objetivo | Empleo formal adicional | Plazo |
 |---|---|---|---|
 | Zonas de Formalización Urbana (ZFU): ventanilla única + incentivo tributario en barrios de informalidad >70% | Ciudad Bolívar, comunas 1-3 (Medellín), Aguablanca, sur de Barranquilla, Soledad | 50.000-80.000, el mayor impacto urbano directo | Año 1 (decreto), 1-4 (impl.) |
 
-**C. Teletrabajo regulado: dividendo de productividad sin costo.** La congestión de Bogotá cuesta ~$15 billones/año. Tres medidas de costo cero: incentivo tributario del 130% para teletrabajo verificable del 20% de la nómina; estándar técnico de conectividad domiciliaria como condición de las concesiones de espectro; y horarios escalonados en entidades del Estado en ciudades de más de 500.000 habitantes.
+**B. Teletrabajo regulado: dividendo de productividad sin costo.** La congestión de Bogotá cuesta ~$15 billones/año. Tres medidas de costo cero: incentivo tributario del 130% para teletrabajo verificable del 20% de la nómina; estándar técnico de conectividad domiciliaria como condición de las concesiones de espectro; y horarios escalonados en entidades del Estado en ciudades de más de 500.000 habitantes.
 
 ## 12.3 Módulo de Productividad Urbana: activar la economía que ya existe
 
@@ -86,17 +79,17 @@ La productividad sube cuando las firmas compiten y cuando sus insumos cuestan me
 
 ### E. Doblar la apuesta sobre los clústeres urbanos que ya existen
 
-Bogotá y Medellín ya tienen clústeres de alta productividad y exportables, software, BPO, salud, industrias creativas, servicios profesionales. Fortalecer lo que ya funciona rinde más que fundar lo nuevo. Es "activar lo que ya se pagó" aplicado al talento urbano.
+Bogotá y Medellín ya tienen clústeres de alta productividad y exportables, software, tercerización de servicios (BPO), salud, industrias creativas, servicios profesionales. Fortalecer lo que ya funciona rinde más que fundar lo nuevo. Es "activar lo que ya se pagó" aplicado al talento urbano.
 
 | Medida | Concreción | Vía jurídica | Plazo |
 |---|---|---|---|
-| Servicios transables como apuesta exportadora | Software, BPO/KPO, servicios profesionales y de salud; misiones comerciales de ProColombia; la visa de nómada digital (12.4) como imán de talento | Decreto + ProColombia | Años 1-4 |
+| Servicios transables como apuesta exportadora | Software, tercerización de procesos de negocio y de conocimiento (BPO/KPO), servicios profesionales y de salud; misiones comerciales de ProColombia; la visa de nómada digital (12.4) como imán de talento | Decreto + ProColombia | Años 1-4 |
 | Profundizar clústeres existentes | Vincular universidad-empresa, capital de riesgo y compra pública alrededor de los clústeres ya formados, en vez de dispersar recursos | Decreto + iNNpulsa + Minciencias | Años 1-4 |
 | Ciudades secundarias como nuevos polos de servicios | Llevar el modelo de clúster de servicios a Bucaramanga, Pereira, Manizales, donde el costo es menor y el talento existe | Decreto + alcaldías | Años 2-4 |
 
 ### F. La ciudad que funciona
 
-La congestión y la fricción urbana son un impuesto directo a la productividad de quien ya trabaja. Las palancas ya están en 12.2 (interoperabilidad del transporte, teletrabajo, formalización urbana); este módulo las reconoce explícitamente como política de productividad, no solo de movilidad.
+La congestión y la fricción urbana son un impuesto directo a la productividad de quien ya trabaja. Las palancas ya están en 12.2 (formalización urbana y teletrabajo); este módulo las reconoce explícitamente como política de productividad, no solo de movilidad.
 
 ### Métricas de productividad (no solo de empleo)
 

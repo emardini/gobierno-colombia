@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | #1 | Dragado de Buenaventura (canal 12.5m → 14-15m) | Recupera carga perdida a Ecuador; activa 63% de capacidad sin usar | ~$500-800 mil M | 12 meses |
 | #2 | APP Río Magdalena + Canal del Dique (desbloquear lo adjudicado) | −50.4% costos logísticos Bogotá-Caribe; 80% del PIB en la cuenca | APP privado, sin presupuesto nuevo | 18-24 meses |
-| #3 | Ferrocarril La Dorada-Chiriguaná + Tren del Caribe ($7B, listo para licitar) | Multimodal completo; 13.7M ton/año; 4.5M habitantes | $7B (Tren Caribe); La Dorada ya adjudicado | Licitar Año 1-2 |
+| #3 | Ferrocarril La Dorada-Chiriguaná + Tren del Caribe ($7 billones, listo para licitar) | Multimodal completo; 13.7M ton/año; 4.5M habitantes | $7 billones (Tren Caribe); La Dorada ya adjudicado | Licitar Año 1-2 |
 | #4 | Red de transmisión eléctrica para renovables | −20-30% tarifas industriales; habilita nodos agroindustriales | Cargo a tarifa regulada; sin presupuesto | 12-18 meses |
 | #5 | Completar 4G + destrabar 6 proyectos 5G en construcción | 30% reducción tiempos; 20% costos operativos | Contratos ya firmados; solo supervisión | Inmediato |
 
