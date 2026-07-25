@@ -29,6 +29,7 @@ def parse_sidebar(text):
             if group in EXCLUDE_GROUPS: continue
             if not re.search(r'\.md($|[#?])', href, re.I): continue
             href = re.sub(r'[#?].*$', '', href)
+            href = href.lstrip('/')  # el sidebar usa rutas absolutas del sitio; el filesystem las quiere relativas al repo
             items.append((group, title, href))
     return items
 
