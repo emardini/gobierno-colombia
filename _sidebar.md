@@ -1,6 +1,6 @@
 - **Inicio**
-  - [Presentación del Plan (una página)](presentacion.html)
-  - [Plan completo en una sola página](completo.html)
+  - [Presentación del Plan (una página)](https://emardini.github.io/gobierno-colombia/presentacion.html)
+  - [Plan completo en una sola página](https://emardini.github.io/gobierno-colombia/completo.html)
   - [Resumen ejecutivo](/docs/resumen-ejecutivo.md)
   - [Introducción completa](/README.md)
   - [Mapa: núcleo y ejecución](/MAPA-NUCLEO-EJECUCION.md)

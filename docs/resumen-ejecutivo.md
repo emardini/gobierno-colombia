@@ -1,6 +1,6 @@
 # Estado en el Territorio: resumen ejecutivo
 
-> **RESUMEN.** Síntesis del plan para lectura rápida. El desarrollo completo, las cifras con su fuente y los matices están en cada sección enlazada. Si algo aquí y el detalle difieren, manda el detalle. El plan completo, todo en una página, está en [completo.html](../completo.html).
+> **RESUMEN.** Síntesis del plan para lectura rápida. El desarrollo completo, las cifras con su fuente y los matices están en cada sección enlazada. Si algo aquí y el detalle difieren, manda el detalle. El plan completo, todo en una página, está en [completo.html](https://emardini.github.io/gobierno-colombia/completo.html).
 
 ## La tesis en breve
 
@@ -136,4 +136,4 @@ El sentido patrio no se decreta, es el efecto de un Estado que cumple. Un patrio
 
 ---
 
-*Este resumen es una síntesis. El anexo Colombia Viva y otras ideas quedan fuera del núcleo, como exploraciones. Para el desarrollo completo de cualquier punto, sigue el enlace de su sección o abre el [plan completo](../completo.html).*
+*Este resumen es una síntesis. El anexo Colombia Viva y otras ideas quedan fuera del núcleo, como exploraciones. Para el desarrollo completo de cualquier punto, sigue el enlace de su sección o abre el [plan completo](https://emardini.github.io/gobierno-colombia/completo.html).*

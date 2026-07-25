@@ -8,7 +8,7 @@ Este repositorio contiene un plan de gobierno completo para Colombia. No es el m
 
 Se publica en abierto por una razón simple: como no hay nada electoral que proteger, lo único en juego es si las ideas son buenas. Eso permite exponer el plan entero al escrutinio y dejar que la realidad lo corrija a la vista de todos.
 
-> **¿Prefieres verlo antes de leerlo?** [Presentación del Plan](presentacion.html): un resumen visual de una página, pensado para quien nunca ha oído hablar de esto.
+> **¿Prefieres verlo antes de leerlo?** [Presentación del Plan](https://emardini.github.io/gobierno-colombia/presentacion.html): un resumen visual de una página, pensado para quien nunca ha oído hablar de esto.
 
 ---
 
@@ -93,7 +93,7 @@ Los análisis jurídicos y fiscales son **análisis de política, no conceptos v
 
 ## Todo el contenido junto
 
-No hay paso de compilación: los archivos de `docs/` son la fuente de verdad y el sitio los arma solo. Si quieres el plan entero en un único lugar, abre [la página de plan completo](completo.html), que reúne todas las secciones en una sola página leyendo los mismos archivos fuente, sin versionar nada generado. Desde ahí, la opción "Guardar como PDF" del navegador produce una copia en PDF si la necesitas.
+No hay paso de compilación: los archivos de `docs/` son la fuente de verdad y el sitio los arma solo. Si quieres el plan entero en un único lugar, abre [la página de plan completo](https://emardini.github.io/gobierno-colombia/completo.html), que reúne todas las secciones en una sola página leyendo los mismos archivos fuente, sin versionar nada generado. Desde ahí, la opción "Guardar como PDF" del navegador produce una copia en PDF si la necesitas.
 
 ## Ver el plan como sitio web
 
