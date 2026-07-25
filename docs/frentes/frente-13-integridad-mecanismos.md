@@ -91,8 +91,8 @@ Los datos 2025-2026: Colombia cayó al puesto 99 del IPC; la Contraloría tiene 
 
 | Modalidad | Cómo opera | Magnitud | Dónde golpea al programa |
 |---|---|---|---|
-| Intermediación forzada en regalías y SGP | "Comisiones" del 6-15% para que el proyecto pase por el OCAD | $500B-1.5B/año | Frentes I, II, XI: el paquete de bienes públicos llega con el recorte aplicado |
-| Empresa ejecutora con acceso político (modelo Aremca) | Captura contratación sin capacidad real, cobra anticipos, desaparece | $496B (caso Aremca) | Frentes I, XI: grandes contratos en territorios con supervisión débil |
+| Intermediación forzada en regalías y SGP | "Comisiones" del 6-15% para que el proyecto pase por el OCAD | entre $500 mil millones y $1,5 billones al año | Frentes I, II, XI: el paquete de bienes públicos llega con el recorte aplicado |
+| Empresa ejecutora con acceso político (modelo Aremca) | Captura contratación sin capacidad real, cobra anticipos, desaparece | $496 mil millones (caso Aremca) | Frentes I, XI: grandes contratos en territorios con supervisión débil |
 | Obra abandonada o subdimensionada | Se inicia y no se termina o con materiales inferiores; la supervisión local no existe o está capturada | 61% de obras auditadas con irregularidades | Frente XI: las plantas de agua (39% no funciona) |
 | Nómina paralela y clientelismo | Recursos de funcionamiento para personas que no trabajan o trabajan para la campaña | 15-25% del funcionamiento en categorías 4 y 5 | Frente VIII: la asistencia técnica puede ser capturada sin línea de reporte independiente |
 

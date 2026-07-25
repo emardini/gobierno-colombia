@@ -4,6 +4,8 @@
 
 **Metas:** homicidios de ~26 a ≤18/100.000 en 4 años; coca −30% en 4 años; cero falsos positivos; frenar la fuga de talento militar y volver codiciada la carrera de las armas; reforma de la Ley 1621 con autorización judicial previa; y capacidad propia de contrainteligencia y ciberdefensa, con reintegro a la red Egmont.
 
+> **Nota de alcance.** Este frente es de seguridad territorial y soberanía: grupos armados, coca, fuerza pública, inteligencia. El delito urbano cotidiano que vive la mayoría (hurto, atraco, extorsión y gota a gota, microtráfico, estafa digital, violencia intrafamiliar) se trata en su sección propia, [Seguridad ciudadana](../transversal/seguridad-ciudadana.md).
+
 ## III.1 Estrategia de control territorial
 
 Reencuadre: no "línea dura vs. negociación". La restricción que ata es **control territorial + desmonte de economías ilegales**. Fuerza, negociación y sometimiento son herramientas subordinadas a ese fin.

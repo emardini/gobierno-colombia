@@ -119,9 +119,9 @@ La estrategia consiste en redirigir lo que ya se gasta y eliminar fricciones, no
 
 | Instrumento | Concreción | Costo fiscal | Impacto | Plazo |
 |---|---|---|---|---|
-| Visa de nómada digital | 1-2 años para trabajadores remotos extranjeros; 100% digital en 5 días; sin cuota de empleo nacional | ~$5-10B | 50.000 nómadas = $150-400M USD/año en divisas (modelo Costa Rica, Portugal, México) | Decreto Año 1 |
-| Certificación de guías en los nodos (SENA + ProColombia) | Programa bilingüe de 6 meses por nodo (Sinú, selva amazónica del Caquetá, Sierra Nevada del Cesar) | $15-25B (presupuesto SENA existente) | 500-1.000 guías/nodo; descongestiona los tres destinos | Fase 1 |
-| Marcas territoriales de nodos | "Caquetá Salvaje", "Caribe Profundo", "Valles del Cesar", propiedad de cooperativas locales, promovidas por ProColombia | $30-50B (presupuesto ProColombia redirigido) | De 3 a 8-10 destinos con reconocimiento internacional en 4 años | Años 1-4 |
+| Visa de nómada digital | 1-2 años para trabajadores remotos extranjeros; 100% digital en 5 días; sin cuota de empleo nacional | ~$5-10 mil millones | 50.000 nómadas = $150-400 millones USD/año en divisas (modelo Costa Rica, Portugal, México) | Decreto Año 1 |
+| Certificación de guías en los nodos (SENA + ProColombia) | Programa bilingüe de 6 meses por nodo (Sinú, selva amazónica del Caquetá, Sierra Nevada del Cesar) | $15-25 mil millones (presupuesto SENA existente) | 500-1.000 guías/nodo; descongestiona los tres destinos | Fase 1 |
+| Marcas territoriales de nodos | "Caquetá Salvaje", "Caribe Profundo", "Valles del Cesar", propiedad de cooperativas locales, promovidas por ProColombia | $30-50 mil millones (presupuesto ProColombia redirigido) | De 3 a 8-10 destinos con reconocimiento internacional en 4 años | Años 1-4 |
 | Turismo interno que descongestione | Deducción 120% para congresos en ciudades secundarias; 30% de descuento aéreo a destinos de nodos en temporada baja (cargo a aerolíneas) | Mínimo | Distribuye ingresos hacia los nodos; el colombiano como primer turista de los nuevos destinos | Año 1 |
 | Formalización de la cadena turística | Registro obligatorio de plataformas en la DIAN con retención en la fuente; Fondo de competitividad con el 1% de las transacciones de plataformas externas | Cero costo fiscal | Recupera $80-120M USD/año; capitaliza a operadores locales | Ley/Decreto Año 1 |
 

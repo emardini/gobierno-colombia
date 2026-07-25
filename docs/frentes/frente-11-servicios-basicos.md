@@ -33,11 +33,11 @@ La ESEPGUA en La Guajira: de 1% a 30% de cobertura rural en Uribia en un año; m
 |---|---|---|---|---|
 | Buenaventura | $274.719M en vigencias futuras 2026-2029; 11 proyectos; crisis activa (carros tanque abril 2026) | $274.719M + operación | Ejecutar 100% (histórico 22%); EOC; viaducto Río Dagua prioridad Año 1 | 150-250 |
 | Tumaco | Acueducto al 62% (sept. 2025), Banco Mundial + Fondo PAZcífico | ~$80 mil millones + operación | Terminar el 38% en Año 1; entregar con O&M; conectar con seguridad del nodo | 80-120 |
-| La Guajira (Uribia, Manaure, Maicao, Riohacha) | 136 obras Plan Wüin Ülees; solución estructural $2,3 mil millones lista jul-2026; 4 desalinizadoras | $2,3 mil millones + O&M | Adjudicar en primeros 90 días; replicar ESEPGUA; 500.000 beneficiarios | 600-1.000 |
-| Quibdó + Condoto | CONPES 42 proyectos $1,14 mil millones 2026-2028; ESP de Quibdó en quiebra | Parte del $1,14 mil millones | Rescatar/reemplazar la ESP con EOC; captación pluvial rural | 100-180 |
+| La Guajira (Uribia, Manaure, Maicao, Riohacha) | 136 obras Plan Wüin Ülees; solución estructural $2,3 billones lista jul-2026; 4 desalinizadoras | $2,3 billones + O&M | Adjudicar en primeros 90 días; replicar ESEPGUA; 500.000 beneficiarios | 600-1.000 |
+| Quibdó + Condoto | CONPES 4165 de 2025: 42 proyectos nacionales por $1,14 billones (2026-2028), con Quibdó y Condoto incluidos; ESP de Quibdó en quiebra | Parte del CONPES de $1,14 billones | Rescatar/reemplazar la ESP con EOC; captación pluvial rural | 100-180 |
 | Litoral Pacífico remoto | Sin infraestructura convencional posible; población dispersa | $50-80 mil millones | Captación pluvial + biosand + UV solar; 5.000-10.000 personas | 200-400 (parcial) |
 | Sur de Bolívar + Montes de María | No en CONPES; cobertura rural <40%; zona de paz consolidable | $120-200 mil millones | 3 municipios en expansión Año 2; sinergia con Tren del Caribe y nodo Córdoba | 120-200 |
-| Putumayo (Mocoa, Puerto Asís, La Hormiga) | Mocoa en CONPES; resto sin solución; obras inconclusas (avalancha 2017) | Parte $1,14 mil millones + $80 mil millones | Vincular el agua con sustitución de coca: es parte de la estrategia antidrogas | 100-160 |
+| Putumayo (Mocoa, Puerto Asís, La Hormiga) | Mocoa en CONPES; resto sin solución; obras inconclusas (avalancha 2017) | Parte del CONPES de $1,14 billones + $80 mil millones | Vincular el agua con sustitución de coca: es parte de la estrategia antidrogas | 100-160 |
 
 ## 11.4 Tecnologías por contexto
 

@@ -39,6 +39,7 @@
   - [Política exterior: interés nacional, autonomía y principios](docs/transversal/politica-exterior.md)
   - [La dimensión deliberativa: legitimidad, participación y reconciliación](docs/transversal/dimension-deliberativa.md)
   - [Descentralización y competencias](docs/transversal/descentralizacion.md)
+  - [Seguridad ciudadana urbana](docs/transversal/seguridad-ciudadana.md)
 
 - **Cierre**
   - [Secuencia de gobierno](docs/cierre/secuencia-gobierno.md)
