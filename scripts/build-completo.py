@@ -146,7 +146,19 @@ pre{background:#f6f8fa;padding:1rem;border-radius:8px;overflow:auto}pre code{bac
 table{border-collapse:collapse;width:100%;margin:1rem 0;font-size:.92rem;display:block;overflow-x:auto}
 th,td{border:1px solid var(--line);padding:.5rem .6rem;text-align:left;vertical-align:top}th{background:var(--soft)}
 .toTop{position:fixed;right:1rem;bottom:1rem;background:var(--theme);color:#fff;text-decoration:none;padding:.5rem .7rem;border-radius:50%;box-shadow:0 2px 8px rgba(0,0,0,.2)}
-@media print{header.bar,.toTop{display:none}.lead{display:none}a{color:var(--ink);text-decoration:none}section.doc{border:none}}
+@media print{
+  @page{size:A4;margin:15mm}
+  header.bar,.toTop,.lead{display:none}
+  .wrap{max-width:none;width:auto;margin:0;padding:0}
+  #content,section.doc{width:auto}
+  a{color:var(--ink);text-decoration:none}
+  section.doc{border:none}
+  h1.group-title,section.doc h1,section.doc h2,section.doc h3{break-after:avoid}
+  #toc{break-after:page}
+  table{display:table;width:100%;table-layout:fixed;overflow:visible;font-size:.72rem}
+  th,td{overflow-wrap:anywhere;word-break:break-word}
+  pre{white-space:pre-wrap;word-break:break-word}
+}
 """
 
 def build_html(items):
