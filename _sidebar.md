@@ -35,6 +35,7 @@
   - [Fundamentos de investigación](docs/transversal/fundamentos-investigacion.md)
   - [Productividad y competitividad](docs/transversal/productividad-competitividad.md)
   - [Plataforma de trazabilidad del gasto](docs/transversal/plataforma-trazabilidad.md)
+  - [Desmantelamiento de economías ilegales](docs/transversal/desmantelamiento-economias-ilegales.md)
   - [Comunicación pública y derecho a la información](docs/transversal/comunicacion-publica.md)
   - [Política exterior: interés nacional, autonomía y principios](docs/transversal/politica-exterior.md)
   - [La dimensión deliberativa: legitimidad, participación y reconciliación](docs/transversal/dimension-deliberativa.md)

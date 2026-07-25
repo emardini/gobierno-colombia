@@ -86,7 +86,7 @@ Y el orden de despliegue lo manda el dato, no el dolor: se empieza por los domin
 
 Salud merece una salvedad de fondo, porque sus datos son clínicos y personales, los más sensibles que existen. En contratación, cruzar quién le ganó qué a quién es información que debería ser pública. En salud, cruzar la facturación de un paciente roza su historia clínica, donde el habeas data y la reserva médica no son un trámite sino un derecho. La diferencia entre cazar al cartel de los recobros y vigilar al enfermo está en el diseño: trabajar sobre datos agregados y de facturación, no sobre diagnósticos individuales; anonimizar donde se pueda; y mantener al operador independiente y auditable. El mismo cuidado de los límites de abajo, subido de nivel porque el dato es más íntimo.
 
-![Diagrama de la plataforma de integridad: los módulos por dominio (contratación, salud, subsidios, nómina, PAE) alimentan un motor común de detección, que produce alertas con dos salidas, la territorial que congela el desembolso y la nacional que alimenta la Unidad de Macrocorrupción.](img/herramienta-integridad.png)
+![Diagrama de la plataforma de integridad: los módulos por dominio (contratación, salud, subsidios, nómina, PAE) alimentan un motor común de detección, que produce alertas con dos salidas, la territorial que congela el desembolso y la nacional que alimenta la Unidad de Macrocorrupción.](../img/herramienta-integridad.png)
 
 ### Quién la maneja, para que no se vuelva un arma política
 

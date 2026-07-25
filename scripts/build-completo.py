@@ -45,19 +45,59 @@ def resolve_root(dirp, target):
     return os.path.normpath(os.path.join(dirp, target)).replace(os.sep, '/')
 
 # ---------- Markdown consolidado ----------
+def fix_md_frag(body, href, secmap):
+    """Reescribe enlaces del cuerpo Markdown para que el archivo consolidado no
+    tenga enlaces rotos: las imágenes relativas (que no existen en un solo
+    archivo) se reducen a su texto alternativo; los enlaces a otra sección del
+    propio documento se vuelven anclas internas; y cualquier enlace que apunte
+    fuera del documento se deja como texto plano. Solo se conservan los enlaces
+    externos (http, mailto) y las anclas que ya empiezan por '#'."""
+    dirp = os.path.dirname(href)
+    def img_repl(m):
+        alt, src = m.group(1), m.group(2)
+        if re.match(r'^(https?:|data:|/)', src):
+            return m.group(0)
+        return '![%s](%s)' % (alt, resolve_root(dirp, src))
+    body = re.sub(r'!\[([^\]]*)\]\(([^)]+)\)', img_repl, body)
+    def a_repl(m):
+        label, h = m.group(1), m.group(2)
+        if h.startswith('#') or re.match(r'^(https?:|mailto:)', h):
+            return m.group(0)
+        clean = re.sub(r'[#?].*$', '', h)
+        if re.search(r'\.md$', clean, re.I):
+            rr = resolve_root(dirp, clean)
+            if rr in secmap:
+                return '[%s](#%s)' % (label, secmap[rr])
+            return label
+        return label
+    return re.sub(r'(?<!\!)\[([^\]]+)\]\(([^)]+)\)', a_repl, body)
+
+
 def build_md(items):
+    secmap = {href: sec_id(href) for _, _, href in items if os.path.exists(href)}
     out = ['# Estado en el Territorio', '',
            'Plan de gobierno de autor para Colombia. Todo el contenido en un solo '
            'archivo, generado desde los archivos de `docs/`. Versión navegable: ' + SITE, '',
            f'_Generado el {datetime.date.today().isoformat()}. No editar a mano: '
            'la fuente son los archivos de `docs/`._', '']
+    # Índice con anclas internas
+    out += ['## Contenido', '']
+    last = None
+    for group, title, href in items:
+        if href not in secmap: continue
+        if group != last:
+            out += ['', f'**{group}**', '']; last = group
+        out.append('- [%s](#%s)' % (title, secmap[href]))
+    out += ['']
+    # Cuerpo
     last, missing = None, []
     for group, title, href in items:
         if not os.path.exists(href):
             missing.append(href); continue
         if group != last:
             out += ['', f'# {group}', '']; last = group
-        out += [read_body(href), '', '---', '']
+        out += ['<a id="%s"></a>' % secmap[href], '',
+                fix_md_frag(read_body(href), href, secmap), '', '---', '']
     open(OUT_MD, 'w', encoding='utf-8').write('\n'.join(out).rstrip() + '\n')
     return missing
 
