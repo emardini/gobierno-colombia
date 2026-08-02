@@ -26,7 +26,7 @@ La razón de que entren juntas es el corazón del modelo: cada una hace funciona
 
 Un nodo no es permanente. Avanza por fases y se gradúa. Primero entra la seguridad y la presencia básica del Estado (tropa, juez, médico y maestro llegan en semanas, no en años). Luego se activan la economía y los servicios. Cuando el empleo formal se sostiene y el municipio empieza a sostenerse solo, el nodo se gradúa: la inversión y la infraestructura quedan, el equipo del Estado se recicla hacia el siguiente municipio. No se abandona el lugar, se vuelve autosuficiente.
 
-Y aquí está la regla que protege al modelo de la politiquería: **la expansión la dispara el resultado, no el calendario ni el favor político**. No se abre un nodo nuevo porque toca o porque conviene a alguien, sino cuando el anterior demuestra, con datos públicos y verificables, que funcionó. El gobierno que no saca adelante los primeros nodos no puede abrir los siguientes.
+Y aquí está la regla que protege al modelo de la politiquería: **la expansión la dispara el resultado, no el calendario ni el favor político**. No se abre un nodo nuevo porque toca o porque conviene a alguien, sino cuando el anterior demuestra, con datos públicos y verificables, que funcionó. El gobierno que no saca adelante los primeros nodos no puede abrir los siguientes. Cómo escala esa expansión, hasta dónde llega y qué convierte a los nodos sueltos en un país conectado se desarrolla en [La expansión](../transversal/expansion-y-cobertura.md).
 
 ### Qué NO es un nodo
 

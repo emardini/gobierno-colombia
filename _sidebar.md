@@ -43,6 +43,7 @@
   - [Economía política de la transición: coalición, cultura y legitimidad](/docs/transversal/economia-politica-transicion.md)
   - [Descentralización y competencias](/docs/transversal/descentralizacion.md)
   - [Seguridad ciudadana urbana](/docs/transversal/seguridad-ciudadana.md)
+  - [La expansión: cómo el modelo cubre el país](/docs/transversal/expansion-y-cobertura.md)
 
 - **Cierre**
   - [Secuencia de gobierno](/docs/cierre/secuencia-gobierno.md)
